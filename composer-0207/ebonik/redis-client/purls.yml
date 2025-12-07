@@ -1,0 +1,2 @@
+- pkg:composer/ebonik/redis-client@v0.3
+- pkg:composer/ebonik/redis-client@v0.4

@@ -1,0 +1,4 @@
+- pkg:composer/dynamic/silverstripe-jobs@1.0.0
+- pkg:composer/dynamic/silverstripe-jobs@1.0.1
+- pkg:composer/dynamic/silverstripe-jobs@2.0.0
+- pkg:composer/dynamic/silverstripe-jobs@3.0.0

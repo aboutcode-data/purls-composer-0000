@@ -1,0 +1,5 @@
+- pkg:composer/fiasco/cloud-api-sdk-php@0.1
+- pkg:composer/fiasco/cloud-api-sdk-php@0.2
+- pkg:composer/fiasco/cloud-api-sdk-php@0.3
+- pkg:composer/fiasco/cloud-api-sdk-php@0.4
+- pkg:composer/fiasco/cloud-api-sdk-php@2.0

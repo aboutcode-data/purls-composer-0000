@@ -1,0 +1,10 @@
+- pkg:composer/finc/symfony-serializer-zend-bridge@v0.0.1
+- pkg:composer/finc/symfony-serializer-zend-bridge@v0.0.1.1
+- pkg:composer/finc/symfony-serializer-zend-bridge@v0.0.2
+- pkg:composer/finc/symfony-serializer-zend-bridge@v0.0.2.1
+- pkg:composer/finc/symfony-serializer-zend-bridge@v0.0.3
+- pkg:composer/finc/symfony-serializer-zend-bridge@v1.0.0
+- pkg:composer/finc/symfony-serializer-zend-bridge@v1.0.1
+- pkg:composer/finc/symfony-serializer-zend-bridge@v1.0.2
+- pkg:composer/finc/symfony-serializer-zend-bridge@v2.0.0
+- pkg:composer/finc/symfony-serializer-zend-bridge@v2.1.0

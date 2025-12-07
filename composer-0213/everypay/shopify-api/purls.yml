@@ -1,0 +1,10 @@
+- pkg:composer/everypay/shopify-api@0.0.1
+- pkg:composer/everypay/shopify-api@0.0.1-alpha
+- pkg:composer/everypay/shopify-api@0.0.2
+- pkg:composer/everypay/shopify-api@0.0.2-alpha
+- pkg:composer/everypay/shopify-api@v1.0.0
+- pkg:composer/everypay/shopify-api@v1.0.1
+- pkg:composer/everypay/shopify-api@v2.0.0
+- pkg:composer/everypay/shopify-api@v2.0.1
+- pkg:composer/everypay/shopify-api@v3.0.0
+- pkg:composer/everypay/shopify-api@v3.0.1

@@ -1,0 +1,4 @@
+- pkg:composer/errorstream/errorstream-monolog@1.0
+- pkg:composer/errorstream/errorstream-monolog@1.1
+- pkg:composer/errorstream/errorstream-monolog@1.2
+- pkg:composer/errorstream/errorstream-monolog@1.3

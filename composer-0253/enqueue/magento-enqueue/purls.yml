@@ -1,0 +1,4 @@
+- pkg:composer/enqueue/magento-enqueue@0.3.0
+- pkg:composer/enqueue/magento-enqueue@0.3.1
+- pkg:composer/enqueue/magento-enqueue@0.8.0
+- pkg:composer/enqueue/magento-enqueue@0.8.1

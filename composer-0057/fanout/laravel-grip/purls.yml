@@ -1,0 +1,3 @@
+- pkg:composer/fanout/laravel-grip@1.0.0
+- pkg:composer/fanout/laravel-grip@2.0.0
+- pkg:composer/fanout/laravel-grip@v2.1.0

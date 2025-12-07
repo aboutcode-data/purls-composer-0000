@@ -1,0 +1,14 @@
+- pkg:composer/easyengine/cron-command@v1.0.0
+- pkg:composer/easyengine/cron-command@v1.0.0-beta.1
+- pkg:composer/easyengine/cron-command@v1.0.0-beta.2
+- pkg:composer/easyengine/cron-command@v1.0.0-beta.3
+- pkg:composer/easyengine/cron-command@v1.0.0-rc.1
+- pkg:composer/easyengine/cron-command@v1.0.0-rc.2
+- pkg:composer/easyengine/cron-command@v1.0.1
+- pkg:composer/easyengine/cron-command@v1.0.2
+- pkg:composer/easyengine/cron-command@v1.1.0
+- pkg:composer/easyengine/cron-command@v1.2.0
+- pkg:composer/easyengine/cron-command@v2.0.0
+- pkg:composer/easyengine/cron-command@v2.0.1
+- pkg:composer/easyengine/cron-command@v2.0.2
+- pkg:composer/easyengine/cron-command@v2.1.0

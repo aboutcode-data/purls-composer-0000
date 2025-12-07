@@ -1,0 +1,3 @@
+- pkg:composer/fbs/riak-client-pb@v1.0-beta
+- pkg:composer/fbs/riak-client-pb@v1.0.0
+- pkg:composer/fbs/riak-client-pb@v1.0.1

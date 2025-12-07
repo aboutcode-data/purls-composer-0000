@@ -1,0 +1,5 @@
+- pkg:composer/dvsa/mot-cpms-client@v1.0.0
+- pkg:composer/dvsa/mot-cpms-client@v1.1.0
+- pkg:composer/dvsa/mot-cpms-client@v2.0.0
+- pkg:composer/dvsa/mot-cpms-client@v3.0.0
+- pkg:composer/dvsa/mot-cpms-client@v3.1.0

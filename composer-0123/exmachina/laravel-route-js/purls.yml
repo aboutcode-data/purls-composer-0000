@@ -1,0 +1,5 @@
+- pkg:composer/exmachina/laravel-route-js@v0.2-alpha
+- pkg:composer/exmachina/laravel-route-js@v0.3-alpha
+- pkg:composer/exmachina/laravel-route-js@v0.4-alpha
+- pkg:composer/exmachina/laravel-route-js@v1.0
+- pkg:composer/exmachina/laravel-route-js@v1.1.0

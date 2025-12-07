@@ -1,0 +1,4 @@
+- pkg:composer/fas/example@0.1.0
+- pkg:composer/fas/example@1.0.1
+- pkg:composer/fas/example@1.1.0
+- pkg:composer/fas/example@v1.0.0

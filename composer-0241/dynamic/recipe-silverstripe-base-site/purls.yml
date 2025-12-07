@@ -1,0 +1,12 @@
+- pkg:composer/dynamic/recipe-silverstripe-base-site@1.0.0
+- pkg:composer/dynamic/recipe-silverstripe-base-site@1.1.0
+- pkg:composer/dynamic/recipe-silverstripe-base-site@1.1.1
+- pkg:composer/dynamic/recipe-silverstripe-base-site@2.0.0
+- pkg:composer/dynamic/recipe-silverstripe-base-site@2.0.0-alpha1
+- pkg:composer/dynamic/recipe-silverstripe-base-site@3.0.0
+- pkg:composer/dynamic/recipe-silverstripe-base-site@4.0.0
+- pkg:composer/dynamic/recipe-silverstripe-base-site@4.0.1
+- pkg:composer/dynamic/recipe-silverstripe-base-site@4.0.2
+- pkg:composer/dynamic/recipe-silverstripe-base-site@4.1.0
+- pkg:composer/dynamic/recipe-silverstripe-base-site@5.0.0
+- pkg:composer/dynamic/recipe-silverstripe-base-site@5.1.0

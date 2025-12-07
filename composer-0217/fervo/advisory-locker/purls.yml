@@ -1,0 +1,4 @@
+- pkg:composer/fervo/advisory-locker@1.1.0
+- pkg:composer/fervo/advisory-locker@1.2.0
+- pkg:composer/fervo/advisory-locker@1.2.1
+- pkg:composer/fervo/advisory-locker@v1.0.0

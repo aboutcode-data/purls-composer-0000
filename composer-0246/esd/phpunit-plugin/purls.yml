@@ -1,0 +1,5 @@
+- pkg:composer/esd/phpunit-plugin@0.1
+- pkg:composer/esd/phpunit-plugin@0.5
+- pkg:composer/esd/phpunit-plugin@0.6
+- pkg:composer/esd/phpunit-plugin@0.7
+- pkg:composer/esd/phpunit-plugin@0.8

@@ -1,0 +1,2 @@
+- pkg:composer/effilib/laravel-restrict-ip-middleware@1.0.1
+- pkg:composer/effilib/laravel-restrict-ip-middleware@1.0.2

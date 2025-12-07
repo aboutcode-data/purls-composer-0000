@@ -1,0 +1,3 @@
+- pkg:composer/evertramos/laravel-redis-sentinel@v0.1.0
+- pkg:composer/evertramos/laravel-redis-sentinel@v0.1.1
+- pkg:composer/evertramos/laravel-redis-sentinel@v0.1.2

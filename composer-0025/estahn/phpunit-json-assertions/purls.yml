@@ -1,0 +1,9 @@
+- pkg:composer/estahn/phpunit-json-assertions@v0.1.0
+- pkg:composer/estahn/phpunit-json-assertions@v0.2.0
+- pkg:composer/estahn/phpunit-json-assertions@v0.3.0
+- pkg:composer/estahn/phpunit-json-assertions@v0.4.0
+- pkg:composer/estahn/phpunit-json-assertions@v1.0.0
+- pkg:composer/estahn/phpunit-json-assertions@v2.0.0
+- pkg:composer/estahn/phpunit-json-assertions@v2.0.1
+- pkg:composer/estahn/phpunit-json-assertions@v3.0.0
+- pkg:composer/estahn/phpunit-json-assertions@v4.0.0

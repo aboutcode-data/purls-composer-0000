@@ -1,0 +1,3 @@
+- pkg:composer/extcode/mail-conf-override@v1.0.0
+- pkg:composer/extcode/mail-conf-override@v2.0.0
+- pkg:composer/extcode/mail-conf-override@v3.0.0
