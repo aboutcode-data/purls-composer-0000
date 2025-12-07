@@ -1,0 +1,11 @@
+- pkg:composer/helhum/typo3-distribution@v6.0.0
+- pkg:composer/helhum/typo3-distribution@v7.0.0
+- pkg:composer/helhum/typo3-distribution@v8.0.0
+- pkg:composer/helhum/typo3-distribution@v8.1.0
+- pkg:composer/helhum/typo3-distribution@v8.2.0
+- pkg:composer/helhum/typo3-distribution@v8.2.1
+- pkg:composer/helhum/typo3-distribution@v8.3.0
+- pkg:composer/helhum/typo3-distribution@v8.3.1
+- pkg:composer/helhum/typo3-distribution@v9.5.0
+- pkg:composer/helhum/typo3-distribution@v9.5.1
+- pkg:composer/helhum/typo3-distribution@v9.5.2

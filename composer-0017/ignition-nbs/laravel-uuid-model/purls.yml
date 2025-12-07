@@ -1,0 +1,4 @@
+- pkg:composer/ignition-nbs/laravel-uuid-model@1.0.0
+- pkg:composer/ignition-nbs/laravel-uuid-model@1.0.1
+- pkg:composer/ignition-nbs/laravel-uuid-model@2.0.0
+- pkg:composer/ignition-nbs/laravel-uuid-model@2.0.1

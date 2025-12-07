@@ -1,0 +1,17 @@
+- pkg:composer/imatic/testing@2.4.0
+- pkg:composer/imatic/testing@2.6.0
+- pkg:composer/imatic/testing@3.0
+- pkg:composer/imatic/testing@4.0
+- pkg:composer/imatic/testing@6.0.0
+- pkg:composer/imatic/testing@6.0.0-alpha
+- pkg:composer/imatic/testing@6.0.0-alpha.2
+- pkg:composer/imatic/testing@6.0.0-alpha.3
+- pkg:composer/imatic/testing@6.0.0-alpha.4
+- pkg:composer/imatic/testing@6.0.0-alpha.5
+- pkg:composer/imatic/testing@6.0.1
+- pkg:composer/imatic/testing@6.0.2
+- pkg:composer/imatic/testing@v5.0
+- pkg:composer/imatic/testing@v5.0.1
+- pkg:composer/imatic/testing@v5.0.2
+- pkg:composer/imatic/testing@v6.0.3
+- pkg:composer/imatic/testing@v6.0.4

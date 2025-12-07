@@ -1,0 +1,4 @@
+- pkg:composer/gskema/elasticsearch-query-dsl-php@6.0.0
+- pkg:composer/gskema/elasticsearch-query-dsl-php@6.1.0
+- pkg:composer/gskema/elasticsearch-query-dsl-php@v5.0.0
+- pkg:composer/gskema/elasticsearch-query-dsl-php@v5.0.1

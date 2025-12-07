@@ -1,0 +1,17 @@
+- pkg:composer/icanhazstring/systemctl-php@0.7.0
+- pkg:composer/icanhazstring/systemctl-php@0.7.1
+- pkg:composer/icanhazstring/systemctl-php@0.7.2
+- pkg:composer/icanhazstring/systemctl-php@0.8.0
+- pkg:composer/icanhazstring/systemctl-php@0.8.1
+- pkg:composer/icanhazstring/systemctl-php@0.8.2
+- pkg:composer/icanhazstring/systemctl-php@0.8.3
+- pkg:composer/icanhazstring/systemctl-php@1.0-rc2
+- pkg:composer/icanhazstring/systemctl-php@v0.1
+- pkg:composer/icanhazstring/systemctl-php@v0.2
+- pkg:composer/icanhazstring/systemctl-php@v0.3
+- pkg:composer/icanhazstring/systemctl-php@v0.3.1
+- pkg:composer/icanhazstring/systemctl-php@v0.4
+- pkg:composer/icanhazstring/systemctl-php@v0.5
+- pkg:composer/icanhazstring/systemctl-php@v0.6
+- pkg:composer/icanhazstring/systemctl-php@v0.6.1
+- pkg:composer/icanhazstring/systemctl-php@v1.0-rc.1

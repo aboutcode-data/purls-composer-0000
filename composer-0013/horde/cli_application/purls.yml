@@ -1,0 +1,4 @@
+- pkg:composer/horde/cli_application@1.0.0RC1
+- pkg:composer/horde/cli_application@2.0.0alpha1
+- pkg:composer/horde/cli_application@2.0.0alpha2
+- pkg:composer/horde/cli_application@v2.0.0alpha3

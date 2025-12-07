@@ -1,0 +1,5 @@
+- pkg:composer/healthengine/laravel-chronos@1.0.0
+- pkg:composer/healthengine/laravel-chronos@2.0.0
+- pkg:composer/healthengine/laravel-chronos@v3.0.0
+- pkg:composer/healthengine/laravel-chronos@v4.0.0
+- pkg:composer/healthengine/laravel-chronos@v4.0.1

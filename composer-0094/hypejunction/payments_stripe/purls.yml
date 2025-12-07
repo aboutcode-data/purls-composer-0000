@@ -1,0 +1,4 @@
+- pkg:composer/hypejunction/payments_stripe@0.1.0
+- pkg:composer/hypejunction/payments_stripe@1.0.0
+- pkg:composer/hypejunction/payments_stripe@1.0.1
+- pkg:composer/hypejunction/payments_stripe@1.0.2

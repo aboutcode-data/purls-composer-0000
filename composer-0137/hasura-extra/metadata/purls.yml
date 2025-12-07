@@ -1,0 +1,15 @@
+- pkg:composer/hasura-extra/metadata@2.1.0
+- pkg:composer/hasura-extra/metadata@2.1.1
+- pkg:composer/hasura-extra/metadata@2.1.2
+- pkg:composer/hasura-extra/metadata@2.2.0
+- pkg:composer/hasura-extra/metadata@2.3.0
+- pkg:composer/hasura-extra/metadata@2.4.0
+- pkg:composer/hasura-extra/metadata@2.5.0
+- pkg:composer/hasura-extra/metadata@3.0.0
+- pkg:composer/hasura-extra/metadata@3.1.0
+- pkg:composer/hasura-extra/metadata@3.2.0
+- pkg:composer/hasura-extra/metadata@3.3.0
+- pkg:composer/hasura-extra/metadata@3.4.1
+- pkg:composer/hasura-extra/metadata@4.0.0
+- pkg:composer/hasura-extra/metadata@5.0.0
+- pkg:composer/hasura-extra/metadata@v2.0.0

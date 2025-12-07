@@ -1,0 +1,15 @@
+- pkg:composer/hasura-extra/event-dispatcher@2.1.0
+- pkg:composer/hasura-extra/event-dispatcher@2.1.1
+- pkg:composer/hasura-extra/event-dispatcher@2.1.2
+- pkg:composer/hasura-extra/event-dispatcher@2.2.0
+- pkg:composer/hasura-extra/event-dispatcher@2.3.0
+- pkg:composer/hasura-extra/event-dispatcher@2.4.0
+- pkg:composer/hasura-extra/event-dispatcher@2.5.0
+- pkg:composer/hasura-extra/event-dispatcher@3.0.0
+- pkg:composer/hasura-extra/event-dispatcher@3.1.0
+- pkg:composer/hasura-extra/event-dispatcher@3.2.0
+- pkg:composer/hasura-extra/event-dispatcher@3.3.0
+- pkg:composer/hasura-extra/event-dispatcher@3.4.1
+- pkg:composer/hasura-extra/event-dispatcher@4.0.0
+- pkg:composer/hasura-extra/event-dispatcher@5.0.0
+- pkg:composer/hasura-extra/event-dispatcher@v2.0.0

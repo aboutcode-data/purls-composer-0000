@@ -1,0 +1,11 @@
+- pkg:composer/ianrothmann/langserve-php-client@0.0.1
+- pkg:composer/ianrothmann/langserve-php-client@0.0.2
+- pkg:composer/ianrothmann/langserve-php-client@0.0.3
+- pkg:composer/ianrothmann/langserve-php-client@0.0.4
+- pkg:composer/ianrothmann/langserve-php-client@0.0.5
+- pkg:composer/ianrothmann/langserve-php-client@0.0.6
+- pkg:composer/ianrothmann/langserve-php-client@0.0.7
+- pkg:composer/ianrothmann/langserve-php-client@1.0.0
+- pkg:composer/ianrothmann/langserve-php-client@1.0.1
+- pkg:composer/ianrothmann/langserve-php-client@1.1.0
+- pkg:composer/ianrothmann/langserve-php-client@1.2.0

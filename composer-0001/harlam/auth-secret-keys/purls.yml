@@ -1,0 +1,4 @@
+- pkg:composer/harlam/auth-secret-keys@v1.0.0
+- pkg:composer/harlam/auth-secret-keys@v1.0.1
+- pkg:composer/harlam/auth-secret-keys@v1.0.2
+- pkg:composer/harlam/auth-secret-keys@v2.0

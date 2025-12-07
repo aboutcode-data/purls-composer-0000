@@ -1,0 +1,4 @@
+- pkg:composer/iinmass/laravel-package-checker@1.0
+- pkg:composer/iinmass/laravel-package-checker@1.1.0
+- pkg:composer/iinmass/laravel-package-checker@2.0.0
+- pkg:composer/iinmass/laravel-package-checker@2.1.1

@@ -1,0 +1,12 @@
+- pkg:composer/henryavila/laravel-nova-multitenancy@2.0.0
+- pkg:composer/henryavila/laravel-nova-multitenancy@2.1.0
+- pkg:composer/henryavila/laravel-nova-multitenancy@2.2.0
+- pkg:composer/henryavila/laravel-nova-multitenancy@3.0.0
+- pkg:composer/henryavila/laravel-nova-multitenancy@3.0.1
+- pkg:composer/henryavila/laravel-nova-multitenancy@3.0.2
+- pkg:composer/henryavila/laravel-nova-multitenancy@3.0.3
+- pkg:composer/henryavila/laravel-nova-multitenancy@3.0.4
+- pkg:composer/henryavila/laravel-nova-multitenancy@3.0.5
+- pkg:composer/henryavila/laravel-nova-multitenancy@3.1.0
+- pkg:composer/henryavila/laravel-nova-multitenancy@3.2.0
+- pkg:composer/henryavila/laravel-nova-multitenancy@v3.3.0

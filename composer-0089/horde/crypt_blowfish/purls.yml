@@ -1,0 +1,10 @@
+- pkg:composer/horde/crypt_blowfish@1.0.3
+- pkg:composer/horde/crypt_blowfish@1.1.0
+- pkg:composer/horde/crypt_blowfish@1.1.1
+- pkg:composer/horde/crypt_blowfish@1.1.2
+- pkg:composer/horde/crypt_blowfish@1.1.3
+- pkg:composer/horde/crypt_blowfish@1.1.4
+- pkg:composer/horde/crypt_blowfish@2.0.0alpha1
+- pkg:composer/horde/crypt_blowfish@v2.0.0alpha2
+- pkg:composer/horde/crypt_blowfish@v2.0.0alpha3
+- pkg:composer/horde/crypt_blowfish@v2.0.0alpha4

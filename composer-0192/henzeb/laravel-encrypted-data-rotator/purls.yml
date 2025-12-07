@@ -1,0 +1,5 @@
+- pkg:composer/henzeb/laravel-encrypted-data-rotator@v0.1.0-alpha
+- pkg:composer/henzeb/laravel-encrypted-data-rotator@v0.2.0-alpha
+- pkg:composer/henzeb/laravel-encrypted-data-rotator@v0.2.1-alpha
+- pkg:composer/henzeb/laravel-encrypted-data-rotator@v0.2.2-alpha
+- pkg:composer/henzeb/laravel-encrypted-data-rotator@v0.3.0-alpha

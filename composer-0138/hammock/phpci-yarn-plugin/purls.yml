@@ -1,0 +1,2 @@
+- pkg:composer/hammock/phpci-yarn-plugin@v0.0.1
+- pkg:composer/hammock/phpci-yarn-plugin@v0.0.2
