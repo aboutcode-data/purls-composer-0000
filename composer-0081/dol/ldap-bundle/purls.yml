@@ -1,0 +1,5 @@
+- pkg:composer/dol/ldap-bundle@v1.0
+- pkg:composer/dol/ldap-bundle@v1.0.1
+- pkg:composer/dol/ldap-bundle@v2.0
+- pkg:composer/dol/ldap-bundle@v2.0.1
+- pkg:composer/dol/ldap-bundle@v2.0.2

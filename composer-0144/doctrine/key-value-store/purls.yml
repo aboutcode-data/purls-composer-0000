@@ -1,0 +1,4 @@
+- pkg:composer/doctrine/key-value-store@v0.1
+- pkg:composer/doctrine/key-value-store@v0.2
+- pkg:composer/doctrine/key-value-store@v0.3.0
+- pkg:composer/doctrine/key-value-store@v0.4.0

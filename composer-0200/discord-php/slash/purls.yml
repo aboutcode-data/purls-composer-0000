@@ -1,0 +1,8 @@
+- pkg:composer/discord-php/slash@v1.0.0
+- pkg:composer/discord-php/slash@v1.0.1
+- pkg:composer/discord-php/slash@v1.0.2
+- pkg:composer/discord-php/slash@v1.0.3
+- pkg:composer/discord-php/slash@v1.0.4
+- pkg:composer/discord-php/slash@v1.0.5
+- pkg:composer/discord-php/slash@v2.0.0-alpha
+- pkg:composer/discord-php/slash@v2.0.0-beta

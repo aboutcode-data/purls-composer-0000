@@ -1,0 +1,15 @@
+- pkg:composer/dcoobs/crowdstrike@1.1
+- pkg:composer/dcoobs/crowdstrike@2.0
+- pkg:composer/dcoobs/crowdstrike@2.1
+- pkg:composer/dcoobs/crowdstrike@2.2
+- pkg:composer/dcoobs/crowdstrike@2.3
+- pkg:composer/dcoobs/crowdstrike@v1.0
+- pkg:composer/dcoobs/crowdstrike@v3.0
+- pkg:composer/dcoobs/crowdstrike@v3.1
+- pkg:composer/dcoobs/crowdstrike@v3.2
+- pkg:composer/dcoobs/crowdstrike@v3.3
+- pkg:composer/dcoobs/crowdstrike@v3.4
+- pkg:composer/dcoobs/crowdstrike@v3.8
+- pkg:composer/dcoobs/crowdstrike@v3.9
+- pkg:composer/dcoobs/crowdstrike@v4.0
+- pkg:composer/dcoobs/crowdstrike@v4.1

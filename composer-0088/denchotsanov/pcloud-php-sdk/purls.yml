@@ -1,0 +1,4 @@
+- pkg:composer/denchotsanov/pcloud-php-sdk@v1.0
+- pkg:composer/denchotsanov/pcloud-php-sdk@v2
+- pkg:composer/denchotsanov/pcloud-php-sdk@v2.1
+- pkg:composer/denchotsanov/pcloud-php-sdk@v2.3

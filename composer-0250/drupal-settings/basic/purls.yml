@@ -1,0 +1,11 @@
+- pkg:composer/drupal-settings/basic@1.6.0
+- pkg:composer/drupal-settings/basic@1.7.0
+- pkg:composer/drupal-settings/basic@v1.0.0
+- pkg:composer/drupal-settings/basic@v1.2.0
+- pkg:composer/drupal-settings/basic@v1.3.0
+- pkg:composer/drupal-settings/basic@v1.3.0-alpha1
+- pkg:composer/drupal-settings/basic@v1.3.0-alpha2
+- pkg:composer/drupal-settings/basic@v1.3.0-alpha3
+- pkg:composer/drupal-settings/basic@v1.4.0
+- pkg:composer/drupal-settings/basic@v1.5.0
+- pkg:composer/drupal-settings/basic@v1.8.0

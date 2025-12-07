@@ -1,0 +1,6 @@
+- pkg:composer/dshafik/php7-mysql-shim@0.1.0
+- pkg:composer/dshafik/php7-mysql-shim@0.2.0
+- pkg:composer/dshafik/php7-mysql-shim@1.0.0beta1
+- pkg:composer/dshafik/php7-mysql-shim@1.0.0beta2
+- pkg:composer/dshafik/php7-mysql-shim@1.0.0beta3
+- pkg:composer/dshafik/php7-mysql-shim@1.0.0beta4

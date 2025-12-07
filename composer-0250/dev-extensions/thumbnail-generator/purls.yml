@@ -1,0 +1,4 @@
+- pkg:composer/dev-extensions/thumbnail-generator@5.27.0.1
+- pkg:composer/dev-extensions/thumbnail-generator@7.6.1
+- pkg:composer/dev-extensions/thumbnail-generator@v7.5
+- pkg:composer/dev-extensions/thumbnail-generator@v7.6

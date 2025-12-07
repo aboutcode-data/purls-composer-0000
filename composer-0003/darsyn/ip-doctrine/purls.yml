@@ -1,0 +1,4 @@
+- pkg:composer/darsyn/ip-doctrine@5.0.0
+- pkg:composer/darsyn/ip-doctrine@5.0.0-rc1
+- pkg:composer/darsyn/ip-doctrine@6.0.0
+- pkg:composer/darsyn/ip-doctrine@6.0.1

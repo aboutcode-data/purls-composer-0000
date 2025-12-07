@@ -1,0 +1,4 @@
+- pkg:composer/dtvmedia/laravel-log-tracer@v0.1-beta
+- pkg:composer/dtvmedia/laravel-log-tracer@v0.2-beta
+- pkg:composer/dtvmedia/laravel-log-tracer@v0.3-beta
+- pkg:composer/dtvmedia/laravel-log-tracer@v0.4

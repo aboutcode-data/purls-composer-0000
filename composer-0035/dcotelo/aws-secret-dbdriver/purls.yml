@@ -1,0 +1,3 @@
+- pkg:composer/dcotelo/aws-secret-dbdriver@1.0
+- pkg:composer/dcotelo/aws-secret-dbdriver@1.1
+- pkg:composer/dcotelo/aws-secret-dbdriver@1.2

@@ -1,0 +1,4 @@
+- pkg:composer/doctrine/shards@v0.1
+- pkg:composer/doctrine/shards@v0.2
+- pkg:composer/doctrine/shards@v0.3
+- pkg:composer/doctrine/shards@v1.0

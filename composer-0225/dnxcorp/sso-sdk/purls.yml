@@ -1,0 +1,4 @@
+- pkg:composer/dnxcorp/sso-sdk@v7.4.0
+- pkg:composer/dnxcorp/sso-sdk@v7.4.1
+- pkg:composer/dnxcorp/sso-sdk@v7.4.2
+- pkg:composer/dnxcorp/sso-sdk@v8.1.0

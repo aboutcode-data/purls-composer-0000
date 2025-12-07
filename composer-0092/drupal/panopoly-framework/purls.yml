@@ -1,0 +1,3 @@
+- pkg:composer/drupal/panopoly-framework@0.1.0
+- pkg:composer/drupal/panopoly-framework@1.0.0-alpha
+- pkg:composer/drupal/panopoly-framework@1.0.0-beta

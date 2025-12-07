@@ -1,0 +1,3 @@
+- pkg:composer/dev-kraken/php-commitlint@v1.0.1
+- pkg:composer/dev-kraken/php-commitlint@v1.1.0
+- pkg:composer/dev-kraken/php-commitlint@v1.2.0

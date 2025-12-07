@@ -1,0 +1,4 @@
+- pkg:composer/deployee/plugin-filesystemtasks@v1.0.0
+- pkg:composer/deployee/plugin-filesystemtasks@v2.0.0
+- pkg:composer/deployee/plugin-filesystemtasks@v2.0.1
+- pkg:composer/deployee/plugin-filesystemtasks@v3.0.0
