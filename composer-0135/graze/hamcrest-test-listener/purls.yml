@@ -1,0 +1,5 @@
+- pkg:composer/graze/hamcrest-test-listener@v1.0.0
+- pkg:composer/graze/hamcrest-test-listener@v1.0.1
+- pkg:composer/graze/hamcrest-test-listener@v1.1.0
+- pkg:composer/graze/hamcrest-test-listener@v2.0.0
+- pkg:composer/graze/hamcrest-test-listener@v3.0.0

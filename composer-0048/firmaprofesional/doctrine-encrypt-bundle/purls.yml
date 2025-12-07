@@ -1,0 +1,16 @@
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@1.0.0
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@2.0.0
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@2.0.1
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@4.0
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@5.0.2
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@5.1
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@5.1.1
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@6.0
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@7.0
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@7.0.1
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@7.0.2
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@7.0.3
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@8.0
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@9.0
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@9.1
+- pkg:composer/firmaprofesional/doctrine-encrypt-bundle@v3.0.0

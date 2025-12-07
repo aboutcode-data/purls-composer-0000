@@ -1,0 +1,4 @@
+- pkg:composer/flowpack/restrictcreation@0.1
+- pkg:composer/flowpack/restrictcreation@0.2
+- pkg:composer/flowpack/restrictcreation@0.3
+- pkg:composer/flowpack/restrictcreation@1.0.0

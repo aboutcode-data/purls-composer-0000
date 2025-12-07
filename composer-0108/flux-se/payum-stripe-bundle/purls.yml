@@ -1,0 +1,9 @@
+- pkg:composer/flux-se/payum-stripe-bundle@v1.0.0
+- pkg:composer/flux-se/payum-stripe-bundle@v1.0.1
+- pkg:composer/flux-se/payum-stripe-bundle@v1.1.0
+- pkg:composer/flux-se/payum-stripe-bundle@v1.2.0
+- pkg:composer/flux-se/payum-stripe-bundle@v1.2.1
+- pkg:composer/flux-se/payum-stripe-bundle@v2.0.0
+- pkg:composer/flux-se/payum-stripe-bundle@v2.0.0-RC.1
+- pkg:composer/flux-se/payum-stripe-bundle@v2.0.1
+- pkg:composer/flux-se/payum-stripe-bundle@v3.0.0

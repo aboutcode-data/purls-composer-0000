@@ -1,0 +1,6 @@
+- pkg:composer/gmtls/openssl-crypto-kit@v1.0.0
+- pkg:composer/gmtls/openssl-crypto-kit@v2.0.0
+- pkg:composer/gmtls/openssl-crypto-kit@v2.1.0
+- pkg:composer/gmtls/openssl-crypto-kit@v2.2.0
+- pkg:composer/gmtls/openssl-crypto-kit@v3.0.0
+- pkg:composer/gmtls/openssl-crypto-kit@v3.0.1

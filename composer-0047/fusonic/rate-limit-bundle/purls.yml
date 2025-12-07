@@ -1,0 +1,5 @@
+- pkg:composer/fusonic/rate-limit-bundle@v1.0
+- pkg:composer/fusonic/rate-limit-bundle@v2.0
+- pkg:composer/fusonic/rate-limit-bundle@v3.0
+- pkg:composer/fusonic/rate-limit-bundle@v3.0.1
+- pkg:composer/fusonic/rate-limit-bundle@v4.0.0

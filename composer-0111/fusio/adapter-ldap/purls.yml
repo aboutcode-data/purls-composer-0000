@@ -1,0 +1,6 @@
+- pkg:composer/fusio/adapter-ldap@v4.0.0
+- pkg:composer/fusio/adapter-ldap@v5.0.0
+- pkg:composer/fusio/adapter-ldap@v6.0.0
+- pkg:composer/fusio/adapter-ldap@v6.0.1
+- pkg:composer/fusio/adapter-ldap@v6.0.2
+- pkg:composer/fusio/adapter-ldap@v6.1.0

@@ -1,0 +1,8 @@
+- pkg:composer/fortrabbit/yii-memcached@1.0.0
+- pkg:composer/fortrabbit/yii-memcached@1.1.0
+- pkg:composer/fortrabbit/yii-memcached@1.1.1
+- pkg:composer/fortrabbit/yii-memcached@1.2.0
+- pkg:composer/fortrabbit/yii-memcached@1.3.0
+- pkg:composer/fortrabbit/yii-memcached@1.3.1
+- pkg:composer/fortrabbit/yii-memcached@1.4.0
+- pkg:composer/fortrabbit/yii-memcached@2.0.0

@@ -1,0 +1,5 @@
+- pkg:composer/fx/session-guard@v1.0.0
+- pkg:composer/fx/session-guard@v1.0.1
+- pkg:composer/fx/session-guard@v1.1
+- pkg:composer/fx/session-guard@v2.0.0
+- pkg:composer/fx/session-guard@v3.0.0

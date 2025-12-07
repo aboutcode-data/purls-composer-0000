@@ -1,0 +1,5 @@
+- pkg:composer/gbprod/domain-event-bundle@v0.1-alpha.0
+- pkg:composer/gbprod/domain-event-bundle@v0.1-alpha.1
+- pkg:composer/gbprod/domain-event-bundle@v0.1-alpha.3
+- pkg:composer/gbprod/domain-event-bundle@v0.1.0
+- pkg:composer/gbprod/domain-event-bundle@v0.1.1

@@ -1,0 +1,5 @@
+- pkg:composer/glaubinix/symfony-template-response@1.0
+- pkg:composer/glaubinix/symfony-template-response@2.0.0
+- pkg:composer/glaubinix/symfony-template-response@2.1.0
+- pkg:composer/glaubinix/symfony-template-response@3.0
+- pkg:composer/glaubinix/symfony-template-response@3.1

@@ -1,0 +1,15 @@
+- pkg:composer/graviton/mongodb-migrations@1.1.0
+- pkg:composer/graviton/mongodb-migrations@1.1.0-beta
+- pkg:composer/graviton/mongodb-migrations@1.1.1
+- pkg:composer/graviton/mongodb-migrations@1.1.2
+- pkg:composer/graviton/mongodb-migrations@1.1.3
+- pkg:composer/graviton/mongodb-migrations@1.2
+- pkg:composer/graviton/mongodb-migrations@1.2.1
+- pkg:composer/graviton/mongodb-migrations@1.2.2
+- pkg:composer/graviton/mongodb-migrations@2.0.0
+- pkg:composer/graviton/mongodb-migrations@2.0.1
+- pkg:composer/graviton/mongodb-migrations@3.0.0
+- pkg:composer/graviton/mongodb-migrations@3.0.1
+- pkg:composer/graviton/mongodb-migrations@3.1.0
+- pkg:composer/graviton/mongodb-migrations@3.1.1
+- pkg:composer/graviton/mongodb-migrations@v1.0.0

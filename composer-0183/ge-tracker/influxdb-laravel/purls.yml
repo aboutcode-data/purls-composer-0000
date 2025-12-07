@@ -1,0 +1,11 @@
+- pkg:composer/ge-tracker/influxdb-laravel@v1.0.0
+- pkg:composer/ge-tracker/influxdb-laravel@v1.0.1
+- pkg:composer/ge-tracker/influxdb-laravel@v2.0.0
+- pkg:composer/ge-tracker/influxdb-laravel@v2.0.1
+- pkg:composer/ge-tracker/influxdb-laravel@v2.0.2
+- pkg:composer/ge-tracker/influxdb-laravel@v2.1.0
+- pkg:composer/ge-tracker/influxdb-laravel@v2.2.0
+- pkg:composer/ge-tracker/influxdb-laravel@v3.0.0
+- pkg:composer/ge-tracker/influxdb-laravel@v3.1.0
+- pkg:composer/ge-tracker/influxdb-laravel@v3.2.0
+- pkg:composer/ge-tracker/influxdb-laravel@v3.2.1

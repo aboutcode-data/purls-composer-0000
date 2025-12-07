@@ -1,0 +1,4 @@
+- pkg:composer/garbetjie/phpunit-bigquery-schema@1.0.0
+- pkg:composer/garbetjie/phpunit-bigquery-schema@1.0.1
+- pkg:composer/garbetjie/phpunit-bigquery-schema@1.0.2
+- pkg:composer/garbetjie/phpunit-bigquery-schema@1.0.3

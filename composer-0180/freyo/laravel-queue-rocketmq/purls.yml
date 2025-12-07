@@ -1,0 +1,2 @@
+- pkg:composer/freyo/laravel-queue-rocketmq@1.0.0
+- pkg:composer/freyo/laravel-queue-rocketmq@1.0.1

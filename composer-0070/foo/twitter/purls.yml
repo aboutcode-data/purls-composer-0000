@@ -1,0 +1,2 @@
+- pkg:composer/foo/twitter@1.0.1
+- pkg:composer/foo/twitter@v1.0

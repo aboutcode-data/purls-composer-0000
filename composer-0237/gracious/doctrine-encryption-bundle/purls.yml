@@ -1,0 +1,11 @@
+- pkg:composer/gracious/doctrine-encryption-bundle@1.0.0
+- pkg:composer/gracious/doctrine-encryption-bundle@1.0.1
+- pkg:composer/gracious/doctrine-encryption-bundle@1.0.4
+- pkg:composer/gracious/doctrine-encryption-bundle@1.1.0
+- pkg:composer/gracious/doctrine-encryption-bundle@1.1.1
+- pkg:composer/gracious/doctrine-encryption-bundle@1.2.0
+- pkg:composer/gracious/doctrine-encryption-bundle@2.0.0
+- pkg:composer/gracious/doctrine-encryption-bundle@3.0.0
+- pkg:composer/gracious/doctrine-encryption-bundle@3.0.1
+- pkg:composer/gracious/doctrine-encryption-bundle@4.0.0
+- pkg:composer/gracious/doctrine-encryption-bundle@5.0.0

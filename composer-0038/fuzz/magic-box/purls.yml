@@ -1,0 +1,5 @@
+- pkg:composer/fuzz/magic-box@1.0
+- pkg:composer/fuzz/magic-box@1.0.0-p1
+- pkg:composer/fuzz/magic-box@1.1
+- pkg:composer/fuzz/magic-box@1.1.1
+- pkg:composer/fuzz/magic-box@1.1.2

@@ -1,0 +1,9 @@
+- pkg:composer/geocoder-php/common-http@4.0.0
+- pkg:composer/geocoder-php/common-http@4.0.0-beta1
+- pkg:composer/geocoder-php/common-http@4.1.0
+- pkg:composer/geocoder-php/common-http@4.2.0
+- pkg:composer/geocoder-php/common-http@4.3.0
+- pkg:composer/geocoder-php/common-http@4.4.0
+- pkg:composer/geocoder-php/common-http@4.5.0
+- pkg:composer/geocoder-php/common-http@4.6.0
+- pkg:composer/geocoder-php/common-http@4.7.0

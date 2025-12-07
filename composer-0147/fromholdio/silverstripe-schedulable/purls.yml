@@ -1,0 +1,4 @@
+- pkg:composer/fromholdio/silverstripe-schedulable@1.0.0
+- pkg:composer/fromholdio/silverstripe-schedulable@1.0.1
+- pkg:composer/fromholdio/silverstripe-schedulable@1.1.0
+- pkg:composer/fromholdio/silverstripe-schedulable@2.0.0

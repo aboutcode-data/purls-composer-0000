@@ -1,0 +1,3 @@
+- pkg:composer/ghostwriter/phpunit-psalm-plugin@0.1.0
+- pkg:composer/ghostwriter/phpunit-psalm-plugin@0.1.1
+- pkg:composer/ghostwriter/phpunit-psalm-plugin@0.2.0

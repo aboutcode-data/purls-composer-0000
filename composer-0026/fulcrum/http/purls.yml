@@ -1,0 +1,5 @@
+- pkg:composer/fulcrum/http@1.0.0
+- pkg:composer/fulcrum/http@1.0.1
+- pkg:composer/fulcrum/http@1.0.2
+- pkg:composer/fulcrum/http@2.0.0
+- pkg:composer/fulcrum/http@2.0.1

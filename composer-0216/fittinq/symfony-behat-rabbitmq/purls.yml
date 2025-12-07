@@ -1,0 +1,16 @@
+- pkg:composer/fittinq/symfony-behat-rabbitmq@1.0.0
+- pkg:composer/fittinq/symfony-behat-rabbitmq@1.0.1
+- pkg:composer/fittinq/symfony-behat-rabbitmq@1.0.2
+- pkg:composer/fittinq/symfony-behat-rabbitmq@1.0.3
+- pkg:composer/fittinq/symfony-behat-rabbitmq@1.0.4
+- pkg:composer/fittinq/symfony-behat-rabbitmq@1.0.5
+- pkg:composer/fittinq/symfony-behat-rabbitmq@1.0.6
+- pkg:composer/fittinq/symfony-behat-rabbitmq@1.1.0
+- pkg:composer/fittinq/symfony-behat-rabbitmq@1.1.1
+- pkg:composer/fittinq/symfony-behat-rabbitmq@1.1.2
+- pkg:composer/fittinq/symfony-behat-rabbitmq@2.0.0
+- pkg:composer/fittinq/symfony-behat-rabbitmq@3.0.0
+- pkg:composer/fittinq/symfony-behat-rabbitmq@3.0.1
+- pkg:composer/fittinq/symfony-behat-rabbitmq@4.0.0
+- pkg:composer/fittinq/symfony-behat-rabbitmq@5.0.0
+- pkg:composer/fittinq/symfony-behat-rabbitmq@6.0.0

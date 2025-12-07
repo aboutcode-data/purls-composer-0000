@@ -1,0 +1,4 @@
+- pkg:composer/gobline/mailer@v1.0.0
+- pkg:composer/gobline/mailer@v1.0.1
+- pkg:composer/gobline/mailer@v2.0.0
+- pkg:composer/gobline/mailer@v3.0.0

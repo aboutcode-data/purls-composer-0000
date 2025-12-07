@@ -1,0 +1,15 @@
+- pkg:composer/game-worker/kiri-client@v1.0
+- pkg:composer/game-worker/kiri-client@v1.1
+- pkg:composer/game-worker/kiri-client@v1.2
+- pkg:composer/game-worker/kiri-client@v1.3
+- pkg:composer/game-worker/kiri-client@v1.4
+- pkg:composer/game-worker/kiri-client@v1.5
+- pkg:composer/game-worker/kiri-client@v1.6.0
+- pkg:composer/game-worker/kiri-client@v1.6.1
+- pkg:composer/game-worker/kiri-client@v1.6.2
+- pkg:composer/game-worker/kiri-client@v2.0
+- pkg:composer/game-worker/kiri-client@v2.1
+- pkg:composer/game-worker/kiri-client@v2.2
+- pkg:composer/game-worker/kiri-client@v2.3
+- pkg:composer/game-worker/kiri-client@v2.4
+- pkg:composer/game-worker/kiri-client@v2.5

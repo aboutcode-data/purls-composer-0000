@@ -1,0 +1,5 @@
+- pkg:composer/fusion-php/collection@0.9
+- pkg:composer/fusion-php/collection@1.0.0
+- pkg:composer/fusion-php/collection@1.0.1
+- pkg:composer/fusion-php/collection@2.0.0
+- pkg:composer/fusion-php/collection@3.0.0
