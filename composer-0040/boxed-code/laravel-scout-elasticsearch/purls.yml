@@ -1,0 +1,5 @@
+- pkg:composer/boxed-code/laravel-scout-elasticsearch@0.9.0
+- pkg:composer/boxed-code/laravel-scout-elasticsearch@1.0
+- pkg:composer/boxed-code/laravel-scout-elasticsearch@1.1
+- pkg:composer/boxed-code/laravel-scout-elasticsearch@2.0
+- pkg:composer/boxed-code/laravel-scout-elasticsearch@2.0.1

@@ -1,0 +1,2 @@
+- pkg:composer/check/http@1.0.0
+- pkg:composer/check/http@v2.0.0

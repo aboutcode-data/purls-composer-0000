@@ -1,0 +1,2 @@
+- pkg:composer/briareos/aws-sdk-php@3.0.0
+- pkg:composer/briareos/aws-sdk-php@v3.0.1

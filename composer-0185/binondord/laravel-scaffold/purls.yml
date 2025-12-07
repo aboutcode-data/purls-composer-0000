@@ -1,0 +1,4 @@
+- pkg:composer/binondord/laravel-scaffold@1.0.0
+- pkg:composer/binondord/laravel-scaffold@2.0.0
+- pkg:composer/binondord/laravel-scaffold@2.1.0-alpha
+- pkg:composer/binondord/laravel-scaffold@2.1.1-alpha

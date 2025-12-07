@@ -1,0 +1,5 @@
+- pkg:composer/bewor/php-cryptography@v0.0.1-beta
+- pkg:composer/bewor/php-cryptography@v0.0.2-beta
+- pkg:composer/bewor/php-cryptography@v0.5.0
+- pkg:composer/bewor/php-cryptography@v1.0.0
+- pkg:composer/bewor/php-cryptography@v2.0.0

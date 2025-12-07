@@ -1,0 +1,5 @@
+- pkg:composer/beyntech/php-kafka-consumer@v1.0
+- pkg:composer/beyntech/php-kafka-consumer@v1.0.1
+- pkg:composer/beyntech/php-kafka-consumer@v1.0.2
+- pkg:composer/beyntech/php-kafka-consumer@v1.0.3
+- pkg:composer/beyntech/php-kafka-consumer@v1.0.4

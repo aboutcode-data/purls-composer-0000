@@ -1,0 +1,3 @@
+- pkg:composer/byjg/redis-queue-client@4.9.0
+- pkg:composer/byjg/redis-queue-client@5.0.0
+- pkg:composer/byjg/redis-queue-client@6.0.0

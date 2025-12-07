@@ -1,0 +1,11 @@
+- pkg:composer/bitfumes/api-auth@v1.0.0
+- pkg:composer/bitfumes/api-auth@v2.0.0
+- pkg:composer/bitfumes/api-auth@v2.0.1
+- pkg:composer/bitfumes/api-auth@v2.0.2
+- pkg:composer/bitfumes/api-auth@v3.0.0
+- pkg:composer/bitfumes/api-auth@v3.1.0
+- pkg:composer/bitfumes/api-auth@v3.2.0
+- pkg:composer/bitfumes/api-auth@v4.0.0
+- pkg:composer/bitfumes/api-auth@v4.1.0
+- pkg:composer/bitfumes/api-auth@v5.0.0
+- pkg:composer/bitfumes/api-auth@v6.0.0

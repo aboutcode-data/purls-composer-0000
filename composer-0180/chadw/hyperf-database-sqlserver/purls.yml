@@ -1,0 +1,4 @@
+- pkg:composer/chadw/hyperf-database-sqlserver@v1.1.0
+- pkg:composer/chadw/hyperf-database-sqlserver@v2.0.0
+- pkg:composer/chadw/hyperf-database-sqlserver@v2.0.1
+- pkg:composer/chadw/hyperf-database-sqlserver@v3.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/beyondcode/laravel-prose-linter@v1.0.0
+- pkg:composer/beyondcode/laravel-prose-linter@v2.0.0
+- pkg:composer/beyondcode/laravel-prose-linter@v3.0.0
+- pkg:composer/beyondcode/laravel-prose-linter@v3.1.0

@@ -1,0 +1,13 @@
+- pkg:composer/bus-factor/laminas-doctrine@v1.0.0
+- pkg:composer/bus-factor/laminas-doctrine@v1.0.1
+- pkg:composer/bus-factor/laminas-doctrine@v1.1.0
+- pkg:composer/bus-factor/laminas-doctrine@v1.2.0
+- pkg:composer/bus-factor/laminas-doctrine@v2.0.0
+- pkg:composer/bus-factor/laminas-doctrine@v3.0.0
+- pkg:composer/bus-factor/laminas-doctrine@v4.0.0
+- pkg:composer/bus-factor/laminas-doctrine@v4.0.1
+- pkg:composer/bus-factor/laminas-doctrine@v4.0.2
+- pkg:composer/bus-factor/laminas-doctrine@v4.0.3
+- pkg:composer/bus-factor/laminas-doctrine@v4.0.4
+- pkg:composer/bus-factor/laminas-doctrine@v4.0.5
+- pkg:composer/bus-factor/laminas-doctrine@v4.1.0

@@ -1,0 +1,4 @@
+- pkg:composer/charm/vector@1.0.0
+- pkg:composer/charm/vector@1.0.1
+- pkg:composer/charm/vector@2.0.0
+- pkg:composer/charm/vector@2.0.1

@@ -1,0 +1,5 @@
+- pkg:composer/bmorais/jwt@1.0
+- pkg:composer/bmorais/jwt@1.1
+- pkg:composer/bmorais/jwt@1.2
+- pkg:composer/bmorais/jwt@1.4
+- pkg:composer/bmorais/jwt@v1.5

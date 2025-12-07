@@ -1,0 +1,5 @@
+- pkg:composer/binn/yii2-auth@1.6.0
+- pkg:composer/binn/yii2-auth@1.7.0
+- pkg:composer/binn/yii2-auth@v2.0.0-rc
+- pkg:composer/binn/yii2-auth@v2.0.1-rc
+- pkg:composer/binn/yii2-auth@v2.0.2-rc

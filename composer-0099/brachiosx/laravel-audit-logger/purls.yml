@@ -1,0 +1,4 @@
+- pkg:composer/brachiosx/laravel-audit-logger@v1-alpha
+- pkg:composer/brachiosx/laravel-audit-logger@v1-beta
+- pkg:composer/brachiosx/laravel-audit-logger@v1.0.0
+- pkg:composer/brachiosx/laravel-audit-logger@v1.1.0

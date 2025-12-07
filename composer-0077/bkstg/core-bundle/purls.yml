@@ -1,0 +1,4 @@
+- pkg:composer/bkstg/core-bundle@1.0.0
+- pkg:composer/bkstg/core-bundle@1.0.1
+- pkg:composer/bkstg/core-bundle@v2.0.0-BETA1
+- pkg:composer/bkstg/core-bundle@v2.0.0-BETA2

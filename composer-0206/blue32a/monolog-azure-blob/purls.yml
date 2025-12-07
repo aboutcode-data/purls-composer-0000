@@ -1,0 +1,3 @@
+- pkg:composer/blue32a/monolog-azure-blob@v0.1.0
+- pkg:composer/blue32a/monolog-azure-blob@v0.2.0
+- pkg:composer/blue32a/monolog-azure-blob@v0.2.1

@@ -1,0 +1,3 @@
+- pkg:composer/blackbricksoftware/laravel-civicrm@v10.0.0
+- pkg:composer/blackbricksoftware/laravel-civicrm@v11.0.0
+- pkg:composer/blackbricksoftware/laravel-civicrm@v9.0.0

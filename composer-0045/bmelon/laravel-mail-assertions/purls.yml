@@ -1,0 +1,4 @@
+- pkg:composer/bmelon/laravel-mail-assertions@v1.0
+- pkg:composer/bmelon/laravel-mail-assertions@v1.1
+- pkg:composer/bmelon/laravel-mail-assertions@v2.0
+- pkg:composer/bmelon/laravel-mail-assertions@v3.0

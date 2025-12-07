@@ -1,0 +1,12 @@
+- pkg:composer/briareos/mongodb-odm@1.0.0-BETA10
+- pkg:composer/briareos/mongodb-odm@1.0.0-BETA11
+- pkg:composer/briareos/mongodb-odm@1.0.0-BETA14
+- pkg:composer/briareos/mongodb-odm@1.0.0-BETA15
+- pkg:composer/briareos/mongodb-odm@1.0.0-BETA16
+- pkg:composer/briareos/mongodb-odm@1.0.0-BETA17
+- pkg:composer/briareos/mongodb-odm@1.0.0-BETA4
+- pkg:composer/briareos/mongodb-odm@1.0.0-BETA5
+- pkg:composer/briareos/mongodb-odm@1.0.0-BETA6
+- pkg:composer/briareos/mongodb-odm@1.0.0-BETA7
+- pkg:composer/briareos/mongodb-odm@1.0.0-BETA8
+- pkg:composer/briareos/mongodb-odm@1.0.0-BETA9

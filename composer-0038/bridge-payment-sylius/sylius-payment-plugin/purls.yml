@@ -1,0 +1,11 @@
+- pkg:composer/bridge-payment-sylius/sylius-payment-plugin@v0.0.1
+- pkg:composer/bridge-payment-sylius/sylius-payment-plugin@v0.0.2
+- pkg:composer/bridge-payment-sylius/sylius-payment-plugin@v0.0.3
+- pkg:composer/bridge-payment-sylius/sylius-payment-plugin@v0.0.4
+- pkg:composer/bridge-payment-sylius/sylius-payment-plugin@v0.0.5
+- pkg:composer/bridge-payment-sylius/sylius-payment-plugin@v0.0.6
+- pkg:composer/bridge-payment-sylius/sylius-payment-plugin@v0.0.7
+- pkg:composer/bridge-payment-sylius/sylius-payment-plugin@v0.0.8
+- pkg:composer/bridge-payment-sylius/sylius-payment-plugin@v0.0.9
+- pkg:composer/bridge-payment-sylius/sylius-payment-plugin@v1.0.0
+- pkg:composer/bridge-payment-sylius/sylius-payment-plugin@v1.0.1

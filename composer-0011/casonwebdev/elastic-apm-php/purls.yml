@@ -1,0 +1,6 @@
+- pkg:composer/casonwebdev/elastic-apm-php@v1.0
+- pkg:composer/casonwebdev/elastic-apm-php@v1.1
+- pkg:composer/casonwebdev/elastic-apm-php@v1.2
+- pkg:composer/casonwebdev/elastic-apm-php@v1.3
+- pkg:composer/casonwebdev/elastic-apm-php@v2.0
+- pkg:composer/casonwebdev/elastic-apm-php@v2.1

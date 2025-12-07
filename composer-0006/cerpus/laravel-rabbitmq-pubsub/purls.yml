@@ -1,0 +1,4 @@
+- pkg:composer/cerpus/laravel-rabbitmq-pubsub@1.0.0
+- pkg:composer/cerpus/laravel-rabbitmq-pubsub@v2.0.0
+- pkg:composer/cerpus/laravel-rabbitmq-pubsub@v2.0.1
+- pkg:composer/cerpus/laravel-rabbitmq-pubsub@v2.1.0

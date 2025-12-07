@@ -1,0 +1,5 @@
+- pkg:composer/cache/cache@0.1.0
+- pkg:composer/cache/cache@0.2.0
+- pkg:composer/cache/cache@0.3
+- pkg:composer/cache/cache@0.4.0
+- pkg:composer/cache/cache@1.0.0

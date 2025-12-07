@@ -1,0 +1,4 @@
+- pkg:composer/buildr/test-tools@1.0.0
+- pkg:composer/buildr/test-tools@1.0.1
+- pkg:composer/buildr/test-tools@1.0.2
+- pkg:composer/buildr/test-tools@1.1.0

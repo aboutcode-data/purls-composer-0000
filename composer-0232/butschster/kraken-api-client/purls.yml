@@ -1,0 +1,16 @@
+- pkg:composer/butschster/kraken-api-client@v1.0
+- pkg:composer/butschster/kraken-api-client@v1.0.1
+- pkg:composer/butschster/kraken-api-client@v1.1.1
+- pkg:composer/butschster/kraken-api-client@v1.1.2
+- pkg:composer/butschster/kraken-api-client@v1.2.2
+- pkg:composer/butschster/kraken-api-client@v1.3
+- pkg:composer/butschster/kraken-api-client@v1.4
+- pkg:composer/butschster/kraken-api-client@v1.5
+- pkg:composer/butschster/kraken-api-client@v2.0
+- pkg:composer/butschster/kraken-api-client@v2.3
+- pkg:composer/butschster/kraken-api-client@v2.4
+- pkg:composer/butschster/kraken-api-client@v2.5
+- pkg:composer/butschster/kraken-api-client@v2.6
+- pkg:composer/butschster/kraken-api-client@v2.7
+- pkg:composer/butschster/kraken-api-client@v2.7.1
+- pkg:composer/butschster/kraken-api-client@v2.8.0

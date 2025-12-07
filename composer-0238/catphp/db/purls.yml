@@ -1,0 +1,4 @@
+- pkg:composer/catphp/db@1.0
+- pkg:composer/catphp/db@1.1
+- pkg:composer/catphp/db@1.1.1
+- pkg:composer/catphp/db@1.1.2

@@ -1,0 +1,4 @@
+- pkg:composer/canvural/phpstan-blade-rule@v0.1
+- pkg:composer/canvural/phpstan-blade-rule@v0.2
+- pkg:composer/canvural/phpstan-blade-rule@v0.3
+- pkg:composer/canvural/phpstan-blade-rule@v0.4

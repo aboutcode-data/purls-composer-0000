@@ -1,0 +1,9 @@
+- pkg:composer/carloswph/wp-secure-headers@v0.1-alpha
+- pkg:composer/carloswph/wp-secure-headers@v0.2-alpha
+- pkg:composer/carloswph/wp-secure-headers@v0.3-beta
+- pkg:composer/carloswph/wp-secure-headers@v0.4-beta
+- pkg:composer/carloswph/wp-secure-headers@v0.5-beta
+- pkg:composer/carloswph/wp-secure-headers@v1.0.0
+- pkg:composer/carloswph/wp-secure-headers@v1.0.1
+- pkg:composer/carloswph/wp-secure-headers@v1.2.0
+- pkg:composer/carloswph/wp-secure-headers@v1.2.1
