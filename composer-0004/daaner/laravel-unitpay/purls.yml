@@ -1,0 +1,3 @@
+- pkg:composer/daaner/laravel-unitpay@6.0.1
+- pkg:composer/daaner/laravel-unitpay@8.0
+- pkg:composer/daaner/laravel-unitpay@v6.0-beta

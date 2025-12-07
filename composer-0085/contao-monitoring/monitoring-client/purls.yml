@@ -1,0 +1,4 @@
+- pkg:composer/contao-monitoring/monitoring-client@1.0.0
+- pkg:composer/contao-monitoring/monitoring-client@1.1.0
+- pkg:composer/contao-monitoring/monitoring-client@1.1.1
+- pkg:composer/contao-monitoring/monitoring-client@2.0.0

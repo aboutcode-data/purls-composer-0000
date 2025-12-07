@@ -1,0 +1,5 @@
+- pkg:composer/cwd/generator-bundle@0.1
+- pkg:composer/cwd/generator-bundle@0.1.1
+- pkg:composer/cwd/generator-bundle@0.2
+- pkg:composer/cwd/generator-bundle@0.3
+- pkg:composer/cwd/generator-bundle@0.4.0

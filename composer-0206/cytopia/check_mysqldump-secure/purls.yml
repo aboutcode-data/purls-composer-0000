@@ -1,0 +1,8 @@
+- pkg:composer/cytopia/check_mysqldump-secure@0.1
+- pkg:composer/cytopia/check_mysqldump-secure@0.2
+- pkg:composer/cytopia/check_mysqldump-secure@0.3
+- pkg:composer/cytopia/check_mysqldump-secure@0.4
+- pkg:composer/cytopia/check_mysqldump-secure@0.5
+- pkg:composer/cytopia/check_mysqldump-secure@0.6
+- pkg:composer/cytopia/check_mysqldump-secure@0.7
+- pkg:composer/cytopia/check_mysqldump-secure@0.8

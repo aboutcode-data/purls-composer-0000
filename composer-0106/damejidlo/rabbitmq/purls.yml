@@ -1,0 +1,7 @@
+- pkg:composer/damejidlo/rabbitmq@v0.1
+- pkg:composer/damejidlo/rabbitmq@v1.0
+- pkg:composer/damejidlo/rabbitmq@v1.1.0
+- pkg:composer/damejidlo/rabbitmq@v1.2.0
+- pkg:composer/damejidlo/rabbitmq@v2.0.0
+- pkg:composer/damejidlo/rabbitmq@v3.0.0
+- pkg:composer/damejidlo/rabbitmq@v3.1.0

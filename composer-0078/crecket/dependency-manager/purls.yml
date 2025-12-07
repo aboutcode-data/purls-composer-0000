@@ -1,0 +1,14 @@
+- pkg:composer/crecket/dependency-manager@1.0
+- pkg:composer/crecket/dependency-manager@1.1
+- pkg:composer/crecket/dependency-manager@2.0
+- pkg:composer/crecket/dependency-manager@2.1
+- pkg:composer/crecket/dependency-manager@2.2
+- pkg:composer/crecket/dependency-manager@2.2.1
+- pkg:composer/crecket/dependency-manager@2.2.2
+- pkg:composer/crecket/dependency-manager@3.0
+- pkg:composer/crecket/dependency-manager@3.1
+- pkg:composer/crecket/dependency-manager@3.2
+- pkg:composer/crecket/dependency-manager@3.2.1
+- pkg:composer/crecket/dependency-manager@3.2.2
+- pkg:composer/crecket/dependency-manager@3.3
+- pkg:composer/crecket/dependency-manager@3.4

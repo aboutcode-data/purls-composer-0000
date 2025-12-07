@@ -1,0 +1,6 @@
+- pkg:composer/connectpos/module-stripe@21.04.28
+- pkg:composer/connectpos/module-stripe@21.06.01
+- pkg:composer/connectpos/module-stripe@21.09.06
+- pkg:composer/connectpos/module-stripe@21.11.01
+- pkg:composer/connectpos/module-stripe@21.11.05
+- pkg:composer/connectpos/module-stripe@22.11.18

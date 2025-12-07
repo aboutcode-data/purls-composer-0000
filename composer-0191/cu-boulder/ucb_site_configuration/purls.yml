@@ -1,0 +1,4 @@
+- pkg:composer/cu-boulder/ucb_site_configuration@20230209
+- pkg:composer/cu-boulder/ucb_site_configuration@20231212
+- pkg:composer/cu-boulder/ucb_site_configuration@v1.0-alpha
+- pkg:composer/cu-boulder/ucb_site_configuration@v1.1-alpha

@@ -1,0 +1,3 @@
+- pkg:composer/craft-unit/craft-stripe-express-checkout@1.0.0
+- pkg:composer/craft-unit/craft-stripe-express-checkout@1.0.1
+- pkg:composer/craft-unit/craft-stripe-express-checkout@1.0.2

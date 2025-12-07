@@ -1,0 +1,9 @@
+- pkg:composer/civicrm/upgrade-test@0.1
+- pkg:composer/civicrm/upgrade-test@0.2
+- pkg:composer/civicrm/upgrade-test@0.3
+- pkg:composer/civicrm/upgrade-test@0.4
+- pkg:composer/civicrm/upgrade-test@0.5
+- pkg:composer/civicrm/upgrade-test@0.6
+- pkg:composer/civicrm/upgrade-test@0.7
+- pkg:composer/civicrm/upgrade-test@0.8
+- pkg:composer/civicrm/upgrade-test@0.9

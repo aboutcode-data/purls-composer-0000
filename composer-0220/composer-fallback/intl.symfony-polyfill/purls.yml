@@ -1,0 +1,2 @@
+- pkg:composer/composer-fallback/intl.symfony-polyfill@1.0
+- pkg:composer/composer-fallback/intl.symfony-polyfill@1.1

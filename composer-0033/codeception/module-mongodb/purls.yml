@@ -1,0 +1,5 @@
+- pkg:composer/codeception/module-mongodb@1.0.0
+- pkg:composer/codeception/module-mongodb@1.1.0
+- pkg:composer/codeception/module-mongodb@1.1.1
+- pkg:composer/codeception/module-mongodb@2.0.0
+- pkg:composer/codeception/module-mongodb@3.0.0

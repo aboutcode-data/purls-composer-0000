@@ -1,0 +1,14 @@
+- pkg:composer/ck/php-marcspec@1.5
+- pkg:composer/ck/php-marcspec@1.6
+- pkg:composer/ck/php-marcspec@2.0
+- pkg:composer/ck/php-marcspec@2.0.1
+- pkg:composer/ck/php-marcspec@2.0.2
+- pkg:composer/ck/php-marcspec@2.0.3
+- pkg:composer/ck/php-marcspec@v1.0
+- pkg:composer/ck/php-marcspec@v1.1
+- pkg:composer/ck/php-marcspec@v1.2
+- pkg:composer/ck/php-marcspec@v1.3
+- pkg:composer/ck/php-marcspec@v1.4
+- pkg:composer/ck/php-marcspec@v1.7.0
+- pkg:composer/ck/php-marcspec@v1.7.1
+- pkg:composer/ck/php-marcspec@v1.7.2

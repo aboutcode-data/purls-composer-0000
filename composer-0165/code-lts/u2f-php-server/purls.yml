@@ -1,0 +1,4 @@
+- pkg:composer/code-lts/u2f-php-server@v1.1.4
+- pkg:composer/code-lts/u2f-php-server@v1.2.0
+- pkg:composer/code-lts/u2f-php-server@v1.2.1
+- pkg:composer/code-lts/u2f-php-server@v1.2.2

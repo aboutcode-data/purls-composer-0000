@@ -1,0 +1,13 @@
+- pkg:composer/claroline/web-resource-bundle@1.0.0
+- pkg:composer/claroline/web-resource-bundle@1.0.1
+- pkg:composer/claroline/web-resource-bundle@1.0.2
+- pkg:composer/claroline/web-resource-bundle@2.0.0
+- pkg:composer/claroline/web-resource-bundle@3.0.0
+- pkg:composer/claroline/web-resource-bundle@4.0.0
+- pkg:composer/claroline/web-resource-bundle@4.0.1
+- pkg:composer/claroline/web-resource-bundle@5.0.0
+- pkg:composer/claroline/web-resource-bundle@5.0.1
+- pkg:composer/claroline/web-resource-bundle@6.0.0
+- pkg:composer/claroline/web-resource-bundle@6.0.1
+- pkg:composer/claroline/web-resource-bundle@6.0.2
+- pkg:composer/claroline/web-resource-bundle@6.0.3

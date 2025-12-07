@@ -1,0 +1,5 @@
+- pkg:composer/coff/state-machine-framework@v0.1
+- pkg:composer/coff/state-machine-framework@v0.2
+- pkg:composer/coff/state-machine-framework@v0.3
+- pkg:composer/coff/state-machine-framework@v1.0.0
+- pkg:composer/coff/state-machine-framework@v2.0.0-alpha

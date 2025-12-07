@@ -1,0 +1,6 @@
+- pkg:composer/codeception/module-queue@1.0.0
+- pkg:composer/codeception/module-queue@1.1.0
+- pkg:composer/codeception/module-queue@1.1.1
+- pkg:composer/codeception/module-queue@2.0.0
+- pkg:composer/codeception/module-queue@2.1.0
+- pkg:composer/codeception/module-queue@3.0.0

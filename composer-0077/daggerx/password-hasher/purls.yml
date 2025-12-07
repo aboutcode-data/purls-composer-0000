@@ -1,0 +1,3 @@
+- pkg:composer/daggerx/password-hasher@v1.0.0
+- pkg:composer/daggerx/password-hasher@v2.0.0
+- pkg:composer/daggerx/password-hasher@v3.0.0

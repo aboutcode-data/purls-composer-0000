@@ -1,0 +1,5 @@
+- pkg:composer/ci_jenkins/ci_jenkins@v0.2
+- pkg:composer/ci_jenkins/ci_jenkins@v0.3
+- pkg:composer/ci_jenkins/ci_jenkins@v0.4
+- pkg:composer/ci_jenkins/ci_jenkins@v0.5
+- pkg:composer/ci_jenkins/ci_jenkins@v0.6

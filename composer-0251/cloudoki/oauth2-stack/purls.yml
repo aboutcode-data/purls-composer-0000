@@ -1,0 +1,5 @@
+- pkg:composer/cloudoki/oauth2-stack@v0.4
+- pkg:composer/cloudoki/oauth2-stack@v0.5
+- pkg:composer/cloudoki/oauth2-stack@v0.6
+- pkg:composer/cloudoki/oauth2-stack@v5.1.0
+- pkg:composer/cloudoki/oauth2-stack@v5.1.1

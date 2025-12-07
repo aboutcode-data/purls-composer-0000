@@ -1,0 +1,7 @@
+- pkg:composer/cscfa_tool_division/phpunit_docker_bridge@1.0.0
+- pkg:composer/cscfa_tool_division/phpunit_docker_bridge@1.1.0
+- pkg:composer/cscfa_tool_division/phpunit_docker_bridge@2.0.0
+- pkg:composer/cscfa_tool_division/phpunit_docker_bridge@2.1.0
+- pkg:composer/cscfa_tool_division/phpunit_docker_bridge@2.1.1
+- pkg:composer/cscfa_tool_division/phpunit_docker_bridge@2.1.2
+- pkg:composer/cscfa_tool_division/phpunit_docker_bridge@2.1.3

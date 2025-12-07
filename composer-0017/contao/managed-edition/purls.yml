@@ -1,0 +1,15 @@
+- pkg:composer/contao/managed-edition@4.10
+- pkg:composer/contao/managed-edition@4.11
+- pkg:composer/contao/managed-edition@4.12
+- pkg:composer/contao/managed-edition@4.13
+- pkg:composer/contao/managed-edition@4.4
+- pkg:composer/contao/managed-edition@4.7
+- pkg:composer/contao/managed-edition@4.8
+- pkg:composer/contao/managed-edition@4.9
+- pkg:composer/contao/managed-edition@5.0
+- pkg:composer/contao/managed-edition@5.1
+- pkg:composer/contao/managed-edition@5.2
+- pkg:composer/contao/managed-edition@5.3
+- pkg:composer/contao/managed-edition@5.4
+- pkg:composer/contao/managed-edition@5.5
+- pkg:composer/contao/managed-edition@5.6

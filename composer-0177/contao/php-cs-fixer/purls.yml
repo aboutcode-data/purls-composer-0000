@@ -1,0 +1,5 @@
+- pkg:composer/contao/php-cs-fixer@1.0.0
+- pkg:composer/contao/php-cs-fixer@1.1.0
+- pkg:composer/contao/php-cs-fixer@2.0.0
+- pkg:composer/contao/php-cs-fixer@2.1.0
+- pkg:composer/contao/php-cs-fixer@2.2.0

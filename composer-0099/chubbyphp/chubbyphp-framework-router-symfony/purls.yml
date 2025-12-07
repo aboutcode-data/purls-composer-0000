@@ -1,0 +1,12 @@
+- pkg:composer/chubbyphp/chubbyphp-framework-router-symfony@1.0.0
+- pkg:composer/chubbyphp/chubbyphp-framework-router-symfony@1.1.0
+- pkg:composer/chubbyphp/chubbyphp-framework-router-symfony@1.1.1
+- pkg:composer/chubbyphp/chubbyphp-framework-router-symfony@1.2.0
+- pkg:composer/chubbyphp/chubbyphp-framework-router-symfony@1.2.1
+- pkg:composer/chubbyphp/chubbyphp-framework-router-symfony@1.2.2
+- pkg:composer/chubbyphp/chubbyphp-framework-router-symfony@1.2.3
+- pkg:composer/chubbyphp/chubbyphp-framework-router-symfony@1.2.4
+- pkg:composer/chubbyphp/chubbyphp-framework-router-symfony@2.0.0
+- pkg:composer/chubbyphp/chubbyphp-framework-router-symfony@2.1.0
+- pkg:composer/chubbyphp/chubbyphp-framework-router-symfony@2.2.0
+- pkg:composer/chubbyphp/chubbyphp-framework-router-symfony@2.3.0

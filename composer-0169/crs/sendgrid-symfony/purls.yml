@@ -1,0 +1,5 @@
+- pkg:composer/crs/sendgrid-symfony@v1.0.0
+- pkg:composer/crs/sendgrid-symfony@v1.0.1
+- pkg:composer/crs/sendgrid-symfony@v1.0.2
+- pkg:composer/crs/sendgrid-symfony@v1.0.3
+- pkg:composer/crs/sendgrid-symfony@v1.1.0

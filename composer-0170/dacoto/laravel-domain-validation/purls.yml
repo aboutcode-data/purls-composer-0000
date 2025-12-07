@@ -1,0 +1,10 @@
+- pkg:composer/dacoto/laravel-domain-validation@1.0.0
+- pkg:composer/dacoto/laravel-domain-validation@1.1.0
+- pkg:composer/dacoto/laravel-domain-validation@1.2.0
+- pkg:composer/dacoto/laravel-domain-validation@2.0.0
+- pkg:composer/dacoto/laravel-domain-validation@2.1.0
+- pkg:composer/dacoto/laravel-domain-validation@2.2.0
+- pkg:composer/dacoto/laravel-domain-validation@3.0.0
+- pkg:composer/dacoto/laravel-domain-validation@4.0.0
+- pkg:composer/dacoto/laravel-domain-validation@4.1.0
+- pkg:composer/dacoto/laravel-domain-validation@4.2.0

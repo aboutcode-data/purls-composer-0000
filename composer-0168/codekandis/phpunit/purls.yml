@@ -1,0 +1,6 @@
+- pkg:composer/codekandis/phpunit@1.0.0
+- pkg:composer/codekandis/phpunit@2.0.0
+- pkg:composer/codekandis/phpunit@2.0.1
+- pkg:composer/codekandis/phpunit@3.0.0
+- pkg:composer/codekandis/phpunit@4.0.0
+- pkg:composer/codekandis/phpunit@5.0.0

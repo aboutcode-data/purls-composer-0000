@@ -1,0 +1,5 @@
+- pkg:composer/christeredvartsen/php-bittorrent@0.2
+- pkg:composer/christeredvartsen/php-bittorrent@0.3.0
+- pkg:composer/christeredvartsen/php-bittorrent@1.0.0
+- pkg:composer/christeredvartsen/php-bittorrent@1.1.0
+- pkg:composer/christeredvartsen/php-bittorrent@v2.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/colinodell/omnipay-zero@v2.0.0
+- pkg:composer/colinodell/omnipay-zero@v2.1.0
+- pkg:composer/colinodell/omnipay-zero@v3.0-beta.1
+- pkg:composer/colinodell/omnipay-zero@v3.0.0

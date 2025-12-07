@@ -1,0 +1,6 @@
+- pkg:composer/cloudflare/cf-ip-rewrite@1.0.0
+- pkg:composer/cloudflare/cf-ip-rewrite@1.0.1
+- pkg:composer/cloudflare/cf-ip-rewrite@1.0.2
+- pkg:composer/cloudflare/cf-ip-rewrite@1.0.3
+- pkg:composer/cloudflare/cf-ip-rewrite@1.0.4
+- pkg:composer/cloudflare/cf-ip-rewrite@v0.5.0

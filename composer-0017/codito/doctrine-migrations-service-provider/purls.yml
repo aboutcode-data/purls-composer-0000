@@ -1,0 +1,8 @@
+- pkg:composer/codito/doctrine-migrations-service-provider@v0.1
+- pkg:composer/codito/doctrine-migrations-service-provider@v0.2
+- pkg:composer/codito/doctrine-migrations-service-provider@v0.3
+- pkg:composer/codito/doctrine-migrations-service-provider@v0.4
+- pkg:composer/codito/doctrine-migrations-service-provider@v0.5
+- pkg:composer/codito/doctrine-migrations-service-provider@v1.0.0
+- pkg:composer/codito/doctrine-migrations-service-provider@v2.0.0
+- pkg:composer/codito/doctrine-migrations-service-provider@v2.1.0

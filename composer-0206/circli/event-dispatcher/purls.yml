@@ -1,0 +1,12 @@
+- pkg:composer/circli/event-dispatcher@1.0.0
+- pkg:composer/circli/event-dispatcher@1.1.0
+- pkg:composer/circli/event-dispatcher@2.0.0
+- pkg:composer/circli/event-dispatcher@2.1.0
+- pkg:composer/circli/event-dispatcher@2.2.0
+- pkg:composer/circli/event-dispatcher@2.2.1
+- pkg:composer/circli/event-dispatcher@2.3.0
+- pkg:composer/circli/event-dispatcher@2.4.0
+- pkg:composer/circli/event-dispatcher@2.5.0
+- pkg:composer/circli/event-dispatcher@2.6.0
+- pkg:composer/circli/event-dispatcher@2.7.0
+- pkg:composer/circli/event-dispatcher@3.0.0
