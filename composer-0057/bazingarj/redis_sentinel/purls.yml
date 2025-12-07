@@ -1,0 +1,3 @@
+- pkg:composer/bazingarj/redis_sentinel@1.0.2
+- pkg:composer/bazingarj/redis_sentinel@1.1.0
+- pkg:composer/bazingarj/redis_sentinel@1.1.1

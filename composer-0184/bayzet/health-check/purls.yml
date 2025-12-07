@@ -1,0 +1,4 @@
+- pkg:composer/bayzet/health-check@1.0.1
+- pkg:composer/bayzet/health-check@2.0.0
+- pkg:composer/bayzet/health-check@v0.0.1
+- pkg:composer/bayzet/health-check@v1.0.0

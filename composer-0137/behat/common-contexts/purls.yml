@@ -1,0 +1,4 @@
+- pkg:composer/behat/common-contexts@v1.0.0
+- pkg:composer/behat/common-contexts@v1.1.0
+- pkg:composer/behat/common-contexts@v1.1.1
+- pkg:composer/behat/common-contexts@v1.2.0

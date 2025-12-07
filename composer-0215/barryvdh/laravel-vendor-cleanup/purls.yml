@@ -1,0 +1,9 @@
+- pkg:composer/barryvdh/laravel-vendor-cleanup@v1.0.0
+- pkg:composer/barryvdh/laravel-vendor-cleanup@v1.0.1
+- pkg:composer/barryvdh/laravel-vendor-cleanup@v1.1
+- pkg:composer/barryvdh/laravel-vendor-cleanup@v1.1.1
+- pkg:composer/barryvdh/laravel-vendor-cleanup@v1.2
+- pkg:composer/barryvdh/laravel-vendor-cleanup@v1.2.1
+- pkg:composer/barryvdh/laravel-vendor-cleanup@v1.2.2
+- pkg:composer/barryvdh/laravel-vendor-cleanup@v1.2.3
+- pkg:composer/barryvdh/laravel-vendor-cleanup@v1.2.4

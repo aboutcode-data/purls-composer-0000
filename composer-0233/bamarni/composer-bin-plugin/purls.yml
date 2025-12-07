@@ -1,0 +1,16 @@
+- pkg:composer/bamarni/composer-bin-plugin@1.4.0
+- pkg:composer/bamarni/composer-bin-plugin@1.4.1
+- pkg:composer/bamarni/composer-bin-plugin@1.4.2
+- pkg:composer/bamarni/composer-bin-plugin@1.6.0
+- pkg:composer/bamarni/composer-bin-plugin@1.7.0
+- pkg:composer/bamarni/composer-bin-plugin@1.8.0
+- pkg:composer/bamarni/composer-bin-plugin@1.8.1
+- pkg:composer/bamarni/composer-bin-plugin@1.8.2
+- pkg:composer/bamarni/composer-bin-plugin@1.8.3
+- pkg:composer/bamarni/composer-bin-plugin@v0.0.1
+- pkg:composer/bamarni/composer-bin-plugin@v0.0.2
+- pkg:composer/bamarni/composer-bin-plugin@v1.0.0
+- pkg:composer/bamarni/composer-bin-plugin@v1.1.0
+- pkg:composer/bamarni/composer-bin-plugin@v1.2.0
+- pkg:composer/bamarni/composer-bin-plugin@v1.3.0
+- pkg:composer/bamarni/composer-bin-plugin@v1.5.0

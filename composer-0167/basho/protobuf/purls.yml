@@ -1,0 +1,3 @@
+- pkg:composer/basho/protobuf@v1.0.0
+- pkg:composer/basho/protobuf@v1.0.1
+- pkg:composer/basho/protobuf@v2.0.0-alpha

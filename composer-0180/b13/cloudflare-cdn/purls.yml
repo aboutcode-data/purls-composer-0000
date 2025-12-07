@@ -1,0 +1,3 @@
+- pkg:composer/b13/cloudflare-cdn@1.0.0
+- pkg:composer/b13/cloudflare-cdn@2.0.0
+- pkg:composer/b13/cloudflare-cdn@2.0.1
