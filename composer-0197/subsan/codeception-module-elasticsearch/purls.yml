@@ -1,0 +1,4 @@
+- pkg:composer/subsan/codeception-module-elasticsearch@v1.0.0
+- pkg:composer/subsan/codeception-module-elasticsearch@v1.0.0-RC
+- pkg:composer/subsan/codeception-module-elasticsearch@v1.0.1
+- pkg:composer/subsan/codeception-module-elasticsearch@v1.0.1-RC

@@ -1,0 +1,5 @@
+- pkg:composer/taptima/phpstan-custom@1.0
+- pkg:composer/taptima/phpstan-custom@1.1
+- pkg:composer/taptima/phpstan-custom@2.0
+- pkg:composer/taptima/phpstan-custom@8.1.0
+- pkg:composer/taptima/phpstan-custom@8.1.1

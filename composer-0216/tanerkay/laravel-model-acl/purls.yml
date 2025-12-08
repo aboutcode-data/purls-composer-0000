@@ -1,0 +1,4 @@
+- pkg:composer/tanerkay/laravel-model-acl@v0.1-alpha
+- pkg:composer/tanerkay/laravel-model-acl@v0.2-beta
+- pkg:composer/tanerkay/laravel-model-acl@v0.3-beta
+- pkg:composer/tanerkay/laravel-model-acl@v0.4

@@ -1,0 +1,5 @@
+- pkg:composer/spaze/phpstan-disallowed-calls-nette@v1.0.0
+- pkg:composer/spaze/phpstan-disallowed-calls-nette@v2.0.0
+- pkg:composer/spaze/phpstan-disallowed-calls-nette@v2.0.1
+- pkg:composer/spaze/phpstan-disallowed-calls-nette@v2.0.2
+- pkg:composer/spaze/phpstan-disallowed-calls-nette@v3.0.0

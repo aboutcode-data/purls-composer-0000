@@ -1,0 +1,4 @@
+- pkg:composer/sparkcentral/psredis-bundle@0.1-alpha
+- pkg:composer/sparkcentral/psredis-bundle@0.1.1-alpha
+- pkg:composer/sparkcentral/psredis-bundle@0.2-alpha
+- pkg:composer/sparkcentral/psredis-bundle@0.2.1-alpha

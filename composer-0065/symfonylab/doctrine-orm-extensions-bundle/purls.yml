@@ -1,0 +1,4 @@
+- pkg:composer/symfonylab/doctrine-orm-extensions-bundle@v1.0.0
+- pkg:composer/symfonylab/doctrine-orm-extensions-bundle@v1.1.0
+- pkg:composer/symfonylab/doctrine-orm-extensions-bundle@v2.0.0
+- pkg:composer/symfonylab/doctrine-orm-extensions-bundle@v2.0.1

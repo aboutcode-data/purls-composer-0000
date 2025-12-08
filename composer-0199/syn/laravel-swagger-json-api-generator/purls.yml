@@ -1,0 +1,4 @@
+- pkg:composer/syn/laravel-swagger-json-api-generator@0.1.4
+- pkg:composer/syn/laravel-swagger-json-api-generator@0.1.7
+- pkg:composer/syn/laravel-swagger-json-api-generator@0.2.0
+- pkg:composer/syn/laravel-swagger-json-api-generator@0.2.15

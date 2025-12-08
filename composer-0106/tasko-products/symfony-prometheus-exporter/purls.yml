@@ -1,0 +1,5 @@
+- pkg:composer/tasko-products/symfony-prometheus-exporter@1.0.0
+- pkg:composer/tasko-products/symfony-prometheus-exporter@2.0.0
+- pkg:composer/tasko-products/symfony-prometheus-exporter@2.1.0
+- pkg:composer/tasko-products/symfony-prometheus-exporter@2.2.0
+- pkg:composer/tasko-products/symfony-prometheus-exporter@3.0.0

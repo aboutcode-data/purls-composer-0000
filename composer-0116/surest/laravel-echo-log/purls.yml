@@ -1,0 +1,3 @@
+- pkg:composer/surest/laravel-echo-log@1.0
+- pkg:composer/surest/laravel-echo-log@v2.0
+- pkg:composer/surest/laravel-echo-log@v2.1

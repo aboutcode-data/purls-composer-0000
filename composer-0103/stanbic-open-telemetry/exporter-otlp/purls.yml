@@ -1,0 +1,2 @@
+- pkg:composer/stanbic-open-telemetry/exporter-otlp@1.0.0
+- pkg:composer/stanbic-open-telemetry/exporter-otlp@2.0.0

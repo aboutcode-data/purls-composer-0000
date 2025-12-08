@@ -1,0 +1,3 @@
+- pkg:composer/sounoob/pagseguro-php-sdk-boleto@0.1
+- pkg:composer/sounoob/pagseguro-php-sdk-boleto@1.0
+- pkg:composer/sounoob/pagseguro-php-sdk-boleto@1.01

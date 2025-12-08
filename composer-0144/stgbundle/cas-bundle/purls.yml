@@ -1,0 +1,10 @@
+- pkg:composer/stgbundle/cas-bundle@3.2
+- pkg:composer/stgbundle/cas-bundle@4.0
+- pkg:composer/stgbundle/cas-bundle@4.0.1
+- pkg:composer/stgbundle/cas-bundle@4.0.2
+- pkg:composer/stgbundle/cas-bundle@5.0
+- pkg:composer/stgbundle/cas-bundle@6.0
+- pkg:composer/stgbundle/cas-bundle@6.1
+- pkg:composer/stgbundle/cas-bundle@6.2
+- pkg:composer/stgbundle/cas-bundle@7.0
+- pkg:composer/stgbundle/cas-bundle@7.1

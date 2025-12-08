@@ -1,0 +1,4 @@
+- pkg:composer/tawfekov/zf2entityaudit@0.1-stable
+- pkg:composer/tawfekov/zf2entityaudit@0.2-alpha
+- pkg:composer/tawfekov/zf2entityaudit@0.2-beta
+- pkg:composer/tawfekov/zf2entityaudit@0.2-stable

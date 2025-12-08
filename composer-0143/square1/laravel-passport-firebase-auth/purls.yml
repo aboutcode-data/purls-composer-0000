@@ -1,0 +1,10 @@
+- pkg:composer/square1/laravel-passport-firebase-auth@0.5
+- pkg:composer/square1/laravel-passport-firebase-auth@1.0.0
+- pkg:composer/square1/laravel-passport-firebase-auth@2.0.0
+- pkg:composer/square1/laravel-passport-firebase-auth@2.0.1
+- pkg:composer/square1/laravel-passport-firebase-auth@2.0.2
+- pkg:composer/square1/laravel-passport-firebase-auth@2.1.0
+- pkg:composer/square1/laravel-passport-firebase-auth@2.1.1
+- pkg:composer/square1/laravel-passport-firebase-auth@2.2.0
+- pkg:composer/square1/laravel-passport-firebase-auth@2.2.1
+- pkg:composer/square1/laravel-passport-firebase-auth@3.1.0

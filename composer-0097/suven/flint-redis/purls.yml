@@ -1,0 +1,3 @@
+- pkg:composer/suven/flint-redis@v0.0.1
+- pkg:composer/suven/flint-redis@v1.0-BETA
+- pkg:composer/suven/flint-redis@v1.0.0

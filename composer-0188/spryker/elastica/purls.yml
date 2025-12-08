@@ -1,0 +1,9 @@
+- pkg:composer/spryker/elastica@0.20.0
+- pkg:composer/spryker/elastica@1.0.0
+- pkg:composer/spryker/elastica@2.0.0
+- pkg:composer/spryker/elastica@2.0.0-RC1
+- pkg:composer/spryker/elastica@2.0.0-RC2
+- pkg:composer/spryker/elastica@3.0.0
+- pkg:composer/spryker/elastica@4.0.0
+- pkg:composer/spryker/elastica@5.0.0
+- pkg:composer/spryker/elastica@6.0.0

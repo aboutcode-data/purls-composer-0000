@@ -1,0 +1,6 @@
+- pkg:composer/sugatech/oauth2-client-credentials-laravel@20.0.1
+- pkg:composer/sugatech/oauth2-client-credentials-laravel@20.0.2
+- pkg:composer/sugatech/oauth2-client-credentials-laravel@20.1.0
+- pkg:composer/sugatech/oauth2-client-credentials-laravel@20.1.1
+- pkg:composer/sugatech/oauth2-client-credentials-laravel@20.2.0
+- pkg:composer/sugatech/oauth2-client-credentials-laravel@21.0.0

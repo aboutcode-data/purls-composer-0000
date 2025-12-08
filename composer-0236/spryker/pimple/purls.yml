@@ -1,0 +1,5 @@
+- pkg:composer/spryker/pimple@0.20.0
+- pkg:composer/spryker/pimple@1.0.0
+- pkg:composer/spryker/pimple@2.0.0
+- pkg:composer/spryker/pimple@2.0.0-RC1
+- pkg:composer/spryker/pimple@2.0.0-RC2

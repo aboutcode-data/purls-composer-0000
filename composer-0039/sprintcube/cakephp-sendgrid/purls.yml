@@ -1,0 +1,4 @@
+- pkg:composer/sprintcube/cakephp-sendgrid@4.0.1
+- pkg:composer/sprintcube/cakephp-sendgrid@5.0.0
+- pkg:composer/sprintcube/cakephp-sendgrid@v1.0.0
+- pkg:composer/sprintcube/cakephp-sendgrid@v4.0.0

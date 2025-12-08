@@ -1,0 +1,2 @@
+- pkg:composer/sylae/doctrine-dbal-session-handler@v0.1
+- pkg:composer/sylae/doctrine-dbal-session-handler@v0.2

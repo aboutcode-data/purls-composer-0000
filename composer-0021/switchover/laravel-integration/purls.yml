@@ -1,0 +1,6 @@
+- pkg:composer/switchover/laravel-integration@0.5.0-alpha
+- pkg:composer/switchover/laravel-integration@0.5.1-alpha
+- pkg:composer/switchover/laravel-integration@0.5.2-alpha
+- pkg:composer/switchover/laravel-integration@0.5.3-alpha
+- pkg:composer/switchover/laravel-integration@0.5.4
+- pkg:composer/switchover/laravel-integration@0.5.4-alpha

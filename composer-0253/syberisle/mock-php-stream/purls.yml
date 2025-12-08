@@ -1,0 +1,4 @@
+- pkg:composer/syberisle/mock-php-stream@1.0.0
+- pkg:composer/syberisle/mock-php-stream@1.0.1
+- pkg:composer/syberisle/mock-php-stream@1.1.0
+- pkg:composer/syberisle/mock-php-stream@2.0.0

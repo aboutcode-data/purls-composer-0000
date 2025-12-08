@@ -1,0 +1,4 @@
+- pkg:composer/spiral-packages/laravel-validator@1.0.0
+- pkg:composer/spiral-packages/laravel-validator@1.0.1
+- pkg:composer/spiral-packages/laravel-validator@1.1.0
+- pkg:composer/spiral-packages/laravel-validator@1.2.0

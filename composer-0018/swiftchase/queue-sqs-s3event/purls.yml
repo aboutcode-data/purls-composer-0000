@@ -1,0 +1,2 @@
+- pkg:composer/swiftchase/queue-sqs-s3event@0.1.0
+- pkg:composer/swiftchase/queue-sqs-s3event@0.1.1

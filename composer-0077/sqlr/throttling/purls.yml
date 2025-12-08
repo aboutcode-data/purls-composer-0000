@@ -1,0 +1,3 @@
+- pkg:composer/sqlr/throttling@v0.0.1
+- pkg:composer/sqlr/throttling@v0.1.0
+- pkg:composer/sqlr/throttling@v0.1.1

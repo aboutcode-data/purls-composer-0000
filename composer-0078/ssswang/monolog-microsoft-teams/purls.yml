@@ -1,0 +1,15 @@
+- pkg:composer/ssswang/monolog-microsoft-teams@1.0.0
+- pkg:composer/ssswang/monolog-microsoft-teams@1.1.0
+- pkg:composer/ssswang/monolog-microsoft-teams@1.2.0
+- pkg:composer/ssswang/monolog-microsoft-teams@1.3.0
+- pkg:composer/ssswang/monolog-microsoft-teams@v1.0.5
+- pkg:composer/ssswang/monolog-microsoft-teams@v2.0.0
+- pkg:composer/ssswang/monolog-microsoft-teams@v2.0.1
+- pkg:composer/ssswang/monolog-microsoft-teams@v2.1.0
+- pkg:composer/ssswang/monolog-microsoft-teams@v2.1.1
+- pkg:composer/ssswang/monolog-microsoft-teams@v3.0.0
+- pkg:composer/ssswang/monolog-microsoft-teams@v3.0.2
+- pkg:composer/ssswang/monolog-microsoft-teams@v3.0.6
+- pkg:composer/ssswang/monolog-microsoft-teams@v3.0.7
+- pkg:composer/ssswang/monolog-microsoft-teams@v4.0.0
+- pkg:composer/ssswang/monolog-microsoft-teams@v5.0.0

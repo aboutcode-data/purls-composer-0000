@@ -1,0 +1,6 @@
+- pkg:composer/tapp/laravel-aws-secrets-manager@v0.10
+- pkg:composer/tapp/laravel-aws-secrets-manager@v0.11
+- pkg:composer/tapp/laravel-aws-secrets-manager@v0.12
+- pkg:composer/tapp/laravel-aws-secrets-manager@v0.9
+- pkg:composer/tapp/laravel-aws-secrets-manager@v1.0.0
+- pkg:composer/tapp/laravel-aws-secrets-manager@v2.0.0

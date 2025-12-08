@@ -1,0 +1,13 @@
+- pkg:composer/symfony/polyfill-php81@v1.22.0
+- pkg:composer/symfony/polyfill-php81@v1.22.1
+- pkg:composer/symfony/polyfill-php81@v1.23.0
+- pkg:composer/symfony/polyfill-php81@v1.24.0
+- pkg:composer/symfony/polyfill-php81@v1.25.0
+- pkg:composer/symfony/polyfill-php81@v1.26.0
+- pkg:composer/symfony/polyfill-php81@v1.27.0
+- pkg:composer/symfony/polyfill-php81@v1.28.0
+- pkg:composer/symfony/polyfill-php81@v1.29.0
+- pkg:composer/symfony/polyfill-php81@v1.30.0
+- pkg:composer/symfony/polyfill-php81@v1.31.0
+- pkg:composer/symfony/polyfill-php81@v1.32.0
+- pkg:composer/symfony/polyfill-php81@v1.33.0

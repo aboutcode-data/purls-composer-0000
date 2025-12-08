@@ -1,0 +1,10 @@
+- pkg:composer/spryker/silex@0.20.0
+- pkg:composer/spryker/silex@1.0.0
+- pkg:composer/spryker/silex@2.0.0
+- pkg:composer/spryker/silex@2.0.0-RC1
+- pkg:composer/spryker/silex@2.0.0-RC2
+- pkg:composer/spryker/silex@2.0.1
+- pkg:composer/spryker/silex@2.1.0
+- pkg:composer/spryker/silex@2.1.1
+- pkg:composer/spryker/silex@2.2.0
+- pkg:composer/spryker/silex@2.2.1

@@ -1,0 +1,4 @@
+- pkg:composer/starlit/request-authenticator@1.0.0
+- pkg:composer/starlit/request-authenticator@1.0.1
+- pkg:composer/starlit/request-authenticator@2.0.0
+- pkg:composer/starlit/request-authenticator@2.0.1

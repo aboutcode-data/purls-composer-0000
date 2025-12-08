@@ -1,0 +1,3 @@
+- pkg:composer/spekkionu/sqs-queue-driver@1.0.0
+- pkg:composer/spekkionu/sqs-queue-driver@2.0.0
+- pkg:composer/spekkionu/sqs-queue-driver@v3.0.0

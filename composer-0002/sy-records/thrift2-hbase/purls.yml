@@ -1,0 +1,5 @@
+- pkg:composer/sy-records/thrift2-hbase@v0.0.1
+- pkg:composer/sy-records/thrift2-hbase@v1.0.0
+- pkg:composer/sy-records/thrift2-hbase@v1.0.1
+- pkg:composer/sy-records/thrift2-hbase@v1.0.2
+- pkg:composer/sy-records/thrift2-hbase@v1.1.0

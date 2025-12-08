@@ -1,0 +1,8 @@
+- pkg:composer/sourcebroker/deployer-extended-magento@1.0.0
+- pkg:composer/sourcebroker/deployer-extended-magento@2.0.0
+- pkg:composer/sourcebroker/deployer-extended-magento@3.0.0
+- pkg:composer/sourcebroker/deployer-extended-magento@3.0.1
+- pkg:composer/sourcebroker/deployer-extended-magento@3.0.2
+- pkg:composer/sourcebroker/deployer-extended-magento@4.0.0
+- pkg:composer/sourcebroker/deployer-extended-magento@4.0.1
+- pkg:composer/sourcebroker/deployer-extended-magento@5.0.0

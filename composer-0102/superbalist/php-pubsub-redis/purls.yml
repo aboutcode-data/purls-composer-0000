@@ -1,0 +1,3 @@
+- pkg:composer/superbalist/php-pubsub-redis@1.0.0
+- pkg:composer/superbalist/php-pubsub-redis@1.0.1
+- pkg:composer/superbalist/php-pubsub-redis@2.0.0

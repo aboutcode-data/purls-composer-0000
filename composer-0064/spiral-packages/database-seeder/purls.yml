@@ -1,0 +1,12 @@
+- pkg:composer/spiral-packages/database-seeder@2.0.0
+- pkg:composer/spiral-packages/database-seeder@2.1.0
+- pkg:composer/spiral-packages/database-seeder@2.1.1
+- pkg:composer/spiral-packages/database-seeder@2.1.2
+- pkg:composer/spiral-packages/database-seeder@3.0.0
+- pkg:composer/spiral-packages/database-seeder@3.1.0
+- pkg:composer/spiral-packages/database-seeder@3.1.1
+- pkg:composer/spiral-packages/database-seeder@3.2.0
+- pkg:composer/spiral-packages/database-seeder@3.3.0
+- pkg:composer/spiral-packages/database-seeder@v2.2.1
+- pkg:composer/spiral-packages/database-seeder@v2.3.0
+- pkg:composer/spiral-packages/database-seeder@v2.4.0

@@ -1,0 +1,9 @@
+- pkg:composer/sourcebroker/deployer-extended-symfony3@0.0.1
+- pkg:composer/sourcebroker/deployer-extended-symfony3@0.0.2
+- pkg:composer/sourcebroker/deployer-extended-symfony3@0.0.3
+- pkg:composer/sourcebroker/deployer-extended-symfony3@0.0.4
+- pkg:composer/sourcebroker/deployer-extended-symfony3@0.0.5
+- pkg:composer/sourcebroker/deployer-extended-symfony3@0.0.6
+- pkg:composer/sourcebroker/deployer-extended-symfony3@1.0.0
+- pkg:composer/sourcebroker/deployer-extended-symfony3@2.0.0
+- pkg:composer/sourcebroker/deployer-extended-symfony3@2.0.1
