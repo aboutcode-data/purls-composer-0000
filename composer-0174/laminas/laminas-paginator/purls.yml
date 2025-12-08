@@ -88,3 +88,4 @@
 - pkg:composer/laminas/laminas-paginator@2.8.4
 - pkg:composer/laminas/laminas-paginator@2.9.0
 - pkg:composer/laminas/laminas-paginator@3.0.0
+- pkg:composer/laminas/laminas-paginator@3.0.1
