@@ -1,1 +1,2 @@
 - pkg:composer/league/uri-polyfill@7.6.0
+- pkg:composer/league/uri-polyfill@7.7.0
