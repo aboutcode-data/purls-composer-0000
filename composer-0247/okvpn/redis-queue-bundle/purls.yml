@@ -1,0 +1,3 @@
+- pkg:composer/okvpn/redis-queue-bundle@1.0.0
+- pkg:composer/okvpn/redis-queue-bundle@1.1.0
+- pkg:composer/okvpn/redis-queue-bundle@1.1.1

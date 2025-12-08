@@ -1,0 +1,5 @@
+- pkg:composer/okolesnyk/composer_verifier@3.0.0
+- pkg:composer/okolesnyk/composer_verifier@3.0.0-RC1
+- pkg:composer/okolesnyk/composer_verifier@3.0.0-beta1
+- pkg:composer/okolesnyk/composer_verifier@3.0.1
+- pkg:composer/okolesnyk/composer_verifier@3.0.2

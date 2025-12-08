@@ -1,0 +1,9 @@
+- pkg:composer/pestphp/pest-plugin-faker@v0.1.0
+- pkg:composer/pestphp/pest-plugin-faker@v0.1.1
+- pkg:composer/pestphp/pest-plugin-faker@v0.2.0
+- pkg:composer/pestphp/pest-plugin-faker@v0.3.0
+- pkg:composer/pestphp/pest-plugin-faker@v0.3.1
+- pkg:composer/pestphp/pest-plugin-faker@v1.0.0
+- pkg:composer/pestphp/pest-plugin-faker@v2.0.0
+- pkg:composer/pestphp/pest-plugin-faker@v3.0.0
+- pkg:composer/pestphp/pest-plugin-faker@v4.0.0

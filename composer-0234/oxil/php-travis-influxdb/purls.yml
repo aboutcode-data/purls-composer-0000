@@ -1,0 +1,7 @@
+- pkg:composer/oxil/php-travis-influxdb@0.1
+- pkg:composer/oxil/php-travis-influxdb@0.2
+- pkg:composer/oxil/php-travis-influxdb@0.3
+- pkg:composer/oxil/php-travis-influxdb@0.4
+- pkg:composer/oxil/php-travis-influxdb@0.5
+- pkg:composer/oxil/php-travis-influxdb@0.6
+- pkg:composer/oxil/php-travis-influxdb@0.7

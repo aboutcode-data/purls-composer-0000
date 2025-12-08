@@ -1,0 +1,9 @@
+- pkg:composer/palmtree/wp-custom-post-type@v0.9.5
+- pkg:composer/palmtree/wp-custom-post-type@v0.9.6
+- pkg:composer/palmtree/wp-custom-post-type@v0.9.7
+- pkg:composer/palmtree/wp-custom-post-type@v1.0.0
+- pkg:composer/palmtree/wp-custom-post-type@v2.0.0
+- pkg:composer/palmtree/wp-custom-post-type@v3.0.0
+- pkg:composer/palmtree/wp-custom-post-type@v3.0.1
+- pkg:composer/palmtree/wp-custom-post-type@v3.1.0
+- pkg:composer/palmtree/wp-custom-post-type@v4.0.0

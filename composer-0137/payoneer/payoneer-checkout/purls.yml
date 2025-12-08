@@ -1,0 +1,5 @@
+- pkg:composer/payoneer/payoneer-checkout@0.7
+- pkg:composer/payoneer/payoneer-checkout@0.8
+- pkg:composer/payoneer/payoneer-checkout@0.8.1
+- pkg:composer/payoneer/payoneer-checkout@0.8.2
+- pkg:composer/payoneer/payoneer-checkout@0.8.3

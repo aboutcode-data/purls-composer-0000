@@ -1,0 +1,5 @@
+- pkg:composer/ocramius/psr7-csrf@1.0.0
+- pkg:composer/ocramius/psr7-csrf@1.0.0-ALPHA1
+- pkg:composer/ocramius/psr7-csrf@1.0.1
+- pkg:composer/ocramius/psr7-csrf@1.0.2
+- pkg:composer/ocramius/psr7-csrf@2.0.0

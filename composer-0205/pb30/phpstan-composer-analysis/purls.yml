@@ -1,0 +1,15 @@
+- pkg:composer/pb30/phpstan-composer-analysis@v0.1
+- pkg:composer/pb30/phpstan-composer-analysis@v0.10.0
+- pkg:composer/pb30/phpstan-composer-analysis@v0.11.0
+- pkg:composer/pb30/phpstan-composer-analysis@v0.12.0
+- pkg:composer/pb30/phpstan-composer-analysis@v0.2
+- pkg:composer/pb30/phpstan-composer-analysis@v0.3.0
+- pkg:composer/pb30/phpstan-composer-analysis@v0.4.0
+- pkg:composer/pb30/phpstan-composer-analysis@v0.5.0
+- pkg:composer/pb30/phpstan-composer-analysis@v0.6.0
+- pkg:composer/pb30/phpstan-composer-analysis@v0.7.0
+- pkg:composer/pb30/phpstan-composer-analysis@v0.7.1
+- pkg:composer/pb30/phpstan-composer-analysis@v0.8.0
+- pkg:composer/pb30/phpstan-composer-analysis@v0.9.0
+- pkg:composer/pb30/phpstan-composer-analysis@v1.0.0
+- pkg:composer/pb30/phpstan-composer-analysis@v1.1.0

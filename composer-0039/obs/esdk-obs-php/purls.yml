@@ -1,0 +1,8 @@
+- pkg:composer/obs/esdk-obs-php@3.0.2
+- pkg:composer/obs/esdk-obs-php@3.1.3
+- pkg:composer/obs/esdk-obs-php@3.19.9
+- pkg:composer/obs/esdk-obs-php@3.21.6
+- pkg:composer/obs/esdk-obs-php@3.22.6
+- pkg:composer/obs/esdk-obs-php@3.23.11
+- pkg:composer/obs/esdk-obs-php@3.23.5
+- pkg:composer/obs/esdk-obs-php@3.24.9

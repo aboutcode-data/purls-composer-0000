@@ -1,0 +1,4 @@
+- pkg:composer/nordsoftware/lumen-oauth2-dynamodb@0.1.0
+- pkg:composer/nordsoftware/lumen-oauth2-dynamodb@0.1.1
+- pkg:composer/nordsoftware/lumen-oauth2-dynamodb@0.2.0
+- pkg:composer/nordsoftware/lumen-oauth2-dynamodb@0.2.1

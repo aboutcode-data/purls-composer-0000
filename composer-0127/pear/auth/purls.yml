@@ -1,0 +1,4 @@
+- pkg:composer/pear/auth@0.0.1-beta
+- pkg:composer/pear/auth@0.0.2-beta
+- pkg:composer/pear/auth@0.0.3
+- pkg:composer/pear/auth@1.6.4

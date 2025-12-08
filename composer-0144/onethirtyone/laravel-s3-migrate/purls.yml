@@ -1,0 +1,4 @@
+- pkg:composer/onethirtyone/laravel-s3-migrate@1.0
+- pkg:composer/onethirtyone/laravel-s3-migrate@2.0
+- pkg:composer/onethirtyone/laravel-s3-migrate@v2.1
+- pkg:composer/onethirtyone/laravel-s3-migrate@v2.2

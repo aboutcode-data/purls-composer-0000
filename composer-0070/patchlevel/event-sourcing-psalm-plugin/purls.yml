@@ -1,0 +1,9 @@
+- pkg:composer/patchlevel/event-sourcing-psalm-plugin@1.0.0
+- pkg:composer/patchlevel/event-sourcing-psalm-plugin@2.0.0
+- pkg:composer/patchlevel/event-sourcing-psalm-plugin@2.0.1
+- pkg:composer/patchlevel/event-sourcing-psalm-plugin@2.1.0
+- pkg:composer/patchlevel/event-sourcing-psalm-plugin@2.2.0
+- pkg:composer/patchlevel/event-sourcing-psalm-plugin@3.0.0
+- pkg:composer/patchlevel/event-sourcing-psalm-plugin@3.0.0-rc1
+- pkg:composer/patchlevel/event-sourcing-psalm-plugin@3.1.0
+- pkg:composer/patchlevel/event-sourcing-psalm-plugin@3.2.0

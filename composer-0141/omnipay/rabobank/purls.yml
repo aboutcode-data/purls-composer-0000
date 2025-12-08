@@ -1,0 +1,5 @@
+- pkg:composer/omnipay/rabobank@v2.0.0
+- pkg:composer/omnipay/rabobank@v2.0.1
+- pkg:composer/omnipay/rabobank@v3.0.0
+- pkg:composer/omnipay/rabobank@v3.0.0-beta1
+- pkg:composer/omnipay/rabobank@v3.1.0

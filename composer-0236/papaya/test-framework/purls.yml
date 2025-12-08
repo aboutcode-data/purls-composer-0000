@@ -1,0 +1,4 @@
+- pkg:composer/papaya/test-framework@5.6.0-RC1
+- pkg:composer/papaya/test-framework@6.0.0
+- pkg:composer/papaya/test-framework@6.0.1
+- pkg:composer/papaya/test-framework@6.7.0

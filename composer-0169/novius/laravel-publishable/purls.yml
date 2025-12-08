@@ -1,0 +1,5 @@
+- pkg:composer/novius/laravel-publishable@1.0.0
+- pkg:composer/novius/laravel-publishable@2.0.0
+- pkg:composer/novius/laravel-publishable@3.0.0
+- pkg:composer/novius/laravel-publishable@3.1.0
+- pkg:composer/novius/laravel-publishable@3.1.1

@@ -1,0 +1,6 @@
+- pkg:composer/pasarkode/php-memcached@1.1
+- pkg:composer/pasarkode/php-memcached@1.2
+- pkg:composer/pasarkode/php-memcached@1.3
+- pkg:composer/pasarkode/php-memcached@1.4
+- pkg:composer/pasarkode/php-memcached@1.5
+- pkg:composer/pasarkode/php-memcached@1.7

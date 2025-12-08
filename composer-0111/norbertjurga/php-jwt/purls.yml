@@ -1,0 +1,12 @@
+- pkg:composer/norbertjurga/php-jwt@1.0.0
+- pkg:composer/norbertjurga/php-jwt@2.0.0
+- pkg:composer/norbertjurga/php-jwt@6.0
+- pkg:composer/norbertjurga/php-jwt@v2.1.0
+- pkg:composer/norbertjurga/php-jwt@v2.2.0
+- pkg:composer/norbertjurga/php-jwt@v3.0.0
+- pkg:composer/norbertjurga/php-jwt@v4.0.0
+- pkg:composer/norbertjurga/php-jwt@v5.0.0
+- pkg:composer/norbertjurga/php-jwt@v5.1.0
+- pkg:composer/norbertjurga/php-jwt@v5.2.0
+- pkg:composer/norbertjurga/php-jwt@v5.2.1
+- pkg:composer/norbertjurga/php-jwt@v5.3.0

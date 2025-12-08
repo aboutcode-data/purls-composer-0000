@@ -1,0 +1,7 @@
+- pkg:composer/onesignal/onesignal-php-api@2.1.0
+- pkg:composer/onesignal/onesignal-php-api@2.2.0
+- pkg:composer/onesignal/onesignal-php-api@2.2.1
+- pkg:composer/onesignal/onesignal-php-api@5.1.0-beta1
+- pkg:composer/onesignal/onesignal-php-api@5.2.0-beta1
+- pkg:composer/onesignal/onesignal-php-api@5.2.1-beta1
+- pkg:composer/onesignal/onesignal-php-api@5.3.0-beta1

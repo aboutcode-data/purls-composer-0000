@@ -1,0 +1,4 @@
+- pkg:composer/octava/symfony-json-schema-form@1.0.0
+- pkg:composer/octava/symfony-json-schema-form@2.0.0
+- pkg:composer/octava/symfony-json-schema-form@2.0.1
+- pkg:composer/octava/symfony-json-schema-form@3.0.1

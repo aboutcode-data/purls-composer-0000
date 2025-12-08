@@ -1,0 +1,6 @@
+- pkg:composer/pakpak/jwt-auth@1.0
+- pkg:composer/pakpak/jwt-auth@1.5
+- pkg:composer/pakpak/jwt-auth@1.5.2
+- pkg:composer/pakpak/jwt-auth@1.5.3
+- pkg:composer/pakpak/jwt-auth@2.0.0
+- pkg:composer/pakpak/jwt-auth@2.1.4

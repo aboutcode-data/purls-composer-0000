@@ -1,0 +1,14 @@
+- pkg:composer/ocramius/doctrine-batch-utils@1.0.0
+- pkg:composer/ocramius/doctrine-batch-utils@1.1.0
+- pkg:composer/ocramius/doctrine-batch-utils@2.0.0
+- pkg:composer/ocramius/doctrine-batch-utils@2.1.0
+- pkg:composer/ocramius/doctrine-batch-utils@2.10.0
+- pkg:composer/ocramius/doctrine-batch-utils@2.11.0
+- pkg:composer/ocramius/doctrine-batch-utils@2.2.0
+- pkg:composer/ocramius/doctrine-batch-utils@2.3.0
+- pkg:composer/ocramius/doctrine-batch-utils@2.4.0
+- pkg:composer/ocramius/doctrine-batch-utils@2.5.0
+- pkg:composer/ocramius/doctrine-batch-utils@2.6.0
+- pkg:composer/ocramius/doctrine-batch-utils@2.7.0
+- pkg:composer/ocramius/doctrine-batch-utils@2.8.0
+- pkg:composer/ocramius/doctrine-batch-utils@2.9.0

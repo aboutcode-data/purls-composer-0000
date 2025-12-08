@@ -1,0 +1,11 @@
+- pkg:composer/payarc/payarc-sdk-php@v1.4.0-alpha
+- pkg:composer/payarc/payarc-sdk-php@v1.4.0-alpha.1
+- pkg:composer/payarc/payarc-sdk-php@v1.4.0-alpha.2
+- pkg:composer/payarc/payarc-sdk-php@v1.4.0-alpha.3
+- pkg:composer/payarc/payarc-sdk-php@v1.5.0-alpha
+- pkg:composer/payarc/payarc-sdk-php@v1.5.0-alpha.1
+- pkg:composer/payarc/payarc-sdk-php@v1.5.0-alpha.2
+- pkg:composer/payarc/payarc-sdk-php@v1.6.0-alpha
+- pkg:composer/payarc/payarc-sdk-php@v1.7.0-alpha
+- pkg:composer/payarc/payarc-sdk-php@v1.7.1-alpha
+- pkg:composer/payarc/payarc-sdk-php@v1.8.0-alpha

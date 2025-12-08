@@ -1,0 +1,6 @@
+- pkg:composer/paunin/laravel-ps-redis@1.3.0
+- pkg:composer/paunin/laravel-ps-redis@2.0.0
+- pkg:composer/paunin/laravel-ps-redis@v1.0
+- pkg:composer/paunin/laravel-ps-redis@v1.1
+- pkg:composer/paunin/laravel-ps-redis@v1.2
+- pkg:composer/paunin/laravel-ps-redis@v1.2.1

@@ -1,0 +1,17 @@
+- pkg:composer/petrknap/binary@v1.0.0
+- pkg:composer/petrknap/binary@v1.1.0
+- pkg:composer/petrknap/binary@v1.2.0
+- pkg:composer/petrknap/binary@v1.3.0
+- pkg:composer/petrknap/binary@v2.0.0
+- pkg:composer/petrknap/binary@v2.1.0
+- pkg:composer/petrknap/binary@v3.0.0
+- pkg:composer/petrknap/binary@v3.1.0
+- pkg:composer/petrknap/binary@v4.0.0
+- pkg:composer/petrknap/binary@v4.1.0
+- pkg:composer/petrknap/binary@v4.1.1
+- pkg:composer/petrknap/binary@v4.2.0
+- pkg:composer/petrknap/binary@v4.3.0
+- pkg:composer/petrknap/binary@v4.3.1
+- pkg:composer/petrknap/binary@v5.0.0-rc.1
+- pkg:composer/petrknap/binary@v5.0.0-rc.2
+- pkg:composer/petrknap/binary@v5.0.0-rc.3

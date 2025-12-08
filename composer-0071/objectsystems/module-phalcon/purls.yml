@@ -1,0 +1,4 @@
+- pkg:composer/objectsystems/module-phalcon@1.0.0
+- pkg:composer/objectsystems/module-phalcon@1.1.0
+- pkg:composer/objectsystems/module-phalcon@2.0.0
+- pkg:composer/objectsystems/module-phalcon@2.0.1

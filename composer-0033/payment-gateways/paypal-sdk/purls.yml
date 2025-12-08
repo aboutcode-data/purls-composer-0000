@@ -1,0 +1,11 @@
+- pkg:composer/payment-gateways/paypal-sdk@v0.1.0
+- pkg:composer/payment-gateways/paypal-sdk@v0.1.1
+- pkg:composer/payment-gateways/paypal-sdk@v0.2.0
+- pkg:composer/payment-gateways/paypal-sdk@v1.0.0
+- pkg:composer/payment-gateways/paypal-sdk@v1.0.1
+- pkg:composer/payment-gateways/paypal-sdk@v1.0.2
+- pkg:composer/payment-gateways/paypal-sdk@v1.0.3
+- pkg:composer/payment-gateways/paypal-sdk@v1.0.4
+- pkg:composer/payment-gateways/paypal-sdk@v1.0.5
+- pkg:composer/payment-gateways/paypal-sdk@v1.1.0
+- pkg:composer/payment-gateways/paypal-sdk@v1.2.0

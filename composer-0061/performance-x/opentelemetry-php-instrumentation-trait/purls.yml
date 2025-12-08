@@ -1,0 +1,5 @@
+- pkg:composer/performance-x/opentelemetry-php-instrumentation-trait@1.0.0
+- pkg:composer/performance-x/opentelemetry-php-instrumentation-trait@v1.0.1
+- pkg:composer/performance-x/opentelemetry-php-instrumentation-trait@v1.0.2
+- pkg:composer/performance-x/opentelemetry-php-instrumentation-trait@v1.1.0
+- pkg:composer/performance-x/opentelemetry-php-instrumentation-trait@v1.1.1

@@ -1,0 +1,4 @@
+- pkg:composer/orklah/psalm-strict-numeric-cast@v1.0.0
+- pkg:composer/orklah/psalm-strict-numeric-cast@v1.0.1
+- pkg:composer/orklah/psalm-strict-numeric-cast@v2.0.0
+- pkg:composer/orklah/psalm-strict-numeric-cast@v2.1.0

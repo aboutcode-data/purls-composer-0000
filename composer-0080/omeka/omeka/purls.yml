@@ -1,0 +1,14 @@
+- pkg:composer/omeka/omeka@v2.5.1
+- pkg:composer/omeka/omeka@v2.6
+- pkg:composer/omeka/omeka@v2.6.1
+- pkg:composer/omeka/omeka@v2.7
+- pkg:composer/omeka/omeka@v2.7.1
+- pkg:composer/omeka/omeka@v2.8
+- pkg:composer/omeka/omeka@v3.0
+- pkg:composer/omeka/omeka@v3.0.1
+- pkg:composer/omeka/omeka@v3.0.2
+- pkg:composer/omeka/omeka@v3.0.3
+- pkg:composer/omeka/omeka@v3.1
+- pkg:composer/omeka/omeka@v3.1.1
+- pkg:composer/omeka/omeka@v3.1.2
+- pkg:composer/omeka/omeka@v3.2

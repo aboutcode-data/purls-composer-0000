@@ -1,0 +1,4 @@
+- pkg:composer/petschko/dhl-php-sdk@v0.2
+- pkg:composer/petschko/dhl-php-sdk@v0.3
+- pkg:composer/petschko/dhl-php-sdk@v0.4
+- pkg:composer/petschko/dhl-php-sdk@v0.5
