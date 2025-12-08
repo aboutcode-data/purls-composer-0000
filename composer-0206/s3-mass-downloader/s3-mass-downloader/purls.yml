@@ -1,0 +1,3 @@
+- pkg:composer/s3-mass-downloader/s3-mass-downloader@0.1.0
+- pkg:composer/s3-mass-downloader/s3-mass-downloader@0.1.1
+- pkg:composer/s3-mass-downloader/s3-mass-downloader@0.2.0

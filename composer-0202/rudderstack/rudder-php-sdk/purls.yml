@@ -1,0 +1,5 @@
+- pkg:composer/rudderstack/rudder-php-sdk@1.0.0
+- pkg:composer/rudderstack/rudder-php-sdk@1.0.1
+- pkg:composer/rudderstack/rudder-php-sdk@2.0.0
+- pkg:composer/rudderstack/rudder-php-sdk@2.0.1
+- pkg:composer/rudderstack/rudder-php-sdk@2.1.0

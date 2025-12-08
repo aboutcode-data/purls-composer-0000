@@ -1,0 +1,5 @@
+- pkg:composer/satag/doctrine-firebird-driver@2.8.0
+- pkg:composer/satag/doctrine-firebird-driver@2.8.1
+- pkg:composer/satag/doctrine-firebird-driver@3.0.0
+- pkg:composer/satag/doctrine-firebird-driver@3.0.1
+- pkg:composer/satag/doctrine-firebird-driver@3.0.2

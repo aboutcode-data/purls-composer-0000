@@ -1,0 +1,4 @@
+- pkg:composer/rcsi/connection-mongodb@0.1
+- pkg:composer/rcsi/connection-mongodb@0.1.1
+- pkg:composer/rcsi/connection-mongodb@0.1.2
+- pkg:composer/rcsi/connection-mongodb@0.2

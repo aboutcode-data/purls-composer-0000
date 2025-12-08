@@ -1,0 +1,2 @@
+- pkg:composer/ryanwkell/php-resque-turnkey@1.2
+- pkg:composer/ryanwkell/php-resque-turnkey@2.0

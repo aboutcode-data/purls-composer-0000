@@ -1,0 +1,5 @@
+- pkg:composer/richardmichel/kafka-queue@v1.0.0
+- pkg:composer/richardmichel/kafka-queue@v1.0.1
+- pkg:composer/richardmichel/kafka-queue@v1.0.2
+- pkg:composer/richardmichel/kafka-queue@v1.0.3
+- pkg:composer/richardmichel/kafka-queue@v1.0.4

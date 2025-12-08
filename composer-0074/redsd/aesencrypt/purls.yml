@@ -1,0 +1,5 @@
+- pkg:composer/redsd/aesencrypt@5.0.0
+- pkg:composer/redsd/aesencrypt@6.0.0
+- pkg:composer/redsd/aesencrypt@7.0.0
+- pkg:composer/redsd/aesencrypt@8.0.0
+- pkg:composer/redsd/aesencrypt@9.0.0

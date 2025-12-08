@@ -1,0 +1,4 @@
+- pkg:composer/run_as_root/integrity-checker@1.1.0
+- pkg:composer/run_as_root/integrity-checker@1.2.0
+- pkg:composer/run_as_root/integrity-checker@1.3.0
+- pkg:composer/run_as_root/integrity-checker@1.3.1

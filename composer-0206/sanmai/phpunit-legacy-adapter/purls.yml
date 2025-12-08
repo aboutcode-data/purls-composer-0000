@@ -1,0 +1,8 @@
+- pkg:composer/sanmai/phpunit-legacy-adapter@6.0
+- pkg:composer/sanmai/phpunit-legacy-adapter@6.3
+- pkg:composer/sanmai/phpunit-legacy-adapter@6.4
+- pkg:composer/sanmai/phpunit-legacy-adapter@8.0
+- pkg:composer/sanmai/phpunit-legacy-adapter@8.1
+- pkg:composer/sanmai/phpunit-legacy-adapter@8.2
+- pkg:composer/sanmai/phpunit-legacy-adapter@8.2.1
+- pkg:composer/sanmai/phpunit-legacy-adapter@8.2.2

@@ -1,0 +1,3 @@
+- pkg:composer/revenuewire/redis-session@v1.00
+- pkg:composer/revenuewire/redis-session@v1.01
+- pkg:composer/revenuewire/redis-session@v1.02

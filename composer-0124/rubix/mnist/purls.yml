@@ -1,0 +1,7 @@
+- pkg:composer/rubix/mnist@v1
+- pkg:composer/rubix/mnist@v2
+- pkg:composer/rubix/mnist@v3
+- pkg:composer/rubix/mnist@v4
+- pkg:composer/rubix/mnist@v5
+- pkg:composer/rubix/mnist@v6
+- pkg:composer/rubix/mnist@v7

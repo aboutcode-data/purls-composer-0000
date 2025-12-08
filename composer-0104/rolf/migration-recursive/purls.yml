@@ -1,0 +1,5 @@
+- pkg:composer/rolf/migration-recursive@5.4
+- pkg:composer/rolf/migration-recursive@5.5
+- pkg:composer/rolf/migration-recursive@5.6
+- pkg:composer/rolf/migration-recursive@5.7
+- pkg:composer/rolf/migration-recursive@5.8

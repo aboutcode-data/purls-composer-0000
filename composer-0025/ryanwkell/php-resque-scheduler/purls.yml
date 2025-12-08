@@ -1,0 +1,3 @@
+- pkg:composer/ryanwkell/php-resque-scheduler@1.1
+- pkg:composer/ryanwkell/php-resque-scheduler@2.0
+- pkg:composer/ryanwkell/php-resque-scheduler@2.1

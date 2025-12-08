@@ -1,0 +1,4 @@
+- pkg:composer/sagacorp/http-signatures-php@1.0.0
+- pkg:composer/sagacorp/http-signatures-php@2.0.0
+- pkg:composer/sagacorp/http-signatures-php@2.0.1
+- pkg:composer/sagacorp/http-signatures-php@2.0.2

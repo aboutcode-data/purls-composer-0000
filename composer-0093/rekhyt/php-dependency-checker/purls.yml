@@ -1,0 +1,13 @@
+- pkg:composer/rekhyt/php-dependency-checker@0.1-beta
+- pkg:composer/rekhyt/php-dependency-checker@0.1-beta1
+- pkg:composer/rekhyt/php-dependency-checker@0.2-beta
+- pkg:composer/rekhyt/php-dependency-checker@0.2-beta.1
+- pkg:composer/rekhyt/php-dependency-checker@1.0.0
+- pkg:composer/rekhyt/php-dependency-checker@1.0.0-beta.1
+- pkg:composer/rekhyt/php-dependency-checker@1.0.1
+- pkg:composer/rekhyt/php-dependency-checker@1.0.2
+- pkg:composer/rekhyt/php-dependency-checker@1.0.3
+- pkg:composer/rekhyt/php-dependency-checker@1.0.4
+- pkg:composer/rekhyt/php-dependency-checker@1.0.4-alpha.1
+- pkg:composer/rekhyt/php-dependency-checker@1.0.4-alpha.2
+- pkg:composer/rekhyt/php-dependency-checker@1.0.5

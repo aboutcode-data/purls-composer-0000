@@ -1,0 +1,11 @@
+- pkg:composer/rawr/phpunit-data-provider@1.0.0
+- pkg:composer/rawr/phpunit-data-provider@2.0.0
+- pkg:composer/rawr/phpunit-data-provider@2.1.0
+- pkg:composer/rawr/phpunit-data-provider@2.2.0
+- pkg:composer/rawr/phpunit-data-provider@2.4.0
+- pkg:composer/rawr/phpunit-data-provider@3.0.0
+- pkg:composer/rawr/phpunit-data-provider@3.1.0
+- pkg:composer/rawr/phpunit-data-provider@3.2.0
+- pkg:composer/rawr/phpunit-data-provider@3.3.0
+- pkg:composer/rawr/phpunit-data-provider@3.3.1
+- pkg:composer/rawr/phpunit-data-provider@v2.3.0

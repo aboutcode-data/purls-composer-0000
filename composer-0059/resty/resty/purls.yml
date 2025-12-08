@@ -1,0 +1,6 @@
+- pkg:composer/resty/resty@0.3.1
+- pkg:composer/resty/resty@0.3.8
+- pkg:composer/resty/resty@0.3.9
+- pkg:composer/resty/resty@0.4.0
+- pkg:composer/resty/resty@0.5
+- pkg:composer/resty/resty@0.6.0

@@ -1,0 +1,16 @@
+- pkg:composer/rcm/message@0.0.0
+- pkg:composer/rcm/message@0.1.0
+- pkg:composer/rcm/message@1.0.0
+- pkg:composer/rcm/message@1.0.1
+- pkg:composer/rcm/message@1.0.2
+- pkg:composer/rcm/message@1.0.3
+- pkg:composer/rcm/message@1.20.0
+- pkg:composer/rcm/message@1.20.1
+- pkg:composer/rcm/message@1.20.2
+- pkg:composer/rcm/message@1.21.0
+- pkg:composer/rcm/message@1.22.0
+- pkg:composer/rcm/message@1.22.1
+- pkg:composer/rcm/message@1.22.2
+- pkg:composer/rcm/message@1.23.0
+- pkg:composer/rcm/message@1.23.1
+- pkg:composer/rcm/message@1.23.2
