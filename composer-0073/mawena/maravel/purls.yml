@@ -8,6 +8,8 @@
 - pkg:composer/mawena/maravel@2.5.1
 - pkg:composer/mawena/maravel@2.5.2
 - pkg:composer/mawena/maravel@2.5.3
+- pkg:composer/mawena/maravel@2.5.4
+- pkg:composer/mawena/maravel@2.6.0
 - pkg:composer/mawena/maravel@v2.1.0
 - pkg:composer/mawena/maravel@v2.2.0
 - pkg:composer/mawena/maravel@v2.2.3
