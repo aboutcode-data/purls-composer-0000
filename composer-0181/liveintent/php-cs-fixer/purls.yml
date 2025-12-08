@@ -1,0 +1,12 @@
+- pkg:composer/liveintent/php-cs-fixer@v0.0.1
+- pkg:composer/liveintent/php-cs-fixer@v0.0.2
+- pkg:composer/liveintent/php-cs-fixer@v0.1.0
+- pkg:composer/liveintent/php-cs-fixer@v1.0.0
+- pkg:composer/liveintent/php-cs-fixer@v2.0.0
+- pkg:composer/liveintent/php-cs-fixer@v2.0.1
+- pkg:composer/liveintent/php-cs-fixer@v2.0.2
+- pkg:composer/liveintent/php-cs-fixer@v2.0.3
+- pkg:composer/liveintent/php-cs-fixer@v2.0.4
+- pkg:composer/liveintent/php-cs-fixer@v2.0.5
+- pkg:composer/liveintent/php-cs-fixer@v3.0.0
+- pkg:composer/liveintent/php-cs-fixer@v3.0.1

@@ -1,0 +1,12 @@
+- pkg:composer/m6web/monolog-extra-bundle@v1.0.0
+- pkg:composer/m6web/monolog-extra-bundle@v1.0.1
+- pkg:composer/m6web/monolog-extra-bundle@v1.0.2
+- pkg:composer/m6web/monolog-extra-bundle@v1.0.3
+- pkg:composer/m6web/monolog-extra-bundle@v2.0.0
+- pkg:composer/m6web/monolog-extra-bundle@v2.1.0
+- pkg:composer/m6web/monolog-extra-bundle@v3.0.0
+- pkg:composer/m6web/monolog-extra-bundle@v3.1.0
+- pkg:composer/m6web/monolog-extra-bundle@v4.0.0
+- pkg:composer/m6web/monolog-extra-bundle@v4.0.1
+- pkg:composer/m6web/monolog-extra-bundle@v4.0.2
+- pkg:composer/m6web/monolog-extra-bundle@v5.0.0

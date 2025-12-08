@@ -1,0 +1,4 @@
+- pkg:composer/linearsoft/laravel-activitylog-backport@1.10.3
+- pkg:composer/linearsoft/laravel-activitylog-backport@1.15.3
+- pkg:composer/linearsoft/laravel-activitylog-backport@1.7.2
+- pkg:composer/linearsoft/laravel-activitylog-backport@v1.7.1.1

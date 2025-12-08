@@ -1,0 +1,16 @@
+- pkg:composer/lvieira/arangodb-php-odm@v0.1.7-alpha
+- pkg:composer/lvieira/arangodb-php-odm@v0.2.0-alpha
+- pkg:composer/lvieira/arangodb-php-odm@v0.3.0-alpha
+- pkg:composer/lvieira/arangodb-php-odm@v0.4.0-alpha
+- pkg:composer/lvieira/arangodb-php-odm@v0.5.0-alpha
+- pkg:composer/lvieira/arangodb-php-odm@v0.6.0-alpha
+- pkg:composer/lvieira/arangodb-php-odm@v1.0.0
+- pkg:composer/lvieira/arangodb-php-odm@v1.1.0
+- pkg:composer/lvieira/arangodb-php-odm@v1.1.1
+- pkg:composer/lvieira/arangodb-php-odm@v1.1.2
+- pkg:composer/lvieira/arangodb-php-odm@v1.2.0
+- pkg:composer/lvieira/arangodb-php-odm@v2.0.0
+- pkg:composer/lvieira/arangodb-php-odm@v2.1.0
+- pkg:composer/lvieira/arangodb-php-odm@v3.11.0
+- pkg:composer/lvieira/arangodb-php-odm@v3.12.0
+- pkg:composer/lvieira/arangodb-php-odm@v3.12.1

@@ -1,0 +1,12 @@
+- pkg:composer/linio/behat-web-api-extension@1.0.0
+- pkg:composer/linio/behat-web-api-extension@1.1.0
+- pkg:composer/linio/behat-web-api-extension@1.2.0
+- pkg:composer/linio/behat-web-api-extension@1.2.1
+- pkg:composer/linio/behat-web-api-extension@1.2.2
+- pkg:composer/linio/behat-web-api-extension@1.2.3
+- pkg:composer/linio/behat-web-api-extension@2.0.0
+- pkg:composer/linio/behat-web-api-extension@2.0.1
+- pkg:composer/linio/behat-web-api-extension@2.0.2
+- pkg:composer/linio/behat-web-api-extension@3.0.0
+- pkg:composer/linio/behat-web-api-extension@3.0.1
+- pkg:composer/linio/behat-web-api-extension@3.1.0

@@ -1,0 +1,3 @@
+- pkg:composer/litphp/cached-fast-route@v0.5.0
+- pkg:composer/litphp/cached-fast-route@v0.5.1
+- pkg:composer/litphp/cached-fast-route@v0.6.0

@@ -1,0 +1,11 @@
+- pkg:composer/m9rco/php-protobuf@v0.11.0
+- pkg:composer/m9rco/php-protobuf@v0.11.1
+- pkg:composer/m9rco/php-protobuf@v0.11.2
+- pkg:composer/m9rco/php-protobuf@v0.11.3
+- pkg:composer/m9rco/php-protobuf@v0.12.0
+- pkg:composer/m9rco/php-protobuf@v0.12.1
+- pkg:composer/m9rco/php-protobuf@v0.12.2
+- pkg:composer/m9rco/php-protobuf@v0.12.3
+- pkg:composer/m9rco/php-protobuf@v0.12.4
+- pkg:composer/m9rco/php-protobuf@v0.12.5
+- pkg:composer/m9rco/php-protobuf@v0.9.1

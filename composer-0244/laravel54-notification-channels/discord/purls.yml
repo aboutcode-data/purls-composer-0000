@@ -1,0 +1,2 @@
+- pkg:composer/laravel54-notification-channels/discord@0.0.1
+- pkg:composer/laravel54-notification-channels/discord@v1.0.0

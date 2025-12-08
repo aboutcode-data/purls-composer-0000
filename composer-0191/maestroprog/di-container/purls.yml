@@ -1,0 +1,4 @@
+- pkg:composer/maestroprog/di-container@2.0-RC
+- pkg:composer/maestroprog/di-container@v1.0
+- pkg:composer/maestroprog/di-container@v1.1
+- pkg:composer/maestroprog/di-container@v1.2

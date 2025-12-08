@@ -1,0 +1,4 @@
+- pkg:composer/mach/piwik-proxy-service-provider@1.0.1
+- pkg:composer/mach/piwik-proxy-service-provider@2.0
+- pkg:composer/mach/piwik-proxy-service-provider@2.0.1
+- pkg:composer/mach/piwik-proxy-service-provider@v1.0

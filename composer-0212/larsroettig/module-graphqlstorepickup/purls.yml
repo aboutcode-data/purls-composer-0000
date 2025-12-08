@@ -1,0 +1,3 @@
+- pkg:composer/larsroettig/module-graphqlstorepickup@1.0
+- pkg:composer/larsroettig/module-graphqlstorepickup@2.0
+- pkg:composer/larsroettig/module-graphqlstorepickup@v0.1-beta

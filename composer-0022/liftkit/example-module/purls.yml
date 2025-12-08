@@ -1,0 +1,5 @@
+- pkg:composer/liftkit/example-module@v0.1.1
+- pkg:composer/liftkit/example-module@v0.1.2
+- pkg:composer/liftkit/example-module@v0.1.3
+- pkg:composer/liftkit/example-module@v0.2.0
+- pkg:composer/liftkit/example-module@v0.2.1

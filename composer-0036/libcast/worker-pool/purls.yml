@@ -1,0 +1,4 @@
+- pkg:composer/libcast/worker-pool@v1.5.0
+- pkg:composer/libcast/worker-pool@v1.6.0
+- pkg:composer/libcast/worker-pool@v1.6.1
+- pkg:composer/libcast/worker-pool@v1.6.2

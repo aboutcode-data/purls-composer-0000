@@ -1,0 +1,3 @@
+- pkg:composer/lightstep/opencensus-exporter-zipkin@v0.1.0
+- pkg:composer/lightstep/opencensus-exporter-zipkin@v0.2.0
+- pkg:composer/lightstep/opencensus-exporter-zipkin@v0.3.0

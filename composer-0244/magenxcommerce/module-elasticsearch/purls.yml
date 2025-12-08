@@ -1,0 +1,12 @@
+- pkg:composer/magenxcommerce/module-elasticsearch@100.3.0
+- pkg:composer/magenxcommerce/module-elasticsearch@100.3.1
+- pkg:composer/magenxcommerce/module-elasticsearch@100.3.2
+- pkg:composer/magenxcommerce/module-elasticsearch@100.3.3
+- pkg:composer/magenxcommerce/module-elasticsearch@100.3.4
+- pkg:composer/magenxcommerce/module-elasticsearch@100.3.5
+- pkg:composer/magenxcommerce/module-elasticsearch@100.3.6
+- pkg:composer/magenxcommerce/module-elasticsearch@100.3.7
+- pkg:composer/magenxcommerce/module-elasticsearch@101.0.0
+- pkg:composer/magenxcommerce/module-elasticsearch@101.0.1
+- pkg:composer/magenxcommerce/module-elasticsearch@101.0.2
+- pkg:composer/magenxcommerce/module-elasticsearch@101.0.3

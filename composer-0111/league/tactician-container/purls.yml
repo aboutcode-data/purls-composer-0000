@@ -1,0 +1,4 @@
+- pkg:composer/league/tactician-container@0.7
+- pkg:composer/league/tactician-container@2.0.0
+- pkg:composer/league/tactician-container@v1.0.0
+- pkg:composer/league/tactician-container@v3.0.0

@@ -1,0 +1,6 @@
+- pkg:composer/lordf/php-cron-scheduler@v5.0.0
+- pkg:composer/lordf/php-cron-scheduler@v5.1.0
+- pkg:composer/lordf/php-cron-scheduler@v5.2.0
+- pkg:composer/lordf/php-cron-scheduler@v5.2.1
+- pkg:composer/lordf/php-cron-scheduler@v5.2.2
+- pkg:composer/lordf/php-cron-scheduler@v5.2.3

@@ -1,0 +1,6 @@
+- pkg:composer/lms42/course-bundle@v0.2
+- pkg:composer/lms42/course-bundle@v0.3
+- pkg:composer/lms42/course-bundle@v0.4.0
+- pkg:composer/lms42/course-bundle@v1.0.0
+- pkg:composer/lms42/course-bundle@v1.0.1
+- pkg:composer/lms42/course-bundle@v1.0.2

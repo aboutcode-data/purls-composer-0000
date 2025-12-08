@@ -1,0 +1,6 @@
+- pkg:composer/lys/easy-swoole-rabbitmq@v2.0.6
+- pkg:composer/lys/easy-swoole-rabbitmq@v3.0
+- pkg:composer/lys/easy-swoole-rabbitmq@v3.1
+- pkg:composer/lys/easy-swoole-rabbitmq@v3.4
+- pkg:composer/lys/easy-swoole-rabbitmq@v3.6
+- pkg:composer/lys/easy-swoole-rabbitmq@v3.7.1

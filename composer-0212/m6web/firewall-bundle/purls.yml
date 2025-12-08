@@ -1,0 +1,15 @@
+- pkg:composer/m6web/firewall-bundle@0.1.0
+- pkg:composer/m6web/firewall-bundle@0.1.1
+- pkg:composer/m6web/firewall-bundle@0.1.2
+- pkg:composer/m6web/firewall-bundle@0.2.0
+- pkg:composer/m6web/firewall-bundle@0.3.0
+- pkg:composer/m6web/firewall-bundle@0.3.1
+- pkg:composer/m6web/firewall-bundle@2.0.2
+- pkg:composer/m6web/firewall-bundle@V2.0.0
+- pkg:composer/m6web/firewall-bundle@v0.3.2
+- pkg:composer/m6web/firewall-bundle@v1.0.0
+- pkg:composer/m6web/firewall-bundle@v1.1.0
+- pkg:composer/m6web/firewall-bundle@v1.1.1
+- pkg:composer/m6web/firewall-bundle@v2.0.1
+- pkg:composer/m6web/firewall-bundle@v2.1.0
+- pkg:composer/m6web/firewall-bundle@v3.0.0

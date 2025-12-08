@@ -1,0 +1,2 @@
+- pkg:composer/league/tactician-phpstan@v0.1-beta
+- pkg:composer/league/tactician-phpstan@v0.1-rc1

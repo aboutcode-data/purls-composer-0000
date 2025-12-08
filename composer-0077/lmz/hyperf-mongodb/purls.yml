@@ -1,0 +1,7 @@
+- pkg:composer/lmz/hyperf-mongodb@v0.0.1
+- pkg:composer/lmz/hyperf-mongodb@v1.0.1
+- pkg:composer/lmz/hyperf-mongodb@v1.0.2
+- pkg:composer/lmz/hyperf-mongodb@v1.0.3
+- pkg:composer/lmz/hyperf-mongodb@v2.0.1
+- pkg:composer/lmz/hyperf-mongodb@v2.1.0
+- pkg:composer/lmz/hyperf-mongodb@v2.2.1

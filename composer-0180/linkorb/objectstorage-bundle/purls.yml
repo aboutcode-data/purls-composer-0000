@@ -1,0 +1,9 @@
+- pkg:composer/linkorb/objectstorage-bundle@v1.0.0
+- pkg:composer/linkorb/objectstorage-bundle@v1.1.0
+- pkg:composer/linkorb/objectstorage-bundle@v2.0.0
+- pkg:composer/linkorb/objectstorage-bundle@v3.0.0
+- pkg:composer/linkorb/objectstorage-bundle@v3.1.0
+- pkg:composer/linkorb/objectstorage-bundle@v4.0.0
+- pkg:composer/linkorb/objectstorage-bundle@v4.0.1
+- pkg:composer/linkorb/objectstorage-bundle@v4.1.0
+- pkg:composer/linkorb/objectstorage-bundle@v4.2.0

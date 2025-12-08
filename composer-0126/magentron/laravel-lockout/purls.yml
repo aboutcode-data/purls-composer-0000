@@ -1,0 +1,10 @@
+- pkg:composer/magentron/laravel-lockout@6.0.0
+- pkg:composer/magentron/laravel-lockout@6.0.1
+- pkg:composer/magentron/laravel-lockout@7.0.0
+- pkg:composer/magentron/laravel-lockout@v1.0
+- pkg:composer/magentron/laravel-lockout@v2.0
+- pkg:composer/magentron/laravel-lockout@v2.1
+- pkg:composer/magentron/laravel-lockout@v3.0
+- pkg:composer/magentron/laravel-lockout@v3.0.1
+- pkg:composer/magentron/laravel-lockout@v4.0.0
+- pkg:composer/magentron/laravel-lockout@v5.0.0

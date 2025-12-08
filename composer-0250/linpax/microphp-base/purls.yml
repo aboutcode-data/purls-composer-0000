@@ -1,0 +1,3 @@
+- pkg:composer/linpax/microphp-base@3.0.0-stable
+- pkg:composer/linpax/microphp-base@3.0.1-stable
+- pkg:composer/linpax/microphp-base@3.0.2-stable

@@ -1,0 +1,4 @@
+- pkg:composer/lmc/cqrs-http@1.0.0
+- pkg:composer/lmc/cqrs-http@2.0.0
+- pkg:composer/lmc/cqrs-http@3.0.0
+- pkg:composer/lmc/cqrs-http@3.1.0

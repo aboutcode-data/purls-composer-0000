@@ -1,0 +1,15 @@
+- pkg:composer/laravel/spark-installer@v1.0.0
+- pkg:composer/laravel/spark-installer@v1.0.2
+- pkg:composer/laravel/spark-installer@v1.0.3
+- pkg:composer/laravel/spark-installer@v1.0.4
+- pkg:composer/laravel/spark-installer@v1.1.0
+- pkg:composer/laravel/spark-installer@v1.1.1
+- pkg:composer/laravel/spark-installer@v1.2.0
+- pkg:composer/laravel/spark-installer@v1.2.1
+- pkg:composer/laravel/spark-installer@v2.0.0
+- pkg:composer/laravel/spark-installer@v2.1.0
+- pkg:composer/laravel/spark-installer@v3.0
+- pkg:composer/laravel/spark-installer@v3.1
+- pkg:composer/laravel/spark-installer@v3.1.1
+- pkg:composer/laravel/spark-installer@v3.2.0
+- pkg:composer/laravel/spark-installer@v3.2.1
