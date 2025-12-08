@@ -1,0 +1,3 @@
+- pkg:composer/jaimongo/rabbitmq-bundle@0.1-alpha
+- pkg:composer/jaimongo/rabbitmq-bundle@0.2-alpha
+- pkg:composer/jaimongo/rabbitmq-bundle@0.2.6-alpha

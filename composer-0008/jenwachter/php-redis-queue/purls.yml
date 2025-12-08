@@ -1,0 +1,15 @@
+- pkg:composer/jenwachter/php-redis-queue@1.0
+- pkg:composer/jenwachter/php-redis-queue@1.1
+- pkg:composer/jenwachter/php-redis-queue@1.4.2
+- pkg:composer/jenwachter/php-redis-queue@1.5.0
+- pkg:composer/jenwachter/php-redis-queue@1.6.0
+- pkg:composer/jenwachter/php-redis-queue@1.6.1
+- pkg:composer/jenwachter/php-redis-queue@1.6.2
+- pkg:composer/jenwachter/php-redis-queue@1.7.0
+- pkg:composer/jenwachter/php-redis-queue@1.7.1
+- pkg:composer/jenwachter/php-redis-queue@v1.2
+- pkg:composer/jenwachter/php-redis-queue@v1.2.1
+- pkg:composer/jenwachter/php-redis-queue@v1.3.0
+- pkg:composer/jenwachter/php-redis-queue@v1.3.1
+- pkg:composer/jenwachter/php-redis-queue@v1.4.0
+- pkg:composer/jenwachter/php-redis-queue@v1.4.1

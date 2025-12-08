@@ -1,0 +1,4 @@
+- pkg:composer/ippanel/php-rest-sdk@v1.0.1
+- pkg:composer/ippanel/php-rest-sdk@v2.0.0
+- pkg:composer/ippanel/php-rest-sdk@v2.0.3
+- pkg:composer/ippanel/php-rest-sdk@v2.0.4

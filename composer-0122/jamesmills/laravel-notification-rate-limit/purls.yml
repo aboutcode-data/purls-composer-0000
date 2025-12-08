@@ -1,0 +1,12 @@
+- pkg:composer/jamesmills/laravel-notification-rate-limit@0.0.1
+- pkg:composer/jamesmills/laravel-notification-rate-limit@1.0.0
+- pkg:composer/jamesmills/laravel-notification-rate-limit@1.0.1
+- pkg:composer/jamesmills/laravel-notification-rate-limit@1.1.0
+- pkg:composer/jamesmills/laravel-notification-rate-limit@2.0.0
+- pkg:composer/jamesmills/laravel-notification-rate-limit@2.1.0
+- pkg:composer/jamesmills/laravel-notification-rate-limit@2.2.0
+- pkg:composer/jamesmills/laravel-notification-rate-limit@3.0.0
+- pkg:composer/jamesmills/laravel-notification-rate-limit@3.1.0
+- pkg:composer/jamesmills/laravel-notification-rate-limit@3.1.1
+- pkg:composer/jamesmills/laravel-notification-rate-limit@3.2.0
+- pkg:composer/jamesmills/laravel-notification-rate-limit@3.2.1

@@ -1,0 +1,12 @@
+- pkg:composer/johncms/johncms@7.0.0
+- pkg:composer/johncms/johncms@7.0.0-beta
+- pkg:composer/johncms/johncms@7.1.0
+- pkg:composer/johncms/johncms@8.0.0
+- pkg:composer/johncms/johncms@9.0.0
+- pkg:composer/johncms/johncms@9.1.0
+- pkg:composer/johncms/johncms@9.2.0
+- pkg:composer/johncms/johncms@9.3.0
+- pkg:composer/johncms/johncms@9.4.0
+- pkg:composer/johncms/johncms@9.4.1
+- pkg:composer/johncms/johncms@9.5.0
+- pkg:composer/johncms/johncms@9.6.0

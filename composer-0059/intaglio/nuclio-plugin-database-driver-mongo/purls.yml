@@ -1,0 +1,2 @@
+- pkg:composer/intaglio/nuclio-plugin-database-driver-mongo@1.1.6
+- pkg:composer/intaglio/nuclio-plugin-database-driver-mongo@2.0.10

@@ -1,0 +1,8 @@
+- pkg:composer/jlucki/docker-php-dev-env@v1.0
+- pkg:composer/jlucki/docker-php-dev-env@v1.1
+- pkg:composer/jlucki/docker-php-dev-env@v1.2
+- pkg:composer/jlucki/docker-php-dev-env@v1.3
+- pkg:composer/jlucki/docker-php-dev-env@v1.4
+- pkg:composer/jlucki/docker-php-dev-env@v1.5
+- pkg:composer/jlucki/docker-php-dev-env@v1.6
+- pkg:composer/jlucki/docker-php-dev-env@v1.7

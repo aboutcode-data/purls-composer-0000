@@ -1,0 +1,4 @@
+- pkg:composer/jchook/phpunit-assert-throws@v1.0.0
+- pkg:composer/jchook/phpunit-assert-throws@v1.0.1
+- pkg:composer/jchook/phpunit-assert-throws@v1.0.2
+- pkg:composer/jchook/phpunit-assert-throws@v1.0.3

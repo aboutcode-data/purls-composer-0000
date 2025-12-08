@@ -1,0 +1,4 @@
+- pkg:composer/jkowens/magento-jobqueue@0.5.0
+- pkg:composer/jkowens/magento-jobqueue@0.6.0
+- pkg:composer/jkowens/magento-jobqueue@0.7.0
+- pkg:composer/jkowens/magento-jobqueue@0.8.0

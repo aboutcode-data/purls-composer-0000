@@ -1,0 +1,5 @@
+- pkg:composer/jambagecom/transactor-paypal@v0.3.2
+- pkg:composer/jambagecom/transactor-paypal@v0.4.0
+- pkg:composer/jambagecom/transactor-paypal@v0.5.0
+- pkg:composer/jambagecom/transactor-paypal@v0.6.0
+- pkg:composer/jambagecom/transactor-paypal@v0.6.1

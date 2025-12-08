@@ -1,0 +1,4 @@
+- pkg:composer/infuse/cron@1.0.0
+- pkg:composer/infuse/cron@1.1.0
+- pkg:composer/infuse/cron@2.0
+- pkg:composer/infuse/cron@2.1

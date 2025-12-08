@@ -1,0 +1,14 @@
+- pkg:composer/innmind/command-bus@1.0.0
+- pkg:composer/innmind/command-bus@1.1.0
+- pkg:composer/innmind/command-bus@1.1.1
+- pkg:composer/innmind/command-bus@1.1.2
+- pkg:composer/innmind/command-bus@2.0.0
+- pkg:composer/innmind/command-bus@2.0.1
+- pkg:composer/innmind/command-bus@2.1.0
+- pkg:composer/innmind/command-bus@2.2.0
+- pkg:composer/innmind/command-bus@2.3.0
+- pkg:composer/innmind/command-bus@2.4.0
+- pkg:composer/innmind/command-bus@3.0.0
+- pkg:composer/innmind/command-bus@4.0.0
+- pkg:composer/innmind/command-bus@4.1.0
+- pkg:composer/innmind/command-bus@4.2.0

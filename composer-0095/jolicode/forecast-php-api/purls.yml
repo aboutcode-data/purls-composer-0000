@@ -1,0 +1,15 @@
+- pkg:composer/jolicode/forecast-php-api@v1.0.0
+- pkg:composer/jolicode/forecast-php-api@v2.0.0
+- pkg:composer/jolicode/forecast-php-api@v2.0.1
+- pkg:composer/jolicode/forecast-php-api@v2.1.0
+- pkg:composer/jolicode/forecast-php-api@v2.1.1
+- pkg:composer/jolicode/forecast-php-api@v3.0.0
+- pkg:composer/jolicode/forecast-php-api@v4.0.0
+- pkg:composer/jolicode/forecast-php-api@v4.1.0
+- pkg:composer/jolicode/forecast-php-api@v5.0.0
+- pkg:composer/jolicode/forecast-php-api@v5.1.0
+- pkg:composer/jolicode/forecast-php-api@v5.1.1
+- pkg:composer/jolicode/forecast-php-api@v5.2.0
+- pkg:composer/jolicode/forecast-php-api@v6.0.0
+- pkg:composer/jolicode/forecast-php-api@v6.0.1
+- pkg:composer/jolicode/forecast-php-api@v7.0.0

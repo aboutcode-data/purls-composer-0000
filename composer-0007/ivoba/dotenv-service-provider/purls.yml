@@ -1,0 +1,4 @@
+- pkg:composer/ivoba/dotenv-service-provider@1.0.0
+- pkg:composer/ivoba/dotenv-service-provider@1.1.0
+- pkg:composer/ivoba/dotenv-service-provider@1.1.1
+- pkg:composer/ivoba/dotenv-service-provider@2.0.0

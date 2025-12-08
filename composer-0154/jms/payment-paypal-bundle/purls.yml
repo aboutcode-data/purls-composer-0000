@@ -1,0 +1,5 @@
+- pkg:composer/jms/payment-paypal-bundle@1.0.0
+- pkg:composer/jms/payment-paypal-bundle@1.1.0
+- pkg:composer/jms/payment-paypal-bundle@1.1.1
+- pkg:composer/jms/payment-paypal-bundle@1.1.2
+- pkg:composer/jms/payment-paypal-bundle@1.2.0

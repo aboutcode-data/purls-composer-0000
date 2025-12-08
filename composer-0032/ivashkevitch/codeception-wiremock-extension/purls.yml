@@ -1,0 +1,4 @@
+- pkg:composer/ivashkevitch/codeception-wiremock-extension@v0.5
+- pkg:composer/ivashkevitch/codeception-wiremock-extension@v1.0.0
+- pkg:composer/ivashkevitch/codeception-wiremock-extension@v1.0.1
+- pkg:composer/ivashkevitch/codeception-wiremock-extension@v1.1.0

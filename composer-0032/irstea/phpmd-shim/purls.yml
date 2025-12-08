@@ -1,0 +1,14 @@
+- pkg:composer/irstea/phpmd-shim@2.10.0
+- pkg:composer/irstea/phpmd-shim@2.10.1
+- pkg:composer/irstea/phpmd-shim@2.10.2
+- pkg:composer/irstea/phpmd-shim@2.11.0
+- pkg:composer/irstea/phpmd-shim@2.11.1
+- pkg:composer/irstea/phpmd-shim@2.12.0
+- pkg:composer/irstea/phpmd-shim@2.13.0
+- pkg:composer/irstea/phpmd-shim@2.6.1
+- pkg:composer/irstea/phpmd-shim@2.7.0
+- pkg:composer/irstea/phpmd-shim@2.8.0
+- pkg:composer/irstea/phpmd-shim@2.8.1
+- pkg:composer/irstea/phpmd-shim@2.8.2
+- pkg:composer/irstea/phpmd-shim@2.9.0
+- pkg:composer/irstea/phpmd-shim@2.9.1

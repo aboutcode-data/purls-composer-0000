@@ -1,0 +1,17 @@
+- pkg:composer/integrating/phpunit-simulator@v1.0
+- pkg:composer/integrating/phpunit-simulator@v1.1
+- pkg:composer/integrating/phpunit-simulator@v1.2
+- pkg:composer/integrating/phpunit-simulator@v1.3
+- pkg:composer/integrating/phpunit-simulator@v1.4
+- pkg:composer/integrating/phpunit-simulator@v1.5
+- pkg:composer/integrating/phpunit-simulator@v1.6
+- pkg:composer/integrating/phpunit-simulator@v1.7
+- pkg:composer/integrating/phpunit-simulator@v1.8
+- pkg:composer/integrating/phpunit-simulator@v1.9
+- pkg:composer/integrating/phpunit-simulator@v2.0
+- pkg:composer/integrating/phpunit-simulator@v2.1
+- pkg:composer/integrating/phpunit-simulator@v2.2
+- pkg:composer/integrating/phpunit-simulator@v2.3
+- pkg:composer/integrating/phpunit-simulator@v2.4
+- pkg:composer/integrating/phpunit-simulator@v2.5
+- pkg:composer/integrating/phpunit-simulator@v2.6

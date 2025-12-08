@@ -1,0 +1,5 @@
+- pkg:composer/integralservice/test-metapackage@v1.0
+- pkg:composer/integralservice/test-metapackage@v2.0
+- pkg:composer/integralservice/test-metapackage@v3.0
+- pkg:composer/integralservice/test-metapackage@v3.0.1
+- pkg:composer/integralservice/test-metapackage@v3.0.2

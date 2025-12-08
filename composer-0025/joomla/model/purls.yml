@@ -1,0 +1,17 @@
+- pkg:composer/joomla/model@1.0
+- pkg:composer/joomla/model@1.0-alpha
+- pkg:composer/joomla/model@1.0-beta
+- pkg:composer/joomla/model@1.0-beta2
+- pkg:composer/joomla/model@1.0-beta3
+- pkg:composer/joomla/model@1.1.0
+- pkg:composer/joomla/model@1.1.1
+- pkg:composer/joomla/model@1.2.0
+- pkg:composer/joomla/model@1.3.0
+- pkg:composer/joomla/model@2.0.0
+- pkg:composer/joomla/model@2.0.0-beta
+- pkg:composer/joomla/model@2.0.1
+- pkg:composer/joomla/model@3.0.0
+- pkg:composer/joomla/model@3.0.1
+- pkg:composer/joomla/model@3.0.2
+- pkg:composer/joomla/model@4.0.0
+- pkg:composer/joomla/model@4.0.1

@@ -1,0 +1,5 @@
+- pkg:composer/johnroyer/config-reader@1.0
+- pkg:composer/johnroyer/config-reader@1.1.0
+- pkg:composer/johnroyer/config-reader@1.1.1
+- pkg:composer/johnroyer/config-reader@1.4.0
+- pkg:composer/johnroyer/config-reader@v1.5.1

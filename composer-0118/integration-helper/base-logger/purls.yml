@@ -1,0 +1,4 @@
+- pkg:composer/integration-helper/base-logger@1.0.0
+- pkg:composer/integration-helper/base-logger@1.0.1
+- pkg:composer/integration-helper/base-logger@1.0.3
+- pkg:composer/integration-helper/base-logger@1.0.4

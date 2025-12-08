@@ -1,0 +1,5 @@
+- pkg:composer/izucken/camunda-bpm-php-sdk@2.0.0
+- pkg:composer/izucken/camunda-bpm-php-sdk@2.0.2
+- pkg:composer/izucken/camunda-bpm-php-sdk@2.1.0
+- pkg:composer/izucken/camunda-bpm-php-sdk@2.2.0
+- pkg:composer/izucken/camunda-bpm-php-sdk@2.2.1

@@ -1,0 +1,5 @@
+- pkg:composer/jiny/mysql@0.1
+- pkg:composer/jiny/mysql@0.2
+- pkg:composer/jiny/mysql@0.3
+- pkg:composer/jiny/mysql@0.4
+- pkg:composer/jiny/mysql@0.4.1
