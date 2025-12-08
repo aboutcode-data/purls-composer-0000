@@ -1,0 +1,3 @@
+- pkg:composer/phpmailer/apix-log-phpmailer@v1.0
+- pkg:composer/phpmailer/apix-log-phpmailer@v1.1.0
+- pkg:composer/phpmailer/apix-log-phpmailer@v2.0.0

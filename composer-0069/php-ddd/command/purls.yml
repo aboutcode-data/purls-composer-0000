@@ -1,0 +1,4 @@
+- pkg:composer/php-ddd/command@v0.1.0
+- pkg:composer/php-ddd/command@v1.0.0
+- pkg:composer/php-ddd/command@v1.0.1
+- pkg:composer/php-ddd/command@v1.0.2

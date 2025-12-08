@@ -1,0 +1,4 @@
+- pkg:composer/procurios/phpunit-adapter@5.2.0
+- pkg:composer/procurios/phpunit-adapter@5.3.0
+- pkg:composer/procurios/phpunit-adapter@5.3.1
+- pkg:composer/procurios/phpunit-adapter@5.4.0

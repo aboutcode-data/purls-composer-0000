@@ -1,0 +1,5 @@
+- pkg:composer/php-kit/ext-pdo@1.0.0
+- pkg:composer/php-kit/ext-pdo@1.0.2
+- pkg:composer/php-kit/ext-pdo@1.0.3
+- pkg:composer/php-kit/ext-pdo@1.0.4
+- pkg:composer/php-kit/ext-pdo@1.1.3

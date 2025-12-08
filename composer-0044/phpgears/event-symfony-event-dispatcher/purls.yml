@@ -1,0 +1,5 @@
+- pkg:composer/phpgears/event-symfony-event-dispatcher@0.1
+- pkg:composer/phpgears/event-symfony-event-dispatcher@0.1.1
+- pkg:composer/phpgears/event-symfony-event-dispatcher@0.2
+- pkg:composer/phpgears/event-symfony-event-dispatcher@0.3
+- pkg:composer/phpgears/event-symfony-event-dispatcher@0.3.1

@@ -1,0 +1,4 @@
+- pkg:composer/php-extended/php-luhn@1.0.0
+- pkg:composer/php-extended/php-luhn@1.1.0
+- pkg:composer/php-extended/php-luhn@1.2.0
+- pkg:composer/php-extended/php-luhn@2.0.0

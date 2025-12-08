@@ -1,0 +1,4 @@
+- pkg:composer/phpvms/sample-module@0.0.1
+- pkg:composer/phpvms/sample-module@1.0.0
+- pkg:composer/phpvms/sample-module@1.0.1
+- pkg:composer/phpvms/sample-module@1.0.2

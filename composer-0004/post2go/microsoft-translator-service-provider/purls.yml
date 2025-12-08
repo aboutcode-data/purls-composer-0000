@@ -1,0 +1,4 @@
+- pkg:composer/post2go/microsoft-translator-service-provider@v0.1.0
+- pkg:composer/post2go/microsoft-translator-service-provider@v0.2.0
+- pkg:composer/post2go/microsoft-translator-service-provider@v0.5.0
+- pkg:composer/post2go/microsoft-translator-service-provider@v0.5.1

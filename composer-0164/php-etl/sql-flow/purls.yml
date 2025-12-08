@@ -1,0 +1,3 @@
+- pkg:composer/php-etl/sql-flow@v0.2.0
+- pkg:composer/php-etl/sql-flow@v0.3.0
+- pkg:composer/php-etl/sql-flow@v0.3.1

@@ -1,0 +1,14 @@
+- pkg:composer/qubus/event-dispatcher@v1.0.0
+- pkg:composer/qubus/event-dispatcher@v1.0.1
+- pkg:composer/qubus/event-dispatcher@v1.0.2
+- pkg:composer/qubus/event-dispatcher@v1.1.0
+- pkg:composer/qubus/event-dispatcher@v1.1.1
+- pkg:composer/qubus/event-dispatcher@v2.0.0
+- pkg:composer/qubus/event-dispatcher@v3.0.0
+- pkg:composer/qubus/event-dispatcher@v3.0.1
+- pkg:composer/qubus/event-dispatcher@v3.0.2
+- pkg:composer/qubus/event-dispatcher@v3.0.3
+- pkg:composer/qubus/event-dispatcher@v4.0.0
+- pkg:composer/qubus/event-dispatcher@v4.0.1
+- pkg:composer/qubus/event-dispatcher@v4.0.2
+- pkg:composer/qubus/event-dispatcher@v4.0.3

@@ -1,0 +1,3 @@
+- pkg:composer/powerkernel/yii-aws-s3@1.0.0
+- pkg:composer/powerkernel/yii-aws-s3@1.0.1
+- pkg:composer/powerkernel/yii-aws-s3@1.0.2

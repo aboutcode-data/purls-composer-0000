@@ -1,0 +1,15 @@
+- pkg:composer/prestashopcorp/module-lib-billing@1.0.0
+- pkg:composer/prestashopcorp/module-lib-billing@1.0.1
+- pkg:composer/prestashopcorp/module-lib-billing@1.1.0
+- pkg:composer/prestashopcorp/module-lib-billing@1.2.0
+- pkg:composer/prestashopcorp/module-lib-billing@1.3.0
+- pkg:composer/prestashopcorp/module-lib-billing@1.3.1
+- pkg:composer/prestashopcorp/module-lib-billing@1.3.2
+- pkg:composer/prestashopcorp/module-lib-billing@1.3.3
+- pkg:composer/prestashopcorp/module-lib-billing@2.0.0
+- pkg:composer/prestashopcorp/module-lib-billing@3.0.0
+- pkg:composer/prestashopcorp/module-lib-billing@3.1.0
+- pkg:composer/prestashopcorp/module-lib-billing@3.2.0
+- pkg:composer/prestashopcorp/module-lib-billing@3.3.0
+- pkg:composer/prestashopcorp/module-lib-billing@3.3.1
+- pkg:composer/prestashopcorp/module-lib-billing@4.0.0

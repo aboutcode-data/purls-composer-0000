@@ -1,0 +1,2 @@
+- pkg:composer/php-redis/bloom-filter@1.0
+- pkg:composer/php-redis/bloom-filter@1.1

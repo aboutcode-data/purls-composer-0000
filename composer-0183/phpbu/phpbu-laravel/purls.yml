@@ -1,0 +1,13 @@
+- pkg:composer/phpbu/phpbu-laravel@0.9.1
+- pkg:composer/phpbu/phpbu-laravel@0.9.2
+- pkg:composer/phpbu/phpbu-laravel@0.9.3
+- pkg:composer/phpbu/phpbu-laravel@1.0.0
+- pkg:composer/phpbu/phpbu-laravel@1.0.1
+- pkg:composer/phpbu/phpbu-laravel@2.0.0
+- pkg:composer/phpbu/phpbu-laravel@2.1.0
+- pkg:composer/phpbu/phpbu-laravel@3.0.0
+- pkg:composer/phpbu/phpbu-laravel@3.0.1
+- pkg:composer/phpbu/phpbu-laravel@3.0.2
+- pkg:composer/phpbu/phpbu-laravel@3.0.3
+- pkg:composer/phpbu/phpbu-laravel@3.0.4
+- pkg:composer/phpbu/phpbu-laravel@3.0.5

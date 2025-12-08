@@ -1,0 +1,15 @@
+- pkg:composer/pubconnect/oauth2-keycloak@0.1.0
+- pkg:composer/pubconnect/oauth2-keycloak@0.2.0
+- pkg:composer/pubconnect/oauth2-keycloak@2.0.0
+- pkg:composer/pubconnect/oauth2-keycloak@2.1.0
+- pkg:composer/pubconnect/oauth2-keycloak@2.2.0
+- pkg:composer/pubconnect/oauth2-keycloak@2.2.1
+- pkg:composer/pubconnect/oauth2-keycloak@2.2.2
+- pkg:composer/pubconnect/oauth2-keycloak@2.2.3
+- pkg:composer/pubconnect/oauth2-keycloak@3.0.0
+- pkg:composer/pubconnect/oauth2-keycloak@3.1.0
+- pkg:composer/pubconnect/oauth2-keycloak@3.1.1
+- pkg:composer/pubconnect/oauth2-keycloak@3.2.0
+- pkg:composer/pubconnect/oauth2-keycloak@4.0.0
+- pkg:composer/pubconnect/oauth2-keycloak@5.0.0
+- pkg:composer/pubconnect/oauth2-keycloak@5.1.0

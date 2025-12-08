@@ -1,0 +1,14 @@
+- pkg:composer/phlib/logger@1.0.1
+- pkg:composer/phlib/logger@1.1.0
+- pkg:composer/phlib/logger@2.0.0
+- pkg:composer/phlib/logger@2.0.1
+- pkg:composer/phlib/logger@2.1.0
+- pkg:composer/phlib/logger@2.1.1
+- pkg:composer/phlib/logger@3.0.0
+- pkg:composer/phlib/logger@3.0.1
+- pkg:composer/phlib/logger@3.0.2
+- pkg:composer/phlib/logger@4.0.0
+- pkg:composer/phlib/logger@4.1.0
+- pkg:composer/phlib/logger@4.1.1
+- pkg:composer/phlib/logger@5.0.0
+- pkg:composer/phlib/logger@v1.0.0

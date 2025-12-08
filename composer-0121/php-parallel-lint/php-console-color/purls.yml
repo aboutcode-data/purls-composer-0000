@@ -1,0 +1,5 @@
+- pkg:composer/php-parallel-lint/php-console-color@0.1
+- pkg:composer/php-parallel-lint/php-console-color@v0.2
+- pkg:composer/php-parallel-lint/php-console-color@v0.3
+- pkg:composer/php-parallel-lint/php-console-color@v1.0
+- pkg:composer/php-parallel-lint/php-console-color@v1.0.1

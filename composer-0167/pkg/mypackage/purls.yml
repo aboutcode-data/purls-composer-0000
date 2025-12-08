@@ -1,0 +1,4 @@
+- pkg:composer/pkg/mypackage@1.0
+- pkg:composer/pkg/mypackage@1.1
+- pkg:composer/pkg/mypackage@1.2
+- pkg:composer/pkg/mypackage@1.3

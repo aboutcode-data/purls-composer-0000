@@ -1,0 +1,5 @@
+- pkg:composer/prooph/prooph-event-store-module@0.1.0
+- pkg:composer/prooph/prooph-event-store-module@0.2.0
+- pkg:composer/prooph/prooph-event-store-module@0.3.0
+- pkg:composer/prooph/prooph-event-store-module@v1.0.0
+- pkg:composer/prooph/prooph-event-store-module@v2.0

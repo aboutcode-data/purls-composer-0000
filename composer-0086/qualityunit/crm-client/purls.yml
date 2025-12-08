@@ -1,0 +1,5 @@
+- pkg:composer/qualityunit/crm-client@1.29.7
+- pkg:composer/qualityunit/crm-client@1.29.9
+- pkg:composer/qualityunit/crm-client@1.34.1
+- pkg:composer/qualityunit/crm-client@1.34.3
+- pkg:composer/qualityunit/crm-client@1.35.0

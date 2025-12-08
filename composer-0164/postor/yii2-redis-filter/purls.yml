@@ -1,0 +1,4 @@
+- pkg:composer/postor/yii2-redis-filter@0.1
+- pkg:composer/postor/yii2-redis-filter@1.0
+- pkg:composer/postor/yii2-redis-filter@1.1
+- pkg:composer/postor/yii2-redis-filter@1.1.1

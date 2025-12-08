@@ -1,0 +1,12 @@
+- pkg:composer/provider/stripe@1.0.0
+- pkg:composer/provider/stripe@1.0.1
+- pkg:composer/provider/stripe@1.1.0
+- pkg:composer/provider/stripe@1.2.0
+- pkg:composer/provider/stripe@2.0.0
+- pkg:composer/provider/stripe@2.1.0
+- pkg:composer/provider/stripe@2.1.1
+- pkg:composer/provider/stripe@2.1.2
+- pkg:composer/provider/stripe@2.2.0
+- pkg:composer/provider/stripe@2.2.1
+- pkg:composer/provider/stripe@3.0.0
+- pkg:composer/provider/stripe@4.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/pharako/mysql-dbal@0.0.1
+- pkg:composer/pharako/mysql-dbal@0.0.2
+- pkg:composer/pharako/mysql-dbal@0.0.3
+- pkg:composer/pharako/mysql-dbal@1.0.0

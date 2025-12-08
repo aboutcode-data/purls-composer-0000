@@ -1,0 +1,10 @@
+- pkg:composer/pmg/queue-tactician@1.0.0
+- pkg:composer/pmg/queue-tactician@2.0.0
+- pkg:composer/pmg/queue-tactician@3.0.0
+- pkg:composer/pmg/queue-tactician@4.0.0
+- pkg:composer/pmg/queue-tactician@v5.0.0
+- pkg:composer/pmg/queue-tactician@v5.0.0-BETA1
+- pkg:composer/pmg/queue-tactician@v5.1.0
+- pkg:composer/pmg/queue-tactician@v6.0.0
+- pkg:composer/pmg/queue-tactician@v6.1.0
+- pkg:composer/pmg/queue-tactician@v6.2.0

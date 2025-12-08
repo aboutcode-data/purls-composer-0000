@@ -1,0 +1,9 @@
+- pkg:composer/php-openapi/yii2-app-api@0.9.0-beta
+- pkg:composer/php-openapi/yii2-app-api@1.0.0
+- pkg:composer/php-openapi/yii2-app-api@1.1.0
+- pkg:composer/php-openapi/yii2-app-api@2.0.0
+- pkg:composer/php-openapi/yii2-app-api@2.1.0
+- pkg:composer/php-openapi/yii2-app-api@2.2.0
+- pkg:composer/php-openapi/yii2-app-api@2.2.1
+- pkg:composer/php-openapi/yii2-app-api@2.3.0
+- pkg:composer/php-openapi/yii2-app-api@2.3.1

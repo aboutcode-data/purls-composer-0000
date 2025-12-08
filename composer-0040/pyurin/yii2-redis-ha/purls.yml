@@ -1,0 +1,6 @@
+- pkg:composer/pyurin/yii2-redis-ha@1.1.0
+- pkg:composer/pyurin/yii2-redis-ha@1.1.2
+- pkg:composer/pyurin/yii2-redis-ha@1.1.3
+- pkg:composer/pyurin/yii2-redis-ha@1.1.5
+- pkg:composer/pyurin/yii2-redis-ha@1.1.6
+- pkg:composer/pyurin/yii2-redis-ha@1.2

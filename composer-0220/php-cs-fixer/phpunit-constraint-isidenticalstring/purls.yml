@@ -1,0 +1,8 @@
+- pkg:composer/php-cs-fixer/phpunit-constraint-isidenticalstring@v1.0.0
+- pkg:composer/php-cs-fixer/phpunit-constraint-isidenticalstring@v1.0.1
+- pkg:composer/php-cs-fixer/phpunit-constraint-isidenticalstring@v1.1.0
+- pkg:composer/php-cs-fixer/phpunit-constraint-isidenticalstring@v1.2.0
+- pkg:composer/php-cs-fixer/phpunit-constraint-isidenticalstring@v1.3.0
+- pkg:composer/php-cs-fixer/phpunit-constraint-isidenticalstring@v1.4.0
+- pkg:composer/php-cs-fixer/phpunit-constraint-isidenticalstring@v1.5.0
+- pkg:composer/php-cs-fixer/phpunit-constraint-isidenticalstring@v1.6.0

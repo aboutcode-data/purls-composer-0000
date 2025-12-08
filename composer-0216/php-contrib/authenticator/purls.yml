@@ -1,0 +1,4 @@
+- pkg:composer/php-contrib/authenticator@0.0.1
+- pkg:composer/php-contrib/authenticator@1.0.0
+- pkg:composer/php-contrib/authenticator@2.0.0
+- pkg:composer/php-contrib/authenticator@2.0.1

@@ -1,0 +1,4 @@
+- pkg:composer/piestar/slack-laravel@1.0.0
+- pkg:composer/piestar/slack-laravel@1.1.1
+- pkg:composer/piestar/slack-laravel@2.0.0
+- pkg:composer/piestar/slack-laravel@2.0.1

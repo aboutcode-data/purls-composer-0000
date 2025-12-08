@@ -1,0 +1,5 @@
+- pkg:composer/php-decimal/laravel@v1.0.0
+- pkg:composer/php-decimal/laravel@v1.0.1
+- pkg:composer/php-decimal/laravel@v1.1.0
+- pkg:composer/php-decimal/laravel@v1.1.1
+- pkg:composer/php-decimal/laravel@v1.1.2

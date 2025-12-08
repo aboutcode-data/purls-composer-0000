@@ -1,0 +1,7 @@
+- pkg:composer/pigvelop/laravel-graylog@v0.1.0
+- pkg:composer/pigvelop/laravel-graylog@v0.2.0
+- pkg:composer/pigvelop/laravel-graylog@v0.3.0
+- pkg:composer/pigvelop/laravel-graylog@v5.5.0
+- pkg:composer/pigvelop/laravel-graylog@v5.6.0
+- pkg:composer/pigvelop/laravel-graylog@v5.6.1
+- pkg:composer/pigvelop/laravel-graylog@v7.0.0

@@ -1,0 +1,9 @@
+- pkg:composer/phpunit/example-extension@1.0.0
+- pkg:composer/phpunit/example-extension@1.0.1
+- pkg:composer/phpunit/example-extension@2.0.0
+- pkg:composer/phpunit/example-extension@2.0.1
+- pkg:composer/phpunit/example-extension@2.0.2
+- pkg:composer/phpunit/example-extension@3.0.0
+- pkg:composer/phpunit/example-extension@3.0.1
+- pkg:composer/phpunit/example-extension@3.0.2
+- pkg:composer/phpunit/example-extension@3.0.3

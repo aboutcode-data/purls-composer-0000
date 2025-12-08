@@ -1,0 +1,13 @@
+- pkg:composer/php-service-bus/code-style-config@1.3.0
+- pkg:composer/php-service-bus/code-style-config@1.3.1
+- pkg:composer/php-service-bus/code-style-config@v0.1.0
+- pkg:composer/php-service-bus/code-style-config@v0.1.1
+- pkg:composer/php-service-bus/code-style-config@v1.0.0
+- pkg:composer/php-service-bus/code-style-config@v1.1.0
+- pkg:composer/php-service-bus/code-style-config@v1.2.0
+- pkg:composer/php-service-bus/code-style-config@v1.2.1
+- pkg:composer/php-service-bus/code-style-config@v5.1.3
+- pkg:composer/php-service-bus/code-style-config@v5.1.4
+- pkg:composer/php-service-bus/code-style-config@v5.1.5
+- pkg:composer/php-service-bus/code-style-config@v5.1.6
+- pkg:composer/php-service-bus/code-style-config@v5.2
