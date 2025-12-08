@@ -1,0 +1,5 @@
+- pkg:composer/shotmann/laravel-metapackage@v1.5.0
+- pkg:composer/shotmann/laravel-metapackage@v2.0.0
+- pkg:composer/shotmann/laravel-metapackage@v3.0.0
+- pkg:composer/shotmann/laravel-metapackage@v4.0.0
+- pkg:composer/shotmann/laravel-metapackage@v5.0.0

@@ -1,0 +1,15 @@
+- pkg:composer/setbased/php-stratum-middle@4.0.0
+- pkg:composer/setbased/php-stratum-middle@5.0.0
+- pkg:composer/setbased/php-stratum-middle@5.1.0
+- pkg:composer/setbased/php-stratum-middle@5.10.0
+- pkg:composer/setbased/php-stratum-middle@5.11.0
+- pkg:composer/setbased/php-stratum-middle@5.12.0
+- pkg:composer/setbased/php-stratum-middle@5.13.0
+- pkg:composer/setbased/php-stratum-middle@5.14.0
+- pkg:composer/setbased/php-stratum-middle@5.2.0
+- pkg:composer/setbased/php-stratum-middle@5.2.1
+- pkg:composer/setbased/php-stratum-middle@5.6.0
+- pkg:composer/setbased/php-stratum-middle@5.6.1
+- pkg:composer/setbased/php-stratum-middle@5.7.0
+- pkg:composer/setbased/php-stratum-middle@5.8.0
+- pkg:composer/setbased/php-stratum-middle@5.9.0

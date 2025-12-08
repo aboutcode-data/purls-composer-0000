@@ -1,0 +1,5 @@
+- pkg:composer/softmg/mongodb-migrations@1.0.3
+- pkg:composer/softmg/mongodb-migrations@1.0.4
+- pkg:composer/softmg/mongodb-migrations@v1.0.0
+- pkg:composer/softmg/mongodb-migrations@v1.0.1
+- pkg:composer/softmg/mongodb-migrations@v1.0.2

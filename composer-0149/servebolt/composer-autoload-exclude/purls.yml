@@ -1,0 +1,9 @@
+- pkg:composer/servebolt/composer-autoload-exclude@v1.0.0
+- pkg:composer/servebolt/composer-autoload-exclude@v1.1.0
+- pkg:composer/servebolt/composer-autoload-exclude@v1.2.0
+- pkg:composer/servebolt/composer-autoload-exclude@v1.3.0
+- pkg:composer/servebolt/composer-autoload-exclude@v2.0.0
+- pkg:composer/servebolt/composer-autoload-exclude@v2.1.0
+- pkg:composer/servebolt/composer-autoload-exclude@v2.2.0
+- pkg:composer/servebolt/composer-autoload-exclude@v2.2.1
+- pkg:composer/servebolt/composer-autoload-exclude@v2.3.0

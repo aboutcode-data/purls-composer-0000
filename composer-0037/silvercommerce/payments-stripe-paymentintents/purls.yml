@@ -1,0 +1,3 @@
+- pkg:composer/silvercommerce/payments-stripe-paymentintents@1.0.0
+- pkg:composer/silvercommerce/payments-stripe-paymentintents@1.0.1
+- pkg:composer/silvercommerce/payments-stripe-paymentintents@1.0.2

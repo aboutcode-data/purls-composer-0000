@@ -1,0 +1,8 @@
+- pkg:composer/slm/queue-beanstalkd@0.2
+- pkg:composer/slm/queue-beanstalkd@0.2.1
+- pkg:composer/slm/queue-beanstalkd@0.3.0
+- pkg:composer/slm/queue-beanstalkd@0.3.0-beta1
+- pkg:composer/slm/queue-beanstalkd@v0.3.1
+- pkg:composer/slm/queue-beanstalkd@v0.4.0
+- pkg:composer/slm/queue-beanstalkd@v0.4.1
+- pkg:composer/slm/queue-beanstalkd@v0.4.2

@@ -1,0 +1,15 @@
+- pkg:composer/sima-land/api-php-client@1.0
+- pkg:composer/sima-land/api-php-client@1.1
+- pkg:composer/sima-land/api-php-client@1.1.1
+- pkg:composer/sima-land/api-php-client@1.2
+- pkg:composer/sima-land/api-php-client@1.2.1
+- pkg:composer/sima-land/api-php-client@1.2.2
+- pkg:composer/sima-land/api-php-client@3.0.0
+- pkg:composer/sima-land/api-php-client@3.0.1
+- pkg:composer/sima-land/api-php-client@3.1.0
+- pkg:composer/sima-land/api-php-client@3.2.0
+- pkg:composer/sima-land/api-php-client@3.3.0
+- pkg:composer/sima-land/api-php-client@3.4.0
+- pkg:composer/sima-land/api-php-client@3.5.0
+- pkg:composer/sima-land/api-php-client@3.6.0
+- pkg:composer/sima-land/api-php-client@4.0.0

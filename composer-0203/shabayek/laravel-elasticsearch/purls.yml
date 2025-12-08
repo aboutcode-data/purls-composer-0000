@@ -1,0 +1,4 @@
+- pkg:composer/shabayek/laravel-elasticsearch@v0.1
+- pkg:composer/shabayek/laravel-elasticsearch@v0.2
+- pkg:composer/shabayek/laravel-elasticsearch@v0.3
+- pkg:composer/shabayek/laravel-elasticsearch@v0.4

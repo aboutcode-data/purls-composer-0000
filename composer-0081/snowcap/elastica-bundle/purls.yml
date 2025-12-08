@@ -1,0 +1,5 @@
+- pkg:composer/snowcap/elastica-bundle@v0.19.8
+- pkg:composer/snowcap/elastica-bundle@v0.9.7
+- pkg:composer/snowcap/elastica-bundle@v0.9.8
+- pkg:composer/snowcap/elastica-bundle@v1.0.0
+- pkg:composer/snowcap/elastica-bundle@v1.0.1

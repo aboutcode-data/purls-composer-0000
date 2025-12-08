@@ -1,0 +1,4 @@
+- pkg:composer/solido/symfony-template@0.1.0
+- pkg:composer/solido/symfony-template@0.2.0
+- pkg:composer/solido/symfony-template@0.4.0
+- pkg:composer/solido/symfony-template@v0.3.0

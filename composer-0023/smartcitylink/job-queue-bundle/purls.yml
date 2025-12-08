@@ -1,0 +1,13 @@
+- pkg:composer/smartcitylink/job-queue-bundle@2.1.0
+- pkg:composer/smartcitylink/job-queue-bundle@3.0.0
+- pkg:composer/smartcitylink/job-queue-bundle@3.0.1
+- pkg:composer/smartcitylink/job-queue-bundle@3.1.0
+- pkg:composer/smartcitylink/job-queue-bundle@3.2.0
+- pkg:composer/smartcitylink/job-queue-bundle@3.2.1
+- pkg:composer/smartcitylink/job-queue-bundle@3.2.2
+- pkg:composer/smartcitylink/job-queue-bundle@3.2.3
+- pkg:composer/smartcitylink/job-queue-bundle@4.0.0
+- pkg:composer/smartcitylink/job-queue-bundle@4.0.1
+- pkg:composer/smartcitylink/job-queue-bundle@5.0.0
+- pkg:composer/smartcitylink/job-queue-bundle@6.0.0
+- pkg:composer/smartcitylink/job-queue-bundle@7.0.0

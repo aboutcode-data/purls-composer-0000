@@ -1,0 +1,6 @@
+- pkg:composer/slevomat/composer-require-checker-shim@2.0.0
+- pkg:composer/slevomat/composer-require-checker-shim@2.1.0
+- pkg:composer/slevomat/composer-require-checker-shim@3.0.0
+- pkg:composer/slevomat/composer-require-checker-shim@4.0.0
+- pkg:composer/slevomat/composer-require-checker-shim@4.5.0
+- pkg:composer/slevomat/composer-require-checker-shim@4.8.0

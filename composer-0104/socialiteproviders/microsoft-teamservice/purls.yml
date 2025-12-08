@@ -1,0 +1,4 @@
+- pkg:composer/socialiteproviders/microsoft-teamservice@4.0.0
+- pkg:composer/socialiteproviders/microsoft-teamservice@4.1.0
+- pkg:composer/socialiteproviders/microsoft-teamservice@v1.0.0
+- pkg:composer/socialiteproviders/microsoft-teamservice@v3.1.0

@@ -1,0 +1,4 @@
+- pkg:composer/scribe/stripe-bundle@0.5.0-alpha
+- pkg:composer/scribe/stripe-bundle@v1.0.0
+- pkg:composer/scribe/stripe-bundle@v1.0.1
+- pkg:composer/scribe/stripe-bundle@v1.0.2

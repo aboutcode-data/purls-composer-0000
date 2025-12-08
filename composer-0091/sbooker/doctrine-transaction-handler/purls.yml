@@ -1,0 +1,8 @@
+- pkg:composer/sbooker/doctrine-transaction-handler@0.9.0
+- pkg:composer/sbooker/doctrine-transaction-handler@1.0.0
+- pkg:composer/sbooker/doctrine-transaction-handler@1.0.1
+- pkg:composer/sbooker/doctrine-transaction-handler@2.0.0
+- pkg:composer/sbooker/doctrine-transaction-handler@2.0.1
+- pkg:composer/sbooker/doctrine-transaction-handler@2.0.2
+- pkg:composer/sbooker/doctrine-transaction-handler@2.2.0
+- pkg:composer/sbooker/doctrine-transaction-handler@2.3.0

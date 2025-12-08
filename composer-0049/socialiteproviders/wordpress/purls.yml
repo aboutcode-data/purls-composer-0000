@@ -1,0 +1,8 @@
+- pkg:composer/socialiteproviders/wordpress@0.1
+- pkg:composer/socialiteproviders/wordpress@0.1.1
+- pkg:composer/socialiteproviders/wordpress@4.0.0
+- pkg:composer/socialiteproviders/wordpress@4.1.0
+- pkg:composer/socialiteproviders/wordpress@v1.1.0
+- pkg:composer/socialiteproviders/wordpress@v1.2.0
+- pkg:composer/socialiteproviders/wordpress@v2.0.0
+- pkg:composer/socialiteproviders/wordpress@v3.0.0

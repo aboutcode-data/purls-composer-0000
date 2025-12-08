@@ -1,0 +1,9 @@
+- pkg:composer/socialiteproviders/microsoft-graph@4.0.0
+- pkg:composer/socialiteproviders/microsoft-graph@4.1.0
+- pkg:composer/socialiteproviders/microsoft-graph@4.1.1
+- pkg:composer/socialiteproviders/microsoft-graph@v1.0.0
+- pkg:composer/socialiteproviders/microsoft-graph@v2.0.0
+- pkg:composer/socialiteproviders/microsoft-graph@v2.0.1
+- pkg:composer/socialiteproviders/microsoft-graph@v2.0.2
+- pkg:composer/socialiteproviders/microsoft-graph@v2.1
+- pkg:composer/socialiteproviders/microsoft-graph@v3.1.0

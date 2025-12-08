@@ -1,0 +1,4 @@
+- pkg:composer/sbooker/workflow@0.9.0
+- pkg:composer/sbooker/workflow@1.0.0
+- pkg:composer/sbooker/workflow@1.1.0
+- pkg:composer/sbooker/workflow@2.0.0

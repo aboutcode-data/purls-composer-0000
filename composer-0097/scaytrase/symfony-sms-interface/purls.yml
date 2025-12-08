@@ -1,0 +1,13 @@
+- pkg:composer/scaytrase/symfony-sms-interface@0.2.1-beta17
+- pkg:composer/scaytrase/symfony-sms-interface@0.2.1-beta22
+- pkg:composer/scaytrase/symfony-sms-interface@1.0
+- pkg:composer/scaytrase/symfony-sms-interface@1.0-alpha1
+- pkg:composer/scaytrase/symfony-sms-interface@1.0.1
+- pkg:composer/scaytrase/symfony-sms-interface@2.0.0
+- pkg:composer/scaytrase/symfony-sms-interface@2.0.0-alpha
+- pkg:composer/scaytrase/symfony-sms-interface@2.1.0
+- pkg:composer/scaytrase/symfony-sms-interface@2.1.1
+- pkg:composer/scaytrase/symfony-sms-interface@2.1.2
+- pkg:composer/scaytrase/symfony-sms-interface@2.1.3
+- pkg:composer/scaytrase/symfony-sms-interface@2.1.4
+- pkg:composer/scaytrase/symfony-sms-interface@2.1.5

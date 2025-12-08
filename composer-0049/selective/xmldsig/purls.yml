@@ -1,0 +1,17 @@
+- pkg:composer/selective/xmldsig@0.1.0
+- pkg:composer/selective/xmldsig@0.2.0
+- pkg:composer/selective/xmldsig@0.2.1
+- pkg:composer/selective/xmldsig@0.3.0
+- pkg:composer/selective/xmldsig@0.3.1
+- pkg:composer/selective/xmldsig@0.3.2
+- pkg:composer/selective/xmldsig@0.4.0
+- pkg:composer/selective/xmldsig@1.0.0
+- pkg:composer/selective/xmldsig@2.0.0
+- pkg:composer/selective/xmldsig@2.1.0
+- pkg:composer/selective/xmldsig@2.2.0
+- pkg:composer/selective/xmldsig@2.2.1
+- pkg:composer/selective/xmldsig@2.3.0
+- pkg:composer/selective/xmldsig@2.4.0
+- pkg:composer/selective/xmldsig@3.0.0
+- pkg:composer/selective/xmldsig@3.1.0
+- pkg:composer/selective/xmldsig@3.2.0

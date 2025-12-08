@@ -1,0 +1,9 @@
+- pkg:composer/socialiteproviders/jira@4.0.0
+- pkg:composer/socialiteproviders/jira@4.1.0
+- pkg:composer/socialiteproviders/jira@5.0.0
+- pkg:composer/socialiteproviders/jira@v1.0.0
+- pkg:composer/socialiteproviders/jira@v1.1.0
+- pkg:composer/socialiteproviders/jira@v2.0.0
+- pkg:composer/socialiteproviders/jira@v2.1.0
+- pkg:composer/socialiteproviders/jira@v2.1.1
+- pkg:composer/socialiteproviders/jira@v2.1.2

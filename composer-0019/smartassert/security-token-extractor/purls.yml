@@ -1,0 +1,3 @@
+- pkg:composer/smartassert/security-token-extractor@0.1
+- pkg:composer/smartassert/security-token-extractor@0.2
+- pkg:composer/smartassert/security-token-extractor@1.0

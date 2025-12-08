@@ -1,0 +1,6 @@
+- pkg:composer/snowio/magento2-idempotent-api@v1.0.0
+- pkg:composer/snowio/magento2-idempotent-api@v1.0.1
+- pkg:composer/snowio/magento2-idempotent-api@v1.1.0
+- pkg:composer/snowio/magento2-idempotent-api@v2.0.0
+- pkg:composer/snowio/magento2-idempotent-api@v2.0.1
+- pkg:composer/snowio/magento2-idempotent-api@v2.0.2

@@ -1,0 +1,4 @@
+- pkg:composer/socialiteproviders/netlify@4.0.0
+- pkg:composer/socialiteproviders/netlify@4.1.0
+- pkg:composer/socialiteproviders/netlify@v1.0
+- pkg:composer/socialiteproviders/netlify@v1.1

@@ -1,0 +1,12 @@
+- pkg:composer/softinvest/php-jsonpointer@v0.0.1
+- pkg:composer/softinvest/php-jsonpointer@v1.0.0-RC1
+- pkg:composer/softinvest/php-jsonpointer@v1.0.0-RC2
+- pkg:composer/softinvest/php-jsonpointer@v1.1.0
+- pkg:composer/softinvest/php-jsonpointer@v1.1.0-RC1
+- pkg:composer/softinvest/php-jsonpointer@v2.0.0
+- pkg:composer/softinvest/php-jsonpointer@v2.0.1
+- pkg:composer/softinvest/php-jsonpointer@v3.0.0
+- pkg:composer/softinvest/php-jsonpointer@v3.0.1
+- pkg:composer/softinvest/php-jsonpointer@v3.0.2
+- pkg:composer/softinvest/php-jsonpointer@v4.0.0
+- pkg:composer/softinvest/php-jsonpointer@v5.0.0

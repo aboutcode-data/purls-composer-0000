@@ -1,0 +1,4 @@
+- pkg:composer/sinri/ark-mysqli@1.0
+- pkg:composer/sinri/ark-mysqli@1.1
+- pkg:composer/sinri/ark-mysqli@1.2
+- pkg:composer/sinri/ark-mysqli@2.0
