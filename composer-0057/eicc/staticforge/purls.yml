@@ -56,3 +56,4 @@
 - pkg:composer/eicc/staticforge@1.7.5
 - pkg:composer/eicc/staticforge@1.7.6
 - pkg:composer/eicc/staticforge@1.7.7
+- pkg:composer/eicc/staticforge@1.8.0

@@ -2,3 +2,4 @@
 - pkg:composer/fabiang/doctrine-migrations-liquibase-laminas@v1.1.0
 - pkg:composer/fabiang/doctrine-migrations-liquibase-laminas@v1.2.0
 - pkg:composer/fabiang/doctrine-migrations-liquibase-laminas@v2.0.0
+- pkg:composer/fabiang/doctrine-migrations-liquibase-laminas@v2.0.1
