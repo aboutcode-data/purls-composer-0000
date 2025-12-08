@@ -1,0 +1,16 @@
+- pkg:composer/middlewares/client-ip@v0.1.0
+- pkg:composer/middlewares/client-ip@v0.2.0
+- pkg:composer/middlewares/client-ip@v0.3.0
+- pkg:composer/middlewares/client-ip@v0.4.0
+- pkg:composer/middlewares/client-ip@v0.5.0
+- pkg:composer/middlewares/client-ip@v0.6.0
+- pkg:composer/middlewares/client-ip@v0.7.0
+- pkg:composer/middlewares/client-ip@v1.0.0
+- pkg:composer/middlewares/client-ip@v1.0.1
+- pkg:composer/middlewares/client-ip@v1.0.2
+- pkg:composer/middlewares/client-ip@v1.1.0
+- pkg:composer/middlewares/client-ip@v1.2.0
+- pkg:composer/middlewares/client-ip@v1.3.0
+- pkg:composer/middlewares/client-ip@v2.0.0
+- pkg:composer/middlewares/client-ip@v2.0.1
+- pkg:composer/middlewares/client-ip@v2.1.0

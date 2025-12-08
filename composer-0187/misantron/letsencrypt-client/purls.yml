@@ -1,0 +1,2 @@
+- pkg:composer/misantron/letsencrypt-client@1.0.0-beta1
+- pkg:composer/misantron/letsencrypt-client@1.0.0-beta2

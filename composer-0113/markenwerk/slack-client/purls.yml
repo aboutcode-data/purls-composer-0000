@@ -1,0 +1,4 @@
+- pkg:composer/markenwerk/slack-client@0.0.1
+- pkg:composer/markenwerk/slack-client@1.0.0
+- pkg:composer/markenwerk/slack-client@2.0.0
+- pkg:composer/markenwerk/slack-client@2.0.1

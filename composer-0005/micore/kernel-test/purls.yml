@@ -1,0 +1,5 @@
+- pkg:composer/micore/kernel-test@1.3
+- pkg:composer/micore/kernel-test@1.3.1
+- pkg:composer/micore/kernel-test@1.3.2
+- pkg:composer/micore/kernel-test@v1.1
+- pkg:composer/micore/kernel-test@v1.2

@@ -1,0 +1,4 @@
+- pkg:composer/mindgram/graphql-federation@1.0
+- pkg:composer/mindgram/graphql-federation@2.0.0
+- pkg:composer/mindgram/graphql-federation@3.0.0
+- pkg:composer/mindgram/graphql-federation@v0.1

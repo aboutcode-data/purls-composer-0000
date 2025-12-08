@@ -1,0 +1,3 @@
+- pkg:composer/miome/iso8583@1.0.0
+- pkg:composer/miome/iso8583@1.1.1
+- pkg:composer/miome/iso8583@1.2.1

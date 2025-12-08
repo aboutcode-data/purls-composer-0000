@@ -1,0 +1,4 @@
+- pkg:composer/marcusmyers/laravel-docker-skeleton@1.0.0
+- pkg:composer/marcusmyers/laravel-docker-skeleton@1.1.0
+- pkg:composer/marcusmyers/laravel-docker-skeleton@2.0.0
+- pkg:composer/marcusmyers/laravel-docker-skeleton@2.0.1

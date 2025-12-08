@@ -1,0 +1,2 @@
+- pkg:composer/micro/plugin-filesystem-local@1.0
+- pkg:composer/micro/plugin-filesystem-local@v1.6.0

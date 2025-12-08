@@ -1,0 +1,3 @@
+- pkg:composer/marcusmyers/laravel-github-actions@1.0.0
+- pkg:composer/marcusmyers/laravel-github-actions@2.0.0
+- pkg:composer/marcusmyers/laravel-github-actions@2.0.1

@@ -1,0 +1,4 @@
+- pkg:composer/magetest/magento@v1.7.0.2
+- pkg:composer/magetest/magento@v1.8.1.0
+- pkg:composer/magetest/magento@v1.9.0.1
+- pkg:composer/magetest/magento@v2.0.1.0

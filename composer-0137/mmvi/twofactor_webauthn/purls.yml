@@ -1,0 +1,3 @@
+- pkg:composer/mmvi/twofactor_webauthn@1.1
+- pkg:composer/mmvi/twofactor_webauthn@1.2
+- pkg:composer/mmvi/twofactor_webauthn@1.3

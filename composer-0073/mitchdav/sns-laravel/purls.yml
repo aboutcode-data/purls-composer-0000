@@ -1,0 +1,4 @@
+- pkg:composer/mitchdav/sns-laravel@v5.3.0
+- pkg:composer/mitchdav/sns-laravel@v5.4.0
+- pkg:composer/mitchdav/sns-laravel@v5.5.0
+- pkg:composer/mitchdav/sns-laravel@v5.6.0

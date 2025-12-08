@@ -1,0 +1,9 @@
+- pkg:composer/matomo/doctrine-cache-fork@1.10.2
+- pkg:composer/matomo/doctrine-cache-fork@1.10.3
+- pkg:composer/matomo/doctrine-cache-fork@1.10.4
+- pkg:composer/matomo/doctrine-cache-fork@v1.0
+- pkg:composer/matomo/doctrine-cache-fork@v1.1
+- pkg:composer/matomo/doctrine-cache-fork@v1.2.0
+- pkg:composer/matomo/doctrine-cache-fork@v1.3.0
+- pkg:composer/matomo/doctrine-cache-fork@v1.3.1
+- pkg:composer/matomo/doctrine-cache-fork@v1.4.0

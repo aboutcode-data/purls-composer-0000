@@ -1,0 +1,4 @@
+- pkg:composer/marlek/laravel-automigrate@1.0.0
+- pkg:composer/marlek/laravel-automigrate@1.1
+- pkg:composer/marlek/laravel-automigrate@1.2
+- pkg:composer/marlek/laravel-automigrate@2.0

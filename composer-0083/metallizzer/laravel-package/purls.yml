@@ -1,0 +1,4 @@
+- pkg:composer/metallizzer/laravel-package@v1.0.0
+- pkg:composer/metallizzer/laravel-package@v1.0.1
+- pkg:composer/metallizzer/laravel-package@v1.1.0
+- pkg:composer/metallizzer/laravel-package@v1.2.0

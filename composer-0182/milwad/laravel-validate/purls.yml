@@ -1,0 +1,17 @@
+- pkg:composer/milwad/laravel-validate@v1.0
+- pkg:composer/milwad/laravel-validate@v1.1
+- pkg:composer/milwad/laravel-validate@v1.2
+- pkg:composer/milwad/laravel-validate@v1.3
+- pkg:composer/milwad/laravel-validate@v1.4
+- pkg:composer/milwad/laravel-validate@v1.6
+- pkg:composer/milwad/laravel-validate@v1.7
+- pkg:composer/milwad/laravel-validate@v1.7.1
+- pkg:composer/milwad/laravel-validate@v1.7.2
+- pkg:composer/milwad/laravel-validate@v1.8.0
+- pkg:composer/milwad/laravel-validate@v1.8.1
+- pkg:composer/milwad/laravel-validate@v1.8.2
+- pkg:composer/milwad/laravel-validate@v1.8.3
+- pkg:composer/milwad/laravel-validate@v1.9.0
+- pkg:composer/milwad/laravel-validate@v1.9.1
+- pkg:composer/milwad/laravel-validate@v1.9.2
+- pkg:composer/milwad/laravel-validate@v1.9.3

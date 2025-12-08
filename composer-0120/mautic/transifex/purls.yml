@@ -1,0 +1,11 @@
+- pkg:composer/mautic/transifex@1.0.0
+- pkg:composer/mautic/transifex@1.1.0
+- pkg:composer/mautic/transifex@1.2.0
+- pkg:composer/mautic/transifex@1.3.0
+- pkg:composer/mautic/transifex@2.0.0
+- pkg:composer/mautic/transifex@2.1.0
+- pkg:composer/mautic/transifex@2.1.1
+- pkg:composer/mautic/transifex@3.0.0
+- pkg:composer/mautic/transifex@4.0.0
+- pkg:composer/mautic/transifex@4.1.0
+- pkg:composer/mautic/transifex@5.0.0

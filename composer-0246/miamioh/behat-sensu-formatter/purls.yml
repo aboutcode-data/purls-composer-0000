@@ -1,0 +1,4 @@
+- pkg:composer/miamioh/behat-sensu-formatter@v0.5
+- pkg:composer/miamioh/behat-sensu-formatter@v0.5.1
+- pkg:composer/miamioh/behat-sensu-formatter@v0.6
+- pkg:composer/miamioh/behat-sensu-formatter@v0.6.1

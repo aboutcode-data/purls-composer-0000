@@ -1,0 +1,4 @@
+- pkg:composer/messageagency/box_client@1.0
+- pkg:composer/messageagency/box_client@1.1
+- pkg:composer/messageagency/box_client@1.2
+- pkg:composer/messageagency/box_client@1.3

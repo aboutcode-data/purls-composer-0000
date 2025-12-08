@@ -1,0 +1,4 @@
+- pkg:composer/mediawiki/namespace-manager@1.0.0
+- pkg:composer/mediawiki/namespace-manager@2.0.0
+- pkg:composer/mediawiki/namespace-manager@2.1.0
+- pkg:composer/mediawiki/namespace-manager@2.2.0

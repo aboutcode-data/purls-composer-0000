@@ -1,0 +1,4 @@
+- pkg:composer/micoli/docker-php-api-client@v0.5
+- pkg:composer/micoli/docker-php-api-client@v3.1
+- pkg:composer/micoli/docker-php-api-client@v4.0
+- pkg:composer/micoli/docker-php-api-client@v4.1

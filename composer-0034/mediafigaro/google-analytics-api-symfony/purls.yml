@@ -1,0 +1,5 @@
+- pkg:composer/mediafigaro/google-analytics-api-symfony@1.0
+- pkg:composer/mediafigaro/google-analytics-api-symfony@1.1
+- pkg:composer/mediafigaro/google-analytics-api-symfony@1.2
+- pkg:composer/mediafigaro/google-analytics-api-symfony@1.21
+- pkg:composer/mediafigaro/google-analytics-api-symfony@1.22

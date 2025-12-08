@@ -1,0 +1,4 @@
+- pkg:composer/micro/plugin-configuration-helper@1.0
+- pkg:composer/micro/plugin-configuration-helper@1.1
+- pkg:composer/micro/plugin-configuration-helper@2.0.0-alpha
+- pkg:composer/micro/plugin-configuration-helper@v1.6.1

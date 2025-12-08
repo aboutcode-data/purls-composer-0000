@@ -1,0 +1,8 @@
+- pkg:composer/middlewares/base-path-router@v0.1.0
+- pkg:composer/middlewares/base-path-router@v0.2.0
+- pkg:composer/middlewares/base-path-router@v0.2.1
+- pkg:composer/middlewares/base-path-router@v1.0.0
+- pkg:composer/middlewares/base-path-router@v2.0.0
+- pkg:composer/middlewares/base-path-router@v2.0.1
+- pkg:composer/middlewares/base-path-router@v2.0.2
+- pkg:composer/middlewares/base-path-router@v2.1.0
