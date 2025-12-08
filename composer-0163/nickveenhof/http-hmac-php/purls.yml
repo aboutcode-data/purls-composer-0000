@@ -1,0 +1,13 @@
+- pkg:composer/nickveenhof/http-hmac-php@0.7.0
+- pkg:composer/nickveenhof/http-hmac-php@1.0.0
+- pkg:composer/nickveenhof/http-hmac-php@1.0.1
+- pkg:composer/nickveenhof/http-hmac-php@2.0.0
+- pkg:composer/nickveenhof/http-hmac-php@2.0.1
+- pkg:composer/nickveenhof/http-hmac-php@2.1.0
+- pkg:composer/nickveenhof/http-hmac-php@3.0.0
+- pkg:composer/nickveenhof/http-hmac-php@3.0.0-beta1
+- pkg:composer/nickveenhof/http-hmac-php@3.0.0-beta2
+- pkg:composer/nickveenhof/http-hmac-php@3.1.0
+- pkg:composer/nickveenhof/http-hmac-php@3.1.1
+- pkg:composer/nickveenhof/http-hmac-php@3.1.2
+- pkg:composer/nickveenhof/http-hmac-php@3.1.3

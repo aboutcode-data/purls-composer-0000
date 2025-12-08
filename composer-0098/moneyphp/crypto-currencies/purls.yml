@@ -1,0 +1,9 @@
+- pkg:composer/moneyphp/crypto-currencies@1.0.0
+- pkg:composer/moneyphp/crypto-currencies@1.0.0-beta1
+- pkg:composer/moneyphp/crypto-currencies@1.0.1
+- pkg:composer/moneyphp/crypto-currencies@1.1.0
+- pkg:composer/moneyphp/crypto-currencies@1.1.1
+- pkg:composer/moneyphp/crypto-currencies@1.2.0
+- pkg:composer/moneyphp/crypto-currencies@1.3.0
+- pkg:composer/moneyphp/crypto-currencies@1.4.0
+- pkg:composer/moneyphp/crypto-currencies@v0.1.0

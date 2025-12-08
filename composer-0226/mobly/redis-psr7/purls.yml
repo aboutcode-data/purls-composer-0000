@@ -1,0 +1,4 @@
+- pkg:composer/mobly/redis-psr7@v1.0.0
+- pkg:composer/mobly/redis-psr7@v1.0.1
+- pkg:composer/mobly/redis-psr7@v1.0.3
+- pkg:composer/mobly/redis-psr7@v1.1.0

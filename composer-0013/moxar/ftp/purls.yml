@@ -1,0 +1,3 @@
+- pkg:composer/moxar/ftp@2
+- pkg:composer/moxar/ftp@3
+- pkg:composer/moxar/ftp@v1

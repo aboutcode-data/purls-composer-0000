@@ -1,0 +1,3 @@
+- pkg:composer/nassau/job-queue-bundle@1.2.1
+- pkg:composer/nassau/job-queue-bundle@1.2.2
+- pkg:composer/nassau/job-queue-bundle@1.2.3

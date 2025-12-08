@@ -1,0 +1,4 @@
+- pkg:composer/ngohr/castor@2.0-stable
+- pkg:composer/ngohr/castor@2.1
+- pkg:composer/ngohr/castor@2.11
+- pkg:composer/ngohr/castor@3.0-stable

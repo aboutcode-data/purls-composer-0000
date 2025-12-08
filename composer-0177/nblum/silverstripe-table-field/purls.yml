@@ -1,0 +1,4 @@
+- pkg:composer/nblum/silverstripe-table-field@0.1.1
+- pkg:composer/nblum/silverstripe-table-field@2.0.0
+- pkg:composer/nblum/silverstripe-table-field@2.0.1
+- pkg:composer/nblum/silverstripe-table-field@v0.1.0

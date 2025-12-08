@@ -1,0 +1,6 @@
+- pkg:composer/nekman/aws-ring-http-signer@0.0.1
+- pkg:composer/nekman/aws-ring-http-signer@1.0.0
+- pkg:composer/nekman/aws-ring-http-signer@1.0.1
+- pkg:composer/nekman/aws-ring-http-signer@1.0.2
+- pkg:composer/nekman/aws-ring-http-signer@1.0.3
+- pkg:composer/nekman/aws-ring-http-signer@2.0.0

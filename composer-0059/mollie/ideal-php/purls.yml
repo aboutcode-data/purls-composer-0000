@@ -1,0 +1,4 @@
+- pkg:composer/mollie/ideal-php@v1.16
+- pkg:composer/mollie/ideal-php@v1.17
+- pkg:composer/mollie/ideal-php@v1.18
+- pkg:composer/mollie/ideal-php@v1.19

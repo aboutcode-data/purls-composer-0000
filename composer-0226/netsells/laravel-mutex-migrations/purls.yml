@@ -1,0 +1,4 @@
+- pkg:composer/netsells/laravel-mutex-migrations@v1.0.0
+- pkg:composer/netsells/laravel-mutex-migrations@v1.1.0
+- pkg:composer/netsells/laravel-mutex-migrations@v2.0.0
+- pkg:composer/netsells/laravel-mutex-migrations@v3.0.0

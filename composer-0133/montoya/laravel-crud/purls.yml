@@ -1,0 +1,4 @@
+- pkg:composer/montoya/laravel-crud@v0.1
+- pkg:composer/montoya/laravel-crud@v0.2
+- pkg:composer/montoya/laravel-crud@v0.3
+- pkg:composer/montoya/laravel-crud@v0.4

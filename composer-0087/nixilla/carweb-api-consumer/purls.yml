@@ -1,0 +1,3 @@
+- pkg:composer/nixilla/carweb-api-consumer@0.1
+- pkg:composer/nixilla/carweb-api-consumer@0.2
+- pkg:composer/nixilla/carweb-api-consumer@0.3

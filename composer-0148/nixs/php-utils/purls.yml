@@ -1,0 +1,6 @@
+- pkg:composer/nixs/php-utils@1.0.0
+- pkg:composer/nixs/php-utils@1.0.1
+- pkg:composer/nixs/php-utils@1.1.0
+- pkg:composer/nixs/php-utils@1.1.1
+- pkg:composer/nixs/php-utils@1.1.2
+- pkg:composer/nixs/php-utils@2.0.0

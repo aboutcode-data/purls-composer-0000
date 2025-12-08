@@ -1,0 +1,4 @@
+- pkg:composer/moccalotto/ssh@v0.5
+- pkg:composer/moccalotto/ssh@v0.6
+- pkg:composer/moccalotto/ssh@v0.6.1
+- pkg:composer/moccalotto/ssh@v0.6.2

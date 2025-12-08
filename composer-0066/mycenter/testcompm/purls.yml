@@ -1,0 +1,5 @@
+- pkg:composer/mycenter/testcompm@2.0.0-alpha3
+- pkg:composer/mycenter/testcompm@2.0.0-alpha4
+- pkg:composer/mycenter/testcompm@2.0.0-alpha5
+- pkg:composer/mycenter/testcompm@2.0.0-alpha6
+- pkg:composer/mycenter/testcompm@2.0.0-beta

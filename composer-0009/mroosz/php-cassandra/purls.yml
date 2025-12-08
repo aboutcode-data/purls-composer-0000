@@ -1,0 +1,10 @@
+- pkg:composer/mroosz/php-cassandra@v0.7.0-alpha
+- pkg:composer/mroosz/php-cassandra@v0.7.1-alpha
+- pkg:composer/mroosz/php-cassandra@v0.7.2-beta
+- pkg:composer/mroosz/php-cassandra@v0.7.3-beta
+- pkg:composer/mroosz/php-cassandra@v0.8.0
+- pkg:composer/mroosz/php-cassandra@v0.8.1
+- pkg:composer/mroosz/php-cassandra@v1.0.0
+- pkg:composer/mroosz/php-cassandra@v1.0.1
+- pkg:composer/mroosz/php-cassandra@v1.1.0
+- pkg:composer/mroosz/php-cassandra@v1.2.0

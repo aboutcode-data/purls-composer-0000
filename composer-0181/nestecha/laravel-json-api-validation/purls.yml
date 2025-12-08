@@ -1,0 +1,12 @@
+- pkg:composer/nestecha/laravel-json-api-validation@1.0.0
+- pkg:composer/nestecha/laravel-json-api-validation@2.0.0
+- pkg:composer/nestecha/laravel-json-api-validation@3.0.0
+- pkg:composer/nestecha/laravel-json-api-validation@3.0.1
+- pkg:composer/nestecha/laravel-json-api-validation@3.0.2
+- pkg:composer/nestecha/laravel-json-api-validation@3.0.3
+- pkg:composer/nestecha/laravel-json-api-validation@4.0.0
+- pkg:composer/nestecha/laravel-json-api-validation@4.0.1
+- pkg:composer/nestecha/laravel-json-api-validation@4.0.2
+- pkg:composer/nestecha/laravel-json-api-validation@4.0.3
+- pkg:composer/nestecha/laravel-json-api-validation@4.0.4
+- pkg:composer/nestecha/laravel-json-api-validation@5.0.0

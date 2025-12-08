@@ -1,0 +1,4 @@
+- pkg:composer/mongooer/swoole-thrift-zookeeper@0.0.1
+- pkg:composer/mongooer/swoole-thrift-zookeeper@0.0.2
+- pkg:composer/mongooer/swoole-thrift-zookeeper@0.0.3
+- pkg:composer/mongooer/swoole-thrift-zookeeper@0.0.4

@@ -1,0 +1,2 @@
+- pkg:composer/mpdf/psr-log-aware-trait@v2.0.0
+- pkg:composer/mpdf/psr-log-aware-trait@v3.0.0

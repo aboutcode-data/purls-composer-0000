@@ -1,0 +1,3 @@
+- pkg:composer/neos/form-yamlbuilder@2.0.0
+- pkg:composer/neos/form-yamlbuilder@3.0.0
+- pkg:composer/neos/form-yamlbuilder@3.0.1

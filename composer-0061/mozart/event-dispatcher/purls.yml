@@ -1,0 +1,4 @@
+- pkg:composer/mozart/event-dispatcher@v0.1.1
+- pkg:composer/mozart/event-dispatcher@v0.1.3
+- pkg:composer/mozart/event-dispatcher@v0.1.4
+- pkg:composer/mozart/event-dispatcher@v0.1.5

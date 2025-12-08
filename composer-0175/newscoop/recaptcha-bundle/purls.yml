@@ -1,0 +1,4 @@
+- pkg:composer/newscoop/recaptcha-bundle@2.0
+- pkg:composer/newscoop/recaptcha-bundle@2.1
+- pkg:composer/newscoop/recaptcha-bundle@2.2
+- pkg:composer/newscoop/recaptcha-bundle@v1.0.0

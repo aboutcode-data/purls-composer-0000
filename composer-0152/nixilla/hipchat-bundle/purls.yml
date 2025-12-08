@@ -1,0 +1,4 @@
+- pkg:composer/nixilla/hipchat-bundle@0.0.1
+- pkg:composer/nixilla/hipchat-bundle@0.0.2
+- pkg:composer/nixilla/hipchat-bundle@0.1
+- pkg:composer/nixilla/hipchat-bundle@0.1.1

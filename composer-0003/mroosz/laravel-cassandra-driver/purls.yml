@@ -1,0 +1,9 @@
+- pkg:composer/mroosz/laravel-cassandra-driver@v0.11.0
+- pkg:composer/mroosz/laravel-cassandra-driver@v0.12.0
+- pkg:composer/mroosz/laravel-cassandra-driver@v0.12.1
+- pkg:composer/mroosz/laravel-cassandra-driver@v0.13.0
+- pkg:composer/mroosz/laravel-cassandra-driver@v0.9.10
+- pkg:composer/mroosz/laravel-cassandra-driver@v0.9.11
+- pkg:composer/mroosz/laravel-cassandra-driver@v0.9.12
+- pkg:composer/mroosz/laravel-cassandra-driver@v0.9.13
+- pkg:composer/mroosz/laravel-cassandra-driver@v0.9.14

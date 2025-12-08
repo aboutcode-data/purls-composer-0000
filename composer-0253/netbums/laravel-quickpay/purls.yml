@@ -1,0 +1,8 @@
+- pkg:composer/netbums/laravel-quickpay@0.1.0-alpha
+- pkg:composer/netbums/laravel-quickpay@0.1.1-alpha
+- pkg:composer/netbums/laravel-quickpay@0.1.3-alpha
+- pkg:composer/netbums/laravel-quickpay@0.1.4-alpha
+- pkg:composer/netbums/laravel-quickpay@0.1.5-alpha
+- pkg:composer/netbums/laravel-quickpay@0.1.6-alpha
+- pkg:composer/netbums/laravel-quickpay@0.1.7-alpha
+- pkg:composer/netbums/laravel-quickpay@v0.2.0-alpha

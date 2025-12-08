@@ -1,0 +1,8 @@
+- pkg:composer/munkireport/munki_facts@v1.1
+- pkg:composer/munkireport/munki_facts@v1.2
+- pkg:composer/munkireport/munki_facts@v1.3
+- pkg:composer/munkireport/munki_facts@v1.4
+- pkg:composer/munkireport/munki_facts@v1.5
+- pkg:composer/munkireport/munki_facts@v2.0
+- pkg:composer/munkireport/munki_facts@v3.0
+- pkg:composer/munkireport/munki_facts@v3.0b1

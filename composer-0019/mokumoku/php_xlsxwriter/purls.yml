@@ -1,0 +1,13 @@
+- pkg:composer/mokumoku/php_xlsxwriter@0.20
+- pkg:composer/mokumoku/php_xlsxwriter@0.21
+- pkg:composer/mokumoku/php_xlsxwriter@0.22
+- pkg:composer/mokumoku/php_xlsxwriter@0.30
+- pkg:composer/mokumoku/php_xlsxwriter@0.31
+- pkg:composer/mokumoku/php_xlsxwriter@0.32
+- pkg:composer/mokumoku/php_xlsxwriter@0.35
+- pkg:composer/mokumoku/php_xlsxwriter@0.36
+- pkg:composer/mokumoku/php_xlsxwriter@0.37
+- pkg:composer/mokumoku/php_xlsxwriter@0.38
+- pkg:composer/mokumoku/php_xlsxwriter@1.0.0
+- pkg:composer/mokumoku/php_xlsxwriter@1.0.1
+- pkg:composer/mokumoku/php_xlsxwriter@1.0.2

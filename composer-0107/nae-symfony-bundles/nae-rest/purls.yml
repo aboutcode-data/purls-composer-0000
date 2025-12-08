@@ -1,0 +1,4 @@
+- pkg:composer/nae-symfony-bundles/nae-rest@v0.0.1
+- pkg:composer/nae-symfony-bundles/nae-rest@v0.0.2
+- pkg:composer/nae-symfony-bundles/nae-rest@v0.0.3
+- pkg:composer/nae-symfony-bundles/nae-rest@v0.0.4

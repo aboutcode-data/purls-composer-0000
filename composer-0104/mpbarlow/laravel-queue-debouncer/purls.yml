@@ -1,0 +1,13 @@
+- pkg:composer/mpbarlow/laravel-queue-debouncer@1.0.0
+- pkg:composer/mpbarlow/laravel-queue-debouncer@1.0.1
+- pkg:composer/mpbarlow/laravel-queue-debouncer@1.0.2
+- pkg:composer/mpbarlow/laravel-queue-debouncer@2.0.0
+- pkg:composer/mpbarlow/laravel-queue-debouncer@2.0.1
+- pkg:composer/mpbarlow/laravel-queue-debouncer@2.1.0
+- pkg:composer/mpbarlow/laravel-queue-debouncer@2.2.0
+- pkg:composer/mpbarlow/laravel-queue-debouncer@2.3.0
+- pkg:composer/mpbarlow/laravel-queue-debouncer@2.4.0
+- pkg:composer/mpbarlow/laravel-queue-debouncer@2.5.0
+- pkg:composer/mpbarlow/laravel-queue-debouncer@2.6.0
+- pkg:composer/mpbarlow/laravel-queue-debouncer@3.0.0
+- pkg:composer/mpbarlow/laravel-queue-debouncer@3.1.0
