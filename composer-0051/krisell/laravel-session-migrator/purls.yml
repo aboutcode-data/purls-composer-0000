@@ -1,0 +1,4 @@
+- pkg:composer/krisell/laravel-session-migrator@v0.1.0
+- pkg:composer/krisell/laravel-session-migrator@v0.2.0
+- pkg:composer/krisell/laravel-session-migrator@v0.3.0
+- pkg:composer/krisell/laravel-session-migrator@v1.0.0

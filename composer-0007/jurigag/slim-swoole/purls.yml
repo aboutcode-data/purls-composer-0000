@@ -1,0 +1,4 @@
+- pkg:composer/jurigag/slim-swoole@0.1.0
+- pkg:composer/jurigag/slim-swoole@0.1.beta.1
+- pkg:composer/jurigag/slim-swoole@0.1.beta.2
+- pkg:composer/jurigag/slim-swoole@0.2.0

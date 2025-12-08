@@ -1,0 +1,10 @@
+- pkg:composer/laminas/laminas-cache-storage-adapter-ext-mongodb@1.0.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-ext-mongodb@1.0.1
+- pkg:composer/laminas/laminas-cache-storage-adapter-ext-mongodb@1.1.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-ext-mongodb@1.2.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-ext-mongodb@2.0.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-ext-mongodb@2.1.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-ext-mongodb@2.2.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-ext-mongodb@2.3.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-ext-mongodb@2.4.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-ext-mongodb@3.0.0

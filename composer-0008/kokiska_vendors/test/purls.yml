@@ -1,0 +1,4 @@
+- pkg:composer/kokiska_vendors/test@1.0.0
+- pkg:composer/kokiska_vendors/test@1.0.1
+- pkg:composer/kokiska_vendors/test@1.1
+- pkg:composer/kokiska_vendors/test@v1.2

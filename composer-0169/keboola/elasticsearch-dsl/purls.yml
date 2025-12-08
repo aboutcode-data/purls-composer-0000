@@ -1,0 +1,5 @@
+- pkg:composer/keboola/elasticsearch-dsl@v5.90
+- pkg:composer/keboola/elasticsearch-dsl@v5.91
+- pkg:composer/keboola/elasticsearch-dsl@v6.00.0
+- pkg:composer/keboola/elasticsearch-dsl@v6.00.1
+- pkg:composer/keboola/elasticsearch-dsl@v6.01.0

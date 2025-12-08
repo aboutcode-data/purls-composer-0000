@@ -1,0 +1,3 @@
+- pkg:composer/labrador-kennel/async-event-autowire@1.0.0
+- pkg:composer/labrador-kennel/async-event-autowire@2.0.0
+- pkg:composer/labrador-kennel/async-event-autowire@3.0.0-alpha

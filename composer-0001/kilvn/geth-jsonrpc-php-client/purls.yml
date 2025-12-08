@@ -1,0 +1,6 @@
+- pkg:composer/kilvn/geth-jsonrpc-php-client@1.0.0
+- pkg:composer/kilvn/geth-jsonrpc-php-client@1.1.0
+- pkg:composer/kilvn/geth-jsonrpc-php-client@2.0.0
+- pkg:composer/kilvn/geth-jsonrpc-php-client@3.0.0
+- pkg:composer/kilvn/geth-jsonrpc-php-client@4.0.1
+- pkg:composer/kilvn/geth-jsonrpc-php-client@4.0.2

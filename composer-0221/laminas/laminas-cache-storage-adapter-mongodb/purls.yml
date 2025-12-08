@@ -1,0 +1,2 @@
+- pkg:composer/laminas/laminas-cache-storage-adapter-mongodb@1.0.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-mongodb@1.0.1

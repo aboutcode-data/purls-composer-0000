@@ -1,0 +1,5 @@
+- pkg:composer/keboola/doctrine-retry-bundle@0.0.1
+- pkg:composer/keboola/doctrine-retry-bundle@0.0.2
+- pkg:composer/keboola/doctrine-retry-bundle@0.1.0
+- pkg:composer/keboola/doctrine-retry-bundle@0.2.0
+- pkg:composer/keboola/doctrine-retry-bundle@1.0.0

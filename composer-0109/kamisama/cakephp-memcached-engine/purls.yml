@@ -1,0 +1,8 @@
+- pkg:composer/kamisama/cakephp-memcached-engine@0.10
+- pkg:composer/kamisama/cakephp-memcached-engine@0.11
+- pkg:composer/kamisama/cakephp-memcached-engine@0.12
+- pkg:composer/kamisama/cakephp-memcached-engine@0.5
+- pkg:composer/kamisama/cakephp-memcached-engine@0.6
+- pkg:composer/kamisama/cakephp-memcached-engine@0.7
+- pkg:composer/kamisama/cakephp-memcached-engine@0.8
+- pkg:composer/kamisama/cakephp-memcached-engine@0.9

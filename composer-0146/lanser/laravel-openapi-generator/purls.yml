@@ -1,0 +1,12 @@
+- pkg:composer/lanser/laravel-openapi-generator@0.3
+- pkg:composer/lanser/laravel-openapi-generator@1.0.0
+- pkg:composer/lanser/laravel-openapi-generator@1.0.1
+- pkg:composer/lanser/laravel-openapi-generator@1.0.2
+- pkg:composer/lanser/laravel-openapi-generator@1.0.3
+- pkg:composer/lanser/laravel-openapi-generator@1.5
+- pkg:composer/lanser/laravel-openapi-generator@1.6.0
+- pkg:composer/lanser/laravel-openapi-generator@1.6.1
+- pkg:composer/lanser/laravel-openapi-generator@1.6.2
+- pkg:composer/lanser/laravel-openapi-generator@1.6.3
+- pkg:composer/lanser/laravel-openapi-generator@1.6.4
+- pkg:composer/lanser/laravel-openapi-generator@1.6.5

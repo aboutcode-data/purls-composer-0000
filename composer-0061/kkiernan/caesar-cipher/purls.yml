@@ -1,0 +1,4 @@
+- pkg:composer/kkiernan/caesar-cipher@1.0
+- pkg:composer/kkiernan/caesar-cipher@1.1
+- pkg:composer/kkiernan/caesar-cipher@v1.2
+- pkg:composer/kkiernan/caesar-cipher@v1.3

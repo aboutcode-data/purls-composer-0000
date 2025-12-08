@@ -1,0 +1,4 @@
+- pkg:composer/kevariable/laravel-slack-logging@v0.1.0-beta
+- pkg:composer/kevariable/laravel-slack-logging@v0.1.1-beta
+- pkg:composer/kevariable/laravel-slack-logging@v1.0.0
+- pkg:composer/kevariable/laravel-slack-logging@v1.1.0

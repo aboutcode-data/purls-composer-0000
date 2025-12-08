@@ -1,0 +1,12 @@
+- pkg:composer/laminas/laminas-cache-storage-adapter-apcu@1.0.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-apcu@1.0.1
+- pkg:composer/laminas/laminas-cache-storage-adapter-apcu@1.1.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-apcu@2.0.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-apcu@2.1.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-apcu@2.2.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-apcu@2.3.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-apcu@2.4.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-apcu@2.5.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-apcu@2.6.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-apcu@3.0.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-apcu@3.1.0

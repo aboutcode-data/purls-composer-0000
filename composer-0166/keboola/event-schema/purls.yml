@@ -1,0 +1,4 @@
+- pkg:composer/keboola/event-schema@1.0.0
+- pkg:composer/keboola/event-schema@2.0.0
+- pkg:composer/keboola/event-schema@2.1.0
+- pkg:composer/keboola/event-schema@2.1.1

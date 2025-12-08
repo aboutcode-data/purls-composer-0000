@@ -1,0 +1,4 @@
+- pkg:composer/keinos/mastodon-streaming-api-cache@1.0.0
+- pkg:composer/keinos/mastodon-streaming-api-cache@1.0.0-RC1
+- pkg:composer/keinos/mastodon-streaming-api-cache@1.0.0-alpha
+- pkg:composer/keinos/mastodon-streaming-api-cache@1.0.0-beta

@@ -1,0 +1,5 @@
+- pkg:composer/kovah/laravel-socialite-oidc@v0.1
+- pkg:composer/kovah/laravel-socialite-oidc@v0.2.0
+- pkg:composer/kovah/laravel-socialite-oidc@v0.3.0
+- pkg:composer/kovah/laravel-socialite-oidc@v0.4.0
+- pkg:composer/kovah/laravel-socialite-oidc@v0.5.0

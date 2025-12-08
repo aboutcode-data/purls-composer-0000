@@ -1,0 +1,14 @@
+- pkg:composer/laminas/laminas-composer-autoloading@1.0.0
+- pkg:composer/laminas/laminas-composer-autoloading@1.1.0
+- pkg:composer/laminas/laminas-composer-autoloading@1.1.1
+- pkg:composer/laminas/laminas-composer-autoloading@2.0.0
+- pkg:composer/laminas/laminas-composer-autoloading@2.1.0
+- pkg:composer/laminas/laminas-composer-autoloading@2.1.1
+- pkg:composer/laminas/laminas-composer-autoloading@2.2.0
+- pkg:composer/laminas/laminas-composer-autoloading@3.0.0
+- pkg:composer/laminas/laminas-composer-autoloading@3.1.0
+- pkg:composer/laminas/laminas-composer-autoloading@3.2.0
+- pkg:composer/laminas/laminas-composer-autoloading@3.3.0
+- pkg:composer/laminas/laminas-composer-autoloading@3.4.0
+- pkg:composer/laminas/laminas-composer-autoloading@3.5.0
+- pkg:composer/laminas/laminas-composer-autoloading@3.6.0

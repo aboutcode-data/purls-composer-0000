@@ -1,0 +1,3 @@
+- pkg:composer/kuikui/memcache-service-provider@v1.0.0
+- pkg:composer/kuikui/memcache-service-provider@v1.1.0
+- pkg:composer/kuikui/memcache-service-provider@v2.0.0

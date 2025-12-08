@@ -1,0 +1,5 @@
+- pkg:composer/lamoda/multi-env@0.2
+- pkg:composer/lamoda/multi-env@0.4.0
+- pkg:composer/lamoda/multi-env@1.0.0
+- pkg:composer/lamoda/multi-env@v0.1
+- pkg:composer/lamoda/multi-env@v0.3

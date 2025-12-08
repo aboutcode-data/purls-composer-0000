@@ -1,0 +1,4 @@
+- pkg:composer/keepcloud/laravel-mautic-api@1.0.0
+- pkg:composer/keepcloud/laravel-mautic-api@1.0.1
+- pkg:composer/keepcloud/laravel-mautic-api@1.1
+- pkg:composer/keepcloud/laravel-mautic-api@1.1.1
