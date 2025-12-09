@@ -69,6 +69,8 @@
 - pkg:composer/gijsbos/apiserver@1.8.8
 - pkg:composer/gijsbos/apiserver@1.9.0
 - pkg:composer/gijsbos/apiserver@1.9.1
+- pkg:composer/gijsbos/apiserver@1.9.10
+- pkg:composer/gijsbos/apiserver@1.9.11
 - pkg:composer/gijsbos/apiserver@1.9.2
 - pkg:composer/gijsbos/apiserver@1.9.3
 - pkg:composer/gijsbos/apiserver@1.9.4
