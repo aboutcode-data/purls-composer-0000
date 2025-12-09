@@ -52,6 +52,7 @@
 - pkg:composer/coduo/php-matcher@6.0.15
 - pkg:composer/coduo/php-matcher@6.0.16
 - pkg:composer/coduo/php-matcher@6.0.17
+- pkg:composer/coduo/php-matcher@6.0.18
 - pkg:composer/coduo/php-matcher@6.0.2
 - pkg:composer/coduo/php-matcher@6.0.3
 - pkg:composer/coduo/php-matcher@6.0.4
