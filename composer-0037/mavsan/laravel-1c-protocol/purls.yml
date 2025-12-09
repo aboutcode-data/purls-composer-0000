@@ -24,6 +24,7 @@
 - pkg:composer/mavsan/laravel-1c-protocol@11.0.1
 - pkg:composer/mavsan/laravel-1c-protocol@11.0.10
 - pkg:composer/mavsan/laravel-1c-protocol@11.0.11
+- pkg:composer/mavsan/laravel-1c-protocol@11.0.12
 - pkg:composer/mavsan/laravel-1c-protocol@11.0.2
 - pkg:composer/mavsan/laravel-1c-protocol@11.0.3
 - pkg:composer/mavsan/laravel-1c-protocol@11.0.4
