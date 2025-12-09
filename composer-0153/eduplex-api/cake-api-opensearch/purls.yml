@@ -39,6 +39,7 @@
 - pkg:composer/eduplex-api/cake-api-opensearch@0.5.2
 - pkg:composer/eduplex-api/cake-api-opensearch@0.5.20
 - pkg:composer/eduplex-api/cake-api-opensearch@0.5.21
+- pkg:composer/eduplex-api/cake-api-opensearch@0.5.22
 - pkg:composer/eduplex-api/cake-api-opensearch@0.5.3
 - pkg:composer/eduplex-api/cake-api-opensearch@0.5.4
 - pkg:composer/eduplex-api/cake-api-opensearch@0.5.5
