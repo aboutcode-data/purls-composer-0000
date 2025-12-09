@@ -1,3 +1,4 @@
 - pkg:composer/ket-php/utils-safe@1.0
 - pkg:composer/ket-php/utils-safe@1.1
 - pkg:composer/ket-php/utils-safe@1.1.1
+- pkg:composer/ket-php/utils-safe@1.2

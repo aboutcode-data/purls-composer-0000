@@ -1,4 +1,5 @@
 - pkg:composer/kanneh/datatable@1.2.1.0
+- pkg:composer/kanneh/datatable@1.2.1.5
 - pkg:composer/kanneh/datatable@v1.0.1
 - pkg:composer/kanneh/datatable@v1.0.2
 - pkg:composer/kanneh/datatable@v1.0.3
@@ -20,3 +21,4 @@
 - pkg:composer/kanneh/datatable@v1.2.1.2
 - pkg:composer/kanneh/datatable@v1.2.1.3
 - pkg:composer/kanneh/datatable@v1.2.1.4
+- pkg:composer/kanneh/datatable@v1.2.1.6
