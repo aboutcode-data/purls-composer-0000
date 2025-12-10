@@ -17,6 +17,7 @@
 - pkg:composer/sergterr/php-pdo-start@v1.0.26
 - pkg:composer/sergterr/php-pdo-start@v1.0.27
 - pkg:composer/sergterr/php-pdo-start@v1.0.28
+- pkg:composer/sergterr/php-pdo-start@v1.0.29
 - pkg:composer/sergterr/php-pdo-start@v1.0.3
 - pkg:composer/sergterr/php-pdo-start@v1.0.4
 - pkg:composer/sergterr/php-pdo-start@v1.0.5

@@ -27,3 +27,4 @@
 - pkg:composer/simplesamlphp/ws-security@v1.7.9
 - pkg:composer/simplesamlphp/ws-security@v1.8.0
 - pkg:composer/simplesamlphp/ws-security@v1.9.0
+- pkg:composer/simplesamlphp/ws-security@v1.9.1

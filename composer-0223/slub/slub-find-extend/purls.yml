@@ -45,6 +45,8 @@
 - pkg:composer/slub/slub-find-extend@v2.0.14
 - pkg:composer/slub/slub-find-extend@v2.0.15
 - pkg:composer/slub/slub-find-extend@v2.0.16
+- pkg:composer/slub/slub-find-extend@v2.0.17
+- pkg:composer/slub/slub-find-extend@v2.0.18
 - pkg:composer/slub/slub-find-extend@v2.0.2
 - pkg:composer/slub/slub-find-extend@v2.0.3
 - pkg:composer/slub/slub-find-extend@v2.0.4
