@@ -81,3 +81,4 @@
 - pkg:composer/net-tools/core@1.0.81
 - pkg:composer/net-tools/core@1.0.82
 - pkg:composer/net-tools/core@1.0.9
+- pkg:composer/net-tools/core@1.1.0
