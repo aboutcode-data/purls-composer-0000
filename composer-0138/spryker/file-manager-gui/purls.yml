@@ -22,3 +22,4 @@
 - pkg:composer/spryker/file-manager-gui@2.8.0
 - pkg:composer/spryker/file-manager-gui@2.8.1
 - pkg:composer/spryker/file-manager-gui@3.0.0
+- pkg:composer/spryker/file-manager-gui@3.0.1

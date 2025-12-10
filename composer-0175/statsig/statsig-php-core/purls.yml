@@ -96,6 +96,7 @@
 - pkg:composer/statsig/statsig-php-core@0.13.1-beta.2512040240
 - pkg:composer/statsig/statsig-php-core@0.13.1-beta.2512050240
 - pkg:composer/statsig/statsig-php-core@0.13.1-beta.2512051931
+- pkg:composer/statsig/statsig-php-core@0.13.1-beta.2512100241
 - pkg:composer/statsig/statsig-php-core@0.13.1-rc.2512020014
 - pkg:composer/statsig/statsig-php-core@0.2.0
 - pkg:composer/statsig/statsig-php-core@0.2.0-beta.250418

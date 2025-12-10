@@ -39,3 +39,4 @@
 - pkg:composer/spryker/availability-gui@6.8.0
 - pkg:composer/spryker/availability-gui@6.9.0
 - pkg:composer/spryker/availability-gui@7.0.0
+- pkg:composer/spryker/availability-gui@7.0.1

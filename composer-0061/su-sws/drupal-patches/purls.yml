@@ -57,6 +57,7 @@
 - pkg:composer/su-sws/drupal-patches@11.0.12
 - pkg:composer/su-sws/drupal-patches@11.0.13
 - pkg:composer/su-sws/drupal-patches@11.0.14
+- pkg:composer/su-sws/drupal-patches@11.0.15
 - pkg:composer/su-sws/drupal-patches@11.0.2
 - pkg:composer/su-sws/drupal-patches@11.0.3
 - pkg:composer/su-sws/drupal-patches@11.0.4

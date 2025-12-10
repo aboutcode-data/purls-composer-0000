@@ -32,3 +32,4 @@
 - pkg:composer/spryker/product-list-gui@2.6.2
 - pkg:composer/spryker/product-list-gui@2.7.0
 - pkg:composer/spryker/product-list-gui@3.0.0
+- pkg:composer/spryker/product-list-gui@3.0.1
