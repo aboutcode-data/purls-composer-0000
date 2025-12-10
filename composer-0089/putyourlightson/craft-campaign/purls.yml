@@ -207,6 +207,7 @@
 - pkg:composer/putyourlightson/craft-campaign@2.19.0
 - pkg:composer/putyourlightson/craft-campaign@2.19.1
 - pkg:composer/putyourlightson/craft-campaign@2.19.2
+- pkg:composer/putyourlightson/craft-campaign@2.19.3
 - pkg:composer/putyourlightson/craft-campaign@2.2.0
 - pkg:composer/putyourlightson/craft-campaign@2.2.1
 - pkg:composer/putyourlightson/craft-campaign@2.2.2
@@ -274,3 +275,4 @@
 - pkg:composer/putyourlightson/craft-campaign@3.7.0
 - pkg:composer/putyourlightson/craft-campaign@3.7.1
 - pkg:composer/putyourlightson/craft-campaign@3.7.2
+- pkg:composer/putyourlightson/craft-campaign@3.8.0

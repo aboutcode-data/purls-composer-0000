@@ -1,1 +1,5 @@
+- pkg:composer/ppag/contao-backend-theme-bundle@1.0.0
+- pkg:composer/ppag/contao-backend-theme-bundle@v1.0.2
+- pkg:composer/ppag/contao-backend-theme-bundle@v1.0.3
 - pkg:composer/ppag/contao-backend-theme-bundle@v1.0.4
+- pkg:composer/ppag/contao-backend-theme-bundle@v1.0.5
