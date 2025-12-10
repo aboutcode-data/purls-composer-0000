@@ -1,0 +1,17 @@
+- pkg:composer/tsugi/lib@0.0.1-alpha
+- pkg:composer/tsugi/lib@0.3.0
+- pkg:composer/tsugi/lib@0.3.1
+- pkg:composer/tsugi/lib@0.3.2
+- pkg:composer/tsugi/lib@0.4.2
+- pkg:composer/tsugi/lib@0.5.0
+- pkg:composer/tsugi/lib@0.5.1
+- pkg:composer/tsugi/lib@0.5.2
+- pkg:composer/tsugi/lib@0.6.0
+- pkg:composer/tsugi/lib@0.7.0
+- pkg:composer/tsugi/lib@21.1.0
+- pkg:composer/tsugi/lib@21.1.1
+- pkg:composer/tsugi/lib@21.3.1
+- pkg:composer/tsugi/lib@22.3.1
+- pkg:composer/tsugi/lib@24.5.1
+- pkg:composer/tsugi/lib@25.5.1
+- pkg:composer/tsugi/lib@25.9.1

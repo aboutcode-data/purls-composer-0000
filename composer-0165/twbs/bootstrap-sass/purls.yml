@@ -1,0 +1,15 @@
+- pkg:composer/twbs/bootstrap-sass@v3.1.0%2B2
+- pkg:composer/twbs/bootstrap-sass@v3.1.1%2B2
+- pkg:composer/twbs/bootstrap-sass@v3.2.0%2B4
+- pkg:composer/twbs/bootstrap-sass@v3.3.0
+- pkg:composer/twbs/bootstrap-sass@v3.3.1
+- pkg:composer/twbs/bootstrap-sass@v3.3.2%2B1
+- pkg:composer/twbs/bootstrap-sass@v3.3.3
+- pkg:composer/twbs/bootstrap-sass@v3.3.4
+- pkg:composer/twbs/bootstrap-sass@v3.3.5
+- pkg:composer/twbs/bootstrap-sass@v3.3.6
+- pkg:composer/twbs/bootstrap-sass@v3.3.7
+- pkg:composer/twbs/bootstrap-sass@v3.4.0
+- pkg:composer/twbs/bootstrap-sass@v3.4.1
+- pkg:composer/twbs/bootstrap-sass@v3.4.2
+- pkg:composer/twbs/bootstrap-sass@v3.4.3

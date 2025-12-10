@@ -1,0 +1,7 @@
+- pkg:composer/trainjunkies-packages/data-feeds-queue-subscriber@v1
+- pkg:composer/trainjunkies-packages/data-feeds-queue-subscriber@v2.0
+- pkg:composer/trainjunkies-packages/data-feeds-queue-subscriber@v3.0
+- pkg:composer/trainjunkies-packages/data-feeds-queue-subscriber@v4.0
+- pkg:composer/trainjunkies-packages/data-feeds-queue-subscriber@v5.0
+- pkg:composer/trainjunkies-packages/data-feeds-queue-subscriber@v6.0
+- pkg:composer/trainjunkies-packages/data-feeds-queue-subscriber@v6.1

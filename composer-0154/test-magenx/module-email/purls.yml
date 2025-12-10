@@ -1,0 +1,4 @@
+- pkg:composer/test-magenx/module-email@101.0.2
+- pkg:composer/test-magenx/module-email@101.0.4
+- pkg:composer/test-magenx/module-email@101.1.2
+- pkg:composer/test-magenx/module-email@101.1.3

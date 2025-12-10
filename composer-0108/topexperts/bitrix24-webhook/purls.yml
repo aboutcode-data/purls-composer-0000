@@ -1,0 +1,4 @@
+- pkg:composer/topexperts/bitrix24-webhook@1.0.0-RC1
+- pkg:composer/topexperts/bitrix24-webhook@1.0.0-RC2
+- pkg:composer/topexperts/bitrix24-webhook@1.0.0-RC3
+- pkg:composer/topexperts/bitrix24-webhook@v1.1-BETA

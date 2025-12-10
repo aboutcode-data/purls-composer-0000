@@ -1,0 +1,2 @@
+- pkg:composer/tyrola/redis-session-handler-bundle@1.0
+- pkg:composer/tyrola/redis-session-handler-bundle@1.1

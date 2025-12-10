@@ -1,0 +1,7 @@
+- pkg:composer/typo3/jobqueue-beanstalkd@0.1.0
+- pkg:composer/typo3/jobqueue-beanstalkd@1.0.0
+- pkg:composer/typo3/jobqueue-beanstalkd@1.1.0
+- pkg:composer/typo3/jobqueue-beanstalkd@2.0.0
+- pkg:composer/typo3/jobqueue-beanstalkd@3.0.0
+- pkg:composer/typo3/jobqueue-beanstalkd@4.0.0
+- pkg:composer/typo3/jobqueue-beanstalkd@4.0.1

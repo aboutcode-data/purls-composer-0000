@@ -1,0 +1,2 @@
+- pkg:composer/test-magenx/module-elasticsearch-7@100.4.2
+- pkg:composer/test-magenx/module-elasticsearch-7@100.4.3

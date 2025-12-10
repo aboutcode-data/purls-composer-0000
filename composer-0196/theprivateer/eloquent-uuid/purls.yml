@@ -1,0 +1,4 @@
+- pkg:composer/theprivateer/eloquent-uuid@0.1.1-stable
+- pkg:composer/theprivateer/eloquent-uuid@0.1.2-stable
+- pkg:composer/theprivateer/eloquent-uuid@0.1.3-stable
+- pkg:composer/theprivateer/eloquent-uuid@v0.1

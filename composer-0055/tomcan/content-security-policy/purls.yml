@@ -1,0 +1,4 @@
+- pkg:composer/tomcan/content-security-policy@v3.0.2
+- pkg:composer/tomcan/content-security-policy@v3.1.0
+- pkg:composer/tomcan/content-security-policy@v3.1.1
+- pkg:composer/tomcan/content-security-policy@v3.2.0

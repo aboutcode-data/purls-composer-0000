@@ -1,0 +1,11 @@
+- pkg:composer/tekord/php-result@0.5.0
+- pkg:composer/tekord/php-result@0.5.1
+- pkg:composer/tekord/php-result@0.6.0
+- pkg:composer/tekord/php-result@0.7.0
+- pkg:composer/tekord/php-result@0.8.0
+- pkg:composer/tekord/php-result@0.8.1
+- pkg:composer/tekord/php-result@0.8.2
+- pkg:composer/tekord/php-result@0.8.3
+- pkg:composer/tekord/php-result@v0.9
+- pkg:composer/tekord/php-result@v0.9-alpha
+- pkg:composer/tekord/php-result@v0.9-beta

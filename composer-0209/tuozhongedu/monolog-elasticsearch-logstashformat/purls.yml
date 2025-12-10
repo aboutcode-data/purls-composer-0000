@@ -1,0 +1,5 @@
+- pkg:composer/tuozhongedu/monolog-elasticsearch-logstashformat@1.0.0
+- pkg:composer/tuozhongedu/monolog-elasticsearch-logstashformat@1.0.1
+- pkg:composer/tuozhongedu/monolog-elasticsearch-logstashformat@2.0
+- pkg:composer/tuozhongedu/monolog-elasticsearch-logstashformat@5.0
+- pkg:composer/tuozhongedu/monolog-elasticsearch-logstashformat@7.0

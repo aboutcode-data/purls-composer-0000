@@ -1,0 +1,2 @@
+- pkg:composer/tusk/tusk-redis-mq-bundle@1.0.1
+- pkg:composer/tusk/tusk-redis-mq-bundle@v1.0.0

@@ -1,0 +1,12 @@
+- pkg:composer/transloadit/php-sdk@3.0.2
+- pkg:composer/transloadit/php-sdk@3.0.4
+- pkg:composer/transloadit/php-sdk@3.0.5
+- pkg:composer/transloadit/php-sdk@3.0.6
+- pkg:composer/transloadit/php-sdk@3.1.0
+- pkg:composer/transloadit/php-sdk@3.2.0
+- pkg:composer/transloadit/php-sdk@3.3.0
+- pkg:composer/transloadit/php-sdk@v1.0.0
+- pkg:composer/transloadit/php-sdk@v1.0.1
+- pkg:composer/transloadit/php-sdk@v2.0.0
+- pkg:composer/transloadit/php-sdk@v2.1.0
+- pkg:composer/transloadit/php-sdk@v3.0.3

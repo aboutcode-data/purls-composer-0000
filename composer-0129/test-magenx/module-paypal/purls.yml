@@ -1,0 +1,4 @@
+- pkg:composer/test-magenx/module-paypal@100.3.2
+- pkg:composer/test-magenx/module-paypal@100.3.4
+- pkg:composer/test-magenx/module-paypal@101.0.2
+- pkg:composer/test-magenx/module-paypal@101.0.3

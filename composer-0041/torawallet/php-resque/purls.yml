@@ -1,0 +1,16 @@
+- pkg:composer/torawallet/php-resque@1.0.0
+- pkg:composer/torawallet/php-resque@1.1.0
+- pkg:composer/torawallet/php-resque@1.1.1
+- pkg:composer/torawallet/php-resque@1.1.2
+- pkg:composer/torawallet/php-resque@1.1.3
+- pkg:composer/torawallet/php-resque@1.2.0
+- pkg:composer/torawallet/php-resque@1.2.1
+- pkg:composer/torawallet/php-resque@1.2.3
+- pkg:composer/torawallet/php-resque@1.2.4
+- pkg:composer/torawallet/php-resque@1.3.0
+- pkg:composer/torawallet/php-resque@2.0.0
+- pkg:composer/torawallet/php-resque@2.1.0
+- pkg:composer/torawallet/php-resque@2.1.1
+- pkg:composer/torawallet/php-resque@2.1.2
+- pkg:composer/torawallet/php-resque@2.1.3
+- pkg:composer/torawallet/php-resque@2.1.4

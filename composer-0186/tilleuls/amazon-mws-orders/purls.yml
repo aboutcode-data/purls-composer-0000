@@ -1,0 +1,4 @@
+- pkg:composer/tilleuls/amazon-mws-orders@v2011
+- pkg:composer/tilleuls/amazon-mws-orders@v2013
+- pkg:composer/tilleuls/amazon-mws-orders@v2013.1
+- pkg:composer/tilleuls/amazon-mws-orders@v2013.2

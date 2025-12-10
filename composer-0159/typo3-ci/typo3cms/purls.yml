@@ -1,0 +1,7 @@
+- pkg:composer/typo3-ci/typo3cms@0.0.6
+- pkg:composer/typo3-ci/typo3cms@1.0.0-alpha
+- pkg:composer/typo3-ci/typo3cms@6.2.0
+- pkg:composer/typo3-ci/typo3cms@6.2.1
+- pkg:composer/typo3-ci/typo3cms@6.2.2
+- pkg:composer/typo3-ci/typo3cms@6.2.3
+- pkg:composer/typo3-ci/typo3cms@6.2.4

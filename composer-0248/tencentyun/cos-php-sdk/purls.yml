@@ -1,0 +1,6 @@
+- pkg:composer/tencentyun/cos-php-sdk@2.0.0
+- pkg:composer/tencentyun/cos-php-sdk@2.0.1
+- pkg:composer/tencentyun/cos-php-sdk@2.0.2
+- pkg:composer/tencentyun/cos-php-sdk@2.0.3
+- pkg:composer/tencentyun/cos-php-sdk@2.0.4
+- pkg:composer/tencentyun/cos-php-sdk@3.3

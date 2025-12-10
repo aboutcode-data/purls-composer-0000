@@ -1,0 +1,4 @@
+- pkg:composer/thunbolt/doctrine-timestamp@1.0.0
+- pkg:composer/thunbolt/doctrine-timestamp@2.0
+- pkg:composer/thunbolt/doctrine-timestamp@v3.0.0
+- pkg:composer/thunbolt/doctrine-timestamp@v4.0.0

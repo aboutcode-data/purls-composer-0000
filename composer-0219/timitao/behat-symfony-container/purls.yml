@@ -1,0 +1,4 @@
+- pkg:composer/timitao/behat-symfony-container@v1.0.0
+- pkg:composer/timitao/behat-symfony-container@v1.0.1
+- pkg:composer/timitao/behat-symfony-container@v1.0.2
+- pkg:composer/timitao/behat-symfony-container@v1.1

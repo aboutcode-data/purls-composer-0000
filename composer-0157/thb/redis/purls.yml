@@ -1,0 +1,6 @@
+- pkg:composer/thb/redis@v1.0.0
+- pkg:composer/thb/redis@v1.0.1
+- pkg:composer/thb/redis@v1.0.2
+- pkg:composer/thb/redis@v1.0.3
+- pkg:composer/thb/redis@v1.0.4
+- pkg:composer/thb/redis@v2.0.0

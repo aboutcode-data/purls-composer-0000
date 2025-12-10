@@ -1,0 +1,4 @@
+- pkg:composer/tursodatabase/turso-doctrine-dbal@1.0.2
+- pkg:composer/tursodatabase/turso-doctrine-dbal@1.1.0
+- pkg:composer/tursodatabase/turso-doctrine-dbal@1.2.0
+- pkg:composer/tursodatabase/turso-doctrine-dbal@1.2.1

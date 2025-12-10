@@ -1,0 +1,4 @@
+- pkg:composer/thecodingmachine/service-provider-registry@v0.3.0
+- pkg:composer/thecodingmachine/service-provider-registry@v1.1.0
+- pkg:composer/thecodingmachine/service-provider-registry@v2.0.0
+- pkg:composer/thecodingmachine/service-provider-registry@v3.0.0

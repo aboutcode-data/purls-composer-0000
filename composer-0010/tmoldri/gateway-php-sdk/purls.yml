@@ -1,0 +1,8 @@
+- pkg:composer/tmoldri/gateway-php-sdk@v0.7
+- pkg:composer/tmoldri/gateway-php-sdk@v0.8
+- pkg:composer/tmoldri/gateway-php-sdk@v0.9
+- pkg:composer/tmoldri/gateway-php-sdk@v1.0
+- pkg:composer/tmoldri/gateway-php-sdk@v1.0.1
+- pkg:composer/tmoldri/gateway-php-sdk@v1.1.0
+- pkg:composer/tmoldri/gateway-php-sdk@v1.2.0
+- pkg:composer/tmoldri/gateway-php-sdk@v1.2.1

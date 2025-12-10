@@ -1,0 +1,4 @@
+- pkg:composer/tremby/laravel-db-shell-command@v0.1
+- pkg:composer/tremby/laravel-db-shell-command@v1.0
+- pkg:composer/tremby/laravel-db-shell-command@v2.0
+- pkg:composer/tremby/laravel-db-shell-command@v2.1
