@@ -1,0 +1,4 @@
+- pkg:composer/viharm/php-db-auth@v2.5.0
+- pkg:composer/viharm/php-db-auth@v2.6.0
+- pkg:composer/viharm/php-db-auth@v2.7.0
+- pkg:composer/viharm/php-db-auth@v2.7.1

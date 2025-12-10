@@ -1,0 +1,10 @@
+- pkg:composer/victormacko/dynamodb-repository@v0.1
+- pkg:composer/victormacko/dynamodb-repository@v0.2
+- pkg:composer/victormacko/dynamodb-repository@v0.2.1
+- pkg:composer/victormacko/dynamodb-repository@v0.2.2
+- pkg:composer/victormacko/dynamodb-repository@v0.2.3
+- pkg:composer/victormacko/dynamodb-repository@v0.2.4
+- pkg:composer/victormacko/dynamodb-repository@v0.2.5
+- pkg:composer/victormacko/dynamodb-repository@v0.2.6
+- pkg:composer/victormacko/dynamodb-repository@v0.2.7
+- pkg:composer/victormacko/dynamodb-repository@v0.2.8

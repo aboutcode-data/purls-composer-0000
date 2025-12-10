@@ -1,0 +1,3 @@
+- pkg:composer/weavephp/emitter-laminas@1.0.0
+- pkg:composer/weavephp/emitter-laminas@2.0.0
+- pkg:composer/weavephp/emitter-laminas@2.1.0

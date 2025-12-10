@@ -1,0 +1,4 @@
+- pkg:composer/vysokeskoly/deb-build@5.0.0
+- pkg:composer/vysokeskoly/deb-build@6.0.0
+- pkg:composer/vysokeskoly/deb-build@7.0.0
+- pkg:composer/vysokeskoly/deb-build@7.1.0

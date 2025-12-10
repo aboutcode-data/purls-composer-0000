@@ -1,0 +1,4 @@
+- pkg:composer/vertilia/json-schema@v0.5
+- pkg:composer/vertilia/json-schema@v0.6
+- pkg:composer/vertilia/json-schema@v0.7
+- pkg:composer/vertilia/json-schema@v0.8

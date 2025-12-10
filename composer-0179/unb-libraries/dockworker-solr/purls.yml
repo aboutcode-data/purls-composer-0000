@@ -1,0 +1,4 @@
+- pkg:composer/unb-libraries/dockworker-solr@3.0.0
+- pkg:composer/unb-libraries/dockworker-solr@4.0.0
+- pkg:composer/unb-libraries/dockworker-solr@5.0.0
+- pkg:composer/unb-libraries/dockworker-solr@5.0.1

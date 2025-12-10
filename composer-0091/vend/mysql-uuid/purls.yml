@@ -1,0 +1,4 @@
+- pkg:composer/vend/mysql-uuid@0.0.1
+- pkg:composer/vend/mysql-uuid@0.0.2
+- pkg:composer/vend/mysql-uuid@1.0.0
+- pkg:composer/vend/mysql-uuid@2.0.0

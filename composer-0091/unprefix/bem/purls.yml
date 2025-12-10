@@ -1,0 +1,5 @@
+- pkg:composer/unprefix/bem@0.1
+- pkg:composer/unprefix/bem@0.2
+- pkg:composer/unprefix/bem@1.0.0
+- pkg:composer/unprefix/bem@2.0.0
+- pkg:composer/unprefix/bem@2.1.0

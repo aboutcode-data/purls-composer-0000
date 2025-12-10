@@ -1,0 +1,4 @@
+- pkg:composer/vdhicts/rebrandly-api-client@1.0.0
+- pkg:composer/vdhicts/rebrandly-api-client@2.0.0
+- pkg:composer/vdhicts/rebrandly-api-client@3.0.0
+- pkg:composer/vdhicts/rebrandly-api-client@v4.0.0

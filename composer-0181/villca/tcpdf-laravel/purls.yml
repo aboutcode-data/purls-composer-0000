@@ -1,0 +1,5 @@
+- pkg:composer/villca/tcpdf-laravel@2.0
+- pkg:composer/villca/tcpdf-laravel@6.0
+- pkg:composer/villca/tcpdf-laravel@6.1
+- pkg:composer/villca/tcpdf-laravel@7
+- pkg:composer/villca/tcpdf-laravel@v1.1

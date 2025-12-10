@@ -1,0 +1,15 @@
+- pkg:composer/viosys/vio-db-migration@v1.0.0
+- pkg:composer/viosys/vio-db-migration@v1.1.0
+- pkg:composer/viosys/vio-db-migration@v1.2.0
+- pkg:composer/viosys/vio-db-migration@v1.3.0
+- pkg:composer/viosys/vio-db-migration@v1.4.0
+- pkg:composer/viosys/vio-db-migration@v1.5.0
+- pkg:composer/viosys/vio-db-migration@v1.5.1
+- pkg:composer/viosys/vio-db-migration@v2.0.0
+- pkg:composer/viosys/vio-db-migration@v2.1.0
+- pkg:composer/viosys/vio-db-migration@v2.2.0
+- pkg:composer/viosys/vio-db-migration@v2.3.0
+- pkg:composer/viosys/vio-db-migration@v2.3.1
+- pkg:composer/viosys/vio-db-migration@v2.3.2
+- pkg:composer/viosys/vio-db-migration@v2.3.3
+- pkg:composer/viosys/vio-db-migration@v2.3.4

@@ -1,0 +1,4 @@
+- pkg:composer/umc/module-sample@1.0.0
+- pkg:composer/umc/module-sample@1.2.0
+- pkg:composer/umc/module-sample@1.2.1
+- pkg:composer/umc/module-sample@v1.1.0

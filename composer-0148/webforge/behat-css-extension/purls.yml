@@ -1,0 +1,14 @@
+- pkg:composer/webforge/behat-css-extension@v1.0.0
+- pkg:composer/webforge/behat-css-extension@v1.0.1
+- pkg:composer/webforge/behat-css-extension@v1.1.0
+- pkg:composer/webforge/behat-css-extension@v1.2.0
+- pkg:composer/webforge/behat-css-extension@v1.2.1
+- pkg:composer/webforge/behat-css-extension@v2.0.0
+- pkg:composer/webforge/behat-css-extension@v2.1.0
+- pkg:composer/webforge/behat-css-extension@v2.1.1
+- pkg:composer/webforge/behat-css-extension@v2.1.2
+- pkg:composer/webforge/behat-css-extension@v3.0.0
+- pkg:composer/webforge/behat-css-extension@v3.1.0
+- pkg:composer/webforge/behat-css-extension@v4.0.0
+- pkg:composer/webforge/behat-css-extension@v4.0.1
+- pkg:composer/webforge/behat-css-extension@v5.0.0-alpha

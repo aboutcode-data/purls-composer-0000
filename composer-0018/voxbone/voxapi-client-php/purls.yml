@@ -1,0 +1,4 @@
+- pkg:composer/voxbone/voxapi-client-php@2.1
+- pkg:composer/voxbone/voxapi-client-php@v0.1
+- pkg:composer/voxbone/voxapi-client-php@v2.0
+- pkg:composer/voxbone/voxapi-client-php@v2.1.1

@@ -1,0 +1,4 @@
+- pkg:composer/webservco/http-response-service@v0.0.1
+- pkg:composer/webservco/http-response-service@v0.0.2
+- pkg:composer/webservco/http-response-service@v0.8.0
+- pkg:composer/webservco/http-response-service@v1.0.0

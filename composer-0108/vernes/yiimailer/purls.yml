@@ -1,0 +1,4 @@
+- pkg:composer/vernes/yiimailer@v2.0
+- pkg:composer/vernes/yiimailer@v3.0
+- pkg:composer/vernes/yiimailer@v4.0
+- pkg:composer/vernes/yiimailer@v4.0.1

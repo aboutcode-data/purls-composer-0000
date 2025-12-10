@@ -1,0 +1,4 @@
+- pkg:composer/vanta/temporal-sentry@0.1
+- pkg:composer/vanta/temporal-sentry@0.1.1
+- pkg:composer/vanta/temporal-sentry@0.2
+- pkg:composer/vanta/temporal-sentry@0.2-beta

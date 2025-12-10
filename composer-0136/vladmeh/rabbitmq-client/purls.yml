@@ -1,0 +1,12 @@
+- pkg:composer/vladmeh/rabbitmq-client@1.0.1
+- pkg:composer/vladmeh/rabbitmq-client@1.0.2
+- pkg:composer/vladmeh/rabbitmq-client@1.1.0
+- pkg:composer/vladmeh/rabbitmq-client@1.1.1
+- pkg:composer/vladmeh/rabbitmq-client@1.2.0
+- pkg:composer/vladmeh/rabbitmq-client@1.2.1
+- pkg:composer/vladmeh/rabbitmq-client@1.2.2
+- pkg:composer/vladmeh/rabbitmq-client@1.2.3
+- pkg:composer/vladmeh/rabbitmq-client@1.2.4
+- pkg:composer/vladmeh/rabbitmq-client@2.0.1
+- pkg:composer/vladmeh/rabbitmq-client@2.0.2
+- pkg:composer/vladmeh/rabbitmq-client@2.0.3

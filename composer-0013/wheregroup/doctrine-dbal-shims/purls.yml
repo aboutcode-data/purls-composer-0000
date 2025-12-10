@@ -1,0 +1,4 @@
+- pkg:composer/wheregroup/doctrine-dbal-shims@v1.0
+- pkg:composer/wheregroup/doctrine-dbal-shims@v1.0.1
+- pkg:composer/wheregroup/doctrine-dbal-shims@v1.1.0
+- pkg:composer/wheregroup/doctrine-dbal-shims@v1.2.0

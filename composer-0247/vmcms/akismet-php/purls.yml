@@ -1,0 +1,4 @@
+- pkg:composer/vmcms/akismet-php@1.0.0
+- pkg:composer/vmcms/akismet-php@1.0.1
+- pkg:composer/vmcms/akismet-php@2.0.0
+- pkg:composer/vmcms/akismet-php@2.0.1

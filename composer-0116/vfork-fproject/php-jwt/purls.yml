@@ -1,0 +1,16 @@
+- pkg:composer/vfork-fproject/php-jwt@1.0.0
+- pkg:composer/vfork-fproject/php-jwt@2.0.0
+- pkg:composer/vfork-fproject/php-jwt@3.0.3
+- pkg:composer/vfork-fproject/php-jwt@4.0.1
+- pkg:composer/vfork-fproject/php-jwt@4.0.2
+- pkg:composer/vfork-fproject/php-jwt@4.0.3
+- pkg:composer/vfork-fproject/php-jwt@4.0.4
+- pkg:composer/vfork-fproject/php-jwt@4.0.5
+- pkg:composer/vfork-fproject/php-jwt@4.0.6
+- pkg:composer/vfork-fproject/php-jwt@v2.1.0
+- pkg:composer/vfork-fproject/php-jwt@v2.2.0
+- pkg:composer/vfork-fproject/php-jwt@v3.0.0
+- pkg:composer/vfork-fproject/php-jwt@v3.0.1
+- pkg:composer/vfork-fproject/php-jwt@v3.0.2
+- pkg:composer/vfork-fproject/php-jwt@v3.0.4
+- pkg:composer/vfork-fproject/php-jwt@v4.0.0

@@ -1,0 +1,10 @@
+- pkg:composer/webthink/monolog-slack@v0.1.0
+- pkg:composer/webthink/monolog-slack@v0.2.0
+- pkg:composer/webthink/monolog-slack@v0.3.0
+- pkg:composer/webthink/monolog-slack@v1.0.0
+- pkg:composer/webthink/monolog-slack@v1.1.0
+- pkg:composer/webthink/monolog-slack@v1.2.0
+- pkg:composer/webthink/monolog-slack@v1.3.0
+- pkg:composer/webthink/monolog-slack@v2.0.0
+- pkg:composer/webthink/monolog-slack@v2.0.0-RC1
+- pkg:composer/webthink/monolog-slack@v2.1.0

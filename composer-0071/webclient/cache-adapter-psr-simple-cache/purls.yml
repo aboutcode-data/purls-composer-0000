@@ -1,0 +1,3 @@
+- pkg:composer/webclient/cache-adapter-psr-simple-cache@v1.0.0
+- pkg:composer/webclient/cache-adapter-psr-simple-cache@v2.0.0
+- pkg:composer/webclient/cache-adapter-psr-simple-cache@v3.0.0

@@ -1,0 +1,2 @@
+- pkg:composer/ukrbublik/openssl_x509_gencrl@1.2
+- pkg:composer/ukrbublik/openssl_x509_gencrl@1.3
