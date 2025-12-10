@@ -108,6 +108,7 @@
 - pkg:composer/openeuropa/oe_whitelabel@0.3845.202506171000
 - pkg:composer/openeuropa/oe_whitelabel@0.3902.202506170745
 - pkg:composer/openeuropa/oe_whitelabel@0.3909.202506251151
+- pkg:composer/openeuropa/oe_whitelabel@0.3926.202512081700
 - pkg:composer/openeuropa/oe_whitelabel@0.4014.202508261032
 - pkg:composer/openeuropa/oe_whitelabel@0.4016.202509230410
 - pkg:composer/openeuropa/oe_whitelabel@0.4016.202509231100
@@ -125,6 +126,9 @@
 - pkg:composer/openeuropa/oe_whitelabel@0.4268.202512051645
 - pkg:composer/openeuropa/oe_whitelabel@0.4268.202512051651
 - pkg:composer/openeuropa/oe_whitelabel@0.4268.202512051742
+- pkg:composer/openeuropa/oe_whitelabel@0.4268.202512081805
+- pkg:composer/openeuropa/oe_whitelabel@0.4268.202512091142
+- pkg:composer/openeuropa/oe_whitelabel@0.4268.202512091214
 - pkg:composer/openeuropa/oe_whitelabel@0.601.202112031716
 - pkg:composer/openeuropa/oe_whitelabel@0.779.202202020955
 - pkg:composer/openeuropa/oe_whitelabel@0.779.202202021100
