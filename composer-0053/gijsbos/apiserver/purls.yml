@@ -75,6 +75,7 @@
 - pkg:composer/gijsbos/apiserver@1.9.13
 - pkg:composer/gijsbos/apiserver@1.9.14
 - pkg:composer/gijsbos/apiserver@1.9.15
+- pkg:composer/gijsbos/apiserver@1.9.16
 - pkg:composer/gijsbos/apiserver@1.9.2
 - pkg:composer/gijsbos/apiserver@1.9.3
 - pkg:composer/gijsbos/apiserver@1.9.4
