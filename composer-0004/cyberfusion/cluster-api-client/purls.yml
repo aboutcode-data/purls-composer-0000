@@ -59,6 +59,7 @@
 - pkg:composer/cyberfusion/cluster-api-client@v1.123.1
 - pkg:composer/cyberfusion/cluster-api-client@v1.123.2
 - pkg:composer/cyberfusion/cluster-api-client@v1.123.3
+- pkg:composer/cyberfusion/cluster-api-client@v1.123.4
 - pkg:composer/cyberfusion/cluster-api-client@v1.13.0
 - pkg:composer/cyberfusion/cluster-api-client@v1.14.0
 - pkg:composer/cyberfusion/cluster-api-client@v1.14.1
