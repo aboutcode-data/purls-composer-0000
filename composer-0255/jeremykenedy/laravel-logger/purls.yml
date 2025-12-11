@@ -1,5 +1,6 @@
 - pkg:composer/jeremykenedy/laravel-logger@V10.1.0
 - pkg:composer/jeremykenedy/laravel-logger@V11.0.0
+- pkg:composer/jeremykenedy/laravel-logger@V11.1.0
 - pkg:composer/jeremykenedy/laravel-logger@V8.0.0
 - pkg:composer/jeremykenedy/laravel-logger@V8.1.0
 - pkg:composer/jeremykenedy/laravel-logger@V9.0.0

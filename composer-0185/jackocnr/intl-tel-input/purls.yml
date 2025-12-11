@@ -305,6 +305,7 @@
 - pkg:composer/jackocnr/intl-tel-input@25.12.3
 - pkg:composer/jackocnr/intl-tel-input@25.12.4
 - pkg:composer/jackocnr/intl-tel-input@25.12.5
+- pkg:composer/jackocnr/intl-tel-input@25.12.6
 - pkg:composer/jackocnr/intl-tel-input@25.2.0
 - pkg:composer/jackocnr/intl-tel-input@25.2.1
 - pkg:composer/jackocnr/intl-tel-input@25.3.0
