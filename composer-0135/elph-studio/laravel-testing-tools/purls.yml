@@ -4,3 +4,4 @@
 - pkg:composer/elph-studio/laravel-testing-tools@v0.2.0
 - pkg:composer/elph-studio/laravel-testing-tools@v0.2.1
 - pkg:composer/elph-studio/laravel-testing-tools@v0.2.2
+- pkg:composer/elph-studio/laravel-testing-tools@v0.3.0
