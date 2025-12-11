@@ -180,6 +180,7 @@
 - pkg:composer/humanmade/cms@22.0.0
 - pkg:composer/humanmade/cms@22.0.0-beta.1
 - pkg:composer/humanmade/cms@22.0.1
+- pkg:composer/humanmade/cms@22.0.2
 - pkg:composer/humanmade/cms@23.0.0
 - pkg:composer/humanmade/cms@23.0.0-beta.1
 - pkg:composer/humanmade/cms@23.0.1
