@@ -121,3 +121,4 @@
 - pkg:composer/lunarphp/core@1.0.3
 - pkg:composer/lunarphp/core@1.1.0
 - pkg:composer/lunarphp/core@1.2.0
+- pkg:composer/lunarphp/core@1.2.1
