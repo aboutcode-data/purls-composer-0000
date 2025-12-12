@@ -27,3 +27,4 @@
 - pkg:composer/shopgate/webcheckout-shopware6@3.1.0
 - pkg:composer/shopgate/webcheckout-shopware6@3.2.0
 - pkg:composer/shopgate/webcheckout-shopware6@3.3.0
+- pkg:composer/shopgate/webcheckout-shopware6@3.3.1

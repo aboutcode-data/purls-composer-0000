@@ -7,3 +7,4 @@
 - pkg:composer/sad_spirit/pg_gateway@v0.9.0
 - pkg:composer/sad_spirit/pg_gateway@v1.0.0-beta
 - pkg:composer/sad_spirit/pg_gateway@v1.0.0-beta.2
+- pkg:composer/sad_spirit/pg_gateway@v1.0.0-beta.3

@@ -14,3 +14,4 @@
 - pkg:composer/shapecode/doctrine-session-handler-bundle@6.0.0
 - pkg:composer/shapecode/doctrine-session-handler-bundle@7.0.0
 - pkg:composer/shapecode/doctrine-session-handler-bundle@7.0.1
+- pkg:composer/shapecode/doctrine-session-handler-bundle@8.0.0
