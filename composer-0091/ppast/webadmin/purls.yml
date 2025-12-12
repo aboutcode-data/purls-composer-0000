@@ -173,3 +173,6 @@
 - pkg:composer/ppast/webadmin@1.8.8
 - pkg:composer/ppast/webadmin@1.8.9
 - pkg:composer/ppast/webadmin@2.0.0
+- pkg:composer/ppast/webadmin@2.0.1
+- pkg:composer/ppast/webadmin@2.0.2
+- pkg:composer/ppast/webadmin@3.0.0

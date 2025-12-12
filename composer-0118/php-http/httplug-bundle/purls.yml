@@ -44,6 +44,7 @@
 - pkg:composer/php-http/httplug-bundle@1.9.0
 - pkg:composer/php-http/httplug-bundle@2.0.0
 - pkg:composer/php-http/httplug-bundle@2.1.0
+- pkg:composer/php-http/httplug-bundle@2.2.0
 - pkg:composer/php-http/httplug-bundle@v0.2.0
 - pkg:composer/php-http/httplug-bundle@v1.0.0
 - pkg:composer/php-http/httplug-bundle@v1.1.0

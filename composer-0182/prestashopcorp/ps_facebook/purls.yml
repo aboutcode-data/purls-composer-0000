@@ -123,6 +123,7 @@
 - pkg:composer/prestashopcorp/ps_facebook@v1.38.15-beta.1
 - pkg:composer/prestashopcorp/ps_facebook@v1.38.16
 - pkg:composer/prestashopcorp/ps_facebook@v1.38.16-beta.1
+- pkg:composer/prestashopcorp/ps_facebook@v1.38.17-beta.1
 - pkg:composer/prestashopcorp/ps_facebook@v1.38.2
 - pkg:composer/prestashopcorp/ps_facebook@v1.38.2-beta.1
 - pkg:composer/prestashopcorp/ps_facebook@v1.38.2-beta.2
