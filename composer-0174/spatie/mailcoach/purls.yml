@@ -64,3 +64,4 @@
 - pkg:composer/spatie/mailcoach@8.0.8
 - pkg:composer/spatie/mailcoach@8.0.9
 - pkg:composer/spatie/mailcoach@8.1.0
+- pkg:composer/spatie/mailcoach@9.0.0

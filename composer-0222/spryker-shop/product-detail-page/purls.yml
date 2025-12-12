@@ -70,6 +70,7 @@
 - pkg:composer/spryker-shop/product-detail-page@3.26.0
 - pkg:composer/spryker-shop/product-detail-page@3.26.1
 - pkg:composer/spryker-shop/product-detail-page@3.27.0
+- pkg:composer/spryker-shop/product-detail-page@3.28.0
 - pkg:composer/spryker-shop/product-detail-page@3.3.0
 - pkg:composer/spryker-shop/product-detail-page@3.4.0
 - pkg:composer/spryker-shop/product-detail-page@3.5.0

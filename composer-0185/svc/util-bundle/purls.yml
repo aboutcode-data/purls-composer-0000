@@ -28,6 +28,8 @@
 - pkg:composer/svc/util-bundle@8.0.2
 - pkg:composer/svc/util-bundle@8.1.0
 - pkg:composer/svc/util-bundle@8.2.0
+- pkg:composer/svc/util-bundle@8.2.1
+- pkg:composer/svc/util-bundle@8.2.2
 - pkg:composer/svc/util-bundle@v0.1.0
 - pkg:composer/svc/util-bundle@v0.2.0
 - pkg:composer/svc/util-bundle@v0.3.0
