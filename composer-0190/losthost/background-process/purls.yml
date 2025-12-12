@@ -3,6 +3,9 @@
 - pkg:composer/losthost/background-process@1.1.1
 - pkg:composer/losthost/background-process@1.1.10
 - pkg:composer/losthost/background-process@1.1.11
+- pkg:composer/losthost/background-process@1.1.12
+- pkg:composer/losthost/background-process@1.1.13
+- pkg:composer/losthost/background-process@1.1.14
 - pkg:composer/losthost/background-process@1.1.2
 - pkg:composer/losthost/background-process@1.1.3
 - pkg:composer/losthost/background-process@1.1.4
