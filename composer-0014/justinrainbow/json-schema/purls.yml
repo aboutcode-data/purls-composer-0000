@@ -45,6 +45,7 @@
 - pkg:composer/justinrainbow/json-schema@5.2.8
 - pkg:composer/justinrainbow/json-schema@5.2.9
 - pkg:composer/justinrainbow/json-schema@5.3.0
+- pkg:composer/justinrainbow/json-schema@5.3.1
 - pkg:composer/justinrainbow/json-schema@6.0.0
 - pkg:composer/justinrainbow/json-schema@6.0.0-beta
 - pkg:composer/justinrainbow/json-schema@6.1.0

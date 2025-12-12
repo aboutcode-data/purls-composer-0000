@@ -39,6 +39,7 @@
 - pkg:composer/keboola/storage-driver-common@v6.9.1
 - pkg:composer/keboola/storage-driver-common@v7.0.0
 - pkg:composer/keboola/storage-driver-common@v7.1.0
+- pkg:composer/keboola/storage-driver-common@v7.10.0
 - pkg:composer/keboola/storage-driver-common@v7.2.0
 - pkg:composer/keboola/storage-driver-common@v7.2.1
 - pkg:composer/keboola/storage-driver-common@v7.3.0
