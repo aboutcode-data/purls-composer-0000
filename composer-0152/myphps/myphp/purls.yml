@@ -2,9 +2,6 @@
 - pkg:composer/myphps/myphp@2.20.7
 - pkg:composer/myphps/myphp@2.21.5
 - pkg:composer/myphps/myphp@2.23.4
-- pkg:composer/myphps/myphp@2.24.1
-- pkg:composer/myphps/myphp@2.24.4
-- pkg:composer/myphps/myphp@2.24.5
-- pkg:composer/myphps/myphp@2.24.6
 - pkg:composer/myphps/myphp@2.24.7
 - pkg:composer/myphps/myphp@2.25.1
+- pkg:composer/myphps/myphp@2.25.2
