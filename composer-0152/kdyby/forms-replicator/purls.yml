@@ -10,4 +10,5 @@
 - pkg:composer/kdyby/forms-replicator@v1.4.0
 - pkg:composer/kdyby/forms-replicator@v2.0.0
 - pkg:composer/kdyby/forms-replicator@v2.0.0-rc1
+- pkg:composer/kdyby/forms-replicator@v3.0.0
 - pkg:composer/kdyby/forms-replicator@v3.0.0-rc1
