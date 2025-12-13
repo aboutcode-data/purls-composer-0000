@@ -400,6 +400,7 @@
 - pkg:composer/tencentcloud/faceid@3.0.1447
 - pkg:composer/tencentcloud/faceid@3.0.1457
 - pkg:composer/tencentcloud/faceid@3.0.1494
+- pkg:composer/tencentcloud/faceid@3.0.1503
 - pkg:composer/tencentcloud/faceid@3.0.248
 - pkg:composer/tencentcloud/faceid@3.0.249
 - pkg:composer/tencentcloud/faceid@3.0.250

@@ -1,3 +1,5 @@
 - pkg:composer/tigusigalpa/bingx-php@v0.1.0
 - pkg:composer/tigusigalpa/bingx-php@v0.2.2
 - pkg:composer/tigusigalpa/bingx-php@v2.2.1
+- pkg:composer/tigusigalpa/bingx-php@v2.3.0
+- pkg:composer/tigusigalpa/bingx-php@v2.4.0
