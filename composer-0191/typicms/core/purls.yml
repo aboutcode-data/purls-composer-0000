@@ -176,6 +176,7 @@
 - pkg:composer/typicms/core@16.0.14
 - pkg:composer/typicms/core@16.0.15
 - pkg:composer/typicms/core@16.0.16
+- pkg:composer/typicms/core@16.0.17
 - pkg:composer/typicms/core@16.0.2
 - pkg:composer/typicms/core@16.0.3
 - pkg:composer/typicms/core@16.0.4
