@@ -30,3 +30,4 @@
 - pkg:composer/loevgaard/sylius-brand-plugin@v2.2.1
 - pkg:composer/loevgaard/sylius-brand-plugin@v3.0.0-alpha
 - pkg:composer/loevgaard/sylius-brand-plugin@v3.0.0-alpha.2
+- pkg:composer/loevgaard/sylius-brand-plugin@v3.0.0-alpha.3
