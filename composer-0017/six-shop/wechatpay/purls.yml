@@ -30,3 +30,4 @@
 - pkg:composer/six-shop/wechatpay@v0.2.7
 - pkg:composer/six-shop/wechatpay@v0.2.8
 - pkg:composer/six-shop/wechatpay@v0.2.9
+- pkg:composer/six-shop/wechatpay@v1.0.0
