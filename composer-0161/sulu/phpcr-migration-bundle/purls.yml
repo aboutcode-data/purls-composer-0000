@@ -1,3 +1,4 @@
+- pkg:composer/sulu/phpcr-migration-bundle@1.0.0-RC1
 - pkg:composer/sulu/phpcr-migration-bundle@1.0.0-alpha1
 - pkg:composer/sulu/phpcr-migration-bundle@1.0.0-alpha2
 - pkg:composer/sulu/phpcr-migration-bundle@1.0.0-alpha3

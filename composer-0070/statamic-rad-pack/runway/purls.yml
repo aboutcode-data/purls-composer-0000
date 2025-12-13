@@ -223,6 +223,7 @@
 - pkg:composer/statamic-rad-pack/runway@v8.8.0
 - pkg:composer/statamic-rad-pack/runway@v8.8.1
 - pkg:composer/statamic-rad-pack/runway@v8.8.2
+- pkg:composer/statamic-rad-pack/runway@v8.8.3
 - pkg:composer/statamic-rad-pack/runway@v9.0.0-alpha.1
 - pkg:composer/statamic-rad-pack/runway@v9.0.0-alpha.2
 - pkg:composer/statamic-rad-pack/runway@v9.0.0-alpha.3
