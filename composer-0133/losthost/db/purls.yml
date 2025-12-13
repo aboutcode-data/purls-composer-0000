@@ -39,3 +39,4 @@
 - pkg:composer/losthost/db@v3.2.0-beta
 - pkg:composer/losthost/db@v3.3.0-beta
 - pkg:composer/losthost/db@v3.4.0-beta
+- pkg:composer/losthost/db@v3.5.0-beta
