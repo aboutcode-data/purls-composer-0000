@@ -12,6 +12,8 @@
 - pkg:composer/wenfeng/hyperf-ext-tron@v2.10.2
 - pkg:composer/wenfeng/hyperf-ext-tron@v2.10.3
 - pkg:composer/wenfeng/hyperf-ext-tron@v2.10.4
+- pkg:composer/wenfeng/hyperf-ext-tron@v2.10.5
+- pkg:composer/wenfeng/hyperf-ext-tron@v2.10.6
 - pkg:composer/wenfeng/hyperf-ext-tron@v2.6
 - pkg:composer/wenfeng/hyperf-ext-tron@v2.7
 - pkg:composer/wenfeng/hyperf-ext-tron@v2.7.1

@@ -1,0 +1,2 @@
+- pkg:composer/wooxo/command-lock-redis@0.1
+- pkg:composer/wooxo/command-lock-redis@0.2

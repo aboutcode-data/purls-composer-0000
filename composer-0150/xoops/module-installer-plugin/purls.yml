@@ -1,0 +1,4 @@
+- pkg:composer/xoops/module-installer-plugin@v1.0.0
+- pkg:composer/xoops/module-installer-plugin@v1.0.1
+- pkg:composer/xoops/module-installer-plugin@v1.0.2
+- pkg:composer/xoops/module-installer-plugin@v1.1.0

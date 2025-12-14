@@ -1,0 +1,5 @@
+- pkg:composer/yauphp/http@1.0.5
+- pkg:composer/yauphp/http@1.1.0
+- pkg:composer/yauphp/http@2.0.0
+- pkg:composer/yauphp/http@2.5.0
+- pkg:composer/yauphp/http@2.5.1

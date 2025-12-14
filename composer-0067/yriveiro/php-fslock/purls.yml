@@ -1,0 +1,4 @@
+- pkg:composer/yriveiro/php-fslock@0.1
+- pkg:composer/yriveiro/php-fslock@2.0.0
+- pkg:composer/yriveiro/php-fslock@3.0.0
+- pkg:composer/yriveiro/php-fslock@3.0.1

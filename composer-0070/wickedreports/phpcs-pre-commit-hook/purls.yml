@@ -1,0 +1,8 @@
+- pkg:composer/wickedreports/phpcs-pre-commit-hook@0.1
+- pkg:composer/wickedreports/phpcs-pre-commit-hook@0.2
+- pkg:composer/wickedreports/phpcs-pre-commit-hook@0.3
+- pkg:composer/wickedreports/phpcs-pre-commit-hook@0.4
+- pkg:composer/wickedreports/phpcs-pre-commit-hook@0.5
+- pkg:composer/wickedreports/phpcs-pre-commit-hook@0.6
+- pkg:composer/wickedreports/phpcs-pre-commit-hook@0.7
+- pkg:composer/wickedreports/phpcs-pre-commit-hook@0.8

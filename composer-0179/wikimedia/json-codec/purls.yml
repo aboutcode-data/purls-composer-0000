@@ -1,0 +1,11 @@
+- pkg:composer/wikimedia/json-codec@v1.0.0
+- pkg:composer/wikimedia/json-codec@v2.0.0
+- pkg:composer/wikimedia/json-codec@v2.1.0
+- pkg:composer/wikimedia/json-codec@v2.2.0
+- pkg:composer/wikimedia/json-codec@v2.2.1
+- pkg:composer/wikimedia/json-codec@v2.2.3
+- pkg:composer/wikimedia/json-codec@v3.0.0
+- pkg:composer/wikimedia/json-codec@v3.0.1
+- pkg:composer/wikimedia/json-codec@v3.0.2
+- pkg:composer/wikimedia/json-codec@v3.0.3
+- pkg:composer/wikimedia/json-codec@v4.0.0

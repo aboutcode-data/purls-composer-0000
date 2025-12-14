@@ -1,0 +1,4 @@
+- pkg:composer/yiisoft/rate-limiter@1.0.0
+- pkg:composer/yiisoft/rate-limiter@1.0.1
+- pkg:composer/yiisoft/rate-limiter@2.0.0
+- pkg:composer/yiisoft/rate-limiter@3.0.0

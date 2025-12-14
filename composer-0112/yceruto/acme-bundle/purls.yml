@@ -1,0 +1,4 @@
+- pkg:composer/yceruto/acme-bundle@1.0
+- pkg:composer/yceruto/acme-bundle@2.0
+- pkg:composer/yceruto/acme-bundle@3.0
+- pkg:composer/yceruto/acme-bundle@4.0

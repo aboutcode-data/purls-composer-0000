@@ -1,0 +1,15 @@
+- pkg:composer/xp-forge/google-authenticator@v0.1.0
+- pkg:composer/xp-forge/google-authenticator@v0.2.0
+- pkg:composer/xp-forge/google-authenticator@v0.2.1
+- pkg:composer/xp-forge/google-authenticator@v1.0.0
+- pkg:composer/xp-forge/google-authenticator@v1.0.1
+- pkg:composer/xp-forge/google-authenticator@v2.0.0
+- pkg:composer/xp-forge/google-authenticator@v3.0.0
+- pkg:composer/xp-forge/google-authenticator@v3.1.0
+- pkg:composer/xp-forge/google-authenticator@v4.0.0
+- pkg:composer/xp-forge/google-authenticator@v4.0.1
+- pkg:composer/xp-forge/google-authenticator@v5.0.0
+- pkg:composer/xp-forge/google-authenticator@v5.0.1
+- pkg:composer/xp-forge/google-authenticator@v5.1.0
+- pkg:composer/xp-forge/google-authenticator@v5.2.0
+- pkg:composer/xp-forge/google-authenticator@v6.0.0

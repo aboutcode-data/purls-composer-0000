@@ -1,0 +1,14 @@
+- pkg:composer/xp-lang/compiler@v2.0.0
+- pkg:composer/xp-lang/compiler@v2.1.0
+- pkg:composer/xp-lang/compiler@v3.0.0
+- pkg:composer/xp-lang/compiler@v4.0.0
+- pkg:composer/xp-lang/compiler@v4.0.1
+- pkg:composer/xp-lang/compiler@v4.1.0
+- pkg:composer/xp-lang/compiler@v5.0.0
+- pkg:composer/xp-lang/compiler@v5.0.1
+- pkg:composer/xp-lang/compiler@v6.0.0
+- pkg:composer/xp-lang/compiler@v6.0.1
+- pkg:composer/xp-lang/compiler@v7.0.0
+- pkg:composer/xp-lang/compiler@v7.0.1
+- pkg:composer/xp-lang/compiler@v7.1.0
+- pkg:composer/xp-lang/compiler@v7.1.1
