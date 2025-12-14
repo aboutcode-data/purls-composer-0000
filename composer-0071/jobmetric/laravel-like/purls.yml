@@ -9,3 +9,5 @@
 - pkg:composer/jobmetric/laravel-like@1.5.0
 - pkg:composer/jobmetric/laravel-like@2.0.0
 - pkg:composer/jobmetric/laravel-like@3.0.0
+- pkg:composer/jobmetric/laravel-like@3.1.0
+- pkg:composer/jobmetric/laravel-like@3.1.1
