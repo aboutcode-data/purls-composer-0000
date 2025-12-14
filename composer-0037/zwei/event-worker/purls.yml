@@ -1,0 +1,4 @@
+- pkg:composer/zwei/event-worker@1.0.0-rc
+- pkg:composer/zwei/event-worker@1.0.1-rc
+- pkg:composer/zwei/event-worker@1.1.0
+- pkg:composer/zwei/event-worker@2.0.0

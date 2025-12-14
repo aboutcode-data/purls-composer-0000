@@ -1,0 +1,16 @@
+- pkg:composer/znframework/package-image@6.0.0
+- pkg:composer/znframework/package-image@6.0.6
+- pkg:composer/znframework/package-image@7.0.0
+- pkg:composer/znframework/package-image@7.0.1
+- pkg:composer/znframework/package-image@7.0.2
+- pkg:composer/znframework/package-image@7.0.3
+- pkg:composer/znframework/package-image@7.0.4
+- pkg:composer/znframework/package-image@8.11.2
+- pkg:composer/znframework/package-image@8.18.0
+- pkg:composer/znframework/package-image@8.18.1
+- pkg:composer/znframework/package-image@8.19.0
+- pkg:composer/znframework/package-image@8.19.1
+- pkg:composer/znframework/package-image@8.19.2
+- pkg:composer/znframework/package-image@8.20.0
+- pkg:composer/znframework/package-image@8.21.0
+- pkg:composer/znframework/package-image@8.22.0

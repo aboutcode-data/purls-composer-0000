@@ -1,0 +1,3 @@
+- pkg:composer/zf-commons/zfc-user-doctrine-mongo-odm@0.1.0
+- pkg:composer/zf-commons/zfc-user-doctrine-mongo-odm@0.1.1
+- pkg:composer/zf-commons/zfc-user-doctrine-mongo-odm@0.2.1

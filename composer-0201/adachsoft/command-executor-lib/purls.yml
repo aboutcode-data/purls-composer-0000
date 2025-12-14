@@ -1,3 +1,4 @@
+- pkg:composer/adachsoft/command-executor-lib@2.0.0
 - pkg:composer/adachsoft/command-executor-lib@v1.0.0
 - pkg:composer/adachsoft/command-executor-lib@v1.0.1
 - pkg:composer/adachsoft/command-executor-lib@v1.0.2

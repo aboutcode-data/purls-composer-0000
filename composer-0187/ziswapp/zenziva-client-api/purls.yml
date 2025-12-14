@@ -1,0 +1,15 @@
+- pkg:composer/ziswapp/zenziva-client-api@1.0
+- pkg:composer/ziswapp/zenziva-client-api@1.1
+- pkg:composer/ziswapp/zenziva-client-api@2.1
+- pkg:composer/ziswapp/zenziva-client-api@2.2
+- pkg:composer/ziswapp/zenziva-client-api@2.3
+- pkg:composer/ziswapp/zenziva-client-api@2.3.1
+- pkg:composer/ziswapp/zenziva-client-api@2.3.2
+- pkg:composer/ziswapp/zenziva-client-api@2.3.3
+- pkg:composer/ziswapp/zenziva-client-api@2.3.4
+- pkg:composer/ziswapp/zenziva-client-api@3.0.0
+- pkg:composer/ziswapp/zenziva-client-api@3.0.1
+- pkg:composer/ziswapp/zenziva-client-api@4.0.0
+- pkg:composer/ziswapp/zenziva-client-api@4.0.1
+- pkg:composer/ziswapp/zenziva-client-api@4.0.2
+- pkg:composer/ziswapp/zenziva-client-api@4.1.0

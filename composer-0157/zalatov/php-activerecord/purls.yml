@@ -1,0 +1,6 @@
+- pkg:composer/zalatov/php-activerecord@1.7.patch5
+- pkg:composer/zalatov/php-activerecord@1.7.patch6
+- pkg:composer/zalatov/php-activerecord@1.7patch1
+- pkg:composer/zalatov/php-activerecord@1.7patch2
+- pkg:composer/zalatov/php-activerecord@1.7patch3
+- pkg:composer/zalatov/php-activerecord@1.7patch4

@@ -1,0 +1,13 @@
+- pkg:composer/znframework/package-validation@6.0.0
+- pkg:composer/znframework/package-validation@6.0.8
+- pkg:composer/znframework/package-validation@6.0.9
+- pkg:composer/znframework/package-validation@6.1.0
+- pkg:composer/znframework/package-validation@6.2.0
+- pkg:composer/znframework/package-validation@7.0.0
+- pkg:composer/znframework/package-validation@7.0.1
+- pkg:composer/znframework/package-validation@7.0.2
+- pkg:composer/znframework/package-validation@7.1.0
+- pkg:composer/znframework/package-validation@7.1.1
+- pkg:composer/znframework/package-validation@7.1.2
+- pkg:composer/znframework/package-validation@7.2.0
+- pkg:composer/znframework/package-validation@8.21.0

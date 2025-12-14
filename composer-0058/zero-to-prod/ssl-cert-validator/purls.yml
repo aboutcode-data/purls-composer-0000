@@ -1,0 +1,11 @@
+- pkg:composer/zero-to-prod/ssl-cert-validator@v71.0.0
+- pkg:composer/zero-to-prod/ssl-cert-validator@v71.0.1
+- pkg:composer/zero-to-prod/ssl-cert-validator@v71.0.2
+- pkg:composer/zero-to-prod/ssl-cert-validator@v71.0.3
+- pkg:composer/zero-to-prod/ssl-cert-validator@v71.0.4
+- pkg:composer/zero-to-prod/ssl-cert-validator@v81.0.0
+- pkg:composer/zero-to-prod/ssl-cert-validator@v81.0.1
+- pkg:composer/zero-to-prod/ssl-cert-validator@v81.0.2
+- pkg:composer/zero-to-prod/ssl-cert-validator@v82.0.0
+- pkg:composer/zero-to-prod/ssl-cert-validator@v82.0.1
+- pkg:composer/zero-to-prod/ssl-cert-validator@v82.1.0
