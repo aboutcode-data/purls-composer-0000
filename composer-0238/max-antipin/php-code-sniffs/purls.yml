@@ -1,4 +1,5 @@
 - pkg:composer/max-antipin/php-code-sniffs@0.10.0
 - pkg:composer/max-antipin/php-code-sniffs@0.11.0
 - pkg:composer/max-antipin/php-code-sniffs@0.11.1
+- pkg:composer/max-antipin/php-code-sniffs@0.11.2
 - pkg:composer/max-antipin/php-code-sniffs@v0.9.0

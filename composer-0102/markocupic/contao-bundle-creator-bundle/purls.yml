@@ -122,3 +122,5 @@
 - pkg:composer/markocupic/contao-bundle-creator-bundle@1.8.5
 - pkg:composer/markocupic/contao-bundle-creator-bundle@1.8.6
 - pkg:composer/markocupic/contao-bundle-creator-bundle@1.9.0
+- pkg:composer/markocupic/contao-bundle-creator-bundle@1.9.1
+- pkg:composer/markocupic/contao-bundle-creator-bundle@1.9.2
