@@ -44,3 +44,4 @@
 - pkg:composer/terminal42/contao-node@1.5.9
 - pkg:composer/terminal42/contao-node@2.0.0
 - pkg:composer/terminal42/contao-node@2.0.1
+- pkg:composer/terminal42/contao-node@2.0.2
