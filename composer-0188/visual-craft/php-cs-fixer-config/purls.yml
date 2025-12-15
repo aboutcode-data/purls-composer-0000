@@ -6,3 +6,4 @@
 - pkg:composer/visual-craft/php-cs-fixer-config@v0.3.1
 - pkg:composer/visual-craft/php-cs-fixer-config@v0.4.0
 - pkg:composer/visual-craft/php-cs-fixer-config@v0.5.0
+- pkg:composer/visual-craft/php-cs-fixer-config@v0.6.0
