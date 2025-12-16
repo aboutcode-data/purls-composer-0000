@@ -23,4 +23,5 @@
 - pkg:composer/alibabacloud/ddoscoo-20200101@2.6.4
 - pkg:composer/alibabacloud/ddoscoo-20200101@2.6.5
 - pkg:composer/alibabacloud/ddoscoo-20200101@2.7.0
+- pkg:composer/alibabacloud/ddoscoo-20200101@2.7.1
 - pkg:composer/alibabacloud/ddoscoo-20200101@3.0.0
