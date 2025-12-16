@@ -249,3 +249,4 @@
 - pkg:composer/cakephp/form@5.2.8
 - pkg:composer/cakephp/form@5.2.9
 - pkg:composer/cakephp/form@5.3.0-RC1
+- pkg:composer/cakephp/form@5.3.0-RC2

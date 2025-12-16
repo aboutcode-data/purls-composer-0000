@@ -1,3 +1,4 @@
+- pkg:composer/cleverage/flysystem-process-bundle@V3.0
 - pkg:composer/cleverage/flysystem-process-bundle@v1.0.0
 - pkg:composer/cleverage/flysystem-process-bundle@v1.0.1
 - pkg:composer/cleverage/flysystem-process-bundle@v2.0.0

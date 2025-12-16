@@ -1021,6 +1021,8 @@
 - pkg:composer/cecil/cecil@8.74.0
 - pkg:composer/cecil/cecil@8.74.1
 - pkg:composer/cecil/cecil@8.75.0
+- pkg:composer/cecil/cecil@8.75.1
+- pkg:composer/cecil/cecil@8.75.2
 - pkg:composer/cecil/cecil@8.8.0
 - pkg:composer/cecil/cecil@8.8.1
 - pkg:composer/cecil/cecil@8.8.2
