@@ -257,6 +257,7 @@
 - pkg:composer/andruby/deep-admin@v3.5.9
 - pkg:composer/andruby/deep-admin@v3.6.0
 - pkg:composer/andruby/deep-admin@v3.6.1
+- pkg:composer/andruby/deep-admin@v3.6.10
 - pkg:composer/andruby/deep-admin@v3.6.2
 - pkg:composer/andruby/deep-admin@v3.6.3
 - pkg:composer/andruby/deep-admin@v3.6.4
@@ -264,3 +265,4 @@
 - pkg:composer/andruby/deep-admin@v3.6.6
 - pkg:composer/andruby/deep-admin@v3.6.7
 - pkg:composer/andruby/deep-admin@v3.6.8
+- pkg:composer/andruby/deep-admin@v3.6.9

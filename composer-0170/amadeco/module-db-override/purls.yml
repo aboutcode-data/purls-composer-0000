@@ -1,2 +1,3 @@
 - pkg:composer/amadeco/module-db-override@v1.0.0
 - pkg:composer/amadeco/module-db-override@v1.0.1
+- pkg:composer/amadeco/module-db-override@v1.1.0

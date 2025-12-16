@@ -118,3 +118,4 @@
 - pkg:composer/appwrite/server-ce@1.8.0-RC2
 - pkg:composer/appwrite/server-ce@1.8.0-RC3
 - pkg:composer/appwrite/server-ce@1.8.0-RC4
+- pkg:composer/appwrite/server-ce@1.8.1-RC1

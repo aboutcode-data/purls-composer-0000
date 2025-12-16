@@ -37,3 +37,5 @@
 - pkg:composer/ark4ne/laravel-json-api@v1.5.1
 - pkg:composer/ark4ne/laravel-json-api@v1.5.2
 - pkg:composer/ark4ne/laravel-json-api@v1.6.0
+- pkg:composer/ark4ne/laravel-json-api@v1.6.1
+- pkg:composer/ark4ne/laravel-json-api@v1.6.2

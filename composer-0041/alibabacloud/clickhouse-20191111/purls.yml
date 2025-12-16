@@ -13,3 +13,4 @@
 - pkg:composer/alibabacloud/clickhouse-20191111@4.0.8
 - pkg:composer/alibabacloud/clickhouse-20191111@4.0.9
 - pkg:composer/alibabacloud/clickhouse-20191111@4.1.0
+- pkg:composer/alibabacloud/clickhouse-20191111@4.2.0

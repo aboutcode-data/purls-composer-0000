@@ -9,6 +9,7 @@
 - pkg:composer/alibabacloud/hitsdb-20200615@4.1.0
 - pkg:composer/alibabacloud/hitsdb-20200615@4.10.0
 - pkg:composer/alibabacloud/hitsdb-20200615@4.11.0
+- pkg:composer/alibabacloud/hitsdb-20200615@4.12.0
 - pkg:composer/alibabacloud/hitsdb-20200615@4.2.0
 - pkg:composer/alibabacloud/hitsdb-20200615@4.3.0
 - pkg:composer/alibabacloud/hitsdb-20200615@4.4.0

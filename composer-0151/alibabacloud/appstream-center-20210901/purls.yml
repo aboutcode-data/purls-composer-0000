@@ -36,3 +36,5 @@
 - pkg:composer/alibabacloud/appstream-center-20210901@4.6.2
 - pkg:composer/alibabacloud/appstream-center-20210901@4.6.3
 - pkg:composer/alibabacloud/appstream-center-20210901@4.7.0
+- pkg:composer/alibabacloud/appstream-center-20210901@4.7.1
+- pkg:composer/alibabacloud/appstream-center-20210901@4.7.2
