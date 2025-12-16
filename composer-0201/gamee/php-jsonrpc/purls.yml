@@ -25,3 +25,4 @@
 - pkg:composer/gamee/php-jsonrpc@v6.1.0
 - pkg:composer/gamee/php-jsonrpc@v6.2.0
 - pkg:composer/gamee/php-jsonrpc@v6.2.1
+- pkg:composer/gamee/php-jsonrpc@v7.0.0
