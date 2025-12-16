@@ -8,3 +8,5 @@
 - pkg:composer/sagacorp/yii2-queue-azure-service-bus@1.2.4
 - pkg:composer/sagacorp/yii2-queue-azure-service-bus@1.2.5
 - pkg:composer/sagacorp/yii2-queue-azure-service-bus@2.0.0
+- pkg:composer/sagacorp/yii2-queue-azure-service-bus@3.0.0
+- pkg:composer/sagacorp/yii2-queue-azure-service-bus@3.0.1
