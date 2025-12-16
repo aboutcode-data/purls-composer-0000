@@ -10,3 +10,4 @@
 - pkg:composer/webfactory/http-cache-bundle@2.1.0
 - pkg:composer/webfactory/http-cache-bundle@2.1.1
 - pkg:composer/webfactory/http-cache-bundle@2.2.0
+- pkg:composer/webfactory/http-cache-bundle@2.3.0
