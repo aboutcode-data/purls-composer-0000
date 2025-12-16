@@ -13,3 +13,4 @@
 - pkg:composer/bilfeldt/laravel-http-client-logger@v2.3.0
 - pkg:composer/bilfeldt/laravel-http-client-logger@v2.4.0
 - pkg:composer/bilfeldt/laravel-http-client-logger@v2.4.1
+- pkg:composer/bilfeldt/laravel-http-client-logger@v2.5.0

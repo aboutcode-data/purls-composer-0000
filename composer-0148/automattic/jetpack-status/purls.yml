@@ -120,3 +120,4 @@
 - pkg:composer/automattic/jetpack-status@v6.0.4
 - pkg:composer/automattic/jetpack-status@v6.1.0
 - pkg:composer/automattic/jetpack-status@v6.1.1
+- pkg:composer/automattic/jetpack-status@v6.1.2

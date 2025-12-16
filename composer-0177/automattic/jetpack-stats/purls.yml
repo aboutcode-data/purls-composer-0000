@@ -38,6 +38,8 @@
 - pkg:composer/automattic/jetpack-stats@v0.17.3
 - pkg:composer/automattic/jetpack-stats@v0.17.4
 - pkg:composer/automattic/jetpack-stats@v0.17.5
+- pkg:composer/automattic/jetpack-stats@v0.17.6
+- pkg:composer/automattic/jetpack-stats@v0.17.7
 - pkg:composer/automattic/jetpack-stats@v0.2.0
 - pkg:composer/automattic/jetpack-stats@v0.3.0
 - pkg:composer/automattic/jetpack-stats@v0.3.1

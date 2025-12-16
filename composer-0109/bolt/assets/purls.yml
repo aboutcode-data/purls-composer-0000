@@ -170,6 +170,8 @@
 - pkg:composer/bolt/assets@5.2.1
 - pkg:composer/bolt/assets@5.2.3
 - pkg:composer/bolt/assets@6.0.0-beta.1
+- pkg:composer/bolt/assets@6.0.0-beta.10
 - pkg:composer/bolt/assets@6.0.0-beta.6
 - pkg:composer/bolt/assets@6.0.0-beta.7
 - pkg:composer/bolt/assets@6.0.0-beta.8
+- pkg:composer/bolt/assets@6.0.0-beta.9

@@ -202,6 +202,8 @@
 - pkg:composer/automattic/jetpack-publicize@v0.67.5
 - pkg:composer/automattic/jetpack-publicize@v0.67.6
 - pkg:composer/automattic/jetpack-publicize@v0.67.7
+- pkg:composer/automattic/jetpack-publicize@v0.68.0
+- pkg:composer/automattic/jetpack-publicize@v0.68.1
 - pkg:composer/automattic/jetpack-publicize@v0.7.0
 - pkg:composer/automattic/jetpack-publicize@v0.7.1
 - pkg:composer/automattic/jetpack-publicize@v0.8.0
