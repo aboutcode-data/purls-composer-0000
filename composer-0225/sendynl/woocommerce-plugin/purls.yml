@@ -20,3 +20,4 @@
 - pkg:composer/sendynl/woocommerce-plugin@v3.2.5
 - pkg:composer/sendynl/woocommerce-plugin@v3.2.6
 - pkg:composer/sendynl/woocommerce-plugin@v3.2.7
+- pkg:composer/sendynl/woocommerce-plugin@v3.3
