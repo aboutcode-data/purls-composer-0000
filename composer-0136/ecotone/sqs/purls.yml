@@ -168,6 +168,11 @@
 - pkg:composer/ecotone/sqs@1.278.0
 - pkg:composer/ecotone/sqs@1.278.1
 - pkg:composer/ecotone/sqs@1.279.0
+- pkg:composer/ecotone/sqs@1.280.0
+- pkg:composer/ecotone/sqs@1.281.0
+- pkg:composer/ecotone/sqs@1.281.1
+- pkg:composer/ecotone/sqs@1.281.2
+- pkg:composer/ecotone/sqs@1.282.0
 - pkg:composer/ecotone/sqs@1.63.0
 - pkg:composer/ecotone/sqs@1.65.0
 - pkg:composer/ecotone/sqs@1.66.0

@@ -1,3 +1,4 @@
 - pkg:composer/equidna/swift-auth@1.0.0
 - pkg:composer/equidna/swift-auth@1.0.1
 - pkg:composer/equidna/swift-auth@1.0.2
+- pkg:composer/equidna/swift-auth@2.0.0
