@@ -107,3 +107,4 @@
 - pkg:composer/phpspec/phpspec@7.5.0
 - pkg:composer/phpspec/phpspec@7.6.0
 - pkg:composer/phpspec/phpspec@8.0.0
+- pkg:composer/phpspec/phpspec@8.1.0
