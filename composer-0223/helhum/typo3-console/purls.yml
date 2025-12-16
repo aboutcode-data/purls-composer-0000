@@ -154,3 +154,4 @@
 - pkg:composer/helhum/typo3-console@v8.2.2
 - pkg:composer/helhum/typo3-console@v8.2.3
 - pkg:composer/helhum/typo3-console@v8.3.0
+- pkg:composer/helhum/typo3-console@v8.3.1

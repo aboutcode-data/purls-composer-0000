@@ -24,6 +24,8 @@
 - pkg:composer/helret/hello-retail@5.3.5
 - pkg:composer/helret/hello-retail@5.3.6
 - pkg:composer/helret/hello-retail@5.3.7
+- pkg:composer/helret/hello-retail@5.3.8
 - pkg:composer/helret/hello-retail@6.0.0
 - pkg:composer/helret/hello-retail@6.0.1
 - pkg:composer/helret/hello-retail@6.0.2
+- pkg:composer/helret/hello-retail@6.0.3
