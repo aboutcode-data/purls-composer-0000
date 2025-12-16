@@ -20,3 +20,4 @@
 - pkg:composer/paytrail/paytrail-php-sdk@2.7.3
 - pkg:composer/paytrail/paytrail-php-sdk@2.7.4
 - pkg:composer/paytrail/paytrail-php-sdk@2.7.5
+- pkg:composer/paytrail/paytrail-php-sdk@2.7.6
