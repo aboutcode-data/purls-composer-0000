@@ -4,4 +4,5 @@
 - pkg:composer/deviantintegral/har@0.2.0
 - pkg:composer/deviantintegral/har@0.2.1
 - pkg:composer/deviantintegral/har@0.3.0
-- pkg:composer/deviantintegral/har@0.4.0
+- pkg:composer/deviantintegral/har@v0.4.0
+- pkg:composer/deviantintegral/har@v0.5.0

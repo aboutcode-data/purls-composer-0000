@@ -21,3 +21,4 @@
 - pkg:composer/dbout/wp-orm@v4.3.0
 - pkg:composer/dbout/wp-orm@v4.3.1
 - pkg:composer/dbout/wp-orm@v5.0.0-alpha.0
+- pkg:composer/dbout/wp-orm@v5.0.0-alpha.1

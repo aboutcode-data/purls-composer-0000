@@ -17,6 +17,7 @@
 - pkg:composer/cycle/database@2.13.0
 - pkg:composer/cycle/database@2.14.0
 - pkg:composer/cycle/database@2.15.0
+- pkg:composer/cycle/database@2.15.1
 - pkg:composer/cycle/database@2.2.0
 - pkg:composer/cycle/database@2.2.1
 - pkg:composer/cycle/database@2.2.2

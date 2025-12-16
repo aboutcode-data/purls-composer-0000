@@ -25,3 +25,4 @@
 - pkg:composer/contributte/jsonrpc@v6.1.0
 - pkg:composer/contributte/jsonrpc@v6.2.0
 - pkg:composer/contributte/jsonrpc@v6.2.1
+- pkg:composer/contributte/jsonrpc@v7.0.0
