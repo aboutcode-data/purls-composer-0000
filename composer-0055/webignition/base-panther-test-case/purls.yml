@@ -11,3 +11,4 @@
 - pkg:composer/webignition/base-panther-test-case@0.7
 - pkg:composer/webignition/base-panther-test-case@0.8
 - pkg:composer/webignition/base-panther-test-case@0.9
+- pkg:composer/webignition/base-panther-test-case@1.0
