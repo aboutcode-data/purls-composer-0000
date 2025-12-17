@@ -50,3 +50,5 @@
 - pkg:composer/superius/ubl-invoice@v1.4.7
 - pkg:composer/superius/ubl-invoice@v1.4.8
 - pkg:composer/superius/ubl-invoice@v1.4.9
+- pkg:composer/superius/ubl-invoice@v1.5.0
+- pkg:composer/superius/ubl-invoice@v1.5.1

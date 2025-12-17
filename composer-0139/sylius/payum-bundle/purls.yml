@@ -271,3 +271,5 @@
 - pkg:composer/sylius/payum-bundle@v2.1.6
 - pkg:composer/sylius/payum-bundle@v2.1.7
 - pkg:composer/sylius/payum-bundle@v2.1.8
+- pkg:composer/sylius/payum-bundle@v2.1.9
+- pkg:composer/sylius/payum-bundle@v2.2.0
