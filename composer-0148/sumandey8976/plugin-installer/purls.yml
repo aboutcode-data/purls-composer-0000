@@ -1,4 +1,2 @@
-- pkg:composer/sumandey8976/plugin-installer@2.0.0
 - pkg:composer/sumandey8976/plugin-installer@2.0.1
-- pkg:composer/sumandey8976/plugin-installer@2.0.3
-- pkg:composer/sumandey8976/plugin-installer@v1.0.0
+- pkg:composer/sumandey8976/plugin-installer@3.0.2

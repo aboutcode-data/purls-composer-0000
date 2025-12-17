@@ -50,3 +50,4 @@
 - pkg:composer/spotlibs/php-lib@v1.3.3
 - pkg:composer/spotlibs/php-lib@v1.3.4
 - pkg:composer/spotlibs/php-lib@v1.3.5
+- pkg:composer/spotlibs/php-lib@v1.4.0
