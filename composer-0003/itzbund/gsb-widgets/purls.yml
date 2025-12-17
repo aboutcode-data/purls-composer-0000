@@ -319,6 +319,7 @@
 - pkg:composer/itzbund/gsb-widgets@v1.5.43
 - pkg:composer/itzbund/gsb-widgets@v1.5.44
 - pkg:composer/itzbund/gsb-widgets@v1.5.45
+- pkg:composer/itzbund/gsb-widgets@v1.5.46
 - pkg:composer/itzbund/gsb-widgets@v1.5.5
 - pkg:composer/itzbund/gsb-widgets@v1.5.5-rc.1
 - pkg:composer/itzbund/gsb-widgets@v1.5.5-rc.10
@@ -509,6 +510,7 @@
 - pkg:composer/itzbund/gsb-widgets@v2.0.1-rc.7
 - pkg:composer/itzbund/gsb-widgets@v2.0.1-rc.8
 - pkg:composer/itzbund/gsb-widgets@v2.0.1-rc.9
+- pkg:composer/itzbund/gsb-widgets@v2.0.2
 - pkg:composer/itzbund/gsb-widgets@v2.0.2-rc.1
 - pkg:composer/itzbund/gsb-widgets@v2.0.2-rc.10
 - pkg:composer/itzbund/gsb-widgets@v2.0.2-rc.2

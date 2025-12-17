@@ -29,3 +29,4 @@
 - pkg:composer/internal/dload@1.7.1
 - pkg:composer/internal/dload@1.7.2
 - pkg:composer/internal/dload@1.7.3
+- pkg:composer/internal/dload@1.8.0
