@@ -9,3 +9,4 @@
 - pkg:composer/ryangjchandler/laravel-cloudflare-turnstile@v2.0.3
 - pkg:composer/ryangjchandler/laravel-cloudflare-turnstile@v2.1.0
 - pkg:composer/ryangjchandler/laravel-cloudflare-turnstile@v3.0.0
+- pkg:composer/ryangjchandler/laravel-cloudflare-turnstile@v3.0.1
