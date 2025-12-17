@@ -7,3 +7,4 @@
 - pkg:composer/yiisoft/session@2.0.0
 - pkg:composer/yiisoft/session@2.1.0
 - pkg:composer/yiisoft/session@3.0.0
+- pkg:composer/yiisoft/session@3.0.1
