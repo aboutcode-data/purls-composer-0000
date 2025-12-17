@@ -1,1 +1,2 @@
 - pkg:composer/yiisoft/log-target-db@1.0.0
+- pkg:composer/yiisoft/log-target-db@1.1.0
