@@ -519,3 +519,5 @@
 - pkg:composer/typo3/neos-kickstarter@9.0.6
 - pkg:composer/typo3/neos-kickstarter@9.0.7
 - pkg:composer/typo3/neos-kickstarter@9.0.8
+- pkg:composer/typo3/neos-kickstarter@9.1.0
+- pkg:composer/typo3/neos-kickstarter@9.1.1
