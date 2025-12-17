@@ -116,3 +116,4 @@
 - pkg:composer/workerman/validation@v3.1.0
 - pkg:composer/workerman/validation@v3.1.1
 - pkg:composer/workerman/validation@v3.1.2
+- pkg:composer/workerman/validation@v3.1.3
