@@ -1,1 +1,2 @@
 - pkg:composer/quantcdn/quant-php-client@4.4.0
+- pkg:composer/quantcdn/quant-php-client@4.6.0
