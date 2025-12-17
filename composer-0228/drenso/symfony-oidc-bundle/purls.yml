@@ -54,3 +54,4 @@
 - pkg:composer/drenso/symfony-oidc-bundle@v4.1.0
 - pkg:composer/drenso/symfony-oidc-bundle@v4.2.0
 - pkg:composer/drenso/symfony-oidc-bundle@v4.3.0
+- pkg:composer/drenso/symfony-oidc-bundle@v4.3.1
