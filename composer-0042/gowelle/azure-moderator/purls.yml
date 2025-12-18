@@ -7,3 +7,5 @@
 - pkg:composer/gowelle/azure-moderator@v1.1.0
 - pkg:composer/gowelle/azure-moderator@v1.2.0
 - pkg:composer/gowelle/azure-moderator@v1.3.0
+- pkg:composer/gowelle/azure-moderator@v2.0.0
+- pkg:composer/gowelle/azure-moderator@v2.1.0
