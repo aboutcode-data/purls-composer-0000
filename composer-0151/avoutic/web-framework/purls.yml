@@ -19,6 +19,7 @@
 - pkg:composer/avoutic/web-framework@11.4.0
 - pkg:composer/avoutic/web-framework@11.4.1
 - pkg:composer/avoutic/web-framework@11.5.0
+- pkg:composer/avoutic/web-framework@11.6.0
 - pkg:composer/avoutic/web-framework@4.0.0
 - pkg:composer/avoutic/web-framework@4.0.1
 - pkg:composer/avoutic/web-framework@4.1.0

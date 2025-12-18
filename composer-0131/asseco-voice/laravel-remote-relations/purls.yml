@@ -20,3 +20,5 @@
 - pkg:composer/asseco-voice/laravel-remote-relations@v5.0.0
 - pkg:composer/asseco-voice/laravel-remote-relations@v5.1.0
 - pkg:composer/asseco-voice/laravel-remote-relations@v5.2.0
+- pkg:composer/asseco-voice/laravel-remote-relations@v5.2.1
+- pkg:composer/asseco-voice/laravel-remote-relations@v5.2.2
