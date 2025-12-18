@@ -13,5 +13,6 @@
 - pkg:composer/tsugi/lib@21.3.1
 - pkg:composer/tsugi/lib@22.3.1
 - pkg:composer/tsugi/lib@24.5.1
+- pkg:composer/tsugi/lib@25.12.3
 - pkg:composer/tsugi/lib@25.5.1
 - pkg:composer/tsugi/lib@25.9.1
