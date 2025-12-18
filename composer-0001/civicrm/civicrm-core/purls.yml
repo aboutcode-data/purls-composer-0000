@@ -403,3 +403,4 @@
 - pkg:composer/civicrm/civicrm-core@6.7.2
 - pkg:composer/civicrm/civicrm-core@6.8.0
 - pkg:composer/civicrm/civicrm-core@6.9.0
+- pkg:composer/civicrm/civicrm-core@6.9.1
