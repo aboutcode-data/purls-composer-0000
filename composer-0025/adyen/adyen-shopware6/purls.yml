@@ -45,6 +45,7 @@
 - pkg:composer/adyen/adyen-shopware6@3.18.6
 - pkg:composer/adyen/adyen-shopware6@3.18.7
 - pkg:composer/adyen/adyen-shopware6@3.18.8
+- pkg:composer/adyen/adyen-shopware6@3.18.9
 - pkg:composer/adyen/adyen-shopware6@3.2.0
 - pkg:composer/adyen/adyen-shopware6@3.2.1
 - pkg:composer/adyen/adyen-shopware6@3.3.0
