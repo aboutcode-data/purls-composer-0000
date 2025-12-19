@@ -80,3 +80,4 @@
 - pkg:composer/lmc/spirit-web-twig-bundle@4.8.0
 - pkg:composer/lmc/spirit-web-twig-bundle@4.8.1
 - pkg:composer/lmc/spirit-web-twig-bundle@4.9.0
+- pkg:composer/lmc/spirit-web-twig-bundle@5.0.0
