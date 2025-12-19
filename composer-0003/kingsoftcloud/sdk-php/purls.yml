@@ -1,4 +1,5 @@
 - pkg:composer/kingsoftcloud/sdk-php@1.0.0
+- pkg:composer/kingsoftcloud/sdk-php@1.7.0
 - pkg:composer/kingsoftcloud/sdk-php@v1.0.1
 - pkg:composer/kingsoftcloud/sdk-php@v1.0.2
 - pkg:composer/kingsoftcloud/sdk-php@v1.0.3
@@ -67,3 +68,4 @@
 - pkg:composer/kingsoftcloud/sdk-php@v1.6.6
 - pkg:composer/kingsoftcloud/sdk-php@v1.6.7
 - pkg:composer/kingsoftcloud/sdk-php@v1.6.8
+- pkg:composer/kingsoftcloud/sdk-php@v1.6.9

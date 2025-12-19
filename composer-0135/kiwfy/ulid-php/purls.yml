@@ -5,3 +5,4 @@
 - pkg:composer/kiwfy/ulid-php@5.0.0
 - pkg:composer/kiwfy/ulid-php@6.0.0
 - pkg:composer/kiwfy/ulid-php@7.0.0
+- pkg:composer/kiwfy/ulid-php@8.0.0

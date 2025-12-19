@@ -107,3 +107,4 @@
 - pkg:composer/latte/latte@v3.0.8
 - pkg:composer/latte/latte@v3.0.9
 - pkg:composer/latte/latte@v3.1.0
+- pkg:composer/latte/latte@v3.1.1
