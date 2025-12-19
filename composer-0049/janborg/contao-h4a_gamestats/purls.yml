@@ -49,3 +49,5 @@
 - pkg:composer/janborg/contao-h4a_gamestats@2.3.0
 - pkg:composer/janborg/contao-h4a_gamestats@2.3.1
 - pkg:composer/janborg/contao-h4a_gamestats@3.0.0
+- pkg:composer/janborg/contao-h4a_gamestats@3.0.1
+- pkg:composer/janborg/contao-h4a_gamestats@v3.0.2
