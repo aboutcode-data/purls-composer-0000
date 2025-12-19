@@ -491,3 +491,4 @@
 - pkg:composer/neos/flow-development-collection@9.0.3
 - pkg:composer/neos/flow-development-collection@9.0.4
 - pkg:composer/neos/flow-development-collection@9.0.5
+- pkg:composer/neos/flow-development-collection@9.1.0

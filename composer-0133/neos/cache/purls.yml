@@ -404,3 +404,4 @@
 - pkg:composer/neos/cache@9.0.3
 - pkg:composer/neos/cache@9.0.4
 - pkg:composer/neos/cache@9.0.5
+- pkg:composer/neos/cache@9.1.0
