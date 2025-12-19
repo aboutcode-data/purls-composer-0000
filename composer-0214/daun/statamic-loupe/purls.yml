@@ -10,3 +10,4 @@
 - pkg:composer/daun/statamic-loupe@1.5.0
 - pkg:composer/daun/statamic-loupe@1.6.0
 - pkg:composer/daun/statamic-loupe@1.7.0
+- pkg:composer/daun/statamic-loupe@2.0.0

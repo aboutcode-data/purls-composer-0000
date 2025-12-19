@@ -12,3 +12,4 @@
 - pkg:composer/crowdsec/common@v2.3.2
 - pkg:composer/crowdsec/common@v2.4.0
 - pkg:composer/crowdsec/common@v3.0.0
+- pkg:composer/crowdsec/common@v3.0.1
