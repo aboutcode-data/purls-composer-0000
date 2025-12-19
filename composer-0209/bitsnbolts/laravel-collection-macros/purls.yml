@@ -9,3 +9,4 @@
 - pkg:composer/bitsnbolts/laravel-collection-macros@2.4.0
 - pkg:composer/bitsnbolts/laravel-collection-macros@2.5.0
 - pkg:composer/bitsnbolts/laravel-collection-macros@2.6.0
+- pkg:composer/bitsnbolts/laravel-collection-macros@3.0.0
