@@ -18,3 +18,5 @@
 - pkg:composer/otgs/unit-tests-framework@4.0.0
 - pkg:composer/otgs/unit-tests-framework@4.1.0
 - pkg:composer/otgs/unit-tests-framework@4.1.1
+- pkg:composer/otgs/unit-tests-framework@5.0.0
+- pkg:composer/otgs/unit-tests-framework@5.5.0
