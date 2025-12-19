@@ -1,1 +1,2 @@
 - pkg:composer/flarmedev/php-clickhouse@v1.0.0
+- pkg:composer/flarmedev/php-clickhouse@v1.1.0
