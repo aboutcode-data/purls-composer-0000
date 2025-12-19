@@ -14,6 +14,8 @@
 - pkg:composer/hurah/canvas-api@v1.0.20
 - pkg:composer/hurah/canvas-api@v1.0.21
 - pkg:composer/hurah/canvas-api@v1.0.22
+- pkg:composer/hurah/canvas-api@v1.0.23
+- pkg:composer/hurah/canvas-api@v1.0.24
 - pkg:composer/hurah/canvas-api@v1.0.25
 - pkg:composer/hurah/canvas-api@v1.0.26
 - pkg:composer/hurah/canvas-api@v1.0.27
@@ -38,7 +40,10 @@
 - pkg:composer/hurah/canvas-api@v1.0.44
 - pkg:composer/hurah/canvas-api@v1.0.45
 - pkg:composer/hurah/canvas-api@v1.0.46
+- pkg:composer/hurah/canvas-api@v1.0.47
+- pkg:composer/hurah/canvas-api@v1.0.48
 - pkg:composer/hurah/canvas-api@v1.0.5
+- pkg:composer/hurah/canvas-api@v1.0.52
 - pkg:composer/hurah/canvas-api@v1.0.6
 - pkg:composer/hurah/canvas-api@v1.0.7
 - pkg:composer/hurah/canvas-api@v1.0.8
