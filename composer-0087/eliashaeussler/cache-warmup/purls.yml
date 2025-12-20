@@ -85,3 +85,4 @@
 - pkg:composer/eliashaeussler/cache-warmup@4.3.2
 - pkg:composer/eliashaeussler/cache-warmup@5.0.0
 - pkg:composer/eliashaeussler/cache-warmup@5.0.1
+- pkg:composer/eliashaeussler/cache-warmup@5.0.2
