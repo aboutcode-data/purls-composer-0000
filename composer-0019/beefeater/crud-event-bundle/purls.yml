@@ -3,6 +3,7 @@
 - pkg:composer/beefeater/crud-event-bundle@1.7.1
 - pkg:composer/beefeater/crud-event-bundle@1.8
 - pkg:composer/beefeater/crud-event-bundle@1.9
+- pkg:composer/beefeater/crud-event-bundle@2.0.0
 - pkg:composer/beefeater/crud-event-bundle@v1.0.0
 - pkg:composer/beefeater/crud-event-bundle@v1.2.0
 - pkg:composer/beefeater/crud-event-bundle@v1.2.1
