@@ -32,6 +32,7 @@
 - pkg:composer/magento/magento-coding-standard@36
 - pkg:composer/magento/magento-coding-standard@37
 - pkg:composer/magento/magento-coding-standard@38
+- pkg:composer/magento/magento-coding-standard@39
 - pkg:composer/magento/magento-coding-standard@4
 - pkg:composer/magento/magento-coding-standard@5
 - pkg:composer/magento/magento-coding-standard@6
