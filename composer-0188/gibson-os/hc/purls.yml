@@ -37,3 +37,4 @@
 - pkg:composer/gibson-os/hc@v5.0.0
 - pkg:composer/gibson-os/hc@v5.0.1
 - pkg:composer/gibson-os/hc@v5.0.2
+- pkg:composer/gibson-os/hc@v5.0.3
