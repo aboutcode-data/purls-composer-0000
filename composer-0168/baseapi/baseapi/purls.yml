@@ -111,3 +111,4 @@
 - pkg:composer/baseapi/baseapi@v1.6.9
 - pkg:composer/baseapi/baseapi@v1.7.0
 - pkg:composer/baseapi/baseapi@v1.7.1
+- pkg:composer/baseapi/baseapi@v1.7.2
