@@ -28,3 +28,4 @@
 - pkg:composer/rollbar/rollbar-php-wordpress@v2.7.1
 - pkg:composer/rollbar/rollbar-php-wordpress@v3.0.0
 - pkg:composer/rollbar/rollbar-php-wordpress@v3.0.0-beta.0
+- pkg:composer/rollbar/rollbar-php-wordpress@v3.1.0

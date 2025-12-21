@@ -15,6 +15,13 @@
 - pkg:composer/roy404/routes@4.3.3
 - pkg:composer/roy404/routes@4.3.4
 - pkg:composer/roy404/routes@4.3.5
+- pkg:composer/roy404/routes@4.3.6
+- pkg:composer/roy404/routes@4.3.7
+- pkg:composer/roy404/routes@4.4.1
+- pkg:composer/roy404/routes@4.4.2
+- pkg:composer/roy404/routes@4.4.3
+- pkg:composer/roy404/routes@4.4.4
+- pkg:composer/roy404/routes@4.4.5
 - pkg:composer/roy404/routes@v1.4
 - pkg:composer/roy404/routes@v1.5
 - pkg:composer/roy404/routes@v2.0.0
