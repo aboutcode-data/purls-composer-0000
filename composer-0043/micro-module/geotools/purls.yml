@@ -30,6 +30,7 @@
 - pkg:composer/micro-module/geotools@v0.8.3
 - pkg:composer/micro-module/geotools@v0.8.4
 - pkg:composer/micro-module/geotools@v0.8.5
+- pkg:composer/micro-module/geotools@v0.8.6
 - pkg:composer/micro-module/geotools@v0.9.0-alpha
 - pkg:composer/micro-module/geotools@v0.9.0-beta
 - pkg:composer/micro-module/geotools@v0.9.0-beta2
