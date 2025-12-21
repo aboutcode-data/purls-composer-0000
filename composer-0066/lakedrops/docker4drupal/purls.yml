@@ -172,6 +172,7 @@
 - pkg:composer/lakedrops/docker4drupal@v3.10.63
 - pkg:composer/lakedrops/docker4drupal@v3.10.64
 - pkg:composer/lakedrops/docker4drupal@v3.10.65
+- pkg:composer/lakedrops/docker4drupal@v3.10.66
 - pkg:composer/lakedrops/docker4drupal@v3.10.7
 - pkg:composer/lakedrops/docker4drupal@v3.10.8
 - pkg:composer/lakedrops/docker4drupal@v3.10.9
