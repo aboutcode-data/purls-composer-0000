@@ -24,3 +24,4 @@
 - pkg:composer/simplesamlphp/xml-soap@v2.0.5
 - pkg:composer/simplesamlphp/xml-soap@v2.0.6
 - pkg:composer/simplesamlphp/xml-soap@v2.0.7
+- pkg:composer/simplesamlphp/xml-soap@v2.1.0

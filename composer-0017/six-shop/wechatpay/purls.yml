@@ -23,7 +23,15 @@
 - pkg:composer/six-shop/wechatpay@v0.2.21
 - pkg:composer/six-shop/wechatpay@v0.2.22
 - pkg:composer/six-shop/wechatpay@v0.2.23
+- pkg:composer/six-shop/wechatpay@v0.2.24
+- pkg:composer/six-shop/wechatpay@v0.2.25
+- pkg:composer/six-shop/wechatpay@v0.2.26
+- pkg:composer/six-shop/wechatpay@v0.2.27
+- pkg:composer/six-shop/wechatpay@v0.2.28
+- pkg:composer/six-shop/wechatpay@v0.2.29
 - pkg:composer/six-shop/wechatpay@v0.2.3
+- pkg:composer/six-shop/wechatpay@v0.2.30
+- pkg:composer/six-shop/wechatpay@v0.2.31
 - pkg:composer/six-shop/wechatpay@v0.2.4
 - pkg:composer/six-shop/wechatpay@v0.2.5
 - pkg:composer/six-shop/wechatpay@v0.2.6
@@ -32,3 +40,4 @@
 - pkg:composer/six-shop/wechatpay@v0.2.9
 - pkg:composer/six-shop/wechatpay@v1.0.0
 - pkg:composer/six-shop/wechatpay@v1.0.1
+- pkg:composer/six-shop/wechatpay@v1.0.2

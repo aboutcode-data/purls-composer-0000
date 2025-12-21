@@ -151,3 +151,5 @@
 - pkg:composer/simplesamlphp/xml-common@v2.4.2
 - pkg:composer/simplesamlphp/xml-common@v2.4.3
 - pkg:composer/simplesamlphp/xml-common@v2.4.4
+- pkg:composer/simplesamlphp/xml-common@v2.5.0
+- pkg:composer/simplesamlphp/xml-common@v2.5.1

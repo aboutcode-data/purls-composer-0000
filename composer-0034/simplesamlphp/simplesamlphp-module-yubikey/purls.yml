@@ -1,3 +1,4 @@
 - pkg:composer/simplesamlphp/simplesamlphp-module-yubikey@v0.1
 - pkg:composer/simplesamlphp/simplesamlphp-module-yubikey@v0.1.1
 - pkg:composer/simplesamlphp/simplesamlphp-module-yubikey@v1.0.0
+- pkg:composer/simplesamlphp/simplesamlphp-module-yubikey@v1.1.0
