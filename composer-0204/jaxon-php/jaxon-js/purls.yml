@@ -74,3 +74,4 @@
 - pkg:composer/jaxon-php/jaxon-js@v5.0.7
 - pkg:composer/jaxon-php/jaxon-js@v5.0.8
 - pkg:composer/jaxon-php/jaxon-js@v5.0.9
+- pkg:composer/jaxon-php/jaxon-js@v5.1.0

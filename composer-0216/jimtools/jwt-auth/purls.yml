@@ -7,3 +7,4 @@
 - pkg:composer/jimtools/jwt-auth@2.2.0
 - pkg:composer/jimtools/jwt-auth@2.3.0
 - pkg:composer/jimtools/jwt-auth@2.3.1
+- pkg:composer/jimtools/jwt-auth@3.0.0
