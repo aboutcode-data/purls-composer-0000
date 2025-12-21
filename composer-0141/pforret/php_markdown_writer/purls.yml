@@ -13,3 +13,6 @@
 - pkg:composer/pforret/php_markdown_writer@0.3.6
 - pkg:composer/pforret/php_markdown_writer@0.3.7
 - pkg:composer/pforret/php_markdown_writer@0.3.8
+- pkg:composer/pforret/php_markdown_writer@1.0.0
+- pkg:composer/pforret/php_markdown_writer@1.0.1
+- pkg:composer/pforret/php_markdown_writer@1.1.0
