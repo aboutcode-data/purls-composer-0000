@@ -35,3 +35,4 @@
 - pkg:composer/ip2location/ip2location-php@9.7.2
 - pkg:composer/ip2location/ip2location-php@9.7.3
 - pkg:composer/ip2location/ip2location-php@9.8.0
+- pkg:composer/ip2location/ip2location-php@9.8.1
