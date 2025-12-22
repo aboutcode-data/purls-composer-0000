@@ -1,1 +1,2 @@
 - pkg:composer/tourze/phpunit-symfony-unit-test@1.0.0
+- pkg:composer/tourze/phpunit-symfony-unit-test@2.0.0

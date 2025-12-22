@@ -346,6 +346,7 @@
 - pkg:composer/thbighead/wordless-framework@v8.45.0
 - pkg:composer/thbighead/wordless-framework@v8.45.1
 - pkg:composer/thbighead/wordless-framework@v8.45.10
+- pkg:composer/thbighead/wordless-framework@v8.45.11
 - pkg:composer/thbighead/wordless-framework@v8.45.2
 - pkg:composer/thbighead/wordless-framework@v8.45.3
 - pkg:composer/thbighead/wordless-framework@v8.45.4
@@ -355,6 +356,7 @@
 - pkg:composer/thbighead/wordless-framework@v8.45.8
 - pkg:composer/thbighead/wordless-framework@v8.45.9
 - pkg:composer/thbighead/wordless-framework@v8.46.0
+- pkg:composer/thbighead/wordless-framework@v8.46.1
 - pkg:composer/thbighead/wordless-framework@v8.5.0
 - pkg:composer/thbighead/wordless-framework@v8.5.1
 - pkg:composer/thbighead/wordless-framework@v8.5.2

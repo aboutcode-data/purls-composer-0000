@@ -1,3 +1,4 @@
+- pkg:composer/tomatophp/filament-invoices@4.0.0
 - pkg:composer/tomatophp/filament-invoices@v1.0.0
 - pkg:composer/tomatophp/filament-invoices@v1.0.1
 - pkg:composer/tomatophp/filament-invoices@v1.0.2
