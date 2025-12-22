@@ -87,3 +87,4 @@
 - pkg:composer/vielhuber/syncdb@1.8.7
 - pkg:composer/vielhuber/syncdb@1.8.8
 - pkg:composer/vielhuber/syncdb@1.8.9
+- pkg:composer/vielhuber/syncdb@1.9.0
