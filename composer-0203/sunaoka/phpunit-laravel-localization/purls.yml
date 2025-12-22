@@ -1,1 +1,2 @@
 - pkg:composer/sunaoka/phpunit-laravel-localization@v1.0.0
+- pkg:composer/sunaoka/phpunit-laravel-localization@v1.0.1

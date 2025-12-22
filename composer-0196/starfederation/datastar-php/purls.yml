@@ -2,6 +2,7 @@
 - pkg:composer/starfederation/datastar-php@1.0.0-RC.2
 - pkg:composer/starfederation/datastar-php@1.0.0-RC.3
 - pkg:composer/starfederation/datastar-php@1.0.0-RC.4
+- pkg:composer/starfederation/datastar-php@1.0.0-RC.5
 - pkg:composer/starfederation/datastar-php@1.0.0-alpha.1
 - pkg:composer/starfederation/datastar-php@1.0.0-alpha.2
 - pkg:composer/starfederation/datastar-php@1.0.0-beta.1

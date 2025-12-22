@@ -9,6 +9,7 @@
 - pkg:composer/stof/doctrine-extensions-bundle@v1.14.0
 - pkg:composer/stof/doctrine-extensions-bundle@v1.15.0
 - pkg:composer/stof/doctrine-extensions-bundle@v1.15.1
+- pkg:composer/stof/doctrine-extensions-bundle@v1.15.2
 - pkg:composer/stof/doctrine-extensions-bundle@v1.2.0
 - pkg:composer/stof/doctrine-extensions-bundle@v1.2.1
 - pkg:composer/stof/doctrine-extensions-bundle@v1.2.2
