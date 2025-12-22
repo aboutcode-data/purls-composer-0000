@@ -1,8 +1,2 @@
 - pkg:composer/moyu-php/taobao-sdk@1.0.0
-- pkg:composer/moyu-php/taobao-sdk@1.4.8
-- pkg:composer/moyu-php/taobao-sdk@1.4.9
-- pkg:composer/moyu-php/taobao-sdk@1.5.0
-- pkg:composer/moyu-php/taobao-sdk@1.5.1
-- pkg:composer/moyu-php/taobao-sdk@1.5.2
-- pkg:composer/moyu-php/taobao-sdk@1.5.3
 - pkg:composer/moyu-php/taobao-sdk@1.5.4
