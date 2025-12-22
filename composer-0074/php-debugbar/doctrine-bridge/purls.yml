@@ -1,3 +1,4 @@
 - pkg:composer/php-debugbar/doctrine-bridge@v1.0.0
 - pkg:composer/php-debugbar/doctrine-bridge@v1.1.0
+- pkg:composer/php-debugbar/doctrine-bridge@v2.0.0
 - pkg:composer/php-debugbar/doctrine-bridge@v2.0.0-beta1
