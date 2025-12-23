@@ -1,3 +1,5 @@
 - pkg:composer/joelwmale/php-ssl-certificate@1.0.0
 - pkg:composer/joelwmale/php-ssl-certificate@1.0.1
 - pkg:composer/joelwmale/php-ssl-certificate@2.0.2
+- pkg:composer/joelwmale/php-ssl-certificate@2.0.3
+- pkg:composer/joelwmale/php-ssl-certificate@3.0.0
