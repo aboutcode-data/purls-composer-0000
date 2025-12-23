@@ -237,6 +237,8 @@
 - pkg:composer/friendsofhyperf/sentry@v3.1.77
 - pkg:composer/friendsofhyperf/sentry@v3.1.78
 - pkg:composer/friendsofhyperf/sentry@v3.1.78.1
+- pkg:composer/friendsofhyperf/sentry@v3.1.78.2
+- pkg:composer/friendsofhyperf/sentry@v3.1.78.3
 - pkg:composer/friendsofhyperf/sentry@v3.1.8
 - pkg:composer/friendsofhyperf/sentry@v3.2.0-alpha.1
 - pkg:composer/friendsofhyperf/sentry@v3.2.0-alpha.2
