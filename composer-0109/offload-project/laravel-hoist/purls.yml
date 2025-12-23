@@ -1,1 +1,2 @@
 - pkg:composer/offload-project/laravel-hoist@v1.0.0
+- pkg:composer/offload-project/laravel-hoist@v1.1.0
