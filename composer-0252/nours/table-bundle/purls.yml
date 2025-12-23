@@ -48,3 +48,5 @@
 - pkg:composer/nours/table-bundle@v2.0.2
 - pkg:composer/nours/table-bundle@v2.0.3
 - pkg:composer/nours/table-bundle@v2.0.4
+- pkg:composer/nours/table-bundle@v3.0.0
+- pkg:composer/nours/table-bundle@v3.0.1
