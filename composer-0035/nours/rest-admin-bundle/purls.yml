@@ -48,3 +48,4 @@
 - pkg:composer/nours/rest-admin-bundle@v1.9.2
 - pkg:composer/nours/rest-admin-bundle@v1.9.3
 - pkg:composer/nours/rest-admin-bundle@v1.9.4
+- pkg:composer/nours/rest-admin-bundle@v2.0.0
