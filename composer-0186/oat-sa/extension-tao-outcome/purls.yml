@@ -53,6 +53,7 @@
 - pkg:composer/oat-sa/extension-tao-outcome@v13.8.2
 - pkg:composer/oat-sa/extension-tao-outcome@v13.8.3
 - pkg:composer/oat-sa/extension-tao-outcome@v13.8.4
+- pkg:composer/oat-sa/extension-tao-outcome@v13.8.5
 - pkg:composer/oat-sa/extension-tao-outcome@v2.10.0
 - pkg:composer/oat-sa/extension-tao-outcome@v2.10.1
 - pkg:composer/oat-sa/extension-tao-outcome@v2.10.2
