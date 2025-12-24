@@ -8,3 +8,4 @@
 - pkg:composer/llegaz/redis-adapter@0.0.8
 - pkg:composer/llegaz/redis-adapter@0.0.9
 - pkg:composer/llegaz/redis-adapter@0.1.0
+- pkg:composer/llegaz/redis-adapter@0.1.1
