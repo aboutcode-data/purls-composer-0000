@@ -1,4 +1,5 @@
 - pkg:composer/namu/wirechat@0.0.1
+- pkg:composer/namu/wirechat@0.3.0
 - pkg:composer/namu/wirechat@v0.0.3
 - pkg:composer/namu/wirechat@v0.0.4
 - pkg:composer/namu/wirechat@v0.0.5
