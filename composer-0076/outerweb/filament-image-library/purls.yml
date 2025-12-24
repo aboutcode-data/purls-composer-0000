@@ -19,3 +19,5 @@
 - pkg:composer/outerweb/filament-image-library@v2.7.0
 - pkg:composer/outerweb/filament-image-library@v3.0.0
 - pkg:composer/outerweb/filament-image-library@v3.0.1
+- pkg:composer/outerweb/filament-image-library@v3.0.2
+- pkg:composer/outerweb/filament-image-library@v3.0.3
