@@ -21,3 +21,4 @@
 - pkg:composer/lion/spreadsheet@v5.7.0
 - pkg:composer/lion/spreadsheet@v5.8.0
 - pkg:composer/lion/spreadsheet@v5.9.0
+- pkg:composer/lion/spreadsheet@v6.0.0
