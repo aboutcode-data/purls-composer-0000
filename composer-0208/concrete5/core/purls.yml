@@ -77,3 +77,4 @@
 - pkg:composer/concrete5/core@9.4.4
 - pkg:composer/concrete5/core@9.4.5
 - pkg:composer/concrete5/core@9.4.6
+- pkg:composer/concrete5/core@9.4.7
