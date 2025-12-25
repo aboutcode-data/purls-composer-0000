@@ -26,6 +26,8 @@
 - pkg:composer/bsodergren/utmtemplate@1.4.7
 - pkg:composer/bsodergren/utmtemplate@1.4.8
 - pkg:composer/bsodergren/utmtemplate@1.4.9
+- pkg:composer/bsodergren/utmtemplate@2.0.2
+- pkg:composer/bsodergren/utmtemplate@2.0.3
 - pkg:composer/bsodergren/utmtemplate@v1.0
 - pkg:composer/bsodergren/utmtemplate@v1.1
 - pkg:composer/bsodergren/utmtemplate@v1.2
