@@ -187,6 +187,7 @@
 - pkg:composer/automattic/jetpack-publicize-components@v1.1.4
 - pkg:composer/automattic/jetpack-publicize-components@v1.1.5
 - pkg:composer/automattic/jetpack-publicize-components@v1.1.6
+- pkg:composer/automattic/jetpack-publicize-components@v1.10.0
 - pkg:composer/automattic/jetpack-publicize-components@v1.2.0
 - pkg:composer/automattic/jetpack-publicize-components@v1.2.1
 - pkg:composer/automattic/jetpack-publicize-components@v1.2.2

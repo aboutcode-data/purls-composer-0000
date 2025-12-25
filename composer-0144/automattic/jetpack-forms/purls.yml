@@ -186,3 +186,4 @@
 - pkg:composer/automattic/jetpack-forms@v6.8.0
 - pkg:composer/automattic/jetpack-forms@v6.9.0
 - pkg:composer/automattic/jetpack-forms@v7.0.0
+- pkg:composer/automattic/jetpack-forms@v7.1.0
