@@ -8,3 +8,5 @@
 - pkg:composer/victormacko/dynamodb-repository@v0.2.6
 - pkg:composer/victormacko/dynamodb-repository@v0.2.7
 - pkg:composer/victormacko/dynamodb-repository@v0.2.8
+- pkg:composer/victormacko/dynamodb-repository@v1.0
+- pkg:composer/victormacko/dynamodb-repository@v1.0.1
