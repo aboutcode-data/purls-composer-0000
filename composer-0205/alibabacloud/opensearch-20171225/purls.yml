@@ -10,3 +10,4 @@
 - pkg:composer/alibabacloud/opensearch-20171225@2.0.0
 - pkg:composer/alibabacloud/opensearch-20171225@3.0.0
 - pkg:composer/alibabacloud/opensearch-20171225@3.0.1
+- pkg:composer/alibabacloud/opensearch-20171225@3.0.2
