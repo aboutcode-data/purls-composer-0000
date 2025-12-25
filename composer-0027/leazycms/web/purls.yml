@@ -140,6 +140,11 @@
 - pkg:composer/leazycms/web@1.2.130
 - pkg:composer/leazycms/web@1.2.131
 - pkg:composer/leazycms/web@1.2.132
+- pkg:composer/leazycms/web@1.2.133
+- pkg:composer/leazycms/web@1.2.134
+- pkg:composer/leazycms/web@1.2.135
+- pkg:composer/leazycms/web@1.2.136
+- pkg:composer/leazycms/web@1.2.137
 - pkg:composer/leazycms/web@1.2.14
 - pkg:composer/leazycms/web@1.2.15
 - pkg:composer/leazycms/web@1.2.16
