@@ -33,3 +33,4 @@
 - pkg:composer/mailjet/mailjet-apiv3-php@v1.6.3
 - pkg:composer/mailjet/mailjet-apiv3-php@v1.6.4
 - pkg:composer/mailjet/mailjet-apiv3-php@v1.6.5
+- pkg:composer/mailjet/mailjet-apiv3-php@v1.6.6
