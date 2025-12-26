@@ -11,3 +11,4 @@
 - pkg:composer/fusio/adapter-laravel@v6.1.0
 - pkg:composer/fusio/adapter-laravel@v6.1.1
 - pkg:composer/fusio/adapter-laravel@v6.1.2
+- pkg:composer/fusio/adapter-laravel@v6.2.0

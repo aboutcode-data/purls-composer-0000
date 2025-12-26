@@ -15,3 +15,4 @@
 - pkg:composer/fusio/adapter-aws@v6.0.3
 - pkg:composer/fusio/adapter-aws@v6.0.4
 - pkg:composer/fusio/adapter-aws@v6.1.0
+- pkg:composer/fusio/adapter-aws@v6.2.0
