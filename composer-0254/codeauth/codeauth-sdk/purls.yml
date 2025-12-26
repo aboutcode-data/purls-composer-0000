@@ -3,3 +3,4 @@
 - pkg:composer/codeauth/codeauth-sdk@v1.0.3
 - pkg:composer/codeauth/codeauth-sdk@v1.1.0
 - pkg:composer/codeauth/codeauth-sdk@v1.1.1
+- pkg:composer/codeauth/codeauth-sdk@v1.2.0
