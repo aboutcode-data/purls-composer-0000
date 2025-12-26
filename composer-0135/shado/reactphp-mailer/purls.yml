@@ -1,1 +1,2 @@
 - pkg:composer/shado/reactphp-mailer@v0.0.1
+- pkg:composer/shado/reactphp-mailer@v0.0.2
