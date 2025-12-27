@@ -1,1 +1,2 @@
 - pkg:composer/mridang/phpunit-reporters@1.0.0
+- pkg:composer/mridang/phpunit-reporters@1.0.1
