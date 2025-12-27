@@ -5,6 +5,11 @@
 - pkg:composer/w3spi5/bigdump@2.12
 - pkg:composer/w3spi5/bigdump@2.13
 - pkg:composer/w3spi5/bigdump@2.14
+- pkg:composer/w3spi5/bigdump@2.15
+- pkg:composer/w3spi5/bigdump@2.16
+- pkg:composer/w3spi5/bigdump@2.17
+- pkg:composer/w3spi5/bigdump@2.18
+- pkg:composer/w3spi5/bigdump@2.19
 - pkg:composer/w3spi5/bigdump@2.2
 - pkg:composer/w3spi5/bigdump@2.3
 - pkg:composer/w3spi5/bigdump@2.5
