@@ -56,3 +56,4 @@
 - pkg:composer/alibabacloud/waf-openapi-20211001@7.1.0
 - pkg:composer/alibabacloud/waf-openapi-20211001@7.1.1
 - pkg:composer/alibabacloud/waf-openapi-20211001@7.2.0
+- pkg:composer/alibabacloud/waf-openapi-20211001@7.3.0
