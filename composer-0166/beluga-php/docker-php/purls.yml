@@ -32,3 +32,4 @@
 - pkg:composer/beluga-php/docker-php@v1.45.3
 - pkg:composer/beluga-php/docker-php@v1.45.4
 - pkg:composer/beluga-php/docker-php@v1.45.5
+- pkg:composer/beluga-php/docker-php@v1.45.6

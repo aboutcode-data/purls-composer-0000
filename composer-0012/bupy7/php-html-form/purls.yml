@@ -35,3 +35,4 @@
 - pkg:composer/bupy7/php-html-form@v0.8.8
 - pkg:composer/bupy7/php-html-form@v0.8.9
 - pkg:composer/bupy7/php-html-form@v0.9.0
+- pkg:composer/bupy7/php-html-form@v2.0.5
