@@ -1,0 +1,3 @@
+- pkg:composer/fratac/laravel-distributed-kv@v1.0.0
+- pkg:composer/fratac/laravel-distributed-kv@v1.0.1
+- pkg:composer/fratac/laravel-distributed-kv@v1.0.6
