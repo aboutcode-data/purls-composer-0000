@@ -312,6 +312,7 @@
 - pkg:composer/ecotone/symfony-bundle@1.285.0
 - pkg:composer/ecotone/symfony-bundle@1.286.0
 - pkg:composer/ecotone/symfony-bundle@1.286.1
+- pkg:composer/ecotone/symfony-bundle@1.287.0
 - pkg:composer/ecotone/symfony-bundle@1.29.0
 - pkg:composer/ecotone/symfony-bundle@1.3.0
 - pkg:composer/ecotone/symfony-bundle@1.30.0
