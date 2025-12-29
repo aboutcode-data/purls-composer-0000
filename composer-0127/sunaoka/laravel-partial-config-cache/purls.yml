@@ -1,1 +1,2 @@
 - pkg:composer/sunaoka/laravel-partial-config-cache@v0.1.0
+- pkg:composer/sunaoka/laravel-partial-config-cache@v1.0.0
