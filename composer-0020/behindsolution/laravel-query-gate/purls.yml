@@ -7,6 +7,8 @@
 - pkg:composer/behindsolution/laravel-query-gate@v1.1.10
 - pkg:composer/behindsolution/laravel-query-gate@v1.1.11
 - pkg:composer/behindsolution/laravel-query-gate@v1.1.13
+- pkg:composer/behindsolution/laravel-query-gate@v1.1.14
+- pkg:composer/behindsolution/laravel-query-gate@v1.1.15
 - pkg:composer/behindsolution/laravel-query-gate@v1.1.2
 - pkg:composer/behindsolution/laravel-query-gate@v1.1.3
 - pkg:composer/behindsolution/laravel-query-gate@v1.1.4
