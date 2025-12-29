@@ -17,6 +17,7 @@
 - pkg:composer/alcamo/json@0.15.2
 - pkg:composer/alcamo/json@0.15.3
 - pkg:composer/alcamo/json@0.16.0
+- pkg:composer/alcamo/json@0.17.0
 - pkg:composer/alcamo/json@0.2
 - pkg:composer/alcamo/json@0.3
 - pkg:composer/alcamo/json@0.3.1
