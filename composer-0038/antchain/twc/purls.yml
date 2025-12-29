@@ -22,6 +22,7 @@
 - pkg:composer/antchain/twc@1.12.6
 - pkg:composer/antchain/twc@1.12.8
 - pkg:composer/antchain/twc@1.13.1
+- pkg:composer/antchain/twc@1.13.16
 - pkg:composer/antchain/twc@1.13.6
 - pkg:composer/antchain/twc@1.13.8
 - pkg:composer/antchain/twc@1.4.131
