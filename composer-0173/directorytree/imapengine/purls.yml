@@ -44,6 +44,7 @@
 - pkg:composer/directorytree/imapengine@v1.18.6
 - pkg:composer/directorytree/imapengine@v1.19.0
 - pkg:composer/directorytree/imapengine@v1.19.1
+- pkg:composer/directorytree/imapengine@v1.19.2
 - pkg:composer/directorytree/imapengine@v1.2.0
 - pkg:composer/directorytree/imapengine@v1.2.1
 - pkg:composer/directorytree/imapengine@v1.2.2

@@ -9,4 +9,5 @@
 - pkg:composer/dapphp/radius@2.5.6
 - pkg:composer/dapphp/radius@2.5.7
 - pkg:composer/dapphp/radius@2.5.8
+- pkg:composer/dapphp/radius@3.1.0
 - pkg:composer/dapphp/radius@v3.0.0
