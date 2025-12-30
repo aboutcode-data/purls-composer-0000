@@ -14,3 +14,4 @@
 - pkg:composer/pfefferle/wordpress-nodeinfo@2.3.0
 - pkg:composer/pfefferle/wordpress-nodeinfo@2.3.1
 - pkg:composer/pfefferle/wordpress-nodeinfo@3.0.0
+- pkg:composer/pfefferle/wordpress-nodeinfo@3.1.0

@@ -53,3 +53,5 @@
 - pkg:composer/php-vcr/php-vcr@1.6.7
 - pkg:composer/php-vcr/php-vcr@1.7.0
 - pkg:composer/php-vcr/php-vcr@1.8.0
+- pkg:composer/php-vcr/php-vcr@1.8.1
+- pkg:composer/php-vcr/php-vcr@1.8.2
