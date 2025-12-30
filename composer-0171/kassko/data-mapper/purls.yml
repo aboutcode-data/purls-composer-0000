@@ -66,3 +66,11 @@
 - pkg:composer/kassko/data-mapper@v0.9.0.2-alpha
 - pkg:composer/kassko/data-mapper@v0.9.0.3-alpha
 - pkg:composer/kassko/data-mapper@v1.0.0
+- pkg:composer/kassko/data-mapper@v2.30.0-alpha
+- pkg:composer/kassko/data-mapper@v2.31.0-alpha
+- pkg:composer/kassko/data-mapper@v2.32.0-alpha
+- pkg:composer/kassko/data-mapper@v2.32.1-alpha
+- pkg:composer/kassko/data-mapper@v2.33.0-alpha
+- pkg:composer/kassko/data-mapper@v2.34.0-alpha
+- pkg:composer/kassko/data-mapper@v2.35.0-alpha
+- pkg:composer/kassko/data-mapper@v2.36.0-alpha
