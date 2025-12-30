@@ -3,3 +3,4 @@
 - pkg:composer/micromus/kafka-bus-domain@v0.1.2
 - pkg:composer/micromus/kafka-bus-domain@v0.2.0
 - pkg:composer/micromus/kafka-bus-domain@v1.0.0-RC1
+- pkg:composer/micromus/kafka-bus-domain@v1.0.0-RC2

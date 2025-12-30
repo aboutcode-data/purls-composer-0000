@@ -5,3 +5,4 @@
 - pkg:composer/moonshine/import-export@1.0.4
 - pkg:composer/moonshine/import-export@1.0.5
 - pkg:composer/moonshine/import-export@2.0.0
+- pkg:composer/moonshine/import-export@2.1.0
