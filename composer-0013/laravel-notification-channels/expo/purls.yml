@@ -4,3 +4,4 @@
 - pkg:composer/laravel-notification-channels/expo@v1.3.0
 - pkg:composer/laravel-notification-channels/expo@v2.0.0
 - pkg:composer/laravel-notification-channels/expo@v2.1.0
+- pkg:composer/laravel-notification-channels/expo@v2.1.1
