@@ -1,2 +1,4 @@
 - pkg:composer/albertwill/yii2-rabbitmq@v2.8.4
 - pkg:composer/albertwill/yii2-rabbitmq@v2.9.1
+- pkg:composer/albertwill/yii2-rabbitmq@v2.9.2
+- pkg:composer/albertwill/yii2-rabbitmq@v2.9.3
