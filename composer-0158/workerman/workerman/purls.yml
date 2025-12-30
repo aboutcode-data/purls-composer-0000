@@ -155,3 +155,4 @@
 - pkg:composer/workerman/workerman@v5.1.4
 - pkg:composer/workerman/workerman@v5.1.5
 - pkg:composer/workerman/workerman@v5.1.6
+- pkg:composer/workerman/workerman@v5.1.7
