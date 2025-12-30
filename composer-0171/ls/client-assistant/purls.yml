@@ -548,6 +548,7 @@
 - pkg:composer/ls/client-assistant@v1.55.1
 - pkg:composer/ls/client-assistant@v1.55.2
 - pkg:composer/ls/client-assistant@v1.55.3
+- pkg:composer/ls/client-assistant@v1.55.4
 - pkg:composer/ls/client-assistant@v1.6.0
 - pkg:composer/ls/client-assistant@v1.6.1
 - pkg:composer/ls/client-assistant@v1.6.10
