@@ -24,5 +24,4 @@
 - pkg:composer/insalyon/acme@v2.0.7-alpha
 - pkg:composer/insalyon/acme@v2.0.8-alpha
 - pkg:composer/insalyon/acme@v2.0.9-alpha
-- pkg:composer/insalyon/acme@v2.1.0
 - pkg:composer/insalyon/acme@v2.1.0-alpha

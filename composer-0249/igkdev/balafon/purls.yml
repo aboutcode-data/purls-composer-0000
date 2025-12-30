@@ -1,5 +1,6 @@
 - pkg:composer/igkdev/balafon@1.0.1
 - pkg:composer/igkdev/balafon@2025.0.0.1205
+- pkg:composer/igkdev/balafon@2025.0.0.1229
 - pkg:composer/igkdev/balafon@v2025.0.0.1121-p12
 - pkg:composer/igkdev/balafon@v2025.0.0.1121-p13
 - pkg:composer/igkdev/balafon@v2025.0.0.1121-p14
@@ -16,3 +17,4 @@
 - pkg:composer/igkdev/balafon@v2025.0.0.1209-p1
 - pkg:composer/igkdev/balafon@v2025.0.0.1211
 - pkg:composer/igkdev/balafon@v2025.0.0.1212
+- pkg:composer/igkdev/balafon@v2025.0.0.1226
