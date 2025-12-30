@@ -28,3 +28,4 @@
 - pkg:composer/ecodev/graphql-upload@6.1.5
 - pkg:composer/ecodev/graphql-upload@7.0.0
 - pkg:composer/ecodev/graphql-upload@8.0.0
+- pkg:composer/ecodev/graphql-upload@8.0.1

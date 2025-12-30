@@ -5,3 +5,4 @@
 - pkg:composer/ekvedaras/dcb-eventstore-illuminate@1.2.0
 - pkg:composer/ekvedaras/dcb-eventstore-illuminate@1.3.0
 - pkg:composer/ekvedaras/dcb-eventstore-illuminate@2.0.0
+- pkg:composer/ekvedaras/dcb-eventstore-illuminate@2.0.1
