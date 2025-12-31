@@ -53,6 +53,7 @@
 - pkg:composer/slothsoft/core@1.14.2
 - pkg:composer/slothsoft/core@1.14.3
 - pkg:composer/slothsoft/core@1.14.4
+- pkg:composer/slothsoft/core@1.14.5
 - pkg:composer/slothsoft/core@1.2.0
 - pkg:composer/slothsoft/core@1.2.1
 - pkg:composer/slothsoft/core@1.3.0

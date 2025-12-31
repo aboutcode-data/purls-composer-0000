@@ -4,3 +4,4 @@
 - pkg:composer/simple-scripts/cloudways-deploy-manager@v1.2.1
 - pkg:composer/simple-scripts/cloudways-deploy-manager@v1.2.2
 - pkg:composer/simple-scripts/cloudways-deploy-manager@v1.2.3
+- pkg:composer/simple-scripts/cloudways-deploy-manager@v1.3.0
