@@ -8,3 +8,5 @@
 - pkg:composer/picperf/statamic-picperf@0.4.0
 - pkg:composer/picperf/statamic-picperf@0.4.1
 - pkg:composer/picperf/statamic-picperf@1.0.0
+- pkg:composer/picperf/statamic-picperf@1.0.1
+- pkg:composer/picperf/statamic-picperf@1.0.2
