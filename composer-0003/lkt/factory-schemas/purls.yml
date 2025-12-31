@@ -72,3 +72,5 @@
 - pkg:composer/lkt/factory-schemas@2.0.8
 - pkg:composer/lkt/factory-schemas@2.0.9
 - pkg:composer/lkt/factory-schemas@3.0.0
+- pkg:composer/lkt/factory-schemas@3.0.1
+- pkg:composer/lkt/factory-schemas@3.0.2
