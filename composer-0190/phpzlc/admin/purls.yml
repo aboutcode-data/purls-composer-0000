@@ -1,5 +1,6 @@
 - pkg:composer/phpzlc/admin@3.0.0
 - pkg:composer/phpzlc/admin@3.0.1
+- pkg:composer/phpzlc/admin@3.0.2
 - pkg:composer/phpzlc/admin@v1.0.0
 - pkg:composer/phpzlc/admin@v1.0.1
 - pkg:composer/phpzlc/admin@v1.0.10
