@@ -16,3 +16,4 @@
 - pkg:composer/interitty/phpunit@v1.0.9
 - pkg:composer/interitty/phpunit@v2.0.0
 - pkg:composer/interitty/phpunit@v2.0.1
+- pkg:composer/interitty/phpunit@v2.0.2
