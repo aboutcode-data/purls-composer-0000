@@ -4,3 +4,4 @@
 - pkg:composer/rulr/laravel-mailpot@v1.0.0
 - pkg:composer/rulr/laravel-mailpot@v1.0.1
 - pkg:composer/rulr/laravel-mailpot@v1.0.2
+- pkg:composer/rulr/laravel-mailpot@v1.1.0
