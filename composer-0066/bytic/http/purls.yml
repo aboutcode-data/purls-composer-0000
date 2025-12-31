@@ -34,3 +34,4 @@
 - pkg:composer/bytic/http@2.0.1
 - pkg:composer/bytic/http@2.0.2
 - pkg:composer/bytic/http@2.0.3
+- pkg:composer/bytic/http@2.0.6
