@@ -66,6 +66,7 @@
 - pkg:composer/inertiajs/inertia-laravel@v2.0.15
 - pkg:composer/inertiajs/inertia-laravel@v2.0.16
 - pkg:composer/inertiajs/inertia-laravel@v2.0.17
+- pkg:composer/inertiajs/inertia-laravel@v2.0.18
 - pkg:composer/inertiajs/inertia-laravel@v2.0.2
 - pkg:composer/inertiajs/inertia-laravel@v2.0.3
 - pkg:composer/inertiajs/inertia-laravel@v2.0.4
