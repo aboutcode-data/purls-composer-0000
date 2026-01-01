@@ -77,3 +77,5 @@
 - pkg:composer/funadmin/funadmin@v7.0.2
 - pkg:composer/funadmin/funadmin@v7.1.0-rc1
 - pkg:composer/funadmin/funadmin@v7.1.0-rc2
+- pkg:composer/funadmin/funadmin@v7.1.0-rc3
+- pkg:composer/funadmin/funadmin@v7.1.0-rc4
