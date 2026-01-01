@@ -24,6 +24,8 @@
 - pkg:composer/neuron-php/cms@0.8.22
 - pkg:composer/neuron-php/cms@0.8.23
 - pkg:composer/neuron-php/cms@0.8.24
+- pkg:composer/neuron-php/cms@0.8.25
+- pkg:composer/neuron-php/cms@0.8.26
 - pkg:composer/neuron-php/cms@0.8.3
 - pkg:composer/neuron-php/cms@0.8.4
 - pkg:composer/neuron-php/cms@0.8.5
