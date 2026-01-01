@@ -30,3 +30,5 @@
 - pkg:composer/laocc/esp@1.16.0
 - pkg:composer/laocc/esp@1.16.1
 - pkg:composer/laocc/esp@1.16.2
+- pkg:composer/laocc/esp@1.16.3
+- pkg:composer/laocc/esp@1.16.5
