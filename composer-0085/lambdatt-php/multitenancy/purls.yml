@@ -5,6 +5,7 @@
 - pkg:composer/lambdatt-php/multitenancy@v0.1.4
 - pkg:composer/lambdatt-php/multitenancy@v0.1.5
 - pkg:composer/lambdatt-php/multitenancy@v0.1.6
+- pkg:composer/lambdatt-php/multitenancy@v1.0.10
 - pkg:composer/lambdatt-php/multitenancy@v1.0.7
 - pkg:composer/lambdatt-php/multitenancy@v1.0.8
 - pkg:composer/lambdatt-php/multitenancy@v1.0.9
