@@ -1,6 +1,7 @@
 - pkg:composer/communitales/status-bus@1.2.0
 - pkg:composer/communitales/status-bus@2.1.1
 - pkg:composer/communitales/status-bus@2.2.0
+- pkg:composer/communitales/status-bus@2.3.0
 - pkg:composer/communitales/status-bus@v1.0.0
 - pkg:composer/communitales/status-bus@v1.0.1
 - pkg:composer/communitales/status-bus@v1.0.2
