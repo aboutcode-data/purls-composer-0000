@@ -1,1 +1,2 @@
-- pkg:composer/omegaalfa/jwtoken@v1.0.0
+- pkg:composer/omegaalfa/jwtoken@1.0.0
+- pkg:composer/omegaalfa/jwtoken@1.0.1
