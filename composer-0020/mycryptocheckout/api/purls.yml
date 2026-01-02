@@ -19,3 +19,5 @@
 - pkg:composer/mycryptocheckout/api@2.18
 - pkg:composer/mycryptocheckout/api@2.19
 - pkg:composer/mycryptocheckout/api@2.20
+- pkg:composer/mycryptocheckout/api@2.21
+- pkg:composer/mycryptocheckout/api@2.22
