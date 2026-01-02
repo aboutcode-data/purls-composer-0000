@@ -24,3 +24,4 @@
 - pkg:composer/novadaemon/filament-pretty-json@v2.7.0
 - pkg:composer/novadaemon/filament-pretty-json@v3.0.0
 - pkg:composer/novadaemon/filament-pretty-json@v3.1.0
+- pkg:composer/novadaemon/filament-pretty-json@v3.1.1
