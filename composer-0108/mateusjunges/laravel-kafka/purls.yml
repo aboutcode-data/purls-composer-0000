@@ -84,6 +84,7 @@
 - pkg:composer/mateusjunges/laravel-kafka@v2.1.4
 - pkg:composer/mateusjunges/laravel-kafka@v2.1.5
 - pkg:composer/mateusjunges/laravel-kafka@v2.10.0
+- pkg:composer/mateusjunges/laravel-kafka@v2.10.1
 - pkg:composer/mateusjunges/laravel-kafka@v2.2.0
 - pkg:composer/mateusjunges/laravel-kafka@v2.3.0
 - pkg:composer/mateusjunges/laravel-kafka@v2.3.1
