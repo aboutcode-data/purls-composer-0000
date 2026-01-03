@@ -3,3 +3,5 @@
 - pkg:composer/saucebase/settings@v0.0.3
 - pkg:composer/saucebase/settings@v0.0.4
 - pkg:composer/saucebase/settings@v0.0.5
+- pkg:composer/saucebase/settings@v0.0.6
+- pkg:composer/saucebase/settings@v0.0.7
