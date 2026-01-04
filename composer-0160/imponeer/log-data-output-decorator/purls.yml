@@ -8,3 +8,4 @@
 - pkg:composer/imponeer/log-data-output-decorator@v2.0.1
 - pkg:composer/imponeer/log-data-output-decorator@v2.0.2
 - pkg:composer/imponeer/log-data-output-decorator@v3.0.0
+- pkg:composer/imponeer/log-data-output-decorator@v3.0.1
