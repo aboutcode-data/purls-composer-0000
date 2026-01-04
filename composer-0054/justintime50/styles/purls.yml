@@ -1,5 +1,10 @@
 - pkg:composer/justintime50/styles@0.1.0
 - pkg:composer/justintime50/styles@0.10.0
+- pkg:composer/justintime50/styles@0.11.0
+- pkg:composer/justintime50/styles@0.11.1
+- pkg:composer/justintime50/styles@0.11.2
+- pkg:composer/justintime50/styles@0.11.3
+- pkg:composer/justintime50/styles@0.11.4
 - pkg:composer/justintime50/styles@0.3.0
 - pkg:composer/justintime50/styles@0.4.0
 - pkg:composer/justintime50/styles@0.5.0
