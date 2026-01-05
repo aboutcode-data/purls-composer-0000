@@ -173,6 +173,7 @@
 - pkg:composer/topthink/think-orm@v4.0.49
 - pkg:composer/topthink/think-orm@v4.0.5
 - pkg:composer/topthink/think-orm@v4.0.50
+- pkg:composer/topthink/think-orm@v4.0.51
 - pkg:composer/topthink/think-orm@v4.0.6
 - pkg:composer/topthink/think-orm@v4.0.7
 - pkg:composer/topthink/think-orm@v4.0.8
