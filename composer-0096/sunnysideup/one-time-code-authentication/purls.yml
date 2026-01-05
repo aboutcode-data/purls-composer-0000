@@ -1,3 +1,4 @@
 - pkg:composer/sunnysideup/one-time-code-authentication@1.0.0
 - pkg:composer/sunnysideup/one-time-code-authentication@2.0.0
 - pkg:composer/sunnysideup/one-time-code-authentication@3.0.0
+- pkg:composer/sunnysideup/one-time-code-authentication@4.0.0
