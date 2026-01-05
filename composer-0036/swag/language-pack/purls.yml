@@ -106,6 +106,7 @@
 - pkg:composer/swag/language-pack@5.30.0
 - pkg:composer/swag/language-pack@5.31.0
 - pkg:composer/swag/language-pack@5.32.0
+- pkg:composer/swag/language-pack@5.33.0
 - pkg:composer/swag/language-pack@5.4.0
 - pkg:composer/swag/language-pack@5.5.0
 - pkg:composer/swag/language-pack@5.6.0

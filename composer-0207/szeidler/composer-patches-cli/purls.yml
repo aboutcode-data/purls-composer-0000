@@ -9,3 +9,4 @@
 - pkg:composer/szeidler/composer-patches-cli@1.0.8
 - pkg:composer/szeidler/composer-patches-cli@1.1.0
 - pkg:composer/szeidler/composer-patches-cli@1.1.1
+- pkg:composer/szeidler/composer-patches-cli@1.1.2
