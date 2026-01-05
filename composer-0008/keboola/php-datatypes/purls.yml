@@ -61,3 +61,4 @@
 - pkg:composer/keboola/php-datatypes@8.0.0
 - pkg:composer/keboola/php-datatypes@8.1.0
 - pkg:composer/keboola/php-datatypes@8.2.0
+- pkg:composer/keboola/php-datatypes@9.0.0
