@@ -11,3 +11,4 @@
 - pkg:composer/sendbird/sendbird-platform-sdk-php@1.0.9
 - pkg:composer/sendbird/sendbird-platform-sdk-php@2.0.0
 - pkg:composer/sendbird/sendbird-platform-sdk-php@2.1.1
+- pkg:composer/sendbird/sendbird-platform-sdk-php@2.1.2
