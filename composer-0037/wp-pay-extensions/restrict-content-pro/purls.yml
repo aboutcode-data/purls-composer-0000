@@ -43,3 +43,4 @@
 - pkg:composer/wp-pay-extensions/restrict-content-pro@v4.7.1
 - pkg:composer/wp-pay-extensions/restrict-content-pro@v4.7.2
 - pkg:composer/wp-pay-extensions/restrict-content-pro@v4.8.0
+- pkg:composer/wp-pay-extensions/restrict-content-pro@v4.9.0

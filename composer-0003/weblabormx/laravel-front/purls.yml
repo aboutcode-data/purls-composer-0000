@@ -167,6 +167,8 @@
 - pkg:composer/weblabormx/laravel-front@v3.2.22
 - pkg:composer/weblabormx/laravel-front@v3.2.23
 - pkg:composer/weblabormx/laravel-front@v3.2.24
+- pkg:composer/weblabormx/laravel-front@v3.2.25
+- pkg:composer/weblabormx/laravel-front@v3.2.26
 - pkg:composer/weblabormx/laravel-front@v3.2.3
 - pkg:composer/weblabormx/laravel-front@v3.2.4
 - pkg:composer/weblabormx/laravel-front@v3.2.5

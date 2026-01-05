@@ -58,6 +58,7 @@
 - pkg:composer/wp-pay-extensions/woocommerce@v4.12.0
 - pkg:composer/wp-pay-extensions/woocommerce@v4.12.1
 - pkg:composer/wp-pay-extensions/woocommerce@v4.13.0
+- pkg:composer/wp-pay-extensions/woocommerce@v4.14.0
 - pkg:composer/wp-pay-extensions/woocommerce@v4.4.0
 - pkg:composer/wp-pay-extensions/woocommerce@v4.5.0
 - pkg:composer/wp-pay-extensions/woocommerce@v4.5.1
