@@ -31,3 +31,4 @@
 - pkg:composer/shipperhq/module-address-autocomplete@20.6.8
 - pkg:composer/shipperhq/module-address-autocomplete@20.6.9
 - pkg:composer/shipperhq/module-address-autocomplete@21.0.0
+- pkg:composer/shipperhq/module-address-autocomplete@21.0.1
