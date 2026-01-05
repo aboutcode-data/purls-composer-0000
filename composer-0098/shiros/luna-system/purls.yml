@@ -8,6 +8,7 @@
 - pkg:composer/shiros/luna-system@1.8.7
 - pkg:composer/shiros/luna-system@1.8.8
 - pkg:composer/shiros/luna-system@1.8.9
+- pkg:composer/shiros/luna-system@2.6.0
 - pkg:composer/shiros/luna-system@v1.0.0
 - pkg:composer/shiros/luna-system@v1.1.0
 - pkg:composer/shiros/luna-system@v1.2.0
@@ -29,3 +30,4 @@
 - pkg:composer/shiros/luna-system@v2.2.0
 - pkg:composer/shiros/luna-system@v2.3.0
 - pkg:composer/shiros/luna-system@v2.4.0
+- pkg:composer/shiros/luna-system@v2.5.0

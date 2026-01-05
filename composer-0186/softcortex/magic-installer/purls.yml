@@ -1,3 +1,4 @@
+- pkg:composer/softcortex/magic-installer@1.2.8
 - pkg:composer/softcortex/magic-installer@v1.0.0
 - pkg:composer/softcortex/magic-installer@v1.0.1
 - pkg:composer/softcortex/magic-installer@v1.0.2
@@ -9,3 +10,4 @@
 - pkg:composer/softcortex/magic-installer@v1.2.4
 - pkg:composer/softcortex/magic-installer@v1.2.5
 - pkg:composer/softcortex/magic-installer@v1.2.6
+- pkg:composer/softcortex/magic-installer@v1.2.7
