@@ -4,6 +4,7 @@
 - pkg:composer/contributte/psr-7@v0.1.3
 - pkg:composer/contributte/psr-7@v0.1.4
 - pkg:composer/contributte/psr-7@v0.10.0
+- pkg:composer/contributte/psr-7@v0.11.0
 - pkg:composer/contributte/psr-7@v0.2
 - pkg:composer/contributte/psr-7@v0.3
 - pkg:composer/contributte/psr-7@v0.3.1

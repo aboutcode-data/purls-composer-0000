@@ -26,4 +26,5 @@
 - pkg:composer/contributte/newrelic@v7.0.0
 - pkg:composer/contributte/newrelic@v8.0.0
 - pkg:composer/contributte/newrelic@v8.1.0
+- pkg:composer/contributte/newrelic@v9.0.0
 - pkg:composer/contributte/newrelic@v9.0.0-alpha1

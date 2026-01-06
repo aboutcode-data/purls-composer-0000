@@ -8,3 +8,4 @@
 - pkg:composer/contributte/monolog@v0.5.0
 - pkg:composer/contributte/monolog@v0.5.1
 - pkg:composer/contributte/monolog@v0.5.2
+- pkg:composer/contributte/monolog@v0.6.0

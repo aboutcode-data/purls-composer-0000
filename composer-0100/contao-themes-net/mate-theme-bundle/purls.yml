@@ -205,3 +205,4 @@
 - pkg:composer/contao-themes-net/mate-theme-bundle@3.5.4
 - pkg:composer/contao-themes-net/mate-theme-bundle@3.5.5
 - pkg:composer/contao-themes-net/mate-theme-bundle@3.6.0
+- pkg:composer/contao-themes-net/mate-theme-bundle@3.6.1

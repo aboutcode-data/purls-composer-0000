@@ -82,3 +82,4 @@
 - pkg:composer/crwlr/crawler@v3.5.3
 - pkg:composer/crwlr/crawler@v3.5.4
 - pkg:composer/crwlr/crawler@v3.5.5
+- pkg:composer/crwlr/crawler@v3.5.6
