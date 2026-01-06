@@ -22,6 +22,7 @@
 - pkg:composer/shoppingfeed/ebay-sdk-php@18.0.0
 - pkg:composer/shoppingfeed/ebay-sdk-php@19.0.0
 - pkg:composer/shoppingfeed/ebay-sdk-php@19.0.1
+- pkg:composer/shoppingfeed/ebay-sdk-php@19.0.2
 - pkg:composer/shoppingfeed/ebay-sdk-php@2.0.0
 - pkg:composer/shoppingfeed/ebay-sdk-php@3.0.0
 - pkg:composer/shoppingfeed/ebay-sdk-php@4.0.0
