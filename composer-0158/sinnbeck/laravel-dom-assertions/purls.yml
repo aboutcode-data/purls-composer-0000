@@ -32,3 +32,4 @@
 - pkg:composer/sinnbeck/laravel-dom-assertions@v2.5.0
 - pkg:composer/sinnbeck/laravel-dom-assertions@v2.6.0
 - pkg:composer/sinnbeck/laravel-dom-assertions@v2.7.0
+- pkg:composer/sinnbeck/laravel-dom-assertions@v2.8.0
