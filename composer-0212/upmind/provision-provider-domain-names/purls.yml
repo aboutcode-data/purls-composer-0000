@@ -68,6 +68,7 @@
 - pkg:composer/upmind/provision-provider-domain-names@v2.12.6
 - pkg:composer/upmind/provision-provider-domain-names@v2.12.60
 - pkg:composer/upmind/provision-provider-domain-names@v2.12.61
+- pkg:composer/upmind/provision-provider-domain-names@v2.12.62
 - pkg:composer/upmind/provision-provider-domain-names@v2.12.7
 - pkg:composer/upmind/provision-provider-domain-names@v2.12.8
 - pkg:composer/upmind/provision-provider-domain-names@v2.12.9
@@ -128,6 +129,7 @@
 - pkg:composer/upmind/provision-provider-domain-names@v2.22.3
 - pkg:composer/upmind/provision-provider-domain-names@v2.22.4
 - pkg:composer/upmind/provision-provider-domain-names@v2.23.0
+- pkg:composer/upmind/provision-provider-domain-names@v2.24.0
 - pkg:composer/upmind/provision-provider-domain-names@v2.3.0
 - pkg:composer/upmind/provision-provider-domain-names@v2.3.1
 - pkg:composer/upmind/provision-provider-domain-names@v2.3.2
