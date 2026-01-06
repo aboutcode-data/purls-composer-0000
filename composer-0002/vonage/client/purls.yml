@@ -7,5 +7,6 @@
 - pkg:composer/vonage/client@4.0.0
 - pkg:composer/vonage/client@4.1.1
 - pkg:composer/vonage/client@4.2.0
+- pkg:composer/vonage/client@4.3.0
 - pkg:composer/vonage/client@v2.2.0-RC1
 - pkg:composer/vonage/client@v2.2.0-RC2
