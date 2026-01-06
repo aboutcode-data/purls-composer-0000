@@ -1,1 +1,3 @@
 - pkg:composer/doubleedesign/doublee-base-plugin@3.0.0
+- pkg:composer/doubleedesign/doublee-base-plugin@4.0.0
+- pkg:composer/doubleedesign/doublee-base-plugin@4.1.0
