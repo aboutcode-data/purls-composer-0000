@@ -41,8 +41,6 @@
 - pkg:composer/admidio/admidio@v4.3.7
 - pkg:composer/admidio/admidio@v4.3.8
 - pkg:composer/admidio/admidio@v4.3.9
-- pkg:composer/admidio/admidio@v4.44
-- pkg:composer/admidio/admidio@v44.5
 - pkg:composer/admidio/admidio@v5.0-Beta.1
 - pkg:composer/admidio/admidio@v5.0-Beta.2
 - pkg:composer/admidio/admidio@v5.0-Beta.3
@@ -50,5 +48,3 @@
 - pkg:composer/admidio/admidio@v5.0.1
 - pkg:composer/admidio/admidio@v5.0.2
 - pkg:composer/admidio/admidio@v5.0.3
-- pkg:composer/admidio/admidio@v5.99
-- pkg:composer/admidio/admidio@v55.2

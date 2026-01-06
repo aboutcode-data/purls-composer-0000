@@ -1,2 +1,4 @@
 - pkg:composer/academe/elavon-epg-psr7@1.0.0
 - pkg:composer/academe/elavon-epg-psr7@1.1.0
+- pkg:composer/academe/elavon-epg-psr7@2.0.0
+- pkg:composer/academe/elavon-epg-psr7@2.0.1

@@ -22,3 +22,4 @@
 - pkg:composer/allure-framework/allure-phpunit@v3.0.0
 - pkg:composer/allure-framework/allure-phpunit@v3.0.1
 - pkg:composer/allure-framework/allure-phpunit@v3.1.0
+- pkg:composer/allure-framework/allure-phpunit@v3.2.0

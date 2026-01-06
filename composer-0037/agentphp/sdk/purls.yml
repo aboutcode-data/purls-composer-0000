@@ -1,1 +1,9 @@
+- pkg:composer/agentphp/sdk@1.3.0
+- pkg:composer/agentphp/sdk@v1.0.0.0
 - pkg:composer/agentphp/sdk@v1.0.2
+- pkg:composer/agentphp/sdk@v1.0.4
+- pkg:composer/agentphp/sdk@v1.0.5
+- pkg:composer/agentphp/sdk@v1.4.0
+- pkg:composer/agentphp/sdk@v1.5.0
+- pkg:composer/agentphp/sdk@v1.6.0
+- pkg:composer/agentphp/sdk@v2.0.0

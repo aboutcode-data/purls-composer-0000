@@ -24,3 +24,5 @@
 - pkg:composer/afragen/git-updater-lite@2.3.7
 - pkg:composer/afragen/git-updater-lite@2.5.0
 - pkg:composer/afragen/git-updater-lite@2.6.0
+- pkg:composer/afragen/git-updater-lite@2.7.0
+- pkg:composer/afragen/git-updater-lite@2.7.1
