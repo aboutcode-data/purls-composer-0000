@@ -69,3 +69,4 @@
 - pkg:composer/assegaiphp/core@0.5.7
 - pkg:composer/assegaiphp/core@0.5.8
 - pkg:composer/assegaiphp/core@0.5.9
+- pkg:composer/assegaiphp/core@0.6.1
