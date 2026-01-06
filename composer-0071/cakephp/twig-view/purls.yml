@@ -14,3 +14,4 @@
 - pkg:composer/cakephp/twig-view@2.0.1
 - pkg:composer/cakephp/twig-view@2.0.2
 - pkg:composer/cakephp/twig-view@2.0.3
+- pkg:composer/cakephp/twig-view@2.1.0
