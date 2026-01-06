@@ -2,3 +2,4 @@
 - pkg:composer/nmc/laravel-cloud-tasks@v1.0.1
 - pkg:composer/nmc/laravel-cloud-tasks@v1.0.2
 - pkg:composer/nmc/laravel-cloud-tasks@v1.2.0
+- pkg:composer/nmc/laravel-cloud-tasks@v1.2.1

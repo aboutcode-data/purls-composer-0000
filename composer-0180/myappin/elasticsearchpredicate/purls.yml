@@ -59,6 +59,8 @@
 - pkg:composer/myappin/elasticsearchpredicate@2.3.1.5
 - pkg:composer/myappin/elasticsearchpredicate@2.3.1.6
 - pkg:composer/myappin/elasticsearchpredicate@2.3.1.7
+- pkg:composer/myappin/elasticsearchpredicate@2.3.1.8
+- pkg:composer/myappin/elasticsearchpredicate@2.3.1.9
 - pkg:composer/myappin/elasticsearchpredicate@2.4.5.1
 - pkg:composer/myappin/elasticsearchpredicate@3.0.0
 - pkg:composer/myappin/elasticsearchpredicate@3.0.1
