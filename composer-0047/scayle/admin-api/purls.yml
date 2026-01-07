@@ -44,6 +44,7 @@
 - pkg:composer/scayle/admin-api@v2.15.0
 - pkg:composer/scayle/admin-api@v2.15.1
 - pkg:composer/scayle/admin-api@v2.16.0
+- pkg:composer/scayle/admin-api@v2.17.0
 - pkg:composer/scayle/admin-api@v2.2.0
 - pkg:composer/scayle/admin-api@v2.2.1
 - pkg:composer/scayle/admin-api@v2.3.0

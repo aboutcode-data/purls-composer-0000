@@ -34,3 +34,4 @@
 - pkg:composer/rector/argtyper@0.5.7
 - pkg:composer/rector/argtyper@0.5.8
 - pkg:composer/rector/argtyper@0.5.9
+- pkg:composer/rector/argtyper@0.6.0
