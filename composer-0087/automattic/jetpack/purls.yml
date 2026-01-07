@@ -456,9 +456,11 @@
 - pkg:composer/automattic/jetpack@15.3-beta.2
 - pkg:composer/automattic/jetpack@15.3-beta.3
 - pkg:composer/automattic/jetpack@15.3.1
+- pkg:composer/automattic/jetpack@15.4
 - pkg:composer/automattic/jetpack@15.4-a.1
 - pkg:composer/automattic/jetpack@15.4-a.3
 - pkg:composer/automattic/jetpack@15.4-a.5
+- pkg:composer/automattic/jetpack@15.4-beta
 - pkg:composer/automattic/jetpack@2.8
 - pkg:composer/automattic/jetpack@2.8.3
 - pkg:composer/automattic/jetpack@2.8.4

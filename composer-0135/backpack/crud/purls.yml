@@ -645,6 +645,7 @@
 - pkg:composer/backpack/crud@7.0.16
 - pkg:composer/backpack/crud@7.0.17
 - pkg:composer/backpack/crud@7.0.18
+- pkg:composer/backpack/crud@7.0.19
 - pkg:composer/backpack/crud@7.0.2
 - pkg:composer/backpack/crud@7.0.3
 - pkg:composer/backpack/crud@7.0.4
