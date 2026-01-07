@@ -109,6 +109,7 @@
 - pkg:composer/php-debugbar/php-debugbar@v3.0-beta.16
 - pkg:composer/php-debugbar/php-debugbar@v3.0-beta.17
 - pkg:composer/php-debugbar/php-debugbar@v3.0-beta.18
+- pkg:composer/php-debugbar/php-debugbar@v3.0-beta.19
 - pkg:composer/php-debugbar/php-debugbar@v3.0-beta.2
 - pkg:composer/php-debugbar/php-debugbar@v3.0-beta.3
 - pkg:composer/php-debugbar/php-debugbar@v3.0-beta.4
