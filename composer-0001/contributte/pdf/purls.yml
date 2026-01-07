@@ -23,3 +23,4 @@
 - pkg:composer/contributte/pdf@v6.0.2
 - pkg:composer/contributte/pdf@v6.1.0
 - pkg:composer/contributte/pdf@v7.0.0
+- pkg:composer/contributte/pdf@v8.0.0

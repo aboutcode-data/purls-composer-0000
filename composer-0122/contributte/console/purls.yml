@@ -4,6 +4,7 @@
 - pkg:composer/contributte/console@v0.1.3
 - pkg:composer/contributte/console@v0.10.0
 - pkg:composer/contributte/console@v0.10.1
+- pkg:composer/contributte/console@v0.11.0
 - pkg:composer/contributte/console@v0.2
 - pkg:composer/contributte/console@v0.3
 - pkg:composer/contributte/console@v0.4

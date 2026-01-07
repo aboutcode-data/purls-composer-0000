@@ -14,3 +14,4 @@
 - pkg:composer/cobweb/svconnector@5.0.1
 - pkg:composer/cobweb/svconnector@5.1.0
 - pkg:composer/cobweb/svconnector@6.0.0
+- pkg:composer/cobweb/svconnector@6.0.1

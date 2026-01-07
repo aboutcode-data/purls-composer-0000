@@ -27,6 +27,7 @@
 - pkg:composer/cyclonedx/cyclonedx-library@v3.1.0
 - pkg:composer/cyclonedx/cyclonedx-library@v3.1.1
 - pkg:composer/cyclonedx/cyclonedx-library@v3.1.2
+- pkg:composer/cyclonedx/cyclonedx-library@v3.10.0
 - pkg:composer/cyclonedx/cyclonedx-library@v3.2.0
 - pkg:composer/cyclonedx/cyclonedx-library@v3.3.0
 - pkg:composer/cyclonedx/cyclonedx-library@v3.3.1

@@ -43,3 +43,4 @@
 - pkg:composer/covery/client@1.5.1
 - pkg:composer/covery/client@1.5.2
 - pkg:composer/covery/client@1.5.3
+- pkg:composer/covery/client@1.6.0

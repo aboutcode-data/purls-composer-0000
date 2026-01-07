@@ -28,3 +28,4 @@
 - pkg:composer/contributte/newrelic@v8.1.0
 - pkg:composer/contributte/newrelic@v9.0.0
 - pkg:composer/contributte/newrelic@v9.0.0-alpha1
+- pkg:composer/contributte/newrelic@v9.0.1
