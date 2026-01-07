@@ -1,2 +1,4 @@
 - pkg:composer/shammaa/laravel-optimized-queries@1.0.0
 - pkg:composer/shammaa/laravel-optimized-queries@v1.0.2
+- pkg:composer/shammaa/laravel-optimized-queries@v1.1.0
+- pkg:composer/shammaa/laravel-optimized-queries@v1.1.2
