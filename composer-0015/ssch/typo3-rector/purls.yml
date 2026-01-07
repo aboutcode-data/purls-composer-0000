@@ -198,6 +198,7 @@
 - pkg:composer/ssch/typo3-rector@v3.1.1
 - pkg:composer/ssch/typo3-rector@v3.10.0
 - pkg:composer/ssch/typo3-rector@v3.10.1
+- pkg:composer/ssch/typo3-rector@v3.10.2
 - pkg:composer/ssch/typo3-rector@v3.2.0
 - pkg:composer/ssch/typo3-rector@v3.3.0
 - pkg:composer/ssch/typo3-rector@v3.4.0
