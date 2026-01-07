@@ -8,7 +8,12 @@
 - pkg:composer/aifnet-com/fal-laravel@v1.0.15
 - pkg:composer/aifnet-com/fal-laravel@v1.0.16
 - pkg:composer/aifnet-com/fal-laravel@v1.0.17
+- pkg:composer/aifnet-com/fal-laravel@v1.0.18
+- pkg:composer/aifnet-com/fal-laravel@v1.0.19
 - pkg:composer/aifnet-com/fal-laravel@v1.0.2
+- pkg:composer/aifnet-com/fal-laravel@v1.0.20
+- pkg:composer/aifnet-com/fal-laravel@v1.0.21
+- pkg:composer/aifnet-com/fal-laravel@v1.0.22
 - pkg:composer/aifnet-com/fal-laravel@v1.0.3
 - pkg:composer/aifnet-com/fal-laravel@v1.0.4
 - pkg:composer/aifnet-com/fal-laravel@v1.0.5
