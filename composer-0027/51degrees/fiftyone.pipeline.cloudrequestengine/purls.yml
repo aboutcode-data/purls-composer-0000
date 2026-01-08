@@ -42,6 +42,7 @@
 - pkg:composer/51degrees/fiftyone.pipeline.cloudrequestengine@4.5.3.0
 - pkg:composer/51degrees/fiftyone.pipeline.cloudrequestengine@4.5.4
 - pkg:composer/51degrees/fiftyone.pipeline.cloudrequestengine@4.5.5
+- pkg:composer/51degrees/fiftyone.pipeline.cloudrequestengine@4.5.6
 - pkg:composer/51degrees/fiftyone.pipeline.cloudrequestengine@v4.1.0-beta0002
 - pkg:composer/51degrees/fiftyone.pipeline.cloudrequestengine@v4.1.0-beta0005
 - pkg:composer/51degrees/fiftyone.pipeline.cloudrequestengine@v4.1.0-beta0006
