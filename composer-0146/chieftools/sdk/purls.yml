@@ -374,6 +374,7 @@
 - pkg:composer/chieftools/sdk@v0.97.1
 - pkg:composer/chieftools/sdk@v0.97.10
 - pkg:composer/chieftools/sdk@v0.97.11
+- pkg:composer/chieftools/sdk@v0.97.12
 - pkg:composer/chieftools/sdk@v0.97.2
 - pkg:composer/chieftools/sdk@v0.97.3
 - pkg:composer/chieftools/sdk@v0.97.4
