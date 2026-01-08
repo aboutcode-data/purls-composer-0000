@@ -44,6 +44,7 @@
 - pkg:composer/picallex/cloudpbx-php-sdk@v1.10.0
 - pkg:composer/picallex/cloudpbx-php-sdk@v1.11.0
 - pkg:composer/picallex/cloudpbx-php-sdk@v1.12.0
+- pkg:composer/picallex/cloudpbx-php-sdk@v1.12.1
 - pkg:composer/picallex/cloudpbx-php-sdk@v1.2.0
 - pkg:composer/picallex/cloudpbx-php-sdk@v1.3.0
 - pkg:composer/picallex/cloudpbx-php-sdk@v1.3.1
