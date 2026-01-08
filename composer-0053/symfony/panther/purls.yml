@@ -23,3 +23,4 @@
 - pkg:composer/symfony/panther@v2.1.1
 - pkg:composer/symfony/panther@v2.2.0
 - pkg:composer/symfony/panther@v2.3.0
+- pkg:composer/symfony/panther@v2.4.0
