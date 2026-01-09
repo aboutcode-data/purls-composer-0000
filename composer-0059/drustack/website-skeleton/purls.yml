@@ -7,8 +7,10 @@
 - pkg:composer/drustack/website-skeleton@10.2.7
 - pkg:composer/drustack/website-skeleton@10.4.0
 - pkg:composer/drustack/website-skeleton@10.4.1
+- pkg:composer/drustack/website-skeleton@10.5.0
 - pkg:composer/drustack/website-skeleton@11.1.0
 - pkg:composer/drustack/website-skeleton@11.1.1
+- pkg:composer/drustack/website-skeleton@11.2.0
 - pkg:composer/drustack/website-skeleton@9.1.0
 - pkg:composer/drustack/website-skeleton@9.1.0-alpha1
 - pkg:composer/drustack/website-skeleton@9.1.0-alpha2
