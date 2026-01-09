@@ -7,6 +7,7 @@
 - pkg:composer/spryker/monitoring@2.1.2
 - pkg:composer/spryker/monitoring@2.10.0
 - pkg:composer/spryker/monitoring@2.11.0
+- pkg:composer/spryker/monitoring@2.11.1
 - pkg:composer/spryker/monitoring@2.2.0
 - pkg:composer/spryker/monitoring@2.2.1
 - pkg:composer/spryker/monitoring@2.2.2
