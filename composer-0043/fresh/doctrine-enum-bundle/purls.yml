@@ -12,6 +12,7 @@
 - pkg:composer/fresh/doctrine-enum-bundle@v11.2.1
 - pkg:composer/fresh/doctrine-enum-bundle@v11.2.2
 - pkg:composer/fresh/doctrine-enum-bundle@v12.0.0
+- pkg:composer/fresh/doctrine-enum-bundle@v12.0.1
 - pkg:composer/fresh/doctrine-enum-bundle@v2.0
 - pkg:composer/fresh/doctrine-enum-bundle@v2.1
 - pkg:composer/fresh/doctrine-enum-bundle@v2.2

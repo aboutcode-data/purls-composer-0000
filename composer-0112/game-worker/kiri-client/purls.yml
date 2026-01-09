@@ -13,3 +13,4 @@
 - pkg:composer/game-worker/kiri-client@v2.3
 - pkg:composer/game-worker/kiri-client@v2.4
 - pkg:composer/game-worker/kiri-client@v2.5
+- pkg:composer/game-worker/kiri-client@v2.6
