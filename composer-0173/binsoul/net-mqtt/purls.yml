@@ -8,3 +8,4 @@
 - pkg:composer/binsoul/net-mqtt@0.7.0
 - pkg:composer/binsoul/net-mqtt@0.8.0
 - pkg:composer/binsoul/net-mqtt@0.8.1
+- pkg:composer/binsoul/net-mqtt@1.0.0
