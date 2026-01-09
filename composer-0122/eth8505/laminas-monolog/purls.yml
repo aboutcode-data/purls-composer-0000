@@ -3,3 +3,4 @@
 - pkg:composer/eth8505/laminas-monolog@1.1.0
 - pkg:composer/eth8505/laminas-monolog@1.1.1
 - pkg:composer/eth8505/laminas-monolog@2.0.0
+- pkg:composer/eth8505/laminas-monolog@2.0.1

@@ -83,3 +83,5 @@
 - pkg:composer/efureev/laravel-trees@v5.4.0
 - pkg:composer/efureev/laravel-trees@v5.4.1
 - pkg:composer/efureev/laravel-trees@v5.5.0
+- pkg:composer/efureev/laravel-trees@v5.5.1
+- pkg:composer/efureev/laravel-trees@v5.5.2

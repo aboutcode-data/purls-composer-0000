@@ -39,6 +39,13 @@
 - pkg:composer/eicc/staticforge@1.15.0
 - pkg:composer/eicc/staticforge@1.15.1
 - pkg:composer/eicc/staticforge@1.15.2
+- pkg:composer/eicc/staticforge@1.16.0
+- pkg:composer/eicc/staticforge@1.16.1
+- pkg:composer/eicc/staticforge@1.16.2
+- pkg:composer/eicc/staticforge@1.17.0
+- pkg:composer/eicc/staticforge@1.17.1
+- pkg:composer/eicc/staticforge@1.18.0
+- pkg:composer/eicc/staticforge@1.18.1
 - pkg:composer/eicc/staticforge@1.2.0
 - pkg:composer/eicc/staticforge@1.2.1
 - pkg:composer/eicc/staticforge@1.2.10
