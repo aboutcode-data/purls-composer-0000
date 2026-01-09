@@ -11,3 +11,4 @@
 - pkg:composer/integratedexperts/behat-phpserver@2.1.0
 - pkg:composer/integratedexperts/behat-phpserver@2.2.0
 - pkg:composer/integratedexperts/behat-phpserver@2.2.1
+- pkg:composer/integratedexperts/behat-phpserver@2.2.2

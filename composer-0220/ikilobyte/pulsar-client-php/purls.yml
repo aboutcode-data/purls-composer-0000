@@ -27,3 +27,4 @@
 - pkg:composer/ikilobyte/pulsar-client-php@v1.4.2
 - pkg:composer/ikilobyte/pulsar-client-php@v1.4.3
 - pkg:composer/ikilobyte/pulsar-client-php@v1.4.4
+- pkg:composer/ikilobyte/pulsar-client-php@v1.4.5
