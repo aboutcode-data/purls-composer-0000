@@ -39,3 +39,4 @@
 - pkg:composer/mhor/php-mediainfo@5.5.0
 - pkg:composer/mhor/php-mediainfo@5.6.0
 - pkg:composer/mhor/php-mediainfo@5.7.0
+- pkg:composer/mhor/php-mediainfo@5.8.0
