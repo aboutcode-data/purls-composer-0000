@@ -10,3 +10,4 @@
 - pkg:composer/hyn/state-machine@3.0.1
 - pkg:composer/hyn/state-machine@3.0.2
 - pkg:composer/hyn/state-machine@3.0.3
+- pkg:composer/hyn/state-machine@4.0.0
