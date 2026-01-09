@@ -11,3 +11,4 @@
 - pkg:composer/keboola/oauth-v2-php-client@4.0.1
 - pkg:composer/keboola/oauth-v2-php-client@5.0.0
 - pkg:composer/keboola/oauth-v2-php-client@5.0.1
+- pkg:composer/keboola/oauth-v2-php-client@5.0.2

@@ -54,3 +54,4 @@
 - pkg:composer/kipchak/core@2.4
 - pkg:composer/kipchak/core@2.5
 - pkg:composer/kipchak/core@2.6
+- pkg:composer/kipchak/core@2.7
