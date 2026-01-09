@@ -1237,7 +1237,13 @@
 - pkg:composer/desarrollo_em3/manejo_datos@v3.366.3
 - pkg:composer/desarrollo_em3/manejo_datos@v3.367.3
 - pkg:composer/desarrollo_em3/manejo_datos@v3.368.3
+- pkg:composer/desarrollo_em3/manejo_datos@v3.369.3
 - pkg:composer/desarrollo_em3/manejo_datos@v3.37.0
+- pkg:composer/desarrollo_em3/manejo_datos@v3.370.3
+- pkg:composer/desarrollo_em3/manejo_datos@v3.371.3
+- pkg:composer/desarrollo_em3/manejo_datos@v3.372.3
+- pkg:composer/desarrollo_em3/manejo_datos@v3.373.3
+- pkg:composer/desarrollo_em3/manejo_datos@v3.374.3
 - pkg:composer/desarrollo_em3/manejo_datos@v3.38.0
 - pkg:composer/desarrollo_em3/manejo_datos@v3.39.0
 - pkg:composer/desarrollo_em3/manejo_datos@v3.4.0

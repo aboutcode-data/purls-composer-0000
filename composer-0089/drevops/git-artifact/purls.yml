@@ -26,3 +26,4 @@
 - pkg:composer/drevops/git-artifact@0.9.0
 - pkg:composer/drevops/git-artifact@1.0.0
 - pkg:composer/drevops/git-artifact@1.1.0
+- pkg:composer/drevops/git-artifact@1.2.0

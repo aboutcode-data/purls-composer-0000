@@ -1,3 +1,5 @@
 - pkg:composer/dev-extensions/kernel@5.27.0.1
+- pkg:composer/dev-extensions/kernel@v7.0.1
 - pkg:composer/dev-extensions/kernel@v7.5
 - pkg:composer/dev-extensions/kernel@v7.6
+- pkg:composer/dev-extensions/kernel@v7.6.1

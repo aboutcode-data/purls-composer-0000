@@ -1,6 +1,7 @@
 - pkg:composer/dennisvandalen/shipment-url-parser-php@1.0.0
 - pkg:composer/dennisvandalen/shipment-url-parser-php@1.0.1
 - pkg:composer/dennisvandalen/shipment-url-parser-php@1.0.10
+- pkg:composer/dennisvandalen/shipment-url-parser-php@1.0.11
 - pkg:composer/dennisvandalen/shipment-url-parser-php@1.0.2
 - pkg:composer/dennisvandalen/shipment-url-parser-php@1.0.3
 - pkg:composer/dennisvandalen/shipment-url-parser-php@1.0.4
