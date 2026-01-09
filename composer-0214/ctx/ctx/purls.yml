@@ -49,6 +49,7 @@
 - pkg:composer/ctx/ctx@1.32.0-beta1
 - pkg:composer/ctx/ctx@1.32.0-beta2
 - pkg:composer/ctx/ctx@1.32.1
+- pkg:composer/ctx/ctx@1.32.3-beta
 - pkg:composer/ctx/ctx@1.4.0
 - pkg:composer/ctx/ctx@1.5.0
 - pkg:composer/ctx/ctx@1.6.0
