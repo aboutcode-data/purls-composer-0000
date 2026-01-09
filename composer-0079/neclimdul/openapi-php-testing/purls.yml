@@ -3,9 +3,13 @@
 - pkg:composer/neclimdul/openapi-php-testing@1.2.0
 - pkg:composer/neclimdul/openapi-php-testing@1.2.1
 - pkg:composer/neclimdul/openapi-php-testing@1.2.2
+- pkg:composer/neclimdul/openapi-php-testing@2.0.0
 - pkg:composer/neclimdul/openapi-php-testing@2.0.0-alpha1
 - pkg:composer/neclimdul/openapi-php-testing@2.0.0-alpha2
 - pkg:composer/neclimdul/openapi-php-testing@2.0.0-alpha3
+- pkg:composer/neclimdul/openapi-php-testing@2.0.0-alpha4
+- pkg:composer/neclimdul/openapi-php-testing@2.0.1
+- pkg:composer/neclimdul/openapi-php-testing@2.0.2
 - pkg:composer/neclimdul/openapi-php-testing@v0.0.1
 - pkg:composer/neclimdul/openapi-php-testing@v0.0.2
 - pkg:composer/neclimdul/openapi-php-testing@v0.0.3
