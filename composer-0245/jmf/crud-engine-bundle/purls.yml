@@ -27,3 +27,4 @@
 - pkg:composer/jmf/crud-engine-bundle@7.0.0
 - pkg:composer/jmf/crud-engine-bundle@7.0.0-rc1
 - pkg:composer/jmf/crud-engine-bundle@7.1.0
+- pkg:composer/jmf/crud-engine-bundle@7.2.0
