@@ -57,3 +57,4 @@
 - pkg:composer/ashhitch/wp-graphql-yoast-seo@v4.8.0
 - pkg:composer/ashhitch/wp-graphql-yoast-seo@v4.9.0
 - pkg:composer/ashhitch/wp-graphql-yoast-seo@v5.0.0
+- pkg:composer/ashhitch/wp-graphql-yoast-seo@v5.0.1
