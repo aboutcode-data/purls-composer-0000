@@ -2,6 +2,8 @@
 - pkg:composer/mapik/audit-log@1.0.0-RC1
 - pkg:composer/mapik/audit-log@1.0.0-RC2
 - pkg:composer/mapik/audit-log@1.0.1
+- pkg:composer/mapik/audit-log@2.0.0
 - pkg:composer/mapik/audit-log@4.0.0
 - pkg:composer/mapik/audit-log@5.0.0
 - pkg:composer/mapik/audit-log@5.1.0
+- pkg:composer/mapik/audit-log@6.0.0

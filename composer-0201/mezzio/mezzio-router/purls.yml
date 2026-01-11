@@ -51,3 +51,4 @@
 - pkg:composer/mezzio/mezzio-router@4.0.0
 - pkg:composer/mezzio/mezzio-router@4.0.1
 - pkg:composer/mezzio/mezzio-router@4.1.0
+- pkg:composer/mezzio/mezzio-router@4.2.0
