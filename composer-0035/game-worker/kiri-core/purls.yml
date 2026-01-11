@@ -38,6 +38,7 @@
 - pkg:composer/game-worker/kiri-core@v2.15
 - pkg:composer/game-worker/kiri-core@v2.16
 - pkg:composer/game-worker/kiri-core@v2.17
+- pkg:composer/game-worker/kiri-core@v2.18
 - pkg:composer/game-worker/kiri-core@v2.2
 - pkg:composer/game-worker/kiri-core@v2.3
 - pkg:composer/game-worker/kiri-core@v2.4
