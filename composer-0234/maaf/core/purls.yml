@@ -1,10 +1,1 @@
-- pkg:composer/maaf/core@v1.0.0
-- pkg:composer/maaf/core@v2.0.0
-- pkg:composer/maaf/core@v2.0.1
-- pkg:composer/maaf/core@v2.0.31
-- pkg:composer/maaf/core@v2.0.32
-- pkg:composer/maaf/core@v2.0.34
-- pkg:composer/maaf/core@v2.0.35
-- pkg:composer/maaf/core@v2.0.36
-- pkg:composer/maaf/core@v2.0.4
-- pkg:composer/maaf/core@v2.0.5
+- pkg:composer/maaf/core@1.0.0
