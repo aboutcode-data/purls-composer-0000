@@ -153,6 +153,7 @@
 - pkg:composer/oskarmodig/lando-scripts@v0.3.62
 - pkg:composer/oskarmodig/lando-scripts@v0.3.63
 - pkg:composer/oskarmodig/lando-scripts@v0.3.64
+- pkg:composer/oskarmodig/lando-scripts@v0.3.65
 - pkg:composer/oskarmodig/lando-scripts@v0.3.7
 - pkg:composer/oskarmodig/lando-scripts@v0.3.8
 - pkg:composer/oskarmodig/lando-scripts@v0.3.9

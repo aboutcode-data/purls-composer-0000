@@ -18,6 +18,7 @@
 - pkg:composer/novalnet/module-payment@12.4.6
 - pkg:composer/novalnet/module-payment@12.5.0
 - pkg:composer/novalnet/module-payment@12.5.1
+- pkg:composer/novalnet/module-payment@12.6.0
 - pkg:composer/novalnet/module-payment@13.0.0
 - pkg:composer/novalnet/module-payment@13.0.1
 - pkg:composer/novalnet/module-payment@13.1.0

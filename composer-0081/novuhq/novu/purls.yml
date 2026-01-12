@@ -12,3 +12,5 @@
 - pkg:composer/novuhq/novu@v1.3.0
 - pkg:composer/novuhq/novu@v3.11.0
 - pkg:composer/novuhq/novu@v3.11.1
+- pkg:composer/novuhq/novu@v3.11.2
+- pkg:composer/novuhq/novu@v3.12.0
