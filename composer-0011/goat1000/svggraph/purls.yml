@@ -36,6 +36,7 @@
 - pkg:composer/goat1000/svggraph@3.20.0
 - pkg:composer/goat1000/svggraph@3.20.1
 - pkg:composer/goat1000/svggraph@3.20.2
+- pkg:composer/goat1000/svggraph@3.20.3
 - pkg:composer/goat1000/svggraph@3.3.0
 - pkg:composer/goat1000/svggraph@3.4.0
 - pkg:composer/goat1000/svggraph@3.5.0
