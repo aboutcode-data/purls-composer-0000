@@ -1,1 +1,3 @@
 - pkg:composer/juvo/wp-block-bridge@1.0.0
+- pkg:composer/juvo/wp-block-bridge@1.0.1
+- pkg:composer/juvo/wp-block-bridge@1.0.2
