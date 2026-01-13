@@ -59,3 +59,4 @@
 - pkg:composer/mademedia/silverstripe-cloudinary@8.0.6
 - pkg:composer/mademedia/silverstripe-cloudinary@8.1.0
 - pkg:composer/mademedia/silverstripe-cloudinary@8.1.0-alpha
+- pkg:composer/mademedia/silverstripe-cloudinary@8.1.1
