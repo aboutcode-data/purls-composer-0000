@@ -151,6 +151,7 @@
 - pkg:composer/elasticms/xliff@6.7.1
 - pkg:composer/elasticms/xliff@6.7.2
 - pkg:composer/elasticms/xliff@6.7.3
+- pkg:composer/elasticms/xliff@6.7.4
 - pkg:composer/elasticms/xliff@6.8.0
 - pkg:composer/elasticms/xliff@6.8.1
 - pkg:composer/elasticms/xliff@6.9.0
@@ -159,3 +160,4 @@
 - pkg:composer/elasticms/xliff@6.9.3
 - pkg:composer/elasticms/xliff@6.9.4
 - pkg:composer/elasticms/xliff@6.9.5
+- pkg:composer/elasticms/xliff@6.9.6
