@@ -43,3 +43,4 @@
 - pkg:composer/ipag/magento2-module@1.5.3
 - pkg:composer/ipag/magento2-module@1.6.0
 - pkg:composer/ipag/magento2-module@1.7.0
+- pkg:composer/ipag/magento2-module@v2.0.0
