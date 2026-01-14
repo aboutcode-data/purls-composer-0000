@@ -42,3 +42,6 @@
 - pkg:composer/redhotmagma/apibundle@2.6.0
 - pkg:composer/redhotmagma/apibundle@2.6.1
 - pkg:composer/redhotmagma/apibundle@3.0.0
+- pkg:composer/redhotmagma/apibundle@3.1.0
+- pkg:composer/redhotmagma/apibundle@3.1.1
+- pkg:composer/redhotmagma/apibundle@3.1.2

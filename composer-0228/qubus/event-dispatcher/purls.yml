@@ -12,3 +12,4 @@
 - pkg:composer/qubus/event-dispatcher@v4.0.1
 - pkg:composer/qubus/event-dispatcher@v4.0.2
 - pkg:composer/qubus/event-dispatcher@v4.0.3
+- pkg:composer/qubus/event-dispatcher@v4.0.4
