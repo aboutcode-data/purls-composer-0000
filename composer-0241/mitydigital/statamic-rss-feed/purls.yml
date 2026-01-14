@@ -22,6 +22,7 @@
 - pkg:composer/mitydigital/statamic-rss-feed@3.0.5
 - pkg:composer/mitydigital/statamic-rss-feed@3.0.6
 - pkg:composer/mitydigital/statamic-rss-feed@3.0.7
+- pkg:composer/mitydigital/statamic-rss-feed@3.0.8
 - pkg:composer/mitydigital/statamic-rss-feed@v1.0
 - pkg:composer/mitydigital/statamic-rss-feed@v1.1
 - pkg:composer/mitydigital/statamic-rss-feed@v1.2
