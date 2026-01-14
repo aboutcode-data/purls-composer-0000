@@ -17,6 +17,7 @@
 - pkg:composer/pact-foundation/pact-php@10.1.0
 - pkg:composer/pact-foundation/pact-php@10.1.0-beta1
 - pkg:composer/pact-foundation/pact-php@10.1.1
+- pkg:composer/pact-foundation/pact-php@10.2.0
 - pkg:composer/pact-foundation/pact-php@2.0.1
 - pkg:composer/pact-foundation/pact-php@2.0.2
 - pkg:composer/pact-foundation/pact-php@2.0.3

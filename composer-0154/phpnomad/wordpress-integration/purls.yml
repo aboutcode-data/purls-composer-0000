@@ -7,3 +7,4 @@
 - pkg:composer/phpnomad/wordpress-integration@2.1.0
 - pkg:composer/phpnomad/wordpress-integration@3.0.0
 - pkg:composer/phpnomad/wordpress-integration@3.0.1
+- pkg:composer/phpnomad/wordpress-integration@3.0.2

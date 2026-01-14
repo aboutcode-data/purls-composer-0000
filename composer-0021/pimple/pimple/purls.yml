@@ -19,3 +19,4 @@
 - pkg:composer/pimple/pimple@v3.4.0
 - pkg:composer/pimple/pimple@v3.5.0
 - pkg:composer/pimple/pimple@v3.6.0
+- pkg:composer/pimple/pimple@v3.6.1
