@@ -128,3 +128,6 @@
 - pkg:composer/php-debugbar/php-debugbar@v3.0.0
 - pkg:composer/php-debugbar/php-debugbar@v3.0.1
 - pkg:composer/php-debugbar/php-debugbar@v3.0.2
+- pkg:composer/php-debugbar/php-debugbar@v3.0.3
+- pkg:composer/php-debugbar/php-debugbar@v3.0.4
+- pkg:composer/php-debugbar/php-debugbar@v3.0.5
