@@ -41,9 +41,11 @@
 - pkg:composer/rsthn/rose-api@v2.0.23
 - pkg:composer/rsthn/rose-api@v2.0.24
 - pkg:composer/rsthn/rose-api@v2.0.25
+- pkg:composer/rsthn/rose-api@v2.0.26
 - pkg:composer/rsthn/rose-api@v2.0.4
 - pkg:composer/rsthn/rose-api@v2.0.5
 - pkg:composer/rsthn/rose-api@v2.0.6
 - pkg:composer/rsthn/rose-api@v2.0.7
 - pkg:composer/rsthn/rose-api@v2.0.8
 - pkg:composer/rsthn/rose-api@v2.0.9
+- pkg:composer/rsthn/rose-api@v3.0.0

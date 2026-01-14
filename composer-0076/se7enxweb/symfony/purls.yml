@@ -372,6 +372,8 @@
 - pkg:composer/se7enxweb/symfony@v3.4.48
 - pkg:composer/se7enxweb/symfony@v3.4.49
 - pkg:composer/se7enxweb/symfony@v3.4.5
+- pkg:composer/se7enxweb/symfony@v3.4.50
+- pkg:composer/se7enxweb/symfony@v3.4.51
 - pkg:composer/se7enxweb/symfony@v3.4.6
 - pkg:composer/se7enxweb/symfony@v3.4.7
 - pkg:composer/se7enxweb/symfony@v3.4.8

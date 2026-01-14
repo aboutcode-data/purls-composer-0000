@@ -13,3 +13,4 @@
 - pkg:composer/shlinkio/shlink-php-sdk@v2.5.0
 - pkg:composer/shlinkio/shlink-php-sdk@v3.0.0
 - pkg:composer/shlinkio/shlink-php-sdk@v3.0.1
+- pkg:composer/shlinkio/shlink-php-sdk@v3.1.0

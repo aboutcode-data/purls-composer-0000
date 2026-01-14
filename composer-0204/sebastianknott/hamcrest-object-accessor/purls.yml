@@ -4,3 +4,4 @@
 - pkg:composer/sebastianknott/hamcrest-object-accessor@2.0.0
 - pkg:composer/sebastianknott/hamcrest-object-accessor@3.0.0
 - pkg:composer/sebastianknott/hamcrest-object-accessor@4.0.0
+- pkg:composer/sebastianknott/hamcrest-object-accessor@4.0.1

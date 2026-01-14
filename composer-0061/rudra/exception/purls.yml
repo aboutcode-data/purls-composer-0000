@@ -1,3 +1,4 @@
 - pkg:composer/rudra/exception@v25.10
 - pkg:composer/rudra/exception@v25.12
 - pkg:composer/rudra/exception@v25.6
+- pkg:composer/rudra/exception@v26.1

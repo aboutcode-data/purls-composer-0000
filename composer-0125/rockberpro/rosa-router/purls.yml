@@ -61,6 +61,7 @@
 - pkg:composer/rockberpro/rosa-router@v1.18.9
 - pkg:composer/rockberpro/rosa-router@v1.19.0
 - pkg:composer/rockberpro/rosa-router@v1.19.1
+- pkg:composer/rockberpro/rosa-router@v1.19.2
 - pkg:composer/rockberpro/rosa-router@v1.2.0
 - pkg:composer/rockberpro/rosa-router@v1.2.1
 - pkg:composer/rockberpro/rosa-router@v1.2.2
@@ -98,3 +99,6 @@
 - pkg:composer/rockberpro/rosa-router@v2.0.5
 - pkg:composer/rockberpro/rosa-router@v2.1.0
 - pkg:composer/rockberpro/rosa-router@v2.1.1
+- pkg:composer/rockberpro/rosa-router@v2.2.0
+- pkg:composer/rockberpro/rosa-router@v2.2.1
+- pkg:composer/rockberpro/rosa-router@v2.2.2
