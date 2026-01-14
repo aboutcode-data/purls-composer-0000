@@ -2,3 +2,4 @@
 - pkg:composer/te4g/docker-client@v1.43.1
 - pkg:composer/te4g/docker-client@v1.51
 - pkg:composer/te4g/docker-client@v1.51.1
+- pkg:composer/te4g/docker-client@v1.51.2

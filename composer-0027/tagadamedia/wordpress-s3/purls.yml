@@ -1,3 +1,4 @@
 - pkg:composer/tagadamedia/wordpress-s3@1.0.0
 - pkg:composer/tagadamedia/wordpress-s3@1.0.1
 - pkg:composer/tagadamedia/wordpress-s3@1.0.2
+- pkg:composer/tagadamedia/wordpress-s3@1.0.3

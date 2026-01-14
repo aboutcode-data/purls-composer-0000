@@ -40,3 +40,4 @@
 - pkg:composer/stomp-php/stomp-php@5.1.1
 - pkg:composer/stomp-php/stomp-php@5.1.2
 - pkg:composer/stomp-php/stomp-php@5.1.3
+- pkg:composer/stomp-php/stomp-php@5.1.4
