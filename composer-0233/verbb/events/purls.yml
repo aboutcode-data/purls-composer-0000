@@ -83,6 +83,7 @@
 - pkg:composer/verbb/events@3.0.0-beta.6
 - pkg:composer/verbb/events@3.0.1
 - pkg:composer/verbb/events@3.0.10
+- pkg:composer/verbb/events@3.0.11
 - pkg:composer/verbb/events@3.0.2
 - pkg:composer/verbb/events@3.0.3
 - pkg:composer/verbb/events@3.0.4
