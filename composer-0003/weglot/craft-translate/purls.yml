@@ -7,3 +7,5 @@
 - pkg:composer/weglot/craft-translate@0.2.0-beta
 - pkg:composer/weglot/craft-translate@0.2.1-beta
 - pkg:composer/weglot/craft-translate@0.2.2-beta
+- pkg:composer/weglot/craft-translate@1.0.0
+- pkg:composer/weglot/craft-translate@1.1.0

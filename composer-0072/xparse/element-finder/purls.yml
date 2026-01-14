@@ -19,3 +19,4 @@
 - pkg:composer/xparse/element-finder@1.0.1
 - pkg:composer/xparse/element-finder@2.0.0
 - pkg:composer/xparse/element-finder@3.0.0
+- pkg:composer/xparse/element-finder@3.0.1
