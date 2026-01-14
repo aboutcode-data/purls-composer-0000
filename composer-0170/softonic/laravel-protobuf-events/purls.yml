@@ -13,3 +13,4 @@
 - pkg:composer/softonic/laravel-protobuf-events@2.1.4
 - pkg:composer/softonic/laravel-protobuf-events@2.1.5
 - pkg:composer/softonic/laravel-protobuf-events@3.0.0
+- pkg:composer/softonic/laravel-protobuf-events@4.0.0

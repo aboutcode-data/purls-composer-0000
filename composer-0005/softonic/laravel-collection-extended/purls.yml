@@ -9,3 +9,4 @@
 - pkg:composer/softonic/laravel-collection-extended@3.2.0
 - pkg:composer/softonic/laravel-collection-extended@3.2.1
 - pkg:composer/softonic/laravel-collection-extended@4.0.0
+- pkg:composer/softonic/laravel-collection-extended@5.0.0
