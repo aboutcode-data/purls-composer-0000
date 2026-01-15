@@ -24,3 +24,4 @@
 - pkg:composer/automattic/jetpack-paypal-payments@v0.5.7
 - pkg:composer/automattic/jetpack-paypal-payments@v0.5.8
 - pkg:composer/automattic/jetpack-paypal-payments@v0.5.9
+- pkg:composer/automattic/jetpack-paypal-payments@v0.6.0

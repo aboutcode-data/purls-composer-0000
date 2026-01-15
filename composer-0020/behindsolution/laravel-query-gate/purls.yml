@@ -19,3 +19,7 @@
 - pkg:composer/behindsolution/laravel-query-gate@v1.1.9
 - pkg:composer/behindsolution/laravel-query-gate@v1.2.0
 - pkg:composer/behindsolution/laravel-query-gate@v1.3.0
+- pkg:composer/behindsolution/laravel-query-gate@v1.3.4
+- pkg:composer/behindsolution/laravel-query-gate@v1.3.5
+- pkg:composer/behindsolution/laravel-query-gate@v1.3.6
+- pkg:composer/behindsolution/laravel-query-gate@v1.3.7

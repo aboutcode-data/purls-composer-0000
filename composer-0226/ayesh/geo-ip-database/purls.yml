@@ -343,3 +343,4 @@
 - pkg:composer/ayesh/geo-ip-database@v1.1.20251229
 - pkg:composer/ayesh/geo-ip-database@v1.1.20260101
 - pkg:composer/ayesh/geo-ip-database@v1.1.20260108
+- pkg:composer/ayesh/geo-ip-database@v1.1.20260115
