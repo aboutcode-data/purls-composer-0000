@@ -19,6 +19,7 @@
 - pkg:composer/laravel-lang/publisher@16.6.0
 - pkg:composer/laravel-lang/publisher@16.6.1
 - pkg:composer/laravel-lang/publisher@16.7.0
+- pkg:composer/laravel-lang/publisher@16.7.1
 - pkg:composer/laravel-lang/publisher@v1.1.1
 - pkg:composer/laravel-lang/publisher@v1.1.2
 - pkg:composer/laravel-lang/publisher@v1.1.3
