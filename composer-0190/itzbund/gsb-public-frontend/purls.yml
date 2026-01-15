@@ -453,3 +453,5 @@
 - pkg:composer/itzbund/gsb-public-frontend@v2.2.0-rc.9
 - pkg:composer/itzbund/gsb-public-frontend@v2.2.1-rc.1
 - pkg:composer/itzbund/gsb-public-frontend@v2.3.0-rc.1
+- pkg:composer/itzbund/gsb-public-frontend@v2.3.0-rc.2
+- pkg:composer/itzbund/gsb-public-frontend@v2.3.0-rc.3
