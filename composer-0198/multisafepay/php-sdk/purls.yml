@@ -26,6 +26,7 @@
 - pkg:composer/multisafepay/php-sdk@5.17.1
 - pkg:composer/multisafepay/php-sdk@5.17.2
 - pkg:composer/multisafepay/php-sdk@5.18.0
+- pkg:composer/multisafepay/php-sdk@5.19.0
 - pkg:composer/multisafepay/php-sdk@5.2.0
 - pkg:composer/multisafepay/php-sdk@5.2.1
 - pkg:composer/multisafepay/php-sdk@5.2.2
