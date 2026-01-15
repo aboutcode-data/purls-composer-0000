@@ -25,3 +25,4 @@
 - pkg:composer/trycourier/courier@v4.0.0
 - pkg:composer/trycourier/courier@v4.1.0
 - pkg:composer/trycourier/courier@v5.0.0
+- pkg:composer/trycourier/courier@v5.0.1

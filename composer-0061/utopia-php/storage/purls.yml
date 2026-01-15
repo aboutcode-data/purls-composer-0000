@@ -23,6 +23,7 @@
 - pkg:composer/utopia-php/storage@0.18.2
 - pkg:composer/utopia-php/storage@0.18.20
 - pkg:composer/utopia-php/storage@0.18.21
+- pkg:composer/utopia-php/storage@0.18.22
 - pkg:composer/utopia-php/storage@0.18.3
 - pkg:composer/utopia-php/storage@0.18.4
 - pkg:composer/utopia-php/storage@0.18.5
