@@ -94,3 +94,4 @@
 - pkg:composer/spryker/product-merchant-portal-gui@4.7.0
 - pkg:composer/spryker/product-merchant-portal-gui@4.8.0
 - pkg:composer/spryker/product-merchant-portal-gui@4.9.0
+- pkg:composer/spryker/product-merchant-portal-gui@5.0.0

@@ -75,3 +75,4 @@
 - pkg:composer/spryker/zed-ui@3.3.1
 - pkg:composer/spryker/zed-ui@3.4.0
 - pkg:composer/spryker/zed-ui@3.4.1
+- pkg:composer/spryker/zed-ui@4.0.0
