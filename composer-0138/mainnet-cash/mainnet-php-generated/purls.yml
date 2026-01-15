@@ -256,6 +256,7 @@
 - pkg:composer/mainnet-cash/mainnet-php-generated@2.7.30
 - pkg:composer/mainnet-cash/mainnet-php-generated@2.7.31
 - pkg:composer/mainnet-cash/mainnet-php-generated@2.7.32
+- pkg:composer/mainnet-cash/mainnet-php-generated@2.7.33
 - pkg:composer/mainnet-cash/mainnet-php-generated@2.7.4
 - pkg:composer/mainnet-cash/mainnet-php-generated@2.7.5
 - pkg:composer/mainnet-cash/mainnet-php-generated@2.7.6
