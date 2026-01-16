@@ -63,8 +63,12 @@
 - pkg:composer/macropay-solutions/maravel-framework@10.57.4
 - pkg:composer/macropay-solutions/maravel-framework@10.58.0
 - pkg:composer/macropay-solutions/maravel-framework@10.58.1
+- pkg:composer/macropay-solutions/maravel-framework@10.58.10
 - pkg:composer/macropay-solutions/maravel-framework@10.58.2
 - pkg:composer/macropay-solutions/maravel-framework@10.58.3
 - pkg:composer/macropay-solutions/maravel-framework@10.58.4
 - pkg:composer/macropay-solutions/maravel-framework@10.58.5
 - pkg:composer/macropay-solutions/maravel-framework@10.58.6
+- pkg:composer/macropay-solutions/maravel-framework@10.58.7
+- pkg:composer/macropay-solutions/maravel-framework@10.58.8
+- pkg:composer/macropay-solutions/maravel-framework@10.58.9
