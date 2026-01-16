@@ -1,3 +1,4 @@
+- pkg:composer/jiordiviera/laravel-log-cleaner@2.1.0
 - pkg:composer/jiordiviera/laravel-log-cleaner@v1.0.0
 - pkg:composer/jiordiviera/laravel-log-cleaner@v1.0.1
 - pkg:composer/jiordiviera/laravel-log-cleaner@v1.0.2
