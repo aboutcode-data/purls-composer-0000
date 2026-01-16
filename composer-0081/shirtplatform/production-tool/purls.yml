@@ -111,6 +111,7 @@
 - pkg:composer/shirtplatform/production-tool@2.1.65
 - pkg:composer/shirtplatform/production-tool@2.1.66
 - pkg:composer/shirtplatform/production-tool@2.1.67
+- pkg:composer/shirtplatform/production-tool@2.1.68
 - pkg:composer/shirtplatform/production-tool@2.1.7
 - pkg:composer/shirtplatform/production-tool@2.1.8
 - pkg:composer/shirtplatform/production-tool@2.1.9
@@ -127,6 +128,7 @@
 - pkg:composer/shirtplatform/production-tool@2.2.18
 - pkg:composer/shirtplatform/production-tool@2.2.19
 - pkg:composer/shirtplatform/production-tool@2.2.2
+- pkg:composer/shirtplatform/production-tool@2.2.20
 - pkg:composer/shirtplatform/production-tool@2.2.3
 - pkg:composer/shirtplatform/production-tool@2.2.4
 - pkg:composer/shirtplatform/production-tool@2.2.5
