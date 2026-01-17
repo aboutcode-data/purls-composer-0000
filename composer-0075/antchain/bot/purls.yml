@@ -53,6 +53,8 @@
 - pkg:composer/antchain/bot@1.12.40
 - pkg:composer/antchain/bot@1.12.48
 - pkg:composer/antchain/bot@1.12.53
+- pkg:composer/antchain/bot@1.12.58
+- pkg:composer/antchain/bot@1.12.59
 - pkg:composer/antchain/bot@1.12.6
 - pkg:composer/antchain/bot@1.12.7
 - pkg:composer/antchain/bot@1.12.8

@@ -18,3 +18,5 @@
 - pkg:composer/aimatchfun/php-runware-sdk@v2.8.0
 - pkg:composer/aimatchfun/php-runware-sdk@v2.9.0
 - pkg:composer/aimatchfun/php-runware-sdk@v3.0.0
+- pkg:composer/aimatchfun/php-runware-sdk@v3.0.1
+- pkg:composer/aimatchfun/php-runware-sdk@v3.4.0
