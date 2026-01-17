@@ -9,3 +9,4 @@
 - pkg:composer/async-aws/elasti-cache@1.2.4
 - pkg:composer/async-aws/elasti-cache@1.3.0
 - pkg:composer/async-aws/elasti-cache@1.4.0
+- pkg:composer/async-aws/elasti-cache@1.5.0

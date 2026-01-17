@@ -9,3 +9,4 @@
 - pkg:composer/async-aws/illuminate-cache@0.2.1
 - pkg:composer/async-aws/illuminate-cache@1.0.0
 - pkg:composer/async-aws/illuminate-cache@1.1.0
+- pkg:composer/async-aws/illuminate-cache@1.2.0

@@ -7,3 +7,4 @@
 - pkg:composer/async-aws/monolog-cloud-watch@1.1.0
 - pkg:composer/async-aws/monolog-cloud-watch@1.2.0
 - pkg:composer/async-aws/monolog-cloud-watch@1.2.1
+- pkg:composer/async-aws/monolog-cloud-watch@1.3.0
