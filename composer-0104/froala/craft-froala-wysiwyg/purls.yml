@@ -66,3 +66,4 @@
 - pkg:composer/froala/craft-froala-wysiwyg@4.6.2
 - pkg:composer/froala/craft-froala-wysiwyg@4.7.0
 - pkg:composer/froala/craft-froala-wysiwyg@4.7.1
+- pkg:composer/froala/craft-froala-wysiwyg@5.0.0

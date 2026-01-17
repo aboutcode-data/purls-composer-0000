@@ -103,3 +103,4 @@
 - pkg:composer/google/cloud-language@v1.1.0
 - pkg:composer/google/cloud-language@v1.1.1
 - pkg:composer/google/cloud-language@v1.1.2
+- pkg:composer/google/cloud-language@v1.1.4

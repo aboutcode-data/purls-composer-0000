@@ -93,3 +93,4 @@
 - pkg:composer/froala/yii2-froala-editor@4.6.2
 - pkg:composer/froala/yii2-froala-editor@4.7.0
 - pkg:composer/froala/yii2-froala-editor@4.7.1
+- pkg:composer/froala/yii2-froala-editor@5.0.0

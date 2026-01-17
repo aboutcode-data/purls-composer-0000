@@ -69,3 +69,4 @@
 - pkg:composer/google/cloud-compute@v2.1.1
 - pkg:composer/google/cloud-compute@v2.2.0
 - pkg:composer/google/cloud-compute@v2.3.0
+- pkg:composer/google/cloud-compute@v2.5.0

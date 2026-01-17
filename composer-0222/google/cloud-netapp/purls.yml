@@ -13,6 +13,7 @@
 - pkg:composer/google/cloud-netapp@v1.0.1
 - pkg:composer/google/cloud-netapp@v1.1.0
 - pkg:composer/google/cloud-netapp@v1.1.1
+- pkg:composer/google/cloud-netapp@v1.10.0
 - pkg:composer/google/cloud-netapp@v1.2.0
 - pkg:composer/google/cloud-netapp@v1.2.1
 - pkg:composer/google/cloud-netapp@v1.3.0
