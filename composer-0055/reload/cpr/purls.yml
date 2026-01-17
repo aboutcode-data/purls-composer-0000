@@ -36,6 +36,7 @@
 - pkg:composer/reload/cpr@v0.0.130
 - pkg:composer/reload/cpr@v0.0.131
 - pkg:composer/reload/cpr@v0.0.132
+- pkg:composer/reload/cpr@v0.0.133
 - pkg:composer/reload/cpr@v0.0.14
 - pkg:composer/reload/cpr@v0.0.15
 - pkg:composer/reload/cpr@v0.0.16
