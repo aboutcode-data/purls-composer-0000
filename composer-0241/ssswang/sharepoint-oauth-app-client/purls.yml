@@ -13,3 +13,4 @@
 - pkg:composer/ssswang/sharepoint-oauth-app-client@v3.0.4
 - pkg:composer/ssswang/sharepoint-oauth-app-client@v3.0.5
 - pkg:composer/ssswang/sharepoint-oauth-app-client@v3.0.6
+- pkg:composer/ssswang/sharepoint-oauth-app-client@v4.0.0
