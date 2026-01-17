@@ -144,6 +144,7 @@
 - pkg:composer/braspag/magento2-module-braspagpagador@3.20.8
 - pkg:composer/braspag/magento2-module-braspagpagador@3.20.9
 - pkg:composer/braspag/magento2-module-braspagpagador@3.21.0
+- pkg:composer/braspag/magento2-module-braspagpagador@3.21.1
 - pkg:composer/braspag/magento2-module-braspagpagador@3.3.0
 - pkg:composer/braspag/magento2-module-braspagpagador@3.4.0
 - pkg:composer/braspag/magento2-module-braspagpagador@3.4.1

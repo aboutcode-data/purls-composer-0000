@@ -1,6 +1,11 @@
-- pkg:composer/caremillc/caremi@1.0.1
+- pkg:composer/caremillc/caremi@1.0.4
+- pkg:composer/caremillc/caremi@1.1.0
+- pkg:composer/caremillc/caremi@1.2.0
 - pkg:composer/caremillc/caremi@v1.0.0
-- pkg:composer/caremillc/caremi@v1.1.0
+- pkg:composer/caremillc/caremi@v1.0.1
+- pkg:composer/caremillc/caremi@v1.0.2
+- pkg:composer/caremillc/caremi@v1.0.3
+- pkg:composer/caremillc/caremi@v1.1.1
 - pkg:composer/caremillc/caremi@v1.3.0
 - pkg:composer/caremillc/caremi@v1.4.0
 - pkg:composer/caremillc/caremi@v1.4.1
