@@ -65,6 +65,8 @@
 - pkg:composer/encoredigitalgroup/stdlib@v2.17.1
 - pkg:composer/encoredigitalgroup/stdlib@v2.18.0
 - pkg:composer/encoredigitalgroup/stdlib@v2.18.1
+- pkg:composer/encoredigitalgroup/stdlib@v2.19.0
+- pkg:composer/encoredigitalgroup/stdlib@v2.19.1
 - pkg:composer/encoredigitalgroup/stdlib@v2.2.0
 - pkg:composer/encoredigitalgroup/stdlib@v2.2.1
 - pkg:composer/encoredigitalgroup/stdlib@v2.2.2

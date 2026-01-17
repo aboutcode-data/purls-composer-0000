@@ -11,3 +11,4 @@
 - pkg:composer/edacerton/plugin-utils@1.4.0-stable
 - pkg:composer/edacerton/plugin-utils@1.5.0-stable
 - pkg:composer/edacerton/plugin-utils@1.6.0-stable
+- pkg:composer/edacerton/plugin-utils@1.6.1-stable
