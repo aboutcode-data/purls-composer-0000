@@ -25,3 +25,4 @@
 - pkg:composer/discorgento/module-queue@3.4.0
 - pkg:composer/discorgento/module-queue@3.4.1
 - pkg:composer/discorgento/module-queue@3.5.0
+- pkg:composer/discorgento/module-queue@3.5.1

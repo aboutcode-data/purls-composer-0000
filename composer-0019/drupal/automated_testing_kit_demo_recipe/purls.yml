@@ -16,3 +16,5 @@
 - pkg:composer/drupal/automated_testing_kit_demo_recipe@3.0.0-alpha2
 - pkg:composer/drupal/automated_testing_kit_demo_recipe@3.0.0-alpha3
 - pkg:composer/drupal/automated_testing_kit_demo_recipe@3.0.0-alpha4
+- pkg:composer/drupal/automated_testing_kit_demo_recipe@3.0.0-alpha5
+- pkg:composer/drupal/automated_testing_kit_demo_recipe@3.0.0-alpha6
