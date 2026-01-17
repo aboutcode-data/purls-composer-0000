@@ -131,6 +131,7 @@
 - pkg:composer/zing/coding-standard@7.23.2
 - pkg:composer/zing/coding-standard@7.24.0
 - pkg:composer/zing/coding-standard@7.25.0
+- pkg:composer/zing/coding-standard@7.26.0
 - pkg:composer/zing/coding-standard@7.3.0
 - pkg:composer/zing/coding-standard@7.4.0
 - pkg:composer/zing/coding-standard@7.5.0
