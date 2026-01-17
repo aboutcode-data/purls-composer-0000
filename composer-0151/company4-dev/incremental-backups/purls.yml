@@ -4,9 +4,12 @@
 - pkg:composer/company4-dev/incremental-backups@1.16
 - pkg:composer/company4-dev/incremental-backups@1.17
 - pkg:composer/company4-dev/incremental-backups@1.18
+- pkg:composer/company4-dev/incremental-backups@1.19
 - pkg:composer/company4-dev/incremental-backups@1.2.4
 - pkg:composer/company4-dev/incremental-backups@1.2.5
 - pkg:composer/company4-dev/incremental-backups@1.2.6
+- pkg:composer/company4-dev/incremental-backups@1.20
+- pkg:composer/company4-dev/incremental-backups@1.21
 - pkg:composer/company4-dev/incremental-backups@1.9.1
 - pkg:composer/company4-dev/incremental-backups@v1.10.0
 - pkg:composer/company4-dev/incremental-backups@v1.11.0

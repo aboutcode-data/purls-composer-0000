@@ -26,6 +26,7 @@
 - pkg:composer/codewiser/uac@v4.2.4
 - pkg:composer/codewiser/uac@v4.2.5
 - pkg:composer/codewiser/uac@v4.2.7
+- pkg:composer/codewiser/uac@v4.2.8
 - pkg:composer/codewiser/uac@v5.0.0
 - pkg:composer/codewiser/uac@v5.0.1
 - pkg:composer/codewiser/uac@v5.1.0
