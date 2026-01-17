@@ -3,3 +3,4 @@
 - pkg:composer/utopia-php/config@0.2.1
 - pkg:composer/utopia-php/config@0.2.2
 - pkg:composer/utopia-php/config@1.0.0
+- pkg:composer/utopia-php/config@2.0.0

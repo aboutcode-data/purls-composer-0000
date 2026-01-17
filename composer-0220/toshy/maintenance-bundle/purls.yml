@@ -8,6 +8,7 @@
 - pkg:composer/toshy/maintenance-bundle@3.0.0
 - pkg:composer/toshy/maintenance-bundle@3.0.1
 - pkg:composer/toshy/maintenance-bundle@3.0.2
+- pkg:composer/toshy/maintenance-bundle@3.1.0
 - pkg:composer/toshy/maintenance-bundle@v1.0.0
 - pkg:composer/toshy/maintenance-bundle@v1.0.1
 - pkg:composer/toshy/maintenance-bundle@v1.0.2
