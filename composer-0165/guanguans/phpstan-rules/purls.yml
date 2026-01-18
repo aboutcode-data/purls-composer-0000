@@ -1,1 +1,2 @@
 - pkg:composer/guanguans/phpstan-rules@1.0.0
+- pkg:composer/guanguans/phpstan-rules@1.0.1
