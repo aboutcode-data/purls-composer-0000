@@ -25,3 +25,4 @@
 - pkg:composer/innmind/url@4.3.1
 - pkg:composer/innmind/url@4.3.2
 - pkg:composer/innmind/url@4.4.0
+- pkg:composer/innmind/url@5.0.0
