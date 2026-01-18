@@ -5,3 +5,5 @@
 - pkg:composer/offload-project/laravel-mandate@v1.4.0
 - pkg:composer/offload-project/laravel-mandate@v2.0.0
 - pkg:composer/offload-project/laravel-mandate@v2.0.1
+- pkg:composer/offload-project/laravel-mandate@v2.1.0
+- pkg:composer/offload-project/laravel-mandate@v3.0.0
