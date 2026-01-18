@@ -8,3 +8,4 @@
 - pkg:composer/imagemagician/php-phone-validator@0.1.7
 - pkg:composer/imagemagician/php-phone-validator@0.1.8
 - pkg:composer/imagemagician/php-phone-validator@1.0.0
+- pkg:composer/imagemagician/php-phone-validator@1.0.1
