@@ -91,3 +91,4 @@
 - pkg:composer/kassko/data-mapper@v2.51.0-beta
 - pkg:composer/kassko/data-mapper@v2.52.0-beta
 - pkg:composer/kassko/data-mapper@v2.53.0-beta
+- pkg:composer/kassko/data-mapper@v2.54.0-rc
