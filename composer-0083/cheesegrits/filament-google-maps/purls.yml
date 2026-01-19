@@ -62,3 +62,4 @@
 - pkg:composer/cheesegrits/filament-google-maps@v3.0.9
 - pkg:composer/cheesegrits/filament-google-maps@v4.0.0
 - pkg:composer/cheesegrits/filament-google-maps@v4.0.1
+- pkg:composer/cheesegrits/filament-google-maps@v5.0.0
