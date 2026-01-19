@@ -14,6 +14,7 @@
 - pkg:composer/reconnect/s3bundle@1.5.0
 - pkg:composer/reconnect/s3bundle@1.6.0
 - pkg:composer/reconnect/s3bundle@2.0.0
+- pkg:composer/reconnect/s3bundle@3.0.0
 - pkg:composer/reconnect/s3bundle@v0.1.6
 - pkg:composer/reconnect/s3bundle@v1.0.7
 - pkg:composer/reconnect/s3bundle@v1.1.0
