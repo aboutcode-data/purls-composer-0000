@@ -1,5 +1,6 @@
 - pkg:composer/vectrex/vxphp@1.6.7
 - pkg:composer/vectrex/vxphp@3.0.0
+- pkg:composer/vectrex/vxphp@3.0.2
 - pkg:composer/vectrex/vxphp@v1.0
 - pkg:composer/vectrex/vxphp@v1.1
 - pkg:composer/vectrex/vxphp@v1.2
