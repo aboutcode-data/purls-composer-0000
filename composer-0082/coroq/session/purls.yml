@@ -10,3 +10,4 @@
 - pkg:composer/coroq/session@0.5.3
 - pkg:composer/coroq/session@0.5.4
 - pkg:composer/coroq/session@v1.0.0
+- pkg:composer/coroq/session@v1.0.1
