@@ -209,6 +209,7 @@
 - pkg:composer/dmk/mksearch@v12.0.9
 - pkg:composer/dmk/mksearch@v13.0.0
 - pkg:composer/dmk/mksearch@v13.0.1
+- pkg:composer/dmk/mksearch@v13.0.2
 - pkg:composer/dmk/mksearch@v3.0.1
 - pkg:composer/dmk/mksearch@v3.2.19
 - pkg:composer/dmk/mksearch@v3.2.20
