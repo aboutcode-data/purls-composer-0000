@@ -1,1 +1,2 @@
 - pkg:composer/alyakin/dns-checker@1.0.0
+- pkg:composer/alyakin/dns-checker@v2.0.0
