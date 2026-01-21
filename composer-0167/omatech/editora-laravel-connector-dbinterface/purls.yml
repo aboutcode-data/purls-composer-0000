@@ -33,3 +33,4 @@
 - pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.2.1
 - pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.3
 - pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.4.0
+- pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.5.0

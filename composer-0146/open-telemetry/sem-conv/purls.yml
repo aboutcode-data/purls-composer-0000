@@ -32,3 +32,4 @@
 - pkg:composer/open-telemetry/sem-conv@1.32.1
 - pkg:composer/open-telemetry/sem-conv@1.36.0
 - pkg:composer/open-telemetry/sem-conv@1.37.0
+- pkg:composer/open-telemetry/sem-conv@1.38.0
