@@ -17,3 +17,4 @@
 - pkg:composer/hypernode/deploy-configuration@3.4.0
 - pkg:composer/hypernode/deploy-configuration@3.5.0
 - pkg:composer/hypernode/deploy-configuration@3.6.0
+- pkg:composer/hypernode/deploy-configuration@3.6.1
