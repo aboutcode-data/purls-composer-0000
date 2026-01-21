@@ -16,3 +16,6 @@
 - pkg:composer/aternos/codex@v2.2.0
 - pkg:composer/aternos/codex@v2.3.0
 - pkg:composer/aternos/codex@v3.0.0
+- pkg:composer/aternos/codex@v4.0.0
+- pkg:composer/aternos/codex@v4.0.0-beta.1
+- pkg:composer/aternos/codex@v4.1.0

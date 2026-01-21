@@ -87,3 +87,5 @@
 - pkg:composer/aternos/codex-minecraft@v3.9.0
 - pkg:composer/aternos/codex-minecraft@v4.0.0
 - pkg:composer/aternos/codex-minecraft@v4.1.0
+- pkg:composer/aternos/codex-minecraft@v5.0.0
+- pkg:composer/aternos/codex-minecraft@v5.0.1
