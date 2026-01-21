@@ -57,6 +57,7 @@
 - pkg:composer/jelix/jelix@v1.8.2
 - pkg:composer/jelix/jelix@v1.8.20
 - pkg:composer/jelix/jelix@v1.8.21
+- pkg:composer/jelix/jelix@v1.8.22
 - pkg:composer/jelix/jelix@v1.8.3
 - pkg:composer/jelix/jelix@v1.8.3-rc.1
 - pkg:composer/jelix/jelix@v1.8.4

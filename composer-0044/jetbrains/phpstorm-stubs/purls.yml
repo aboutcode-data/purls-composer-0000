@@ -16,3 +16,4 @@
 - pkg:composer/jetbrains/phpstorm-stubs@v2024.1
 - pkg:composer/jetbrains/phpstorm-stubs@v2024.2
 - pkg:composer/jetbrains/phpstorm-stubs@v2024.3
+- pkg:composer/jetbrains/phpstorm-stubs@v2025.3
