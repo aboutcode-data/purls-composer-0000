@@ -16,3 +16,4 @@
 - pkg:composer/pimcore/static-resolver-bundle@v3.1.0
 - pkg:composer/pimcore/static-resolver-bundle@v3.2.0
 - pkg:composer/pimcore/static-resolver-bundle@v3.3.0
+- pkg:composer/pimcore/static-resolver-bundle@v3.4.0

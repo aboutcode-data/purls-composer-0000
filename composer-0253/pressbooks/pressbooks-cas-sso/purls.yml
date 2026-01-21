@@ -16,3 +16,4 @@
 - pkg:composer/pressbooks/pressbooks-cas-sso@2.3.0
 - pkg:composer/pressbooks/pressbooks-cas-sso@2.3.1
 - pkg:composer/pressbooks/pressbooks-cas-sso@2.5.0
+- pkg:composer/pressbooks/pressbooks-cas-sso@2.6.0

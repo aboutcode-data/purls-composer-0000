@@ -61,3 +61,4 @@
 - pkg:composer/perfion/perfion-magento-connector@4.1.0
 - pkg:composer/perfion/perfion-magento-connector@4.1.1
 - pkg:composer/perfion/perfion-magento-connector@4.2.0
+- pkg:composer/perfion/perfion-magento-connector@5.0.0

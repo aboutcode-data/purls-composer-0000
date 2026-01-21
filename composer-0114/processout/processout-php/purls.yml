@@ -107,3 +107,4 @@
 - pkg:composer/processout/processout-php@v7.3.0
 - pkg:composer/processout/processout-php@v7.4.0
 - pkg:composer/processout/processout-php@v7.4.1
+- pkg:composer/processout/processout-php@v8.0.0

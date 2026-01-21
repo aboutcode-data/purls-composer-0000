@@ -37,3 +37,4 @@
 - pkg:composer/pimcore/generic-data-index-bundle@v2.2.1
 - pkg:composer/pimcore/generic-data-index-bundle@v2.2.2
 - pkg:composer/pimcore/generic-data-index-bundle@v2.3.0
+- pkg:composer/pimcore/generic-data-index-bundle@v2.4.0
