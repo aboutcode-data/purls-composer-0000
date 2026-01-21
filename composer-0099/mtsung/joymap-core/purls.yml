@@ -204,8 +204,10 @@
 - pkg:composer/mtsung/joymap-core@1.1.40
 - pkg:composer/mtsung/joymap-core@1.1.41
 - pkg:composer/mtsung/joymap-core@1.1.42
+- pkg:composer/mtsung/joymap-core@1.1.43
 - pkg:composer/mtsung/joymap-core@1.1.5
 - pkg:composer/mtsung/joymap-core@1.1.6
 - pkg:composer/mtsung/joymap-core@1.1.7
 - pkg:composer/mtsung/joymap-core@1.1.8
 - pkg:composer/mtsung/joymap-core@1.1.9
+- pkg:composer/mtsung/joymap-core@1.2.0
