@@ -64,3 +64,4 @@
 - pkg:composer/lion/framework@v4.8.0
 - pkg:composer/lion/framework@v4.9.0
 - pkg:composer/lion/framework@v5.0.0
+- pkg:composer/lion/framework@v5.0.1

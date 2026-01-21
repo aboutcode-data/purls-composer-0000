@@ -15,6 +15,11 @@
 - pkg:composer/lsat/yii2-microbase@3.0.19
 - pkg:composer/lsat/yii2-microbase@3.0.2
 - pkg:composer/lsat/yii2-microbase@3.0.20
+- pkg:composer/lsat/yii2-microbase@3.0.21
+- pkg:composer/lsat/yii2-microbase@3.0.22
+- pkg:composer/lsat/yii2-microbase@3.0.23
+- pkg:composer/lsat/yii2-microbase@3.0.24
+- pkg:composer/lsat/yii2-microbase@3.0.25
 - pkg:composer/lsat/yii2-microbase@3.0.3
 - pkg:composer/lsat/yii2-microbase@3.0.4
 - pkg:composer/lsat/yii2-microbase@3.0.5
@@ -22,5 +27,8 @@
 - pkg:composer/lsat/yii2-microbase@3.0.7
 - pkg:composer/lsat/yii2-microbase@3.0.8
 - pkg:composer/lsat/yii2-microbase@3.0.9
+- pkg:composer/lsat/yii2-microbase@3.1.0
+- pkg:composer/lsat/yii2-microbase@3.1.1
+- pkg:composer/lsat/yii2-microbase@3.1.2
 - pkg:composer/lsat/yii2-microbase@4.0.0
 - pkg:composer/lsat/yii2-microbase@4.0.1
