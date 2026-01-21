@@ -1,2 +1,4 @@
 - pkg:composer/mabslabs/mabs@2.1.0
 - pkg:composer/mabslabs/mabs@v2.1.1
+- pkg:composer/mabslabs/mabs@v3.0.0
+- pkg:composer/mabslabs/mabs@v3.0.1
