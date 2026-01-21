@@ -7,6 +7,7 @@
 - pkg:composer/kclauhk/youtube-downloader@v4.1.4.2
 - pkg:composer/kclauhk/youtube-downloader@v4.1.5
 - pkg:composer/kclauhk/youtube-downloader@v4.1.6
+- pkg:composer/kclauhk/youtube-downloader@v4.1.7
 - pkg:composer/kclauhk/youtube-downloader@v4.2.10
 - pkg:composer/kclauhk/youtube-downloader@v4.2.11
 - pkg:composer/kclauhk/youtube-downloader@v4.2.12
@@ -27,3 +28,4 @@
 - pkg:composer/kclauhk/youtube-downloader@v4.3
 - pkg:composer/kclauhk/youtube-downloader@v4.3.1
 - pkg:composer/kclauhk/youtube-downloader@v4.3.2
+- pkg:composer/kclauhk/youtube-downloader@v4.3.3

@@ -68,7 +68,9 @@
 - pkg:composer/jweiland/jwtools2@7.1.0
 - pkg:composer/jweiland/jwtools2@7.1.1
 - pkg:composer/jweiland/jwtools2@7.1.2
+- pkg:composer/jweiland/jwtools2@7.2.0
 - pkg:composer/jweiland/jwtools2@8.0.0
 - pkg:composer/jweiland/jwtools2@8.0.1
 - pkg:composer/jweiland/jwtools2@8.0.2
 - pkg:composer/jweiland/jwtools2@8.0.3
+- pkg:composer/jweiland/jwtools2@8.1.0

@@ -19,3 +19,7 @@
 - pkg:composer/jvelletti/jve-upgradewizard@12.4.7
 - pkg:composer/jvelletti/jve-upgradewizard@12.4.8
 - pkg:composer/jvelletti/jve-upgradewizard@12.4.9
+- pkg:composer/jvelletti/jve-upgradewizard@13.4.0
+- pkg:composer/jvelletti/jve-upgradewizard@13.4.1
+- pkg:composer/jvelletti/jve-upgradewizard@13.4.2
+- pkg:composer/jvelletti/jve-upgradewizard@13.4.3
