@@ -70,3 +70,4 @@
 - pkg:composer/calcinai/xero-php@v2.6.1
 - pkg:composer/calcinai/xero-php@v2.6.2
 - pkg:composer/calcinai/xero-php@v2.7.0
+- pkg:composer/calcinai/xero-php@v2.8.0

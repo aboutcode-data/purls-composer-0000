@@ -33,3 +33,6 @@
 - pkg:composer/behindsolution/laravel-query-gate@v1.5.5
 - pkg:composer/behindsolution/laravel-query-gate@v1.5.6
 - pkg:composer/behindsolution/laravel-query-gate@v1.6.0
+- pkg:composer/behindsolution/laravel-query-gate@v1.6.1
+- pkg:composer/behindsolution/laravel-query-gate@v1.6.2
+- pkg:composer/behindsolution/laravel-query-gate@v1.6.3
