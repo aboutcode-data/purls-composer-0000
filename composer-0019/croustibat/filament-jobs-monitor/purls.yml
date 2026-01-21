@@ -28,3 +28,5 @@
 - pkg:composer/croustibat/filament-jobs-monitor@3.2.0
 - pkg:composer/croustibat/filament-jobs-monitor@v4.0.0
 - pkg:composer/croustibat/filament-jobs-monitor@v4.1.0
+- pkg:composer/croustibat/filament-jobs-monitor@v4.1.1
+- pkg:composer/croustibat/filament-jobs-monitor@v4.1.2
