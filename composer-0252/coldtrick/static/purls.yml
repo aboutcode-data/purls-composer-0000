@@ -16,6 +16,7 @@
 - pkg:composer/coldtrick/static@v13.2
 - pkg:composer/coldtrick/static@v14.0
 - pkg:composer/coldtrick/static@v14.1
+- pkg:composer/coldtrick/static@v14.1.1
 - pkg:composer/coldtrick/static@v3.0
 - pkg:composer/coldtrick/static@v4.0
 - pkg:composer/coldtrick/static@v4.0.1
