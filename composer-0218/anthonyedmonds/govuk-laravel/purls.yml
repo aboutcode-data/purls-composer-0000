@@ -95,3 +95,4 @@
 - pkg:composer/anthonyedmonds/govuk-laravel@6.3.1
 - pkg:composer/anthonyedmonds/govuk-laravel@6.3.2
 - pkg:composer/anthonyedmonds/govuk-laravel@6.4.0
+- pkg:composer/anthonyedmonds/govuk-laravel@6.5.0
