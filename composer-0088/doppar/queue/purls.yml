@@ -5,3 +5,4 @@
 - pkg:composer/doppar/queue@v1.0.0-beta.3
 - pkg:composer/doppar/queue@v1.1.0
 - pkg:composer/doppar/queue@v1.1.1
+- pkg:composer/doppar/queue@v1.2.0
