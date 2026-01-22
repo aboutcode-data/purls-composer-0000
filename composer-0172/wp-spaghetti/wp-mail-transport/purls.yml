@@ -1,1 +1,2 @@
 - pkg:composer/wp-spaghetti/wp-mail-transport@v0.1.0
+- pkg:composer/wp-spaghetti/wp-mail-transport@v0.2.0
