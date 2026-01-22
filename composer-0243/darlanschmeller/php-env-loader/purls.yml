@@ -1,1 +1,2 @@
 - pkg:composer/darlanschmeller/php-env-loader@v1.0.0
+- pkg:composer/darlanschmeller/php-env-loader@v2.0.0
