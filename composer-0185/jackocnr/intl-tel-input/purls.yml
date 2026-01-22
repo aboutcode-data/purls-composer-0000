@@ -288,6 +288,7 @@
 - pkg:composer/jackocnr/intl-tel-input@25.10.10
 - pkg:composer/jackocnr/intl-tel-input@25.10.11
 - pkg:composer/jackocnr/intl-tel-input@25.10.12
+- pkg:composer/jackocnr/intl-tel-input@25.10.2
 - pkg:composer/jackocnr/intl-tel-input@25.10.3
 - pkg:composer/jackocnr/intl-tel-input@25.10.4
 - pkg:composer/jackocnr/intl-tel-input@25.10.5
@@ -312,6 +313,7 @@
 - pkg:composer/jackocnr/intl-tel-input@25.13.3
 - pkg:composer/jackocnr/intl-tel-input@25.14.0
 - pkg:composer/jackocnr/intl-tel-input@25.14.1
+- pkg:composer/jackocnr/intl-tel-input@25.15.0
 - pkg:composer/jackocnr/intl-tel-input@25.2.0
 - pkg:composer/jackocnr/intl-tel-input@25.2.1
 - pkg:composer/jackocnr/intl-tel-input@25.3.0
