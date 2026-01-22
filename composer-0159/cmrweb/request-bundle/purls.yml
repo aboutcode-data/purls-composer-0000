@@ -1,3 +1,4 @@
 - pkg:composer/cmrweb/request-bundle@0.01
 - pkg:composer/cmrweb/request-bundle@0.02
 - pkg:composer/cmrweb/request-bundle@0.03
+- pkg:composer/cmrweb/request-bundle@0.04
