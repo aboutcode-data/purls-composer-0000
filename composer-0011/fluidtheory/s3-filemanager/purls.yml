@@ -109,3 +109,5 @@
 - pkg:composer/fluidtheory/s3-filemanager@v2.8.8
 - pkg:composer/fluidtheory/s3-filemanager@v2.8.9
 - pkg:composer/fluidtheory/s3-filemanager@v2.9.0
+- pkg:composer/fluidtheory/s3-filemanager@v2.9.1
+- pkg:composer/fluidtheory/s3-filemanager@v3.0.0
