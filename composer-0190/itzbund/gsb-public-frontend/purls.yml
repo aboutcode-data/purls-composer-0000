@@ -228,6 +228,13 @@
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.10
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.11
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.12
+- pkg:composer/itzbund/gsb-public-frontend@v1.7.13
+- pkg:composer/itzbund/gsb-public-frontend@v1.7.14
+- pkg:composer/itzbund/gsb-public-frontend@v1.7.15
+- pkg:composer/itzbund/gsb-public-frontend@v1.7.16
+- pkg:composer/itzbund/gsb-public-frontend@v1.7.17
+- pkg:composer/itzbund/gsb-public-frontend@v1.7.18
+- pkg:composer/itzbund/gsb-public-frontend@v1.7.19
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.2
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.3
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.4
@@ -458,6 +465,9 @@
 - pkg:composer/itzbund/gsb-public-frontend@v2.3.0-rc.11
 - pkg:composer/itzbund/gsb-public-frontend@v2.3.0-rc.12
 - pkg:composer/itzbund/gsb-public-frontend@v2.3.0-rc.13
+- pkg:composer/itzbund/gsb-public-frontend@v2.3.0-rc.14
+- pkg:composer/itzbund/gsb-public-frontend@v2.3.0-rc.15
+- pkg:composer/itzbund/gsb-public-frontend@v2.3.0-rc.16
 - pkg:composer/itzbund/gsb-public-frontend@v2.3.0-rc.2
 - pkg:composer/itzbund/gsb-public-frontend@v2.3.0-rc.3
 - pkg:composer/itzbund/gsb-public-frontend@v2.3.0-rc.4
