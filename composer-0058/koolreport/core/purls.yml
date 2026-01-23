@@ -40,3 +40,4 @@
 - pkg:composer/koolreport/core@6.6.1
 - pkg:composer/koolreport/core@6.6.5
 - pkg:composer/koolreport/core@6.6.6
+- pkg:composer/koolreport/core@6.6.7
