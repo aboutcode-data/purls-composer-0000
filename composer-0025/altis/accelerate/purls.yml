@@ -32,3 +32,5 @@
 - pkg:composer/altis/accelerate@3.5.2
 - pkg:composer/altis/accelerate@3.5.3
 - pkg:composer/altis/accelerate@3.5.4
+- pkg:composer/altis/accelerate@4.0.0-beta1
+- pkg:composer/altis/accelerate@4.0.0-beta2

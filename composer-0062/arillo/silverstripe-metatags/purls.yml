@@ -7,3 +7,5 @@
 - pkg:composer/arillo/silverstripe-metatags@2.0.1
 - pkg:composer/arillo/silverstripe-metatags@2.0.2
 - pkg:composer/arillo/silverstripe-metatags@2.1.1
+- pkg:composer/arillo/silverstripe-metatags@3.0.0
+- pkg:composer/arillo/silverstripe-metatags@3.0.1
