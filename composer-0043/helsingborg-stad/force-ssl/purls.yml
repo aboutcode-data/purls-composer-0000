@@ -21,3 +21,4 @@
 - pkg:composer/helsingborg-stad/force-ssl@1.0.9
 - pkg:composer/helsingborg-stad/force-ssl@2.0.0
 - pkg:composer/helsingborg-stad/force-ssl@3.0.2
+- pkg:composer/helsingborg-stad/force-ssl@3.0.3
