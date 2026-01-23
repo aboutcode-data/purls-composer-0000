@@ -5,3 +5,4 @@
 - pkg:composer/cortexphp/json-schema@0.5.0
 - pkg:composer/cortexphp/json-schema@0.5.1
 - pkg:composer/cortexphp/json-schema@0.6.0
+- pkg:composer/cortexphp/json-schema@1.0.0
