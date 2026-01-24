@@ -91,6 +91,7 @@
 - pkg:composer/massgov/mayflower-artifacts@14.1.0
 - pkg:composer/massgov/mayflower-artifacts@14.1.1
 - pkg:composer/massgov/mayflower-artifacts@14.1.2
+- pkg:composer/massgov/mayflower-artifacts@15.0.0
 - pkg:composer/massgov/mayflower-artifacts@2.0.0
 - pkg:composer/massgov/mayflower-artifacts@2.0.0-alpha1
 - pkg:composer/massgov/mayflower-artifacts@2.0.0-alpha2
