@@ -5,3 +5,4 @@
 - pkg:composer/ecphp/laravel-ecas@1.1.1
 - pkg:composer/ecphp/laravel-ecas@1.1.2
 - pkg:composer/ecphp/laravel-ecas@1.2.0
+- pkg:composer/ecphp/laravel-ecas@2.0.0
