@@ -360,6 +360,8 @@
 - pkg:composer/tencentcloud/tencentcloud-sdk-php-intl-en@3.0.1321
 - pkg:composer/tencentcloud/tencentcloud-sdk-php-intl-en@3.0.1322
 - pkg:composer/tencentcloud/tencentcloud-sdk-php-intl-en@3.0.1323
+- pkg:composer/tencentcloud/tencentcloud-sdk-php-intl-en@3.0.1324
+- pkg:composer/tencentcloud/tencentcloud-sdk-php-intl-en@3.0.1325
 - pkg:composer/tencentcloud/tencentcloud-sdk-php-intl-en@3.0.133
 - pkg:composer/tencentcloud/tencentcloud-sdk-php-intl-en@3.0.134
 - pkg:composer/tencentcloud/tencentcloud-sdk-php-intl-en@3.0.135
