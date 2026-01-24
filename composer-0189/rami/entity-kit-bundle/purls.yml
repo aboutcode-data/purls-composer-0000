@@ -1,3 +1,6 @@
+- pkg:composer/rami/entity-kit-bundle@0.2.2
+- pkg:composer/rami/entity-kit-bundle@0.2.3
+- pkg:composer/rami/entity-kit-bundle@0.2.4
 - pkg:composer/rami/entity-kit-bundle@v0.0.1
 - pkg:composer/rami/entity-kit-bundle@v0.0.2
 - pkg:composer/rami/entity-kit-bundle@v0.0.3

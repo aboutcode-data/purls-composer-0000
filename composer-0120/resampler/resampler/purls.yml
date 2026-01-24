@@ -1,3 +1,4 @@
 - pkg:composer/resampler/resampler@v1.0
 - pkg:composer/resampler/resampler@v2.0.0
 - pkg:composer/resampler/resampler@v2.1.0
+- pkg:composer/resampler/resampler@v2.1.1

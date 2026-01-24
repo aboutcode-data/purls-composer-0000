@@ -2,3 +2,5 @@
 - pkg:composer/rapide/metrics@v0.1.0
 - pkg:composer/rapide/metrics@v0.2.0
 - pkg:composer/rapide/metrics@v1.0.1
+- pkg:composer/rapide/metrics@v1.0.2
+- pkg:composer/rapide/metrics@v1.0.3
