@@ -8,3 +8,5 @@
 - pkg:composer/guava/onboarding@1.2.4
 - pkg:composer/guava/onboarding@2.0.0
 - pkg:composer/guava/onboarding@2.1.0
+- pkg:composer/guava/onboarding@2.2.0
+- pkg:composer/guava/onboarding@2.2.1
