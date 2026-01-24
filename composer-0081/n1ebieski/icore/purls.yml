@@ -156,6 +156,7 @@
 - pkg:composer/n1ebieski/icore@v8.4.0
 - pkg:composer/n1ebieski/icore@v8.4.1
 - pkg:composer/n1ebieski/icore@v8.4.2
+- pkg:composer/n1ebieski/icore@v8.4.3
 - pkg:composer/n1ebieski/icore@v9.0.0
 - pkg:composer/n1ebieski/icore@v9.0.1
 - pkg:composer/n1ebieski/icore@v9.0.2
@@ -168,3 +169,4 @@
 - pkg:composer/n1ebieski/icore@v9.2.0
 - pkg:composer/n1ebieski/icore@v9.2.1
 - pkg:composer/n1ebieski/icore@v9.2.2
+- pkg:composer/n1ebieski/icore@v9.2.3
