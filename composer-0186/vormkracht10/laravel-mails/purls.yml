@@ -20,5 +20,10 @@
 - pkg:composer/vormkracht10/laravel-mails@v1.4.3
 - pkg:composer/vormkracht10/laravel-mails@v1.4.4
 - pkg:composer/vormkracht10/laravel-mails@v2.0.0
+- pkg:composer/vormkracht10/laravel-mails@v2.0.0-beta33
+- pkg:composer/vormkracht10/laravel-mails@v2.0.0-beta34
+- pkg:composer/vormkracht10/laravel-mails@v2.0.0-beta35
+- pkg:composer/vormkracht10/laravel-mails@v2.0.0-beta36
+- pkg:composer/vormkracht10/laravel-mails@v2.0.0beta-37
 - pkg:composer/vormkracht10/laravel-mails@v2.0.1
 - pkg:composer/vormkracht10/laravel-mails@v2.1.0
