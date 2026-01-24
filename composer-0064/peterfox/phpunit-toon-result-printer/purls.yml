@@ -1,1 +1,2 @@
 - pkg:composer/peterfox/phpunit-toon-result-printer@v1.0.0
+- pkg:composer/peterfox/phpunit-toon-result-printer@v1.1.0
