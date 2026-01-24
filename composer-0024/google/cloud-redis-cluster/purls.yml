@@ -14,3 +14,4 @@
 - pkg:composer/google/cloud-redis-cluster@v0.5.1
 - pkg:composer/google/cloud-redis-cluster@v0.6.0
 - pkg:composer/google/cloud-redis-cluster@v0.6.1
+- pkg:composer/google/cloud-redis-cluster@v0.6.3

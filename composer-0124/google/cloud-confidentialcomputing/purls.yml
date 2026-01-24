@@ -27,3 +27,4 @@
 - pkg:composer/google/cloud-confidentialcomputing@v1.5.0
 - pkg:composer/google/cloud-confidentialcomputing@v1.6.0
 - pkg:composer/google/cloud-confidentialcomputing@v1.6.1
+- pkg:composer/google/cloud-confidentialcomputing@v1.6.2
