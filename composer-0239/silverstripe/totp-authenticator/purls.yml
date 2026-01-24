@@ -55,3 +55,4 @@
 - pkg:composer/silverstripe/totp-authenticator@6.0.0-rc1
 - pkg:composer/silverstripe/totp-authenticator@6.0.1
 - pkg:composer/silverstripe/totp-authenticator@6.0.2
+- pkg:composer/silverstripe/totp-authenticator@6.0.3
