@@ -1,4 +1,5 @@
 - pkg:composer/patchstack/engine-php@0.1
+- pkg:composer/patchstack/engine-php@0.10
 - pkg:composer/patchstack/engine-php@0.2
 - pkg:composer/patchstack/engine-php@0.3
 - pkg:composer/patchstack/engine-php@0.4
