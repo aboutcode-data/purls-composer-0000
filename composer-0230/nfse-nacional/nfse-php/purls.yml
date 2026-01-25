@@ -3,7 +3,7 @@
 - pkg:composer/nfse-nacional/nfse-php@v0.2.0-beta
 - pkg:composer/nfse-nacional/nfse-php@v1.0.0-beta
 - pkg:composer/nfse-nacional/nfse-php@v1.1.0-beta
-- pkg:composer/nfse-nacional/nfse-php@v1.10.0
+- pkg:composer/nfse-nacional/nfse-php@v1.10.0-beta
 - pkg:composer/nfse-nacional/nfse-php@v1.2.0-beta
 - pkg:composer/nfse-nacional/nfse-php@v1.2.1-beta
 - pkg:composer/nfse-nacional/nfse-php@v1.2.2-beta
