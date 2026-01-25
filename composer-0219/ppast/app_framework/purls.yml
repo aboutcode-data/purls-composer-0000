@@ -85,3 +85,8 @@
 - pkg:composer/ppast/app_framework@3.4.4
 - pkg:composer/ppast/app_framework@3.5.0
 - pkg:composer/ppast/app_framework@3.6.0
+- pkg:composer/ppast/app_framework@3.7.0
+- pkg:composer/ppast/app_framework@3.7.1
+- pkg:composer/ppast/app_framework@3.7.2
+- pkg:composer/ppast/app_framework@3.7.3
+- pkg:composer/ppast/app_framework@3.7.4

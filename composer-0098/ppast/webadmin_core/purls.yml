@@ -96,3 +96,5 @@
 - pkg:composer/ppast/webadmin_core@1.7.4
 - pkg:composer/ppast/webadmin_core@1.7.5
 - pkg:composer/ppast/webadmin_core@1.7.6
+- pkg:composer/ppast/webadmin_core@1.7.7
+- pkg:composer/ppast/webadmin_core@1.7.8
