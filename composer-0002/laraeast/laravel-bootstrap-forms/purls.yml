@@ -9,6 +9,7 @@
 - pkg:composer/laraeast/laravel-bootstrap-forms@v10.1.0
 - pkg:composer/laraeast/laravel-bootstrap-forms@v10.1.1
 - pkg:composer/laraeast/laravel-bootstrap-forms@v10.2.0
+- pkg:composer/laraeast/laravel-bootstrap-forms@v10.2.1
 - pkg:composer/laraeast/laravel-bootstrap-forms@v2.0.0
 - pkg:composer/laraeast/laravel-bootstrap-forms@v2.0.1
 - pkg:composer/laraeast/laravel-bootstrap-forms@v2.0.2
