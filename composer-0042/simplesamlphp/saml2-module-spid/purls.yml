@@ -1,1 +1,2 @@
 - pkg:composer/simplesamlphp/saml2-module-spid@v1.0.0
+- pkg:composer/simplesamlphp/saml2-module-spid@v1.1.0
