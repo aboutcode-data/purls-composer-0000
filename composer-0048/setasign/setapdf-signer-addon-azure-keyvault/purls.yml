@@ -3,3 +3,4 @@
 - pkg:composer/setasign/setapdf-signer-addon-azure-keyvault@v1.1.1
 - pkg:composer/setasign/setapdf-signer-addon-azure-keyvault@v1.2.0
 - pkg:composer/setasign/setapdf-signer-addon-azure-keyvault@v2.0.0
+- pkg:composer/setasign/setapdf-signer-addon-azure-keyvault@v2.0.1
