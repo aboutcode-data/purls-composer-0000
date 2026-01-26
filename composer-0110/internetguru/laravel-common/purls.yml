@@ -151,3 +151,5 @@
 - pkg:composer/internetguru/laravel-common@v4.6.0
 - pkg:composer/internetguru/laravel-common@v4.6.1
 - pkg:composer/internetguru/laravel-common@v4.6.2
+- pkg:composer/internetguru/laravel-common@v4.6.3
+- pkg:composer/internetguru/laravel-common@v4.6.4

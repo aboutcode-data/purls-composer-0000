@@ -18,3 +18,4 @@
 - pkg:composer/innmind/xml@7.6.0
 - pkg:composer/innmind/xml@7.7.0
 - pkg:composer/innmind/xml@8.0.0
+- pkg:composer/innmind/xml@9.0.0
