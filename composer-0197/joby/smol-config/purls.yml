@@ -2,3 +2,4 @@
 - pkg:composer/joby/smol-config@v1.1.0
 - pkg:composer/joby/smol-config@v1.1.1
 - pkg:composer/joby/smol-config@v1.2.0
+- pkg:composer/joby/smol-config@v1.3.0
