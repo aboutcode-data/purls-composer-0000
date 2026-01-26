@@ -9,6 +9,7 @@
 - pkg:composer/pear/pear-core-minimal@v1.10.15
 - pkg:composer/pear/pear-core-minimal@v1.10.16
 - pkg:composer/pear/pear-core-minimal@v1.10.17
+- pkg:composer/pear/pear-core-minimal@v1.10.18
 - pkg:composer/pear/pear-core-minimal@v1.10.2
 - pkg:composer/pear/pear-core-minimal@v1.10.3
 - pkg:composer/pear/pear-core-minimal@v1.10.4
