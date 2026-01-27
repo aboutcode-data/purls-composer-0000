@@ -28,3 +28,4 @@
 - pkg:composer/leandrocfe/filament-apex-charts@3.2.1
 - pkg:composer/leandrocfe/filament-apex-charts@4.0.0
 - pkg:composer/leandrocfe/filament-apex-charts@4.0.0-beta1
+- pkg:composer/leandrocfe/filament-apex-charts@5.0.0
