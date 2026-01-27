@@ -1,3 +1,4 @@
+- pkg:composer/memio/spec-gen@0.10.1
 - pkg:composer/memio/spec-gen@0.9.0
 - pkg:composer/memio/spec-gen@v0.1.0
 - pkg:composer/memio/spec-gen@v0.1.1
