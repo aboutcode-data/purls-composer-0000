@@ -60,6 +60,7 @@
 - pkg:composer/symfony/semaphore@v6.4.26
 - pkg:composer/symfony/semaphore@v6.4.3
 - pkg:composer/symfony/semaphore@v6.4.30
+- pkg:composer/symfony/semaphore@v6.4.32
 - pkg:composer/symfony/semaphore@v6.4.7
 - pkg:composer/symfony/semaphore@v6.4.8
 - pkg:composer/symfony/semaphore@v7.0.0
@@ -80,13 +81,16 @@
 - pkg:composer/symfony/semaphore@v7.3.0
 - pkg:composer/symfony/semaphore@v7.3.0-BETA1
 - pkg:composer/symfony/semaphore@v7.3.0-RC1
+- pkg:composer/symfony/semaphore@v7.3.10
 - pkg:composer/symfony/semaphore@v7.3.4
 - pkg:composer/symfony/semaphore@v7.3.8
 - pkg:composer/symfony/semaphore@v7.4.0
 - pkg:composer/symfony/semaphore@v7.4.0-BETA1
 - pkg:composer/symfony/semaphore@v7.4.0-RC1
 - pkg:composer/symfony/semaphore@v7.4.1
+- pkg:composer/symfony/semaphore@v7.4.4
 - pkg:composer/symfony/semaphore@v8.0.0
 - pkg:composer/symfony/semaphore@v8.0.0-BETA1
 - pkg:composer/symfony/semaphore@v8.0.0-RC1
 - pkg:composer/symfony/semaphore@v8.0.1
+- pkg:composer/symfony/semaphore@v8.0.4
