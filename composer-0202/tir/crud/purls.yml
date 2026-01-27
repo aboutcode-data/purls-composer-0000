@@ -1,5 +1,6 @@
 - pkg:composer/tir/crud@12.5
 - pkg:composer/tir/crud@12.7.1
+- pkg:composer/tir/crud@12.7.2
 - pkg:composer/tir/crud@v1.0
 - pkg:composer/tir/crud@v1.1.1
 - pkg:composer/tir/crud@v1.1.2

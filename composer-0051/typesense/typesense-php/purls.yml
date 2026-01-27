@@ -46,5 +46,6 @@
 - pkg:composer/typesense/typesense-php@v5.2.0-RC2
 - pkg:composer/typesense/typesense-php@v5.2.0-RC3
 - pkg:composer/typesense/typesense-php@v5.2.0-RC4
+- pkg:composer/typesense/typesense-php@v6.0.0
 - pkg:composer/typesense/typesense-php@v6.0.0-RC1
 - pkg:composer/typesense/typesense-php@v6.0.0-RC2
