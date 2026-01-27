@@ -13,3 +13,4 @@
 - pkg:composer/squirrelphp/twig-php-syntax@v1.7
 - pkg:composer/squirrelphp/twig-php-syntax@v1.8
 - pkg:composer/squirrelphp/twig-php-syntax@v1.9
+- pkg:composer/squirrelphp/twig-php-syntax@v2.0
