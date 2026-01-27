@@ -7,3 +7,4 @@
 - pkg:composer/misakstvanu/laravel-fortify-passkeys@v1.0.6-beta
 - pkg:composer/misakstvanu/laravel-fortify-passkeys@v1.0.7-alpha
 - pkg:composer/misakstvanu/laravel-fortify-passkeys@v1.0.7-beta
+- pkg:composer/misakstvanu/laravel-fortify-passkeys@v1.0.8-beta
