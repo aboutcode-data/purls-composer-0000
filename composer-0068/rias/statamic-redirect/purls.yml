@@ -66,6 +66,7 @@
 - pkg:composer/rias/statamic-redirect@3.12.0
 - pkg:composer/rias/statamic-redirect@3.13.0
 - pkg:composer/rias/statamic-redirect@3.14.0
+- pkg:composer/rias/statamic-redirect@3.14.1
 - pkg:composer/rias/statamic-redirect@3.2.0
 - pkg:composer/rias/statamic-redirect@3.2.1
 - pkg:composer/rias/statamic-redirect@3.3.0
