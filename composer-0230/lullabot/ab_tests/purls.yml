@@ -24,3 +24,4 @@
 - pkg:composer/lullabot/ab_tests@1.0.0-rc1
 - pkg:composer/lullabot/ab_tests@1.0.0-rc2
 - pkg:composer/lullabot/ab_tests@1.0.1
+- pkg:composer/lullabot/ab_tests@1.0.2

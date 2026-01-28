@@ -19,6 +19,7 @@
 - pkg:composer/mattersight/phppact@10.1.1
 - pkg:composer/mattersight/phppact@10.2.0
 - pkg:composer/mattersight/phppact@10.2.1
+- pkg:composer/mattersight/phppact@11.0.0-alpha1
 - pkg:composer/mattersight/phppact@2.0.1
 - pkg:composer/mattersight/phppact@2.0.2
 - pkg:composer/mattersight/phppact@2.0.3
