@@ -2,3 +2,4 @@
 - pkg:composer/randock/build@v2.0
 - pkg:composer/randock/build@v2.1
 - pkg:composer/randock/build@v2.2
+- pkg:composer/randock/build@v3.0.0
