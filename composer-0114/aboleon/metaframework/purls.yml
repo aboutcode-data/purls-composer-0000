@@ -111,6 +111,10 @@
 - pkg:composer/aboleon/metaframework@0.140.2
 - pkg:composer/aboleon/metaframework@0.141.0
 - pkg:composer/aboleon/metaframework@0.142.0
+- pkg:composer/aboleon/metaframework@0.143.0
+- pkg:composer/aboleon/metaframework@0.144.0
+- pkg:composer/aboleon/metaframework@0.144.1
+- pkg:composer/aboleon/metaframework@0.144.2
 - pkg:composer/aboleon/metaframework@0.15.0
 - pkg:composer/aboleon/metaframework@0.15.1
 - pkg:composer/aboleon/metaframework@0.15.2
