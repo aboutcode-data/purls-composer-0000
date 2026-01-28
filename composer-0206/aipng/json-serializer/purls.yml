@@ -15,3 +15,4 @@
 - pkg:composer/aipng/json-serializer@v3.0.2
 - pkg:composer/aipng/json-serializer@v3.0.3
 - pkg:composer/aipng/json-serializer@v3.0.4
+- pkg:composer/aipng/json-serializer@v4.0

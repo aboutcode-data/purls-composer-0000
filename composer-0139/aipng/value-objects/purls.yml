@@ -16,3 +16,4 @@
 - pkg:composer/aipng/value-objects@2.1.0
 - pkg:composer/aipng/value-objects@3.0.0
 - pkg:composer/aipng/value-objects@3.1
+- pkg:composer/aipng/value-objects@v3.2

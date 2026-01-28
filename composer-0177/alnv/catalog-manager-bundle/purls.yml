@@ -91,6 +91,7 @@
 - pkg:composer/alnv/catalog-manager-bundle@3.4.24
 - pkg:composer/alnv/catalog-manager-bundle@3.4.25
 - pkg:composer/alnv/catalog-manager-bundle@3.4.26
+- pkg:composer/alnv/catalog-manager-bundle@3.4.27
 - pkg:composer/alnv/catalog-manager-bundle@3.4.3
 - pkg:composer/alnv/catalog-manager-bundle@3.4.4
 - pkg:composer/alnv/catalog-manager-bundle@3.4.5
