@@ -2,3 +2,4 @@
 - pkg:composer/wp-spaghetti/wp-boot@v1.1.0
 - pkg:composer/wp-spaghetti/wp-boot@v1.1.1
 - pkg:composer/wp-spaghetti/wp-boot@v1.1.2
+- pkg:composer/wp-spaghetti/wp-boot@v1.1.3
