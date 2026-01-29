@@ -71,6 +71,7 @@
 - pkg:composer/snc/redis-bundle@4.10.0
 - pkg:composer/snc/redis-bundle@4.11.0
 - pkg:composer/snc/redis-bundle@4.11.0-rc.1
+- pkg:composer/snc/redis-bundle@4.11.1
 - pkg:composer/snc/redis-bundle@4.2.0
 - pkg:composer/snc/redis-bundle@4.2.1
 - pkg:composer/snc/redis-bundle@4.3.0

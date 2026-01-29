@@ -41,6 +41,8 @@
 - pkg:composer/sqli/eztoolbox@4.0.8
 - pkg:composer/sqli/eztoolbox@4.0.9
 - pkg:composer/sqli/eztoolbox@5.0.0
+- pkg:composer/sqli/eztoolbox@5.0.1
+- pkg:composer/sqli/eztoolbox@5.0.2
 - pkg:composer/sqli/eztoolbox@v0.1
 - pkg:composer/sqli/eztoolbox@v0.2
 - pkg:composer/sqli/eztoolbox@v0.3
