@@ -42,3 +42,5 @@
 - pkg:composer/worlddirect/healthcheck@4.0.0
 - pkg:composer/worlddirect/healthcheck@4.1.0
 - pkg:composer/worlddirect/healthcheck@4.3.0
+- pkg:composer/worlddirect/healthcheck@4.4.0
+- pkg:composer/worlddirect/healthcheck@4.4.1
