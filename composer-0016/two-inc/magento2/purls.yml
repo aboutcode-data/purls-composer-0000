@@ -17,6 +17,8 @@
 - pkg:composer/two-inc/magento2@1.13.0
 - pkg:composer/two-inc/magento2@1.13.1
 - pkg:composer/two-inc/magento2@1.13.2
+- pkg:composer/two-inc/magento2@1.14.0
+- pkg:composer/two-inc/magento2@1.14.1
 - pkg:composer/two-inc/magento2@1.2.4
 - pkg:composer/two-inc/magento2@1.3.0
 - pkg:composer/two-inc/magento2@1.3.1

@@ -41,3 +41,4 @@
 - pkg:composer/thoughtco/statamic-starter-kit@4.6.2
 - pkg:composer/thoughtco/statamic-starter-kit@4.6.3
 - pkg:composer/thoughtco/statamic-starter-kit@4.6.4
+- pkg:composer/thoughtco/statamic-starter-kit@5.0.0
