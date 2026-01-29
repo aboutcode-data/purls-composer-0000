@@ -86,3 +86,4 @@
 - pkg:composer/phparkitect/phparkitect@0.5.5
 - pkg:composer/phparkitect/phparkitect@0.6.0
 - pkg:composer/phparkitect/phparkitect@0.7.0
+- pkg:composer/phparkitect/phparkitect@0.8.0
