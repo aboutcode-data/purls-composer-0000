@@ -67,3 +67,4 @@
 - pkg:composer/perimeterx/php-sdk@3.9.1
 - pkg:composer/perimeterx/php-sdk@4.0.0
 - pkg:composer/perimeterx/php-sdk@4.0.1
+- pkg:composer/perimeterx/php-sdk@4.1.0
