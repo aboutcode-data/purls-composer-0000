@@ -92,3 +92,4 @@
 - pkg:composer/adyen/php-api-library@v28.1.0
 - pkg:composer/adyen/php-api-library@v28.2.0
 - pkg:composer/adyen/php-api-library@v28.3.0
+- pkg:composer/adyen/php-api-library@v29.0.0

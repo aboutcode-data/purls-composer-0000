@@ -8,6 +8,10 @@
 - pkg:composer/adobrovolsky97/laravel-repository-service-pattern@v2.10
 - pkg:composer/adobrovolsky97/laravel-repository-service-pattern@v2.11
 - pkg:composer/adobrovolsky97/laravel-repository-service-pattern@v2.12
+- pkg:composer/adobrovolsky97/laravel-repository-service-pattern@v2.13
+- pkg:composer/adobrovolsky97/laravel-repository-service-pattern@v2.14
+- pkg:composer/adobrovolsky97/laravel-repository-service-pattern@v2.15
+- pkg:composer/adobrovolsky97/laravel-repository-service-pattern@v2.16
 - pkg:composer/adobrovolsky97/laravel-repository-service-pattern@v2.2
 - pkg:composer/adobrovolsky97/laravel-repository-service-pattern@v2.3
 - pkg:composer/adobrovolsky97/laravel-repository-service-pattern@v2.4
