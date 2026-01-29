@@ -25,3 +25,4 @@
 - pkg:composer/statamic-rad-pack/meilisearch@v3.2.1
 - pkg:composer/statamic-rad-pack/meilisearch@v3.3.0
 - pkg:composer/statamic-rad-pack/meilisearch@v3.4.0
+- pkg:composer/statamic-rad-pack/meilisearch@v4.0.0

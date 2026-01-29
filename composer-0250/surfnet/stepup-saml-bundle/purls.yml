@@ -106,3 +106,4 @@
 - pkg:composer/surfnet/stepup-saml-bundle@6.2.0
 - pkg:composer/surfnet/stepup-saml-bundle@7.0.0
 - pkg:composer/surfnet/stepup-saml-bundle@7.0.1
+- pkg:composer/surfnet/stepup-saml-bundle@7.0.2
