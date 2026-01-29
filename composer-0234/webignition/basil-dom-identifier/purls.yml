@@ -14,3 +14,6 @@
 - pkg:composer/webignition/basil-dom-identifier@0.7
 - pkg:composer/webignition/basil-dom-identifier@0.8
 - pkg:composer/webignition/basil-dom-identifier@0.9
+- pkg:composer/webignition/basil-dom-identifier@1.0
+- pkg:composer/webignition/basil-dom-identifier@1.1
+- pkg:composer/webignition/basil-dom-identifier@2.0
