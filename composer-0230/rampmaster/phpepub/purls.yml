@@ -1,2 +1,3 @@
-- pkg:composer/rampmaster/phpepub@5.0.0-RC1
-- pkg:composer/rampmaster/phpepub@5.0.0-beta1
+- pkg:composer/rampmaster/phpepub@1.0.0
+- pkg:composer/rampmaster/phpepub@1.1.0
+- pkg:composer/rampmaster/phpepub@1.1.1
