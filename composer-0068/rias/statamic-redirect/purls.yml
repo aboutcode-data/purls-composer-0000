@@ -93,6 +93,7 @@
 - pkg:composer/rias/statamic-redirect@3.9.4
 - pkg:composer/rias/statamic-redirect@3.9.5
 - pkg:composer/rias/statamic-redirect@3.9.6
+- pkg:composer/rias/statamic-redirect@4.0.0
 - pkg:composer/rias/statamic-redirect@4.0.0-alpha.1
 - pkg:composer/rias/statamic-redirect@4.0.0-beta.1
 - pkg:composer/rias/statamic-redirect@4.0.0-beta.2
