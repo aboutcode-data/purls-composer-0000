@@ -13,3 +13,4 @@
 - pkg:composer/1tomany/storage-bundle@v2.1.5
 - pkg:composer/1tomany/storage-bundle@v2.1.6
 - pkg:composer/1tomany/storage-bundle@v3.0.0
+- pkg:composer/1tomany/storage-bundle@v3.0.1

@@ -6,6 +6,7 @@
 - pkg:composer/zfbase/zfe@1.35.0-beta.17
 - pkg:composer/zfbase/zfe@1.35.0-beta.2
 - pkg:composer/zfbase/zfe@1.35.69
+- pkg:composer/zfbase/zfe@1.36.53
 - pkg:composer/zfbase/zfe@v1.27.0
 - pkg:composer/zfbase/zfe@v1.27.1
 - pkg:composer/zfbase/zfe@v1.27.10
