@@ -4,3 +4,5 @@
 - pkg:composer/ysocode/berry@v3.0.0
 - pkg:composer/ysocode/berry@v4.0.0
 - pkg:composer/ysocode/berry@v4.0.1
+- pkg:composer/ysocode/berry@v5.0.0
+- pkg:composer/ysocode/berry@v5.1.0
