@@ -31,3 +31,4 @@
 - pkg:composer/api-platform/schema-generator@v5.2.2
 - pkg:composer/api-platform/schema-generator@v5.2.3
 - pkg:composer/api-platform/schema-generator@v5.2.4
+- pkg:composer/api-platform/schema-generator@v5.2.5
