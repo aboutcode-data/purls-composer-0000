@@ -35,3 +35,4 @@
 - pkg:composer/profesia/psr15-symfony-bundle@v3.2.3
 - pkg:composer/profesia/psr15-symfony-bundle@v3.3.0
 - pkg:composer/profesia/psr15-symfony-bundle@v3.4.0
+- pkg:composer/profesia/psr15-symfony-bundle@v3.4.1
