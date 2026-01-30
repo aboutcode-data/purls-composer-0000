@@ -3,3 +3,4 @@
 - pkg:composer/toppy/sendcloud-v2-client@0.3.0
 - pkg:composer/toppy/sendcloud-v2-client@0.4.0
 - pkg:composer/toppy/sendcloud-v2-client@0.4.1
+- pkg:composer/toppy/sendcloud-v2-client@0.4.2
