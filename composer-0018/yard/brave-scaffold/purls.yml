@@ -5,3 +5,5 @@
 - pkg:composer/yard/brave-scaffold@v1.1.0
 - pkg:composer/yard/brave-scaffold@v1.2.0
 - pkg:composer/yard/brave-scaffold@v1.2.1
+- pkg:composer/yard/brave-scaffold@v2.0.0
+- pkg:composer/yard/brave-scaffold@v2.0.1

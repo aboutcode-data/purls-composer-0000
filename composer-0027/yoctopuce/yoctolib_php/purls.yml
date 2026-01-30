@@ -57,6 +57,7 @@
 - pkg:composer/yoctopuce/yoctolib_php@v2.0.61813
 - pkg:composer/yoctopuce/yoctolib_php@v2.0.61858
 - pkg:composer/yoctopuce/yoctolib_php@v2.0.64286
+- pkg:composer/yoctopuce/yoctolib_php@v2.1.11632
 - pkg:composer/yoctopuce/yoctolib_php@v2.1.5971
 - pkg:composer/yoctopuce/yoctolib_php@v2.1.6320
 - pkg:composer/yoctopuce/yoctolib_php@v2.1.9553
