@@ -114,6 +114,7 @@
 - pkg:composer/statikbe/craft@5.1.0
 - pkg:composer/statikbe/craft@5.1.1
 - pkg:composer/statikbe/craft@5.10.0
+- pkg:composer/statikbe/craft@5.11.0
 - pkg:composer/statikbe/craft@5.2.0
 - pkg:composer/statikbe/craft@5.2.1
 - pkg:composer/statikbe/craft@5.2.2
