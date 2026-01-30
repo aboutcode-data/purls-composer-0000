@@ -15,5 +15,6 @@
 - pkg:composer/dotkernel/dot-authorization@3.6.1
 - pkg:composer/dotkernel/dot-authorization@3.7.0
 - pkg:composer/dotkernel/dot-authorization@3.8.0
+- pkg:composer/dotkernel/dot-authorization@3.8.1
 - pkg:composer/dotkernel/dot-authorization@v0.1.2
 - pkg:composer/dotkernel/dot-authorization@v2.0.0

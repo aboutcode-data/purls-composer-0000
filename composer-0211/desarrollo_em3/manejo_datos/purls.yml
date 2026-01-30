@@ -1274,6 +1274,9 @@
 - pkg:composer/desarrollo_em3/manejo_datos@v3.4.0
 - pkg:composer/desarrollo_em3/manejo_datos@v3.40.0
 - pkg:composer/desarrollo_em3/manejo_datos@v3.400.3
+- pkg:composer/desarrollo_em3/manejo_datos@v3.401.3
+- pkg:composer/desarrollo_em3/manejo_datos@v3.402.3
+- pkg:composer/desarrollo_em3/manejo_datos@v3.403.3
 - pkg:composer/desarrollo_em3/manejo_datos@v3.41.0
 - pkg:composer/desarrollo_em3/manejo_datos@v3.42.0
 - pkg:composer/desarrollo_em3/manejo_datos@v3.43.0

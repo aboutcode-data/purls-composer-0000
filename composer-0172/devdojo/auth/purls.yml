@@ -18,3 +18,6 @@
 - pkg:composer/devdojo/auth@v2.0
 - pkg:composer/devdojo/auth@v2.0.1
 - pkg:composer/devdojo/auth@v2.0.2
+- pkg:composer/devdojo/auth@v2.1.0
+- pkg:composer/devdojo/auth@v2.1.1
+- pkg:composer/devdojo/auth@v2.2.0
