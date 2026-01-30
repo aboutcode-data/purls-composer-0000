@@ -1,1 +1,2 @@
 - pkg:composer/c6digital/laravel-orderable@v1.0.0
+- pkg:composer/c6digital/laravel-orderable@v2.0.0

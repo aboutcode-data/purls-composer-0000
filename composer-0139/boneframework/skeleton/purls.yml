@@ -30,6 +30,7 @@
 - pkg:composer/boneframework/skeleton@v3.11.1
 - pkg:composer/boneframework/skeleton@v3.11.10
 - pkg:composer/boneframework/skeleton@v3.11.11
+- pkg:composer/boneframework/skeleton@v3.11.12
 - pkg:composer/boneframework/skeleton@v3.11.2
 - pkg:composer/boneframework/skeleton@v3.11.3
 - pkg:composer/boneframework/skeleton@v3.11.4

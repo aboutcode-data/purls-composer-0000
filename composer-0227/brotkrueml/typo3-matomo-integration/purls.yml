@@ -17,4 +17,7 @@
 - pkg:composer/brotkrueml/typo3-matomo-integration@v2.2.0
 - pkg:composer/brotkrueml/typo3-matomo-integration@v2.3.0
 - pkg:composer/brotkrueml/typo3-matomo-integration@v2.4.0
+- pkg:composer/brotkrueml/typo3-matomo-integration@v2.4.1
 - pkg:composer/brotkrueml/typo3-matomo-integration@v3.0.0
+- pkg:composer/brotkrueml/typo3-matomo-integration@v3.0.1
+- pkg:composer/brotkrueml/typo3-matomo-integration@v3.0.2

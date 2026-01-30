@@ -6,6 +6,7 @@
 - pkg:composer/blueways/bw-captcha@4.2.2
 - pkg:composer/blueways/bw-captcha@5.0.0
 - pkg:composer/blueways/bw-captcha@5.1.0
+- pkg:composer/blueways/bw-captcha@5.1.1
 - pkg:composer/blueways/bw-captcha@v1.0.1
 - pkg:composer/blueways/bw-captcha@v1.0.2
 - pkg:composer/blueways/bw-captcha@v1.1.0

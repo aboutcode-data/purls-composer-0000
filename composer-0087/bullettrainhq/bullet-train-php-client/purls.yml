@@ -1,5 +1,6 @@
 - pkg:composer/bullettrainhq/bullet-train-php-client@3.0.0
 - pkg:composer/bullettrainhq/bullet-train-php-client@5.0.0
+- pkg:composer/bullettrainhq/bullet-train-php-client@5.1.0
 - pkg:composer/bullettrainhq/bullet-train-php-client@v1.0.0
 - pkg:composer/bullettrainhq/bullet-train-php-client@v2.0.0
 - pkg:composer/bullettrainhq/bullet-train-php-client@v2.0.1
