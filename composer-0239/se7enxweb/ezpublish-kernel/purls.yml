@@ -317,6 +317,7 @@
 - pkg:composer/se7enxweb/ezpublish-kernel@v7.5.35
 - pkg:composer/se7enxweb/ezpublish-kernel@v7.5.36
 - pkg:composer/se7enxweb/ezpublish-kernel@v7.5.37
+- pkg:composer/se7enxweb/ezpublish-kernel@v7.5.38
 - pkg:composer/se7enxweb/ezpublish-kernel@v7.5.4
 - pkg:composer/se7enxweb/ezpublish-kernel@v7.5.5
 - pkg:composer/se7enxweb/ezpublish-kernel@v7.5.6

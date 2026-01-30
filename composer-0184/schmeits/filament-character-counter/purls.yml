@@ -13,3 +13,4 @@
 - pkg:composer/schmeits/filament-character-counter@4.0.0
 - pkg:composer/schmeits/filament-character-counter@v4.0.0-beta1
 - pkg:composer/schmeits/filament-character-counter@v4.0.0-beta2
+- pkg:composer/schmeits/filament-character-counter@v5.0.0
