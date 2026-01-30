@@ -17,9 +17,13 @@
 - pkg:composer/cundd/assetic@5.1.0
 - pkg:composer/cundd/assetic@5.1.1
 - pkg:composer/cundd/assetic@5.1.2
+- pkg:composer/cundd/assetic@6.0.0
 - pkg:composer/cundd/assetic@6.0.0-alpha1
 - pkg:composer/cundd/assetic@6.0.0-alpha2
 - pkg:composer/cundd/assetic@6.0.0-alpha3
 - pkg:composer/cundd/assetic@6.0.0-alpha4
+- pkg:composer/cundd/assetic@6.0.1
+- pkg:composer/cundd/assetic@6.0.2
+- pkg:composer/cundd/assetic@7.0.0-alpha.1
 - pkg:composer/cundd/assetic@v1.1
 - pkg:composer/cundd/assetic@v1.2.0

@@ -131,6 +131,7 @@
 - pkg:composer/contao-components/ace@1.43.3
 - pkg:composer/contao-components/ace@1.43.4
 - pkg:composer/contao-components/ace@1.43.5
+- pkg:composer/contao-components/ace@1.43.6
 - pkg:composer/contao-components/ace@1.5.0
 - pkg:composer/contao-components/ace@1.5.1
 - pkg:composer/contao-components/ace@1.5.2

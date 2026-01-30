@@ -7,3 +7,5 @@
 - pkg:composer/danielgnh/polymarket-php@v0.4.1
 - pkg:composer/danielgnh/polymarket-php@v0.5.0
 - pkg:composer/danielgnh/polymarket-php@v1.0.0
+- pkg:composer/danielgnh/polymarket-php@v1.1.0
+- pkg:composer/danielgnh/polymarket-php@v1.1.1

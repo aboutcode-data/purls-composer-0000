@@ -13,3 +13,4 @@
 - pkg:composer/contao/managed-edition@5.4
 - pkg:composer/contao/managed-edition@5.5
 - pkg:composer/contao/managed-edition@5.6
+- pkg:composer/contao/managed-edition@5.7
