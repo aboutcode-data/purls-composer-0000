@@ -26,3 +26,4 @@
 - pkg:composer/f4php/db@v0.3.1
 - pkg:composer/f4php/db@v0.3.2
 - pkg:composer/f4php/db@v0.3.3
+- pkg:composer/f4php/db@v0.3.4
