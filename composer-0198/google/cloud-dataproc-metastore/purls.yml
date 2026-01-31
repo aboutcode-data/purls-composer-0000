@@ -39,3 +39,4 @@
 - pkg:composer/google/cloud-dataproc-metastore@v1.1.1
 - pkg:composer/google/cloud-dataproc-metastore@v1.2.0
 - pkg:composer/google/cloud-dataproc-metastore@v1.2.1
+- pkg:composer/google/cloud-dataproc-metastore@v1.2.2

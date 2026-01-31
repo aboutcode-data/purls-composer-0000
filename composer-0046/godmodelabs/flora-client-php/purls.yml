@@ -2,6 +2,7 @@
 - pkg:composer/godmodelabs/flora-client-php@0.11.0
 - pkg:composer/godmodelabs/flora-client-php@0.12.0
 - pkg:composer/godmodelabs/flora-client-php@0.13.0
+- pkg:composer/godmodelabs/flora-client-php@0.14.0
 - pkg:composer/godmodelabs/flora-client-php@0.6
 - pkg:composer/godmodelabs/flora-client-php@0.6.1
 - pkg:composer/godmodelabs/flora-client-php@0.7.0

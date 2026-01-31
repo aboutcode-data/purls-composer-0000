@@ -5,6 +5,7 @@
 - pkg:composer/fratac/laravel-distributed-kv@v1.0.12
 - pkg:composer/fratac/laravel-distributed-kv@v1.0.13
 - pkg:composer/fratac/laravel-distributed-kv@v1.0.14
+- pkg:composer/fratac/laravel-distributed-kv@v1.0.15
 - pkg:composer/fratac/laravel-distributed-kv@v1.0.6
 - pkg:composer/fratac/laravel-distributed-kv@v1.0.7
 - pkg:composer/fratac/laravel-distributed-kv@v1.0.8

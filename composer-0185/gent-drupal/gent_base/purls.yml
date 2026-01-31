@@ -78,3 +78,4 @@
 - pkg:composer/gent-drupal/gent_base@7.0.6
 - pkg:composer/gent-drupal/gent_base@7.1.0
 - pkg:composer/gent-drupal/gent_base@7.1.1
+- pkg:composer/gent-drupal/gent_base@7.2.0

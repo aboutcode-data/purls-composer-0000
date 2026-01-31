@@ -97,3 +97,4 @@
 - pkg:composer/gomzyakov/php-cs-fixer-config@v2.0.0
 - pkg:composer/gomzyakov/php-cs-fixer-config@v2.1.0
 - pkg:composer/gomzyakov/php-cs-fixer-config@v2.2.0
+- pkg:composer/gomzyakov/php-cs-fixer-config@v2.3.0

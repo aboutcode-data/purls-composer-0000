@@ -37,6 +37,7 @@
 - pkg:composer/google/analytics-admin@v0.30.0
 - pkg:composer/google/analytics-admin@v0.31.0
 - pkg:composer/google/analytics-admin@v0.31.1
+- pkg:composer/google/analytics-admin@v0.31.2
 - pkg:composer/google/analytics-admin@v0.4.0
 - pkg:composer/google/analytics-admin@v0.4.1
 - pkg:composer/google/analytics-admin@v0.4.2

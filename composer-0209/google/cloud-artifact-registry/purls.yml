@@ -42,3 +42,4 @@
 - pkg:composer/google/cloud-artifact-registry@v1.3.1
 - pkg:composer/google/cloud-artifact-registry@v1.4.0
 - pkg:composer/google/cloud-artifact-registry@v1.5.0
+- pkg:composer/google/cloud-artifact-registry@v1.6.0

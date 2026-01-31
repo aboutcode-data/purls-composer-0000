@@ -33,3 +33,4 @@
 - pkg:composer/google/cloud-datastream@v2.4.0
 - pkg:composer/google/cloud-datastream@v2.5.0
 - pkg:composer/google/cloud-datastream@v2.5.1
+- pkg:composer/google/cloud-datastream@v2.5.2
