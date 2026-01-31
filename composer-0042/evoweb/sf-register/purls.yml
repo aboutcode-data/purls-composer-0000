@@ -28,6 +28,7 @@
 - pkg:composer/evoweb/sf-register@13.1.4
 - pkg:composer/evoweb/sf-register@13.2.0
 - pkg:composer/evoweb/sf-register@13.2.1
+- pkg:composer/evoweb/sf-register@13.2.2
 - pkg:composer/evoweb/sf-register@14.0.0
 - pkg:composer/evoweb/sf-register@6.2.9
 - pkg:composer/evoweb/sf-register@8.7.0
