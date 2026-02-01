@@ -252,6 +252,8 @@
 - pkg:composer/in2code/lux@41.1.0
 - pkg:composer/in2code/lux@41.1.1
 - pkg:composer/in2code/lux@42.0.0
+- pkg:composer/in2code/lux@42.0.1
+- pkg:composer/in2code/lux@42.1.0
 - pkg:composer/in2code/lux@5.0.0
 - pkg:composer/in2code/lux@5.1.0
 - pkg:composer/in2code/lux@6.0.0

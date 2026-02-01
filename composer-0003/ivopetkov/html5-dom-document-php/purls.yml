@@ -49,6 +49,7 @@
 - pkg:composer/ivopetkov/html5-dom-document-php@v2.0.3
 - pkg:composer/ivopetkov/html5-dom-document-php@v2.1.0
 - pkg:composer/ivopetkov/html5-dom-document-php@v2.10.0
+- pkg:composer/ivopetkov/html5-dom-document-php@v2.10.1
 - pkg:composer/ivopetkov/html5-dom-document-php@v2.2.0
 - pkg:composer/ivopetkov/html5-dom-document-php@v2.2.1
 - pkg:composer/ivopetkov/html5-dom-document-php@v2.2.2

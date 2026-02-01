@@ -13,3 +13,5 @@
 - pkg:composer/jdriscoll/celery@v1.1.4
 - pkg:composer/jdriscoll/celery@v1.2.0
 - pkg:composer/jdriscoll/celery@v1.3.0
+- pkg:composer/jdriscoll/celery@v2.0.0
+- pkg:composer/jdriscoll/celery@v2.0.1
