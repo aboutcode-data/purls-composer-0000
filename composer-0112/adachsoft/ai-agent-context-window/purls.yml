@@ -1,3 +1,4 @@
 - pkg:composer/adachsoft/ai-agent-context-window@0.1.0
 - pkg:composer/adachsoft/ai-agent-context-window@0.2.0
 - pkg:composer/adachsoft/ai-agent-context-window@0.2.1
+- pkg:composer/adachsoft/ai-agent-context-window@v0.3.0
