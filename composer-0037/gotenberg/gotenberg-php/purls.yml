@@ -26,6 +26,7 @@
 - pkg:composer/gotenberg/gotenberg-php@v2.14.0
 - pkg:composer/gotenberg/gotenberg-php@v2.15.0
 - pkg:composer/gotenberg/gotenberg-php@v2.15.1
+- pkg:composer/gotenberg/gotenberg-php@v2.16.0
 - pkg:composer/gotenberg/gotenberg-php@v2.2.0
 - pkg:composer/gotenberg/gotenberg-php@v2.3.0
 - pkg:composer/gotenberg/gotenberg-php@v2.3.1

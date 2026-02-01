@@ -12,3 +12,5 @@
 - pkg:composer/hengeb/router@v0.5.4
 - pkg:composer/hengeb/router@v0.5.5
 - pkg:composer/hengeb/router@v0.5.6
+- pkg:composer/hengeb/router@v0.6
+- pkg:composer/hengeb/router@v0.7

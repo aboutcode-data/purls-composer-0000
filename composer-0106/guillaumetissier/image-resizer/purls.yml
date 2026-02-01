@@ -1,1 +1,5 @@
 - pkg:composer/guillaumetissier/image-resizer@1.0.0
+- pkg:composer/guillaumetissier/image-resizer@1.1.0
+- pkg:composer/guillaumetissier/image-resizer@v1.1.1
+- pkg:composer/guillaumetissier/image-resizer@v2.0.0
+- pkg:composer/guillaumetissier/image-resizer@v2.0.1
