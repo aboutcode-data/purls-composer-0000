@@ -30,3 +30,5 @@
 - pkg:composer/jweiland/walls-io-proxy@8.0.0
 - pkg:composer/jweiland/walls-io-proxy@8.0.1
 - pkg:composer/jweiland/walls-io-proxy@8.0.2
+- pkg:composer/jweiland/walls-io-proxy@8.0.3
+- pkg:composer/jweiland/walls-io-proxy@8.1.0

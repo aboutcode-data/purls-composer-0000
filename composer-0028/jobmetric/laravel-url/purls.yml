@@ -10,3 +10,4 @@
 - pkg:composer/jobmetric/laravel-url@1.8.0
 - pkg:composer/jobmetric/laravel-url@1.8.1
 - pkg:composer/jobmetric/laravel-url@2.0.0
+- pkg:composer/jobmetric/laravel-url@2.1.0

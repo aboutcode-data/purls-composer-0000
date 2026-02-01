@@ -1,3 +1,4 @@
 - pkg:composer/kipchak/middleware-error@1.0
 - pkg:composer/kipchak/middleware-error@1.1
 - pkg:composer/kipchak/middleware-error@1.2
+- pkg:composer/kipchak/middleware-error@1.3
