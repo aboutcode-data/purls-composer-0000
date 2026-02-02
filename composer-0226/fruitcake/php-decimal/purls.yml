@@ -1,1 +1,2 @@
 - pkg:composer/fruitcake/php-decimal@v1.0.0
+- pkg:composer/fruitcake/php-decimal@v1.0.1
