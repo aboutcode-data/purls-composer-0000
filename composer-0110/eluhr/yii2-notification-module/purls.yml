@@ -22,6 +22,7 @@
 - pkg:composer/eluhr/yii2-notification-module@1.3.0
 - pkg:composer/eluhr/yii2-notification-module@1.3.1
 - pkg:composer/eluhr/yii2-notification-module@1.3.10
+- pkg:composer/eluhr/yii2-notification-module@1.3.11
 - pkg:composer/eluhr/yii2-notification-module@1.3.2
 - pkg:composer/eluhr/yii2-notification-module@1.3.3
 - pkg:composer/eluhr/yii2-notification-module@1.3.4
