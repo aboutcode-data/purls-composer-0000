@@ -17,6 +17,7 @@
 - pkg:composer/bugbuster/contao-botdetection-bundle@1.14.2
 - pkg:composer/bugbuster/contao-botdetection-bundle@1.14.3
 - pkg:composer/bugbuster/contao-botdetection-bundle@1.14.4
+- pkg:composer/bugbuster/contao-botdetection-bundle@1.15.0
 - pkg:composer/bugbuster/contao-botdetection-bundle@1.5.0
 - pkg:composer/bugbuster/contao-botdetection-bundle@1.5.1
 - pkg:composer/bugbuster/contao-botdetection-bundle@1.5.2
