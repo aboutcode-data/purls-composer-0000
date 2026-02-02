@@ -2,3 +2,4 @@
 - pkg:composer/crtl/request-dto-resolver-bundle@0.0.2
 - pkg:composer/crtl/request-dto-resolver-bundle@0.0.3
 - pkg:composer/crtl/request-dto-resolver-bundle@v2.0.1
+- pkg:composer/crtl/request-dto-resolver-bundle@v2.0.2

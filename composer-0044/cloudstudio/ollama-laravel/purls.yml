@@ -17,3 +17,4 @@
 - pkg:composer/cloudstudio/ollama-laravel@v1.1.7
 - pkg:composer/cloudstudio/ollama-laravel@v1.1.8
 - pkg:composer/cloudstudio/ollama-laravel@v1.1.9
+- pkg:composer/cloudstudio/ollama-laravel@v1.2.0
