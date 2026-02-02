@@ -240,6 +240,7 @@
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.21
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.22
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.23
+- pkg:composer/itzbund/gsb-public-frontend@v1.7.24
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.3
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.4
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.5

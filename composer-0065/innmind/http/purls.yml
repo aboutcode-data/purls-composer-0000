@@ -57,3 +57,4 @@
 - pkg:composer/innmind/http@7.0.1
 - pkg:composer/innmind/http@7.1.0
 - pkg:composer/innmind/http@8.0.0
+- pkg:composer/innmind/http@9.0.0
