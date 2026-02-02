@@ -1,3 +1,4 @@
 - pkg:composer/accordous/fluxous-client@v1.0.0
 - pkg:composer/accordous/fluxous-client@v1.1
 - pkg:composer/accordous/fluxous-client@v2
+- pkg:composer/accordous/fluxous-client@v2.1
