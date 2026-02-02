@@ -9,3 +9,4 @@
 - pkg:composer/mako/repl@6.0.1
 - pkg:composer/mako/repl@7.0.0
 - pkg:composer/mako/repl@8.0.0
+- pkg:composer/mako/repl@8.0.1

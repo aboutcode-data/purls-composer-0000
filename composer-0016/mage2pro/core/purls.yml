@@ -465,6 +465,10 @@
 - pkg:composer/mage2pro/core@11.4.7
 - pkg:composer/mage2pro/core@11.4.8
 - pkg:composer/mage2pro/core@11.4.9
+- pkg:composer/mage2pro/core@11.5.0
+- pkg:composer/mage2pro/core@11.5.1
+- pkg:composer/mage2pro/core@11.5.2
+- pkg:composer/mage2pro/core@11.5.3
 - pkg:composer/mage2pro/core@2.0.0
 - pkg:composer/mage2pro/core@2.0.1
 - pkg:composer/mage2pro/core@2.0.10

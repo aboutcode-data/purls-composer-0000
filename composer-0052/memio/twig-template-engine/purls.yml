@@ -19,3 +19,5 @@
 - pkg:composer/memio/twig-template-engine@v2.0.3
 - pkg:composer/memio/twig-template-engine@v3.0.0
 - pkg:composer/memio/twig-template-engine@v3.0.1
+- pkg:composer/memio/twig-template-engine@v3.0.2
+- pkg:composer/memio/twig-template-engine@v4.0.0
