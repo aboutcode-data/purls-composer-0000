@@ -80,3 +80,5 @@
 - pkg:composer/encjacom/ipresso_api@v3.4.0
 - pkg:composer/encjacom/ipresso_api@v3.5.0
 - pkg:composer/encjacom/ipresso_api@v3.5.1
+- pkg:composer/encjacom/ipresso_api@v3.6.0
+- pkg:composer/encjacom/ipresso_api@v3.6.1
