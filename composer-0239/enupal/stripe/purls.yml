@@ -155,3 +155,4 @@
 - pkg:composer/enupal/stripe@6.0.1
 - pkg:composer/enupal/stripe@6.0.2
 - pkg:composer/enupal/stripe@6.0.3
+- pkg:composer/enupal/stripe@6.1.0
