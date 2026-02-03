@@ -7,3 +7,6 @@
 - pkg:composer/lapix/simple-jwt-laravel@v3.0.0
 - pkg:composer/lapix/simple-jwt-laravel@v3.0.1
 - pkg:composer/lapix/simple-jwt-laravel@v3.0.2
+- pkg:composer/lapix/simple-jwt-laravel@v3.0.3
+- pkg:composer/lapix/simple-jwt-laravel@v3.0.4
+- pkg:composer/lapix/simple-jwt-laravel@v4.0.0
