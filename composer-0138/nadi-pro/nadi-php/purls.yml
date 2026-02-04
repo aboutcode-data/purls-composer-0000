@@ -11,3 +11,5 @@
 - pkg:composer/nadi-pro/nadi-php@1.1.4
 - pkg:composer/nadi-pro/nadi-php@1.1.5
 - pkg:composer/nadi-pro/nadi-php@2.0.0
+- pkg:composer/nadi-pro/nadi-php@2.0.1
+- pkg:composer/nadi-pro/nadi-php@2.1.0

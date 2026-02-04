@@ -18,3 +18,4 @@
 - pkg:composer/mollie/magento2-hyva-checkout@1.8.2
 - pkg:composer/mollie/magento2-hyva-checkout@1.8.3
 - pkg:composer/mollie/magento2-hyva-checkout@1.9.0
+- pkg:composer/mollie/magento2-hyva-checkout@v3.0.0-RC2
