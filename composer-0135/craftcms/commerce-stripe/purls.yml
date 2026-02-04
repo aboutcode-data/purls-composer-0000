@@ -65,6 +65,7 @@
 - pkg:composer/craftcms/commerce-stripe@4.1.6
 - pkg:composer/craftcms/commerce-stripe@4.1.7
 - pkg:composer/craftcms/commerce-stripe@4.1.8
+- pkg:composer/craftcms/commerce-stripe@4.1.8.1
 - pkg:composer/craftcms/commerce-stripe@5.0.0
 - pkg:composer/craftcms/commerce-stripe@5.0.1
 - pkg:composer/craftcms/commerce-stripe@5.0.1.1
@@ -80,3 +81,4 @@
 - pkg:composer/craftcms/commerce-stripe@5.0.7
 - pkg:composer/craftcms/commerce-stripe@5.1.0
 - pkg:composer/craftcms/commerce-stripe@5.1.0.1
+- pkg:composer/craftcms/commerce-stripe@5.1.0.2
