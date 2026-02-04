@@ -1,4 +1,5 @@
 - pkg:composer/nexara/api-platform-voter@0.2.0
+- pkg:composer/nexara/api-platform-voter@0.2.1
 - pkg:composer/nexara/api-platform-voter@v0.1.0
 - pkg:composer/nexara/api-platform-voter@v0.1.1
 - pkg:composer/nexara/api-platform-voter@v0.1.2
