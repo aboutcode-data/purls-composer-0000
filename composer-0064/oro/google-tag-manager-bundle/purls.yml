@@ -77,3 +77,4 @@
 - pkg:composer/oro/google-tag-manager-bundle@6.1.0-rc.3
 - pkg:composer/oro/google-tag-manager-bundle@6.1.1
 - pkg:composer/oro/google-tag-manager-bundle@6.1.2
+- pkg:composer/oro/google-tag-manager-bundle@7.0.0-rc

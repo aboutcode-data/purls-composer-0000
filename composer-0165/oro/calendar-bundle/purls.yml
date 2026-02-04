@@ -160,3 +160,4 @@
 - pkg:composer/oro/calendar-bundle@6.1.5-rc1
 - pkg:composer/oro/calendar-bundle@6.1.5-rc3
 - pkg:composer/oro/calendar-bundle@6.1.6
+- pkg:composer/oro/calendar-bundle@7.0.0-rc

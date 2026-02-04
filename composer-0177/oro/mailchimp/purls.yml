@@ -67,3 +67,4 @@
 - pkg:composer/oro/mailchimp@6.1.5
 - pkg:composer/oro/mailchimp@6.1.5-rc1
 - pkg:composer/oro/mailchimp@6.1.5-rc3
+- pkg:composer/oro/mailchimp@7.0.0-rc
