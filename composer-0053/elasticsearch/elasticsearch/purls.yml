@@ -144,3 +144,4 @@
 - pkg:composer/elasticsearch/elasticsearch@v9.0.0
 - pkg:composer/elasticsearch/elasticsearch@v9.1.0
 - pkg:composer/elasticsearch/elasticsearch@v9.2.0
+- pkg:composer/elasticsearch/elasticsearch@v9.3.0
