@@ -13,6 +13,7 @@
 - pkg:composer/jolicode/gif-exception-bundle@1.4.2
 - pkg:composer/jolicode/gif-exception-bundle@1.4.3
 - pkg:composer/jolicode/gif-exception-bundle@1.5.0
+- pkg:composer/jolicode/gif-exception-bundle@v1.10.0
 - pkg:composer/jolicode/gif-exception-bundle@v1.6.0
 - pkg:composer/jolicode/gif-exception-bundle@v1.6.1
 - pkg:composer/jolicode/gif-exception-bundle@v1.6.2
