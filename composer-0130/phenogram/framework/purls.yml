@@ -28,3 +28,5 @@
 - pkg:composer/phenogram/framework@5.1.0
 - pkg:composer/phenogram/framework@5.2.0
 - pkg:composer/phenogram/framework@5.3.0
+- pkg:composer/phenogram/framework@5.3.1
+- pkg:composer/phenogram/framework@5.3.2

@@ -50,6 +50,7 @@
 - pkg:composer/php-extended/php-api-net-fakemail-object@8.0.1
 - pkg:composer/php-extended/php-api-net-fakemail-object@8.0.10
 - pkg:composer/php-extended/php-api-net-fakemail-object@8.0.11
+- pkg:composer/php-extended/php-api-net-fakemail-object@8.0.12
 - pkg:composer/php-extended/php-api-net-fakemail-object@8.0.5
 - pkg:composer/php-extended/php-api-net-fakemail-object@8.0.6
 - pkg:composer/php-extended/php-api-net-fakemail-object@8.0.7

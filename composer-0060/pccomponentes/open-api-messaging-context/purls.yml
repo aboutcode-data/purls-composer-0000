@@ -27,3 +27,4 @@
 - pkg:composer/pccomponentes/open-api-messaging-context@v3.1.0
 - pkg:composer/pccomponentes/open-api-messaging-context@v3.2.0
 - pkg:composer/pccomponentes/open-api-messaging-context@v3.3.0
+- pkg:composer/pccomponentes/open-api-messaging-context@v4.0.0

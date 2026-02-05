@@ -37,3 +37,6 @@
 - pkg:composer/plug-and-pay/sdk-php@1.5.4-beta.2
 - pkg:composer/plug-and-pay/sdk-php@1.5.5
 - pkg:composer/plug-and-pay/sdk-php@1.5.6
+- pkg:composer/plug-and-pay/sdk-php@1.5.7
+- pkg:composer/plug-and-pay/sdk-php@1.5.8
+- pkg:composer/plug-and-pay/sdk-php@1.5.9
