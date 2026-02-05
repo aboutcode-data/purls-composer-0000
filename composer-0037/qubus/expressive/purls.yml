@@ -18,3 +18,7 @@
 - pkg:composer/qubus/expressive@v3.0.0-beta.2
 - pkg:composer/qubus/expressive@v3.1.0
 - pkg:composer/qubus/expressive@v3.1.1
+- pkg:composer/qubus/expressive@v3.2.0
+- pkg:composer/qubus/expressive@v3.2.1
+- pkg:composer/qubus/expressive@v3.2.2
+- pkg:composer/qubus/expressive@v3.2.3

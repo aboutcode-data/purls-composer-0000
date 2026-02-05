@@ -80,6 +80,7 @@
 - pkg:composer/richardhaeser/sw-tweakwise@4.7.1
 - pkg:composer/richardhaeser/sw-tweakwise@4.8.0
 - pkg:composer/richardhaeser/sw-tweakwise@4.9.0
+- pkg:composer/richardhaeser/sw-tweakwise@4.9.1
 - pkg:composer/richardhaeser/sw-tweakwise@5.0.0
 - pkg:composer/richardhaeser/sw-tweakwise@5.0.1
 - pkg:composer/richardhaeser/sw-tweakwise@5.0.2
@@ -93,3 +94,4 @@
 - pkg:composer/richardhaeser/sw-tweakwise@5.4.2
 - pkg:composer/richardhaeser/sw-tweakwise@5.5.0
 - pkg:composer/richardhaeser/sw-tweakwise@5.5.1
+- pkg:composer/richardhaeser/sw-tweakwise@5.5.2
