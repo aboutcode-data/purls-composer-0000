@@ -29,3 +29,5 @@
 - pkg:composer/evirma/essentials-bundle@v4.0.7
 - pkg:composer/evirma/essentials-bundle@v4.0.8
 - pkg:composer/evirma/essentials-bundle@v5.0.0
+- pkg:composer/evirma/essentials-bundle@v5.0.1
+- pkg:composer/evirma/essentials-bundle@v5.0.2
