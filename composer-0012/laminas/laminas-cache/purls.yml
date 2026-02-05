@@ -104,6 +104,7 @@
 - pkg:composer/laminas/laminas-cache@3.12.1
 - pkg:composer/laminas/laminas-cache@3.12.2
 - pkg:composer/laminas/laminas-cache@3.13.0
+- pkg:composer/laminas/laminas-cache@3.14.0
 - pkg:composer/laminas/laminas-cache@3.2.0
 - pkg:composer/laminas/laminas-cache@3.3.0
 - pkg:composer/laminas/laminas-cache@3.4.0
