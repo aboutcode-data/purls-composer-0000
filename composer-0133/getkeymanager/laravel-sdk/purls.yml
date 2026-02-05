@@ -7,3 +7,4 @@
 - pkg:composer/getkeymanager/laravel-sdk@2.5
 - pkg:composer/getkeymanager/laravel-sdk@2.6
 - pkg:composer/getkeymanager/laravel-sdk@2.7
+- pkg:composer/getkeymanager/laravel-sdk@3.0.0
