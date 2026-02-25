@@ -11,3 +11,5 @@
 - pkg:composer/reachweb/statamic-easy-forms@v1.6.1
 - pkg:composer/reachweb/statamic-easy-forms@v1.6.2
 - pkg:composer/reachweb/statamic-easy-forms@v1.6.3
+- pkg:composer/reachweb/statamic-easy-forms@v2.0.0
+- pkg:composer/reachweb/statamic-easy-forms@v2.0.1

@@ -1,3 +1,4 @@
+- pkg:composer/reallifekip/immutable-base@4.0.0-beta-1
 - pkg:composer/reallifekip/immutable-base@v1.0.0
 - pkg:composer/reallifekip/immutable-base@v1.0.1
 - pkg:composer/reallifekip/immutable-base@v1.0.2

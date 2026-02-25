@@ -16,3 +16,5 @@
 - pkg:composer/rias/statamic-color-swatches@v2.2.0
 - pkg:composer/rias/statamic-color-swatches@v3.0.0
 - pkg:composer/rias/statamic-color-swatches@v3.0.0-beta.1
+- pkg:composer/rias/statamic-color-swatches@v3.1.0
+- pkg:composer/rias/statamic-color-swatches@v3.1.1

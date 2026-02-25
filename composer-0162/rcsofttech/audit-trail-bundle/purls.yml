@@ -1,5 +1,6 @@
 - pkg:composer/rcsofttech/audit-trail-bundle@v1.0.0
 - pkg:composer/rcsofttech/audit-trail-bundle@v1.0.1
+- pkg:composer/rcsofttech/audit-trail-bundle@v1.10.0
 - pkg:composer/rcsofttech/audit-trail-bundle@v1.2.0
 - pkg:composer/rcsofttech/audit-trail-bundle@v1.3.0
 - pkg:composer/rcsofttech/audit-trail-bundle@v1.4.0
@@ -19,3 +20,8 @@
 - pkg:composer/rcsofttech/audit-trail-bundle@v1.9.2
 - pkg:composer/rcsofttech/audit-trail-bundle@v1.9.3
 - pkg:composer/rcsofttech/audit-trail-bundle@v1.9.4
+- pkg:composer/rcsofttech/audit-trail-bundle@v1.9.5
+- pkg:composer/rcsofttech/audit-trail-bundle@v1.9.6
+- pkg:composer/rcsofttech/audit-trail-bundle@v2.0.0
+- pkg:composer/rcsofttech/audit-trail-bundle@v2.0.1
+- pkg:composer/rcsofttech/audit-trail-bundle@v2.0.2

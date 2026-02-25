@@ -1,1 +1,3 @@
 - pkg:composer/rocketeers-app/rocketeers-api-client@v0.1.0
+- pkg:composer/rocketeers-app/rocketeers-api-client@v1.0.0
+- pkg:composer/rocketeers-app/rocketeers-api-client@v1.1.0

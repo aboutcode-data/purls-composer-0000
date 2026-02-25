@@ -12,3 +12,6 @@
 - pkg:composer/qubus/config@v3.0.5
 - pkg:composer/qubus/config@v4.0.0
 - pkg:composer/qubus/config@v4.0.1
+- pkg:composer/qubus/config@v4.1.0
+- pkg:composer/qubus/config@v4.1.1
+- pkg:composer/qubus/config@v4.1.2

@@ -13,3 +13,4 @@
 - pkg:composer/revolution/laravel-notification-discord-webhook@1.2.1
 - pkg:composer/revolution/laravel-notification-discord-webhook@1.3.0
 - pkg:composer/revolution/laravel-notification-discord-webhook@1.3.1
+- pkg:composer/revolution/laravel-notification-discord-webhook@1.4.0

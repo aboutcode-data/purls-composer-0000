@@ -4,3 +4,4 @@
 - pkg:composer/remotemerge/totp-php@v1.1.0
 - pkg:composer/remotemerge/totp-php@v1.1.2
 - pkg:composer/remotemerge/totp-php@v1.1.3
+- pkg:composer/remotemerge/totp-php@v1.2.0

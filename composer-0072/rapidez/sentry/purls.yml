@@ -7,8 +7,11 @@
 - pkg:composer/rapidez/sentry@3.1.0
 - pkg:composer/rapidez/sentry@3.2.0
 - pkg:composer/rapidez/sentry@3.2.1
+- pkg:composer/rapidez/sentry@3.3.0
 - pkg:composer/rapidez/sentry@4.0.0
 - pkg:composer/rapidez/sentry@4.0.1
 - pkg:composer/rapidez/sentry@4.1.0
 - pkg:composer/rapidez/sentry@4.1.1
 - pkg:composer/rapidez/sentry@4.1.2
+- pkg:composer/rapidez/sentry@4.2.0
+- pkg:composer/rapidez/sentry@5.0.0

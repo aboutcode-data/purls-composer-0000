@@ -2,3 +2,4 @@
 - pkg:composer/quotevelocity/novaunit@4.0.1
 - pkg:composer/quotevelocity/novaunit@5.0.0
 - pkg:composer/quotevelocity/novaunit@5.1.0
+- pkg:composer/quotevelocity/novaunit@6.0

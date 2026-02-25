@@ -7,3 +7,4 @@
 - pkg:composer/roukmoute/polyfill-calendar@v0.5.0
 - pkg:composer/roukmoute/polyfill-calendar@v0.6.0
 - pkg:composer/roukmoute/polyfill-calendar@v0.7.0
+- pkg:composer/roukmoute/polyfill-calendar@v1.0.0
