@@ -7,3 +7,4 @@
 - pkg:composer/memio/linter@v2.0.3
 - pkg:composer/memio/linter@v3.0.0
 - pkg:composer/memio/linter@v3.0.1
+- pkg:composer/memio/linter@v4.0.0-alpha1

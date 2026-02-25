@@ -34,3 +34,5 @@
 - pkg:composer/mistralys/application-utils-core@2.3.9
 - pkg:composer/mistralys/application-utils-core@2.4.0
 - pkg:composer/mistralys/application-utils-core@2.4.1
+- pkg:composer/mistralys/application-utils-core@2.4.2
+- pkg:composer/mistralys/application-utils-core@2.5.0

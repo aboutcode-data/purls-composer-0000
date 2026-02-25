@@ -1,2 +1,4 @@
 - pkg:composer/mbuzz/mbuzz-php@v0.7.0
+- pkg:composer/mbuzz/mbuzz-php@v0.7.4
+- pkg:composer/mbuzz/mbuzz-php@v0.7.5
 - pkg:composer/mbuzz/mbuzz-php@v1.0.0

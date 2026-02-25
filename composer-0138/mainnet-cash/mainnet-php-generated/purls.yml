@@ -265,3 +265,11 @@
 - pkg:composer/mainnet-cash/mainnet-php-generated@2.7.8
 - pkg:composer/mainnet-cash/mainnet-php-generated@2.7.9
 - pkg:composer/mainnet-cash/mainnet-php-generated@3.0.0
+- pkg:composer/mainnet-cash/mainnet-php-generated@3.0.1
+- pkg:composer/mainnet-cash/mainnet-php-generated@3.1.0
+- pkg:composer/mainnet-cash/mainnet-php-generated@3.1.1
+- pkg:composer/mainnet-cash/mainnet-php-generated@3.1.2
+- pkg:composer/mainnet-cash/mainnet-php-generated@3.1.3
+- pkg:composer/mainnet-cash/mainnet-php-generated@3.1.4
+- pkg:composer/mainnet-cash/mainnet-php-generated@3.1.5
+- pkg:composer/mainnet-cash/mainnet-php-generated@3.1.6

@@ -20,3 +20,4 @@
 - pkg:composer/mako/sentry@5.0.3
 - pkg:composer/mako/sentry@6.0.0
 - pkg:composer/mako/sentry@7.0.0
+- pkg:composer/mako/sentry@7.0.1
