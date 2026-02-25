@@ -88,5 +88,4 @@
 - pkg:composer/fiedsch/ligaverwaltung-bundle@2.3.4
 - pkg:composer/fiedsch/ligaverwaltung-bundle@2.3.5
 - pkg:composer/fiedsch/ligaverwaltung-bundle@2.3.6
-- pkg:composer/fiedsch/ligaverwaltung-bundle@3.0.0-alpha.1
-- pkg:composer/fiedsch/ligaverwaltung-bundle@3.0.0-alpha.3
+- pkg:composer/fiedsch/ligaverwaltung-bundle@2.3.7

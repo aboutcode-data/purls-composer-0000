@@ -69,6 +69,7 @@
 - pkg:composer/erusev/parsedown@1.7.1
 - pkg:composer/erusev/parsedown@1.7.3
 - pkg:composer/erusev/parsedown@1.7.4
+- pkg:composer/erusev/parsedown@1.8.0
 - pkg:composer/erusev/parsedown@1.8.0-beta-1
 - pkg:composer/erusev/parsedown@1.8.0-beta-2
 - pkg:composer/erusev/parsedown@1.8.0-beta-3

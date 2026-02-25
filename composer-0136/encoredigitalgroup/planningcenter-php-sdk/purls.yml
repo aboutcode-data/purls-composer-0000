@@ -69,3 +69,7 @@
 - pkg:composer/encoredigitalgroup/planningcenter-php-sdk@v2.2.0
 - pkg:composer/encoredigitalgroup/planningcenter-php-sdk@v2.3.0
 - pkg:composer/encoredigitalgroup/planningcenter-php-sdk@v2.4.0
+- pkg:composer/encoredigitalgroup/planningcenter-php-sdk@v2.5.0
+- pkg:composer/encoredigitalgroup/planningcenter-php-sdk@v3.0.0-alpha1
+- pkg:composer/encoredigitalgroup/planningcenter-php-sdk@v3.0.0-alpha2
+- pkg:composer/encoredigitalgroup/planningcenter-php-sdk@v3.0.0-beta1

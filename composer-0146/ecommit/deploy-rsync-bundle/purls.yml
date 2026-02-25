@@ -4,3 +4,4 @@
 - pkg:composer/ecommit/deploy-rsync-bundle@v1.1.0
 - pkg:composer/ecommit/deploy-rsync-bundle@v2.0.0
 - pkg:composer/ecommit/deploy-rsync-bundle@v2.1.0
+- pkg:composer/ecommit/deploy-rsync-bundle@v2.2.0

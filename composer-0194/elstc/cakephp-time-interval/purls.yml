@@ -7,3 +7,4 @@
 - pkg:composer/elstc/cakephp-time-interval@v2.0.1
 - pkg:composer/elstc/cakephp-time-interval@v3.0.0
 - pkg:composer/elstc/cakephp-time-interval@v3.1.0
+- pkg:composer/elstc/cakephp-time-interval@v3.2.0

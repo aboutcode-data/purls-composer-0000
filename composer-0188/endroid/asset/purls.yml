@@ -35,3 +35,5 @@
 - pkg:composer/endroid/asset@2.6.1
 - pkg:composer/endroid/asset@2.7.0
 - pkg:composer/endroid/asset@2.7.1
+- pkg:composer/endroid/asset@2.7.2
+- pkg:composer/endroid/asset@2.7.3

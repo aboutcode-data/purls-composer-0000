@@ -16,6 +16,9 @@
 - pkg:composer/essa/api-tool-kit@2.1.5
 - pkg:composer/essa/api-tool-kit@2.1.6
 - pkg:composer/essa/api-tool-kit@2.2.0
+- pkg:composer/essa/api-tool-kit@2.3.0
+- pkg:composer/essa/api-tool-kit@3.0.0
 - pkg:composer/essa/api-tool-kit@v1.0
 - pkg:composer/essa/api-tool-kit@v1.0.1
 - pkg:composer/essa/api-tool-kit@v1.1
+- pkg:composer/essa/api-tool-kit@v3.1.0

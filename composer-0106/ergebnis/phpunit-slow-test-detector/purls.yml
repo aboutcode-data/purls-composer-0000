@@ -17,6 +17,11 @@
 - pkg:composer/ergebnis/phpunit-slow-test-detector@2.19.1
 - pkg:composer/ergebnis/phpunit-slow-test-detector@2.2.0
 - pkg:composer/ergebnis/phpunit-slow-test-detector@2.20.0
+- pkg:composer/ergebnis/phpunit-slow-test-detector@2.21.0
+- pkg:composer/ergebnis/phpunit-slow-test-detector@2.22.0
+- pkg:composer/ergebnis/phpunit-slow-test-detector@2.22.1
+- pkg:composer/ergebnis/phpunit-slow-test-detector@2.22.2
+- pkg:composer/ergebnis/phpunit-slow-test-detector@2.23.0
 - pkg:composer/ergebnis/phpunit-slow-test-detector@2.3.0
 - pkg:composer/ergebnis/phpunit-slow-test-detector@2.3.1
 - pkg:composer/ergebnis/phpunit-slow-test-detector@2.3.2
