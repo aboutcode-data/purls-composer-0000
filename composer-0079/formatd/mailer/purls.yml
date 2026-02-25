@@ -14,3 +14,4 @@
 - pkg:composer/formatd/mailer@v1.1.8
 - pkg:composer/formatd/mailer@v1.1.9
 - pkg:composer/formatd/mailer@v2.0.0
+- pkg:composer/formatd/mailer@v2.0.1

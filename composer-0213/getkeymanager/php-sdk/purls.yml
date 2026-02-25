@@ -12,3 +12,5 @@
 - pkg:composer/getkeymanager/php-sdk@2.9
 - pkg:composer/getkeymanager/php-sdk@3.0.0
 - pkg:composer/getkeymanager/php-sdk@3.1.0
+- pkg:composer/getkeymanager/php-sdk@3.2.0
+- pkg:composer/getkeymanager/php-sdk@3.3.0

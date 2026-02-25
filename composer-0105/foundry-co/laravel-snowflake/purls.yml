@@ -1,2 +1,4 @@
 - pkg:composer/foundry-co/laravel-snowflake@v0.1
 - pkg:composer/foundry-co/laravel-snowflake@v0.1.1
+- pkg:composer/foundry-co/laravel-snowflake@v0.1.2
+- pkg:composer/foundry-co/laravel-snowflake@v0.1.3

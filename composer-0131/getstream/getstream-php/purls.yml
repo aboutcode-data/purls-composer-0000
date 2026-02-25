@@ -5,3 +5,4 @@
 - pkg:composer/getstream/getstream-php@v2.0.0
 - pkg:composer/getstream/getstream-php@v2.0.2
 - pkg:composer/getstream/getstream-php@v2.1.0
+- pkg:composer/getstream/getstream-php@v3.0.0

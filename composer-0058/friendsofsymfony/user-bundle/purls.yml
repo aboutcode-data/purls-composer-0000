@@ -38,3 +38,4 @@
 - pkg:composer/friendsofsymfony/user-bundle@v3.3.0
 - pkg:composer/friendsofsymfony/user-bundle@v3.4.0
 - pkg:composer/friendsofsymfony/user-bundle@v4.0.0
+- pkg:composer/friendsofsymfony/user-bundle@v4.1.0
