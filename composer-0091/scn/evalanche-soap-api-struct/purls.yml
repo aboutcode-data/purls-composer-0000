@@ -9,6 +9,7 @@
 - pkg:composer/scn/evalanche-soap-api-struct@2.5.0
 - pkg:composer/scn/evalanche-soap-api-struct@2.6.0
 - pkg:composer/scn/evalanche-soap-api-struct@2.7.0
+- pkg:composer/scn/evalanche-soap-api-struct@2.8.0
 - pkg:composer/scn/evalanche-soap-api-struct@v0.1
 - pkg:composer/scn/evalanche-soap-api-struct@v0.1.1
 - pkg:composer/scn/evalanche-soap-api-struct@v0.1.2

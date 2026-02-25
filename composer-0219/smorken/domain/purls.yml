@@ -38,6 +38,7 @@
 - pkg:composer/smorken/domain@v1.0.9
 - pkg:composer/smorken/domain@v1.1.0
 - pkg:composer/smorken/domain@v1.10.0
+- pkg:composer/smorken/domain@v1.11.0
 - pkg:composer/smorken/domain@v1.2.0
 - pkg:composer/smorken/domain@v1.2.1
 - pkg:composer/smorken/domain@v1.2.2

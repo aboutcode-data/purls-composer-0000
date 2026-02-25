@@ -21,6 +21,7 @@
 - pkg:composer/shopsys/product-feed-heureka@v14.0.0
 - pkg:composer/shopsys/product-feed-heureka@v14.0.1
 - pkg:composer/shopsys/product-feed-heureka@v14.5.0
+- pkg:composer/shopsys/product-feed-heureka@v14.5.1
 - pkg:composer/shopsys/product-feed-heureka@v15.0.0
 - pkg:composer/shopsys/product-feed-heureka@v16.0.0
 - pkg:composer/shopsys/product-feed-heureka@v17.0.0

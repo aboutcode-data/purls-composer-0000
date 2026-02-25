@@ -1,0 +1,17 @@
+- pkg:composer/simonetti/feature-flags-bundle@1.0.0
+- pkg:composer/simonetti/feature-flags-bundle@1.1.0
+- pkg:composer/simonetti/feature-flags-bundle@1.2.0
+- pkg:composer/simonetti/feature-flags-bundle@1.2.1
+- pkg:composer/simonetti/feature-flags-bundle@2.0.0
+- pkg:composer/simonetti/feature-flags-bundle@2.1.0
+- pkg:composer/simonetti/feature-flags-bundle@2.2.0
+- pkg:composer/simonetti/feature-flags-bundle@2.2.1
+- pkg:composer/simonetti/feature-flags-bundle@2.3.0
+- pkg:composer/simonetti/feature-flags-bundle@3.0.0
+- pkg:composer/simonetti/feature-flags-bundle@3.1.0
+- pkg:composer/simonetti/feature-flags-bundle@4.0.0
+- pkg:composer/simonetti/feature-flags-bundle@4.1
+- pkg:composer/simonetti/feature-flags-bundle@4.2
+- pkg:composer/simonetti/feature-flags-bundle@5.0
+- pkg:composer/simonetti/feature-flags-bundle@5.1
+- pkg:composer/simonetti/feature-flags-bundle@v6.2.0

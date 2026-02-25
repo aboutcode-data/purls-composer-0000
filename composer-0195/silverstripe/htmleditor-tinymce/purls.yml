@@ -3,3 +3,5 @@
 - pkg:composer/silverstripe/htmleditor-tinymce@1.0.0-rc1
 - pkg:composer/silverstripe/htmleditor-tinymce@1.0.1
 - pkg:composer/silverstripe/htmleditor-tinymce@1.0.2
+- pkg:composer/silverstripe/htmleditor-tinymce@1.0.3
+- pkg:composer/silverstripe/htmleditor-tinymce@1.1.0-beta1

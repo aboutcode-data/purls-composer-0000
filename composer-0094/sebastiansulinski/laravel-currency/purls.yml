@@ -14,3 +14,4 @@
 - pkg:composer/sebastiansulinski/laravel-currency@v3.0.0
 - pkg:composer/sebastiansulinski/laravel-currency@v3.1.0
 - pkg:composer/sebastiansulinski/laravel-currency@v3.2.0
+- pkg:composer/sebastiansulinski/laravel-currency@v3.2.1

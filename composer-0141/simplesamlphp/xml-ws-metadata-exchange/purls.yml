@@ -1,2 +1,3 @@
 - pkg:composer/simplesamlphp/xml-ws-metadata-exchange@v1.0.0
 - pkg:composer/simplesamlphp/xml-ws-metadata-exchange@v1.1.0
+- pkg:composer/simplesamlphp/xml-ws-metadata-exchange@v1.2.0

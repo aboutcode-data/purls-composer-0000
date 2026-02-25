@@ -5,6 +5,7 @@
 - pkg:composer/smartassert/sources-client@11.0
 - pkg:composer/smartassert/sources-client@12.0
 - pkg:composer/smartassert/sources-client@13.0
+- pkg:composer/smartassert/sources-client@13.1
 - pkg:composer/smartassert/sources-client@2.0
 - pkg:composer/smartassert/sources-client@3.0
 - pkg:composer/smartassert/sources-client@4.0

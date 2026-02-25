@@ -16,6 +16,7 @@
 - pkg:composer/shopsys/product-feed-google@v14.0.0
 - pkg:composer/shopsys/product-feed-google@v14.0.1
 - pkg:composer/shopsys/product-feed-google@v14.5.0
+- pkg:composer/shopsys/product-feed-google@v14.5.1
 - pkg:composer/shopsys/product-feed-google@v15.0.0
 - pkg:composer/shopsys/product-feed-google@v16.0.0
 - pkg:composer/shopsys/product-feed-google@v17.0.0

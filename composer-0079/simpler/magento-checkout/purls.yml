@@ -42,6 +42,8 @@
 - pkg:composer/simpler/magento-checkout@1.5.18
 - pkg:composer/simpler/magento-checkout@1.5.19
 - pkg:composer/simpler/magento-checkout@1.5.20
+- pkg:composer/simpler/magento-checkout@1.5.21
+- pkg:composer/simpler/magento-checkout@1.5.23
 - pkg:composer/simpler/magento-checkout@1.5.3
 - pkg:composer/simpler/magento-checkout@1.5.4
 - pkg:composer/simpler/magento-checkout@1.5.5

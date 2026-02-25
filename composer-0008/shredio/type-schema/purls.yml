@@ -14,6 +14,12 @@
 - pkg:composer/shredio/type-schema@v0.9.20
 - pkg:composer/shredio/type-schema@v0.9.21
 - pkg:composer/shredio/type-schema@v0.9.22
+- pkg:composer/shredio/type-schema@v0.9.23
+- pkg:composer/shredio/type-schema@v0.9.24
+- pkg:composer/shredio/type-schema@v0.9.25
+- pkg:composer/shredio/type-schema@v0.9.26
+- pkg:composer/shredio/type-schema@v0.9.27
+- pkg:composer/shredio/type-schema@v0.9.28
 - pkg:composer/shredio/type-schema@v0.9.3
 - pkg:composer/shredio/type-schema@v0.9.4
 - pkg:composer/shredio/type-schema@v0.9.5

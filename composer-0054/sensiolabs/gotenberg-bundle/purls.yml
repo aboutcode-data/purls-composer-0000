@@ -6,3 +6,5 @@
 - pkg:composer/sensiolabs/gotenberg-bundle@v1.0.0
 - pkg:composer/sensiolabs/gotenberg-bundle@v1.1.0
 - pkg:composer/sensiolabs/gotenberg-bundle@v1.1.1
+- pkg:composer/sensiolabs/gotenberg-bundle@v1.2.0
+- pkg:composer/sensiolabs/gotenberg-bundle@v1.2.1

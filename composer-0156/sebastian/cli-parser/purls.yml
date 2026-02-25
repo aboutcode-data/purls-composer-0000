@@ -9,3 +9,4 @@
 - pkg:composer/sebastian/cli-parser@4.0.0
 - pkg:composer/sebastian/cli-parser@4.1.0
 - pkg:composer/sebastian/cli-parser@4.2.0
+- pkg:composer/sebastian/cli-parser@5.0.0

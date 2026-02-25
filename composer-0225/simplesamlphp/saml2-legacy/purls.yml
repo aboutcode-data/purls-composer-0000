@@ -125,6 +125,7 @@
 - pkg:composer/simplesamlphp/saml2-legacy@v4.2.6
 - pkg:composer/simplesamlphp/saml2-legacy@v4.2.7
 - pkg:composer/simplesamlphp/saml2-legacy@v4.2.8
+- pkg:composer/simplesamlphp/saml2-legacy@v4.20.0
 - pkg:composer/simplesamlphp/saml2-legacy@v4.3.0
 - pkg:composer/simplesamlphp/saml2-legacy@v4.3.1
 - pkg:composer/simplesamlphp/saml2-legacy@v4.4.0
@@ -147,6 +148,7 @@
 - pkg:composer/simplesamlphp/saml2-legacy@v4.6.6
 - pkg:composer/simplesamlphp/saml2-legacy@v4.6.7
 - pkg:composer/simplesamlphp/saml2-legacy@v4.6.8
+- pkg:composer/simplesamlphp/saml2-legacy@v5.0.0
 - pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.1
 - pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.10
 - pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.11
@@ -157,9 +159,20 @@
 - pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.16
 - pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.17
 - pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.18
+- pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.19
 - pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.2
+- pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.20
+- pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.21
 - pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.4
 - pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.6
 - pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.7
 - pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.8
 - pkg:composer/simplesamlphp/saml2-legacy@v5.0.0-alpha.9
+- pkg:composer/simplesamlphp/saml2-legacy@v5.0.1
+- pkg:composer/simplesamlphp/saml2-legacy@v5.0.2
+- pkg:composer/simplesamlphp/saml2-legacy@v5.0.3
+- pkg:composer/simplesamlphp/saml2-legacy@v5.0.4
+- pkg:composer/simplesamlphp/saml2-legacy@v5.0.5
+- pkg:composer/simplesamlphp/saml2-legacy@v6.0.0
+- pkg:composer/simplesamlphp/saml2-legacy@v6.0.1
+- pkg:composer/simplesamlphp/saml2-legacy@v6.1.0

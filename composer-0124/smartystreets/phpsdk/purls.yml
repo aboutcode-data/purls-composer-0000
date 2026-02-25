@@ -118,3 +118,4 @@
 - pkg:composer/smartystreets/phpsdk@5.8.0
 - pkg:composer/smartystreets/phpsdk@5.9.0
 - pkg:composer/smartystreets/phpsdk@6.0.0
+- pkg:composer/smartystreets/phpsdk@6.1.0
