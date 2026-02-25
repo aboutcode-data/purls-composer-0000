@@ -1,1 +1,2 @@
 - pkg:composer/phauthentic/event-store@1.0.0-beta1
+- pkg:composer/phauthentic/event-store@1.0.0-rc1

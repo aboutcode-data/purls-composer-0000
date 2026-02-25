@@ -14,5 +14,7 @@
 - pkg:composer/pstk/paystack-magento2-module@2.3.5
 - pkg:composer/pstk/paystack-magento2-module@2.4.1
 - pkg:composer/pstk/paystack-magento2-module@2.5.0
+- pkg:composer/pstk/paystack-magento2-module@3.0.0
+- pkg:composer/pstk/paystack-magento2-module@3.0.1
 - pkg:composer/pstk/paystack-magento2-module@v1.0.2
 - pkg:composer/pstk/paystack-magento2-module@v2.0.0

@@ -17,3 +17,5 @@
 - pkg:composer/pivvenit/wordpress-readonly@2.0.7
 - pkg:composer/pivvenit/wordpress-readonly@2.0.8
 - pkg:composer/pivvenit/wordpress-readonly@2.0.9
+- pkg:composer/pivvenit/wordpress-readonly@2.1.0
+- pkg:composer/pivvenit/wordpress-readonly@2.1.1

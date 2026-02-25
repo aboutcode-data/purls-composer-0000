@@ -19,3 +19,4 @@
 - pkg:composer/profi-tech/tsqm-php@v0.6.1
 - pkg:composer/profi-tech/tsqm-php@v0.7.0
 - pkg:composer/profi-tech/tsqm-php@v0.7.1
+- pkg:composer/profi-tech/tsqm-php@v1.0.0

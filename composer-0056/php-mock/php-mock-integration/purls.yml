@@ -13,3 +13,4 @@
 - pkg:composer/php-mock/php-mock-integration@2.5.0-beta1
 - pkg:composer/php-mock/php-mock-integration@3.0.0
 - pkg:composer/php-mock/php-mock-integration@3.0.0-beta1
+- pkg:composer/php-mock/php-mock-integration@3.1.0

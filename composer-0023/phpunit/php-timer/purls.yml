@@ -26,3 +26,4 @@
 - pkg:composer/phpunit/php-timer@7.0.0
 - pkg:composer/phpunit/php-timer@7.0.1
 - pkg:composer/phpunit/php-timer@8.0.0
+- pkg:composer/phpunit/php-timer@9.0.0

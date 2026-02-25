@@ -3,3 +3,4 @@
 - pkg:composer/phlib/mutex@2.0.0
 - pkg:composer/phlib/mutex@3.0.0
 - pkg:composer/phlib/mutex@3.0.1
+- pkg:composer/phlib/mutex@3.0.2
