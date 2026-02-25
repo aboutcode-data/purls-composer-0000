@@ -64,3 +64,4 @@
 - pkg:composer/nexi-checkout/magento2@1.8.2
 - pkg:composer/nexi-checkout/magento2@1.8.3
 - pkg:composer/nexi-checkout/magento2@1.8.4
+- pkg:composer/nexi-checkout/magento2@1.8.5

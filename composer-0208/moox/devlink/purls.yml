@@ -22,4 +22,8 @@
 - pkg:composer/moox/devlink@2.3.4
 - pkg:composer/moox/devlink@4.0.0-beta.2
 - pkg:composer/moox/devlink@4.0.0-beta.3
+- pkg:composer/moox/devlink@5.0.0-beta
+- pkg:composer/moox/devlink@5.0.1-beta
+- pkg:composer/moox/devlink@5.0.11
+- pkg:composer/moox/devlink@5.0.12
 - pkg:composer/moox/devlink@v4.0.0-beta.1

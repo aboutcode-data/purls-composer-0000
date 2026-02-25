@@ -17,3 +17,4 @@
 - pkg:composer/nextapps/laravel-swagger-ui@1.1.0
 - pkg:composer/nextapps/laravel-swagger-ui@1.2.0
 - pkg:composer/nextapps/laravel-swagger-ui@2.0.0
+- pkg:composer/nextapps/laravel-swagger-ui@2.0.1

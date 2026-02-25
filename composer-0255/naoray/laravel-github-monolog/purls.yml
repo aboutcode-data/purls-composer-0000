@@ -16,3 +16,4 @@
 - pkg:composer/naoray/laravel-github-monolog@v3.6.0
 - pkg:composer/naoray/laravel-github-monolog@v3.6.1
 - pkg:composer/naoray/laravel-github-monolog@v3.7.0
+- pkg:composer/naoray/laravel-github-monolog@v3.8.0

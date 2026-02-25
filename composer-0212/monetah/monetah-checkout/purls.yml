@@ -3,3 +3,4 @@
 - pkg:composer/monetah/monetah-checkout@v0.5
 - pkg:composer/monetah/monetah-checkout@v0.7
 - pkg:composer/monetah/monetah-checkout@v0.8
+- pkg:composer/monetah/monetah-checkout@v1.0

@@ -24,3 +24,4 @@
 - pkg:composer/mollie/magento2-subscriptions@v1.7.0
 - pkg:composer/mollie/magento2-subscriptions@v1.8.0
 - pkg:composer/mollie/magento2-subscriptions@v1.9.0
+- pkg:composer/mollie/magento2-subscriptions@v3.0.0-RC2

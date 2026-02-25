@@ -13,3 +13,5 @@
 - pkg:composer/nette/schema@v1.3.0
 - pkg:composer/nette/schema@v1.3.2
 - pkg:composer/nette/schema@v1.3.3
+- pkg:composer/nette/schema@v1.3.4
+- pkg:composer/nette/schema@v1.3.5

@@ -66,7 +66,9 @@
 - pkg:composer/mjkhajeh/whitebox@v2.0.0
 - pkg:composer/mjkhajeh/whitebox@v2.1.0
 - pkg:composer/mjkhajeh/whitebox@v2.2.0
+- pkg:composer/mjkhajeh/whitebox@v2.2.10
 - pkg:composer/mjkhajeh/whitebox@v2.2.5
 - pkg:composer/mjkhajeh/whitebox@v2.2.6
 - pkg:composer/mjkhajeh/whitebox@v2.2.7
 - pkg:composer/mjkhajeh/whitebox@v2.2.8
+- pkg:composer/mjkhajeh/whitebox@v2.2.9

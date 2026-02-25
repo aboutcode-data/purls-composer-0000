@@ -41,3 +41,4 @@
 - pkg:composer/netgen/media-site-data@3.1.6
 - pkg:composer/netgen/media-site-data@3.2.0
 - pkg:composer/netgen/media-site-data@3.3.0
+- pkg:composer/netgen/media-site-data@4.0.0

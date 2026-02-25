@@ -41,3 +41,4 @@
 - pkg:composer/netinventors/shopware6-plugin-installer@7.0.6
 - pkg:composer/netinventors/shopware6-plugin-installer@7.0.9
 - pkg:composer/netinventors/shopware6-plugin-installer@7.1.0
+- pkg:composer/netinventors/shopware6-plugin-installer@7.1.1

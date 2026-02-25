@@ -13,3 +13,7 @@
 - pkg:composer/netresearch/agent-php-modernization@v1.6.0
 - pkg:composer/netresearch/agent-php-modernization@v1.7.0
 - pkg:composer/netresearch/agent-php-modernization@v1.7.1
+- pkg:composer/netresearch/agent-php-modernization@v1.7.2
+- pkg:composer/netresearch/agent-php-modernization@v1.7.3
+- pkg:composer/netresearch/agent-php-modernization@v1.7.4
+- pkg:composer/netresearch/agent-php-modernization@v1.7.5

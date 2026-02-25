@@ -9,4 +9,8 @@
 - pkg:composer/moox/notifications@0.3.2
 - pkg:composer/moox/notifications@4.0.0-beta.2
 - pkg:composer/moox/notifications@4.0.0-beta.3
+- pkg:composer/moox/notifications@5.0.0-beta
+- pkg:composer/moox/notifications@5.0.1-beta
+- pkg:composer/moox/notifications@5.0.11
+- pkg:composer/moox/notifications@5.0.12
 - pkg:composer/moox/notifications@v4.0.0-beta.1

@@ -69,6 +69,7 @@
 - pkg:composer/monarc/frontoffice@v2.13.3-p4
 - pkg:composer/monarc/frontoffice@v2.13.3-p5
 - pkg:composer/monarc/frontoffice@v2.13.3-p6
+- pkg:composer/monarc/frontoffice@v2.13.4
 - pkg:composer/monarc/frontoffice@v2.9.10
 - pkg:composer/monarc/frontoffice@v2.9.11
 - pkg:composer/monarc/frontoffice@v2.9.15
