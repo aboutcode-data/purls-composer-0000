@@ -33,8 +33,11 @@
 - pkg:composer/internachi/modular@2.2.0
 - pkg:composer/internachi/modular@2.2.1
 - pkg:composer/internachi/modular@2.3.0
+- pkg:composer/internachi/modular@3.0.0
 - pkg:composer/internachi/modular@3.0.0-alpha.1
 - pkg:composer/internachi/modular@3.0.0-alpha.2
 - pkg:composer/internachi/modular@3.0.0-alpha.3
 - pkg:composer/internachi/modular@3.0.0-alpha.4
 - pkg:composer/internachi/modular@3.0.0-alpha.5
+- pkg:composer/internachi/modular@3.0.0-beta.1
+- pkg:composer/internachi/modular@3.0.1

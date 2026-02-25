@@ -4,3 +4,5 @@
 - pkg:composer/johnhenry/matrix-block-anchor@2.0.0
 - pkg:composer/johnhenry/matrix-block-anchor@2.0.1
 - pkg:composer/johnhenry/matrix-block-anchor@3.0.0
+- pkg:composer/johnhenry/matrix-block-anchor@3.1.0
+- pkg:composer/johnhenry/matrix-block-anchor@3.1.1

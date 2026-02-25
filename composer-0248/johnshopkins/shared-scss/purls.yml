@@ -79,8 +79,12 @@
 - pkg:composer/johnshopkins/shared-scss@v2.7.9
 - pkg:composer/johnshopkins/shared-scss@v2.8.0
 - pkg:composer/johnshopkins/shared-scss@v2.8.1
+- pkg:composer/johnshopkins/shared-scss@v2.8.10
 - pkg:composer/johnshopkins/shared-scss@v2.8.2
 - pkg:composer/johnshopkins/shared-scss@v2.8.3
 - pkg:composer/johnshopkins/shared-scss@v2.8.4
 - pkg:composer/johnshopkins/shared-scss@v2.8.5
 - pkg:composer/johnshopkins/shared-scss@v2.8.6
+- pkg:composer/johnshopkins/shared-scss@v2.8.7
+- pkg:composer/johnshopkins/shared-scss@v2.8.8
+- pkg:composer/johnshopkins/shared-scss@v2.8.9

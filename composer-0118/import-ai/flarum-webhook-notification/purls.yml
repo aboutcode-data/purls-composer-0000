@@ -1,2 +1,6 @@
 - pkg:composer/import-ai/flarum-webhook-notification@0.1.0
 - pkg:composer/import-ai/flarum-webhook-notification@v0.1.1
+- pkg:composer/import-ai/flarum-webhook-notification@v0.1.2
+- pkg:composer/import-ai/flarum-webhook-notification@v0.1.3
+- pkg:composer/import-ai/flarum-webhook-notification@v0.1.4
+- pkg:composer/import-ai/flarum-webhook-notification@v0.1.5

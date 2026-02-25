@@ -4,3 +4,5 @@
 - pkg:composer/iter8/ldaprecord-bundle@v2.0.0
 - pkg:composer/iter8/ldaprecord-bundle@v3.0.0
 - pkg:composer/iter8/ldaprecord-bundle@v4.0.0
+- pkg:composer/iter8/ldaprecord-bundle@v4.1.0
+- pkg:composer/iter8/ldaprecord-bundle@v4.2.0

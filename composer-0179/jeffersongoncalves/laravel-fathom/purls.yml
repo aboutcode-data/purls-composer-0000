@@ -1,1 +1,4 @@
 - pkg:composer/jeffersongoncalves/laravel-fathom@1.0.0
+- pkg:composer/jeffersongoncalves/laravel-fathom@2.0.0
+- pkg:composer/jeffersongoncalves/laravel-fathom@3.0.0
+- pkg:composer/jeffersongoncalves/laravel-fathom@3.0.1

@@ -26,3 +26,7 @@
 - pkg:composer/insalyon/acme@v2.0.9-alpha
 - pkg:composer/insalyon/acme@v2.1.0-alpha
 - pkg:composer/insalyon/acme@v2.1.1-alpha
+- pkg:composer/insalyon/acme@v2.1.2-alpha
+- pkg:composer/insalyon/acme@v2.1.3-alpha
+- pkg:composer/insalyon/acme@v2.1.4-alpha
+- pkg:composer/insalyon/acme@v2.1.5-alpha

@@ -5,3 +5,4 @@
 - pkg:composer/innmind/stack-trace@4.0.0
 - pkg:composer/innmind/stack-trace@4.1.0
 - pkg:composer/innmind/stack-trace@4.2.0
+- pkg:composer/innmind/stack-trace@5.0.0

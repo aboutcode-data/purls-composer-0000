@@ -14,3 +14,4 @@
 - pkg:composer/iqual/drupal-platform@v1.6.3
 - pkg:composer/iqual/drupal-platform@v1.7.0
 - pkg:composer/iqual/drupal-platform@v1.7.1
+- pkg:composer/iqual/drupal-platform@v2.0.0-alpha1

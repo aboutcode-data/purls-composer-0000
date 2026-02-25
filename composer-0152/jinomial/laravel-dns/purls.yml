@@ -3,3 +3,5 @@
 - pkg:composer/jinomial/laravel-dns@v2.0.1
 - pkg:composer/jinomial/laravel-dns@v3.0.0
 - pkg:composer/jinomial/laravel-dns@v3.1.0
+- pkg:composer/jinomial/laravel-dns@v4.0.0
+- pkg:composer/jinomial/laravel-dns@v4.0.1

@@ -22,6 +22,9 @@
 - pkg:composer/initbiz/cumuluscore-plugin@3.17.4
 - pkg:composer/initbiz/cumuluscore-plugin@3.17.5
 - pkg:composer/initbiz/cumuluscore-plugin@3.18.0
+- pkg:composer/initbiz/cumuluscore-plugin@3.19.0
+- pkg:composer/initbiz/cumuluscore-plugin@3.20.0
+- pkg:composer/initbiz/cumuluscore-plugin@3.20.1
 - pkg:composer/initbiz/cumuluscore-plugin@3.4.0
 - pkg:composer/initbiz/cumuluscore-plugin@3.4.1
 - pkg:composer/initbiz/cumuluscore-plugin@3.4.2

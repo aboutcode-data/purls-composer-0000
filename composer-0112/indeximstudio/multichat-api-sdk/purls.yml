@@ -12,3 +12,7 @@
 - pkg:composer/indeximstudio/multichat-api-sdk@1.10.1
 - pkg:composer/indeximstudio/multichat-api-sdk@1.11.0
 - pkg:composer/indeximstudio/multichat-api-sdk@1.11.1
+- pkg:composer/indeximstudio/multichat-api-sdk@2.0
+- pkg:composer/indeximstudio/multichat-api-sdk@2.1
+- pkg:composer/indeximstudio/multichat-api-sdk@2.2
+- pkg:composer/indeximstudio/multichat-api-sdk@2.3

@@ -5,3 +5,4 @@
 - pkg:composer/ingenerator/phinx-lightweight@v1.2.0
 - pkg:composer/ingenerator/phinx-lightweight@v1.3.0
 - pkg:composer/ingenerator/phinx-lightweight@v1.3.1
+- pkg:composer/ingenerator/phinx-lightweight@v1.4.0

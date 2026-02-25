@@ -9,3 +9,5 @@
 - pkg:composer/innmind/file-watch@3.2.0
 - pkg:composer/innmind/file-watch@4.0.0
 - pkg:composer/innmind/file-watch@5.0.0
+- pkg:composer/innmind/file-watch@6.0.0
+- pkg:composer/innmind/file-watch@6.0.1
