@@ -1,5 +1,6 @@
 - pkg:composer/limenius/liform-bundle@2.0.2
 - pkg:composer/limenius/liform-bundle@2.0.3
+- pkg:composer/limenius/liform-bundle@2.1
 - pkg:composer/limenius/liform-bundle@v0.10.0
 - pkg:composer/limenius/liform-bundle@v0.10.1
 - pkg:composer/limenius/liform-bundle@v0.10.2

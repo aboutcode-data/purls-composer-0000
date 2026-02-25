@@ -14,3 +14,5 @@
 - pkg:composer/laurentmuller/fpdf2-make-font@1.1.4
 - pkg:composer/laurentmuller/fpdf2-make-font@1.1.5
 - pkg:composer/laurentmuller/fpdf2-make-font@1.1.6
+- pkg:composer/laurentmuller/fpdf2-make-font@1.1.7
+- pkg:composer/laurentmuller/fpdf2-make-font@2.0.0

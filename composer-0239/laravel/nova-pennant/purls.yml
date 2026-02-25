@@ -2,3 +2,4 @@
 - pkg:composer/laravel/nova-pennant@v1.0.1
 - pkg:composer/laravel/nova-pennant@v1.1.0
 - pkg:composer/laravel/nova-pennant@v1.1.1
+- pkg:composer/laravel/nova-pennant@v1.2.0

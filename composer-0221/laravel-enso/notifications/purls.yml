@@ -98,3 +98,4 @@
 - pkg:composer/laravel-enso/notifications@4.1.2
 - pkg:composer/laravel-enso/notifications@4.2.0
 - pkg:composer/laravel-enso/notifications@4.3.0
+- pkg:composer/laravel-enso/notifications@4.4.0

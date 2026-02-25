@@ -80,7 +80,14 @@
 - pkg:composer/loki/magento2-components@2.2.36
 - pkg:composer/loki/magento2-components@2.2.37
 - pkg:composer/loki/magento2-components@2.2.38
+- pkg:composer/loki/magento2-components@2.2.39
 - pkg:composer/loki/magento2-components@2.2.4
+- pkg:composer/loki/magento2-components@2.2.40
+- pkg:composer/loki/magento2-components@2.2.41
+- pkg:composer/loki/magento2-components@2.2.42
+- pkg:composer/loki/magento2-components@2.2.43
+- pkg:composer/loki/magento2-components@2.2.44
+- pkg:composer/loki/magento2-components@2.2.45
 - pkg:composer/loki/magento2-components@2.2.5
 - pkg:composer/loki/magento2-components@2.2.6
 - pkg:composer/loki/magento2-components@2.2.7

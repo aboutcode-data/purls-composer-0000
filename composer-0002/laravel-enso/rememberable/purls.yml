@@ -69,3 +69,4 @@
 - pkg:composer/laravel-enso/rememberable@3.4.0
 - pkg:composer/laravel-enso/rememberable@3.5.0
 - pkg:composer/laravel-enso/rememberable@3.5.1
+- pkg:composer/laravel-enso/rememberable@3.6.0

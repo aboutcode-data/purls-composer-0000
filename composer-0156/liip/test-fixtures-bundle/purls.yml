@@ -80,3 +80,4 @@
 - pkg:composer/liip/test-fixtures-bundle@3.6.0
 - pkg:composer/liip/test-fixtures-bundle@3.7.0
 - pkg:composer/liip/test-fixtures-bundle@3.8.0
+- pkg:composer/liip/test-fixtures-bundle@3.8.1

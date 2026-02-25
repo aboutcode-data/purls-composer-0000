@@ -247,6 +247,8 @@
 - pkg:composer/lion/bundle@v18.8.0
 - pkg:composer/lion/bundle@v18.9.0
 - pkg:composer/lion/bundle@v19.0.0
+- pkg:composer/lion/bundle@v19.1.0
+- pkg:composer/lion/bundle@v19.1.1
 - pkg:composer/lion/bundle@v2.0
 - pkg:composer/lion/bundle@v2.1
 - pkg:composer/lion/bundle@v2.2

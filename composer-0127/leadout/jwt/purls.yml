@@ -3,3 +3,4 @@
 - pkg:composer/leadout/jwt@v1.0.2
 - pkg:composer/leadout/jwt@v2.0.0
 - pkg:composer/leadout/jwt@v3.0.0
+- pkg:composer/leadout/jwt@v3.1.0
