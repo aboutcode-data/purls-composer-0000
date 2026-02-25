@@ -11,3 +11,4 @@
 - pkg:composer/jonasarts/google-authenticator-bundle@v6.0.4
 - pkg:composer/jonasarts/google-authenticator-bundle@v6.3.0
 - pkg:composer/jonasarts/google-authenticator-bundle@v6.4.0
+- pkg:composer/jonasarts/google-authenticator-bundle@v7.0.0

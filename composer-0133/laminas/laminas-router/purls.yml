@@ -79,6 +79,7 @@
 - pkg:composer/laminas/laminas-router@3.14.0
 - pkg:composer/laminas/laminas-router@3.15.0
 - pkg:composer/laminas/laminas-router@3.16.0
+- pkg:composer/laminas/laminas-router@3.17.0
 - pkg:composer/laminas/laminas-router@3.2.0
 - pkg:composer/laminas/laminas-router@3.2.1
 - pkg:composer/laminas/laminas-router@3.3.0

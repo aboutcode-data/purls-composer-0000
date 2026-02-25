@@ -68,6 +68,7 @@
 - pkg:composer/knpuniversity/oauth2-client-bundle@v2.2.0
 - pkg:composer/knpuniversity/oauth2-client-bundle@v2.20.0
 - pkg:composer/knpuniversity/oauth2-client-bundle@v2.20.1
+- pkg:composer/knpuniversity/oauth2-client-bundle@v2.20.2
 - pkg:composer/knpuniversity/oauth2-client-bundle@v2.3.0
 - pkg:composer/knpuniversity/oauth2-client-bundle@v2.4.0
 - pkg:composer/knpuniversity/oauth2-client-bundle@v2.5.0

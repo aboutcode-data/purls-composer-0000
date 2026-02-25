@@ -85,6 +85,7 @@
 - pkg:composer/kiener/mollie-payments-plugin@v4.20.1
 - pkg:composer/kiener/mollie-payments-plugin@v4.21.0
 - pkg:composer/kiener/mollie-payments-plugin@v4.22.0
+- pkg:composer/kiener/mollie-payments-plugin@v4.22.1
 - pkg:composer/kiener/mollie-payments-plugin@v4.3.0
 - pkg:composer/kiener/mollie-payments-plugin@v4.4.0
 - pkg:composer/kiener/mollie-payments-plugin@v4.4.1

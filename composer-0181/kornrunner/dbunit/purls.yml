@@ -29,3 +29,5 @@
 - pkg:composer/kornrunner/dbunit@9.0.1
 - pkg:composer/kornrunner/dbunit@9.1.0
 - pkg:composer/kornrunner/dbunit@9.2.0
+- pkg:composer/kornrunner/dbunit@9.3.0
+- pkg:composer/kornrunner/dbunit@9.3.1

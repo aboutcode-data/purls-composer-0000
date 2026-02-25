@@ -28,3 +28,4 @@
 - pkg:composer/jonasarts/tcpdf-bundle@v6.4.7
 - pkg:composer/jonasarts/tcpdf-bundle@v6.4.8
 - pkg:composer/jonasarts/tcpdf-bundle@v6.4.9
+- pkg:composer/jonasarts/tcpdf-bundle@v7.0.0

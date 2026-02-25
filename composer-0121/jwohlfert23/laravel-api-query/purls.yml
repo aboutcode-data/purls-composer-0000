@@ -37,3 +37,5 @@
 - pkg:composer/jwohlfert23/laravel-api-query@5.0.1
 - pkg:composer/jwohlfert23/laravel-api-query@5.1.0
 - pkg:composer/jwohlfert23/laravel-api-query@6.0.0
+- pkg:composer/jwohlfert23/laravel-api-query@6.0.1
+- pkg:composer/jwohlfert23/laravel-api-query@6.0.2

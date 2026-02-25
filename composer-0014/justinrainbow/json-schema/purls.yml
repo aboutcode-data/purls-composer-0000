@@ -65,3 +65,6 @@
 - pkg:composer/justinrainbow/json-schema@6.6.3
 - pkg:composer/justinrainbow/json-schema@6.6.4
 - pkg:composer/justinrainbow/json-schema@v5.2.13
+- pkg:composer/justinrainbow/json-schema@v6.7.0
+- pkg:composer/justinrainbow/json-schema@v6.7.1
+- pkg:composer/justinrainbow/json-schema@v6.7.2

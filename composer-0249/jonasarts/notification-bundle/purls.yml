@@ -25,3 +25,6 @@
 - pkg:composer/jonasarts/notification-bundle@v6.0.1
 - pkg:composer/jonasarts/notification-bundle@v6.0.2
 - pkg:composer/jonasarts/notification-bundle@v6.3.0
+- pkg:composer/jonasarts/notification-bundle@v7.0.0
+- pkg:composer/jonasarts/notification-bundle@v7.0.1
+- pkg:composer/jonasarts/notification-bundle@v7.0.2

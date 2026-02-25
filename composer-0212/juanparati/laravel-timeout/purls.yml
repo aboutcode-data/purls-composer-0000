@@ -1,1 +1,3 @@
 - pkg:composer/juanparati/laravel-timeout@0.8
+- pkg:composer/juanparati/laravel-timeout@1.0
+- pkg:composer/juanparati/laravel-timeout@1.1
