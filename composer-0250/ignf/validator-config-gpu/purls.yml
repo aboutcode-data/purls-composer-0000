@@ -200,3 +200,7 @@
 - pkg:composer/ignf/validator-config-gpu@v6.0.7
 - pkg:composer/ignf/validator-config-gpu@v6.0.8
 - pkg:composer/ignf/validator-config-gpu@v6.0.9
+- pkg:composer/ignf/validator-config-gpu@v7.0.0
+- pkg:composer/ignf/validator-config-gpu@v7.0.1
+- pkg:composer/ignf/validator-config-gpu@v7.0.2
+- pkg:composer/ignf/validator-config-gpu@v7.0.3

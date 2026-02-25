@@ -339,6 +339,7 @@
 - pkg:composer/hyperf/hyperf@v3.1.64
 - pkg:composer/hyperf/hyperf@v3.1.65
 - pkg:composer/hyperf/hyperf@v3.1.66
+- pkg:composer/hyperf/hyperf@v3.1.67
 - pkg:composer/hyperf/hyperf@v3.1.7
 - pkg:composer/hyperf/hyperf@v3.1.8
 - pkg:composer/hyperf/hyperf@v3.1.9
@@ -347,3 +348,4 @@
 - pkg:composer/hyperf/hyperf@v3.2.0-alpha.3
 - pkg:composer/hyperf/hyperf@v3.2.0-alpha.4
 - pkg:composer/hyperf/hyperf@v3.2.0-beta.1
+- pkg:composer/hyperf/hyperf@v3.2.0-beta.2

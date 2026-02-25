@@ -46,6 +46,7 @@
 - pkg:composer/hipay/hipay-fullservice-sdk-php@2.2.1
 - pkg:composer/hipay/hipay-fullservice-sdk-php@2.20.0
 - pkg:composer/hipay/hipay-fullservice-sdk-php@2.21.0
+- pkg:composer/hipay/hipay-fullservice-sdk-php@2.22.0
 - pkg:composer/hipay/hipay-fullservice-sdk-php@2.3.0
 - pkg:composer/hipay/hipay-fullservice-sdk-php@2.3.1
 - pkg:composer/hipay/hipay-fullservice-sdk-php@2.4.0

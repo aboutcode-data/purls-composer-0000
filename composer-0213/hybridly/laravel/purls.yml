@@ -33,9 +33,16 @@
 - pkg:composer/hybridly/laravel@v0.1.0-alpha.8
 - pkg:composer/hybridly/laravel@v0.1.0-alpha.9
 - pkg:composer/hybridly/laravel@v0.10.0-beta.1
+- pkg:composer/hybridly/laravel@v0.10.0-beta.10
+- pkg:composer/hybridly/laravel@v0.10.0-beta.11
 - pkg:composer/hybridly/laravel@v0.10.0-beta.2
 - pkg:composer/hybridly/laravel@v0.10.0-beta.3
 - pkg:composer/hybridly/laravel@v0.10.0-beta.4
+- pkg:composer/hybridly/laravel@v0.10.0-beta.5
+- pkg:composer/hybridly/laravel@v0.10.0-beta.6
+- pkg:composer/hybridly/laravel@v0.10.0-beta.7
+- pkg:composer/hybridly/laravel@v0.10.0-beta.8
+- pkg:composer/hybridly/laravel@v0.10.0-beta.9
 - pkg:composer/hybridly/laravel@v0.2.0
 - pkg:composer/hybridly/laravel@v0.2.1
 - pkg:composer/hybridly/laravel@v0.3.0

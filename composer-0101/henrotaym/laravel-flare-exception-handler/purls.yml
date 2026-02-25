@@ -7,3 +7,5 @@
 - pkg:composer/henrotaym/laravel-flare-exception-handler@v3.0.1
 - pkg:composer/henrotaym/laravel-flare-exception-handler@v3.1.0
 - pkg:composer/henrotaym/laravel-flare-exception-handler@v3.2
+- pkg:composer/henrotaym/laravel-flare-exception-handler@v4.0.0
+- pkg:composer/henrotaym/laravel-flare-exception-handler@v4.0.1
