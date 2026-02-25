@@ -43,6 +43,8 @@
 - pkg:composer/payone-gmbh/shopware-5@4.16.0
 - pkg:composer/payone-gmbh/shopware-5@4.17.0
 - pkg:composer/payone-gmbh/shopware-5@4.17.1
+- pkg:composer/payone-gmbh/shopware-5@4.17.2
+- pkg:composer/payone-gmbh/shopware-5@4.18.0
 - pkg:composer/payone-gmbh/shopware-5@4.2.0
 - pkg:composer/payone-gmbh/shopware-5@4.2.1
 - pkg:composer/payone-gmbh/shopware-5@4.2.2

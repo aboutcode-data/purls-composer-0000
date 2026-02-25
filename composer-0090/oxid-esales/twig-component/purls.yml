@@ -10,3 +10,4 @@
 - pkg:composer/oxid-esales/twig-component@v2.6.0
 - pkg:composer/oxid-esales/twig-component@v2.7.0
 - pkg:composer/oxid-esales/twig-component@v3.0.0-alpha.1
+- pkg:composer/oxid-esales/twig-component@v8.0.0-alpha.2

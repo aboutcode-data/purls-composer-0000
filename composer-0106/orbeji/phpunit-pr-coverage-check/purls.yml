@@ -3,3 +3,4 @@
 - pkg:composer/orbeji/phpunit-pr-coverage-check@2.0.0
 - pkg:composer/orbeji/phpunit-pr-coverage-check@3.0.0
 - pkg:composer/orbeji/phpunit-pr-coverage-check@3.0.1
+- pkg:composer/orbeji/phpunit-pr-coverage-check@3.1.0

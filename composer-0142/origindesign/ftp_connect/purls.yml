@@ -2,3 +2,4 @@
 - pkg:composer/origindesign/ftp_connect@v2.0
 - pkg:composer/origindesign/ftp_connect@v3.0
 - pkg:composer/origindesign/ftp_connect@v4.0
+- pkg:composer/origindesign/ftp_connect@v4.1

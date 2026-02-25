@@ -60,6 +60,7 @@
 - pkg:composer/oat-sa/extension-tao-community@v11.1.5
 - pkg:composer/oat-sa/extension-tao-community@v11.1.5.1
 - pkg:composer/oat-sa/extension-tao-community@v11.1.6
+- pkg:composer/oat-sa/extension-tao-community@v11.1.7
 - pkg:composer/oat-sa/extension-tao-community@v2.0.0
 - pkg:composer/oat-sa/extension-tao-community@v2.0.1
 - pkg:composer/oat-sa/extension-tao-community@v3.0.1

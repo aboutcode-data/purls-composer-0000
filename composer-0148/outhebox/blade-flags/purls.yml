@@ -13,3 +13,5 @@
 - pkg:composer/outhebox/blade-flags@1.5.2
 - pkg:composer/outhebox/blade-flags@1.5.3
 - pkg:composer/outhebox/blade-flags@1.5.4
+- pkg:composer/outhebox/blade-flags@1.6.0
+- pkg:composer/outhebox/blade-flags@1.6.1

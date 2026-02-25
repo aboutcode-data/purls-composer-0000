@@ -23,6 +23,7 @@
 - pkg:composer/oat-sa/extension-tao-itemqti@30.20.0.1
 - pkg:composer/oat-sa/extension-tao-itemqti@30.21.10.2
 - pkg:composer/oat-sa/extension-tao-itemqti@30.32.3
+- pkg:composer/oat-sa/extension-tao-itemqti@30.54.4.4
 - pkg:composer/oat-sa/extension-tao-itemqti@v10.3.1
 - pkg:composer/oat-sa/extension-tao-itemqti@v10.8.0
 - pkg:composer/oat-sa/extension-tao-itemqti@v10.8.1
@@ -841,6 +842,12 @@
 - pkg:composer/oat-sa/extension-tao-itemqti@v31.0.0
 - pkg:composer/oat-sa/extension-tao-itemqti@v31.0.1
 - pkg:composer/oat-sa/extension-tao-itemqti@v31.0.2
+- pkg:composer/oat-sa/extension-tao-itemqti@v31.0.3
+- pkg:composer/oat-sa/extension-tao-itemqti@v31.0.4
+- pkg:composer/oat-sa/extension-tao-itemqti@v31.0.5
+- pkg:composer/oat-sa/extension-tao-itemqti@v31.0.6
+- pkg:composer/oat-sa/extension-tao-itemqti@v31.0.7
+- pkg:composer/oat-sa/extension-tao-itemqti@v31.0.8
 - pkg:composer/oat-sa/extension-tao-itemqti@v31.1.0
 - pkg:composer/oat-sa/extension-tao-itemqti@v31.1.1
 - pkg:composer/oat-sa/extension-tao-itemqti@v31.2.0
@@ -849,6 +856,13 @@
 - pkg:composer/oat-sa/extension-tao-itemqti@v31.4.0
 - pkg:composer/oat-sa/extension-tao-itemqti@v31.4.1
 - pkg:composer/oat-sa/extension-tao-itemqti@v31.4.2
+- pkg:composer/oat-sa/extension-tao-itemqti@v31.5.0
+- pkg:composer/oat-sa/extension-tao-itemqti@v31.5.1
+- pkg:composer/oat-sa/extension-tao-itemqti@v31.6.0
+- pkg:composer/oat-sa/extension-tao-itemqti@v31.6.1
+- pkg:composer/oat-sa/extension-tao-itemqti@v31.6.2
+- pkg:composer/oat-sa/extension-tao-itemqti@v31.6.3
+- pkg:composer/oat-sa/extension-tao-itemqti@v32.0.0
 - pkg:composer/oat-sa/extension-tao-itemqti@v4.2.0
 - pkg:composer/oat-sa/extension-tao-itemqti@v4.3.0
 - pkg:composer/oat-sa/extension-tao-itemqti@v5.0.0

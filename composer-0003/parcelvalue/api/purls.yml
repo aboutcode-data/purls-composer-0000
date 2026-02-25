@@ -45,6 +45,8 @@
 - pkg:composer/parcelvalue/api@v3.32.0
 - pkg:composer/parcelvalue/api@v3.33.0
 - pkg:composer/parcelvalue/api@v3.34.0
+- pkg:composer/parcelvalue/api@v3.35.0
+- pkg:composer/parcelvalue/api@v3.36.0
 - pkg:composer/parcelvalue/api@v3.4.0
 - pkg:composer/parcelvalue/api@v3.5.0
 - pkg:composer/parcelvalue/api@v3.6.0
