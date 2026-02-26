@@ -35,3 +35,4 @@
 - pkg:composer/shelfwood/php-pms-clients@v5.4.0
 - pkg:composer/shelfwood/php-pms-clients@v5.5.0
 - pkg:composer/shelfwood/php-pms-clients@v5.5.1
+- pkg:composer/shelfwood/php-pms-clients@v5.5.2
