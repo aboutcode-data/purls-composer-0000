@@ -28,4 +28,6 @@
 - pkg:composer/mozex/laravel-modules@2.7.1
 - pkg:composer/mozex/laravel-modules@2.7.2
 - pkg:composer/mozex/laravel-modules@2.8.0
+- pkg:composer/mozex/laravel-modules@2.8.1
 - pkg:composer/mozex/laravel-modules@3.0.0
+- pkg:composer/mozex/laravel-modules@3.0.1
