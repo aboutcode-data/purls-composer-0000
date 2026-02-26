@@ -1,1 +1,2 @@
 - pkg:composer/mathsgod/mysql-schema-migrate@1.0.0
+- pkg:composer/mathsgod/mysql-schema-migrate@1.0.1
