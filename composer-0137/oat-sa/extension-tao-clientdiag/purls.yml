@@ -119,3 +119,4 @@
 - pkg:composer/oat-sa/extension-tao-clientdiag@v8.5.7
 - pkg:composer/oat-sa/extension-tao-clientdiag@v8.5.8
 - pkg:composer/oat-sa/extension-tao-clientdiag@v8.5.9
+- pkg:composer/oat-sa/extension-tao-clientdiag@v9.0.0

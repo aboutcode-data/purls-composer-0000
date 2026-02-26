@@ -23,3 +23,4 @@
 - pkg:composer/oat-sa/extension-tao-lti-consumer@v2.4.1
 - pkg:composer/oat-sa/extension-tao-lti-consumer@v2.4.2
 - pkg:composer/oat-sa/extension-tao-lti-consumer@v3.0.0
+- pkg:composer/oat-sa/extension-tao-lti-consumer@v4.0.0
