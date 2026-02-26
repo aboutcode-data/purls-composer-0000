@@ -61,3 +61,4 @@
 - pkg:composer/webgriffe/sylius-akeneo-plugin@v2.8.0
 - pkg:composer/webgriffe/sylius-akeneo-plugin@v2.8.1
 - pkg:composer/webgriffe/sylius-akeneo-plugin@v2.9.0
+- pkg:composer/webgriffe/sylius-akeneo-plugin@v3.0.0

@@ -24,4 +24,5 @@
 - pkg:composer/uzzal/acl@v2.0.3
 - pkg:composer/uzzal/acl@v3.0.0
 - pkg:composer/uzzal/acl@v3.0.0-beta
+- pkg:composer/uzzal/acl@v3.1.0
 - pkg:composer/uzzal/acl@v3.1.0-beta

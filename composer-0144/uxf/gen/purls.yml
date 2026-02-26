@@ -124,6 +124,7 @@
 - pkg:composer/uxf/gen@3.76.0
 - pkg:composer/uxf/gen@3.76.1
 - pkg:composer/uxf/gen@3.76.3
+- pkg:composer/uxf/gen@3.77.3
 - pkg:composer/uxf/gen@3.9.0
 - pkg:composer/uxf/gen@3.9.1
 - pkg:composer/uxf/gen@v0.1.0

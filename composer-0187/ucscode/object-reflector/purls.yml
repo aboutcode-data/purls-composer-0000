@@ -1,1 +1,2 @@
 - pkg:composer/ucscode/object-reflector@1.0.0
+- pkg:composer/ucscode/object-reflector@v2.0.0

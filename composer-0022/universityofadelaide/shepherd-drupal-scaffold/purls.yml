@@ -74,3 +74,4 @@
 - pkg:composer/universityofadelaide/shepherd-drupal-scaffold@7.0.0
 - pkg:composer/universityofadelaide/shepherd-drupal-scaffold@7.0.1
 - pkg:composer/universityofadelaide/shepherd-drupal-scaffold@7.0.2
+- pkg:composer/universityofadelaide/shepherd-drupal-scaffold@7.1.0

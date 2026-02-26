@@ -55,3 +55,4 @@
 - pkg:composer/twitchalerts/rest-api-sdk-php@v1.6.4
 - pkg:composer/twitchalerts/rest-api-sdk-php@v1.7.0
 - pkg:composer/twitchalerts/rest-api-sdk-php@v1.7.1
+- pkg:composer/twitchalerts/rest-api-sdk-php@v3.0.0

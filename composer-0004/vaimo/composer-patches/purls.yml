@@ -198,3 +198,4 @@
 - pkg:composer/vaimo/composer-patches@5.5.3
 - pkg:composer/vaimo/composer-patches@5.5.4
 - pkg:composer/vaimo/composer-patches@5.6.0
+- pkg:composer/vaimo/composer-patches@6.0.0

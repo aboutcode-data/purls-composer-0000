@@ -11,3 +11,4 @@
 - pkg:composer/webignition/tcp-cli-proxy-client@0.7
 - pkg:composer/webignition/tcp-cli-proxy-client@0.8
 - pkg:composer/webignition/tcp-cli-proxy-client@0.9
+- pkg:composer/webignition/tcp-cli-proxy-client@1.0

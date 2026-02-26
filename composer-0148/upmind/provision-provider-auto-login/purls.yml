@@ -13,9 +13,11 @@
 - pkg:composer/upmind/provision-provider-auto-login@v5.1.6
 - pkg:composer/upmind/provision-provider-auto-login@v5.1.7
 - pkg:composer/upmind/provision-provider-auto-login@v5.1.8
+- pkg:composer/upmind/provision-provider-auto-login@v5.1.9
 - pkg:composer/upmind/provision-provider-auto-login@v5.2.0
 - pkg:composer/upmind/provision-provider-auto-login@v5.2.1
 - pkg:composer/upmind/provision-provider-auto-login@v5.2.2
 - pkg:composer/upmind/provision-provider-auto-login@v5.3.0
 - pkg:composer/upmind/provision-provider-auto-login@v5.3.1
 - pkg:composer/upmind/provision-provider-auto-login@v5.3.2
+- pkg:composer/upmind/provision-provider-auto-login@v6.0.0

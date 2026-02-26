@@ -18,6 +18,12 @@
 - pkg:composer/wai-blue/ceremonycrm@0.24
 - pkg:composer/wai-blue/ceremonycrm@0.25
 - pkg:composer/wai-blue/ceremonycrm@0.26
+- pkg:composer/wai-blue/ceremonycrm@0.27
+- pkg:composer/wai-blue/ceremonycrm@0.27.1
+- pkg:composer/wai-blue/ceremonycrm@0.27.2
+- pkg:composer/wai-blue/ceremonycrm@0.27.3
+- pkg:composer/wai-blue/ceremonycrm@0.28
+- pkg:composer/wai-blue/ceremonycrm@0.28.1
 - pkg:composer/wai-blue/ceremonycrm@v0.1.0
 - pkg:composer/wai-blue/ceremonycrm@v0.11
 - pkg:composer/wai-blue/ceremonycrm@v0.12

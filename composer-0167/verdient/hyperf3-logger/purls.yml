@@ -1,1 +1,2 @@
 - pkg:composer/verdient/hyperf3-logger@1.0.0
+- pkg:composer/verdient/hyperf3-logger@2.0.0
