@@ -19,3 +19,4 @@
 - pkg:composer/wp-cli/embed-command@v2.0.8
 - pkg:composer/wp-cli/embed-command@v2.0.9
 - pkg:composer/wp-cli/embed-command@v2.1.0
+- pkg:composer/wp-cli/embed-command@v2.1.1

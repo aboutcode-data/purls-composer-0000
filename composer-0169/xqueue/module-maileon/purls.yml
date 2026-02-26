@@ -4,5 +4,8 @@
 - pkg:composer/xqueue/module-maileon@1.10.3
 - pkg:composer/xqueue/module-maileon@1.10.4
 - pkg:composer/xqueue/module-maileon@1.10.5
+- pkg:composer/xqueue/module-maileon@1.10.6
+- pkg:composer/xqueue/module-maileon@1.10.7
+- pkg:composer/xqueue/module-maileon@1.10.8
 - pkg:composer/xqueue/module-maileon@1.9.5
 - pkg:composer/xqueue/module-maileon@1.9.6

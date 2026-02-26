@@ -14,3 +14,7 @@
 - pkg:composer/yanah/laravel-kwik-crud@v1.5.0-beta
 - pkg:composer/yanah/laravel-kwik-crud@v1.5.0-beta.2
 - pkg:composer/yanah/laravel-kwik-crud@v1.5.1
+- pkg:composer/yanah/laravel-kwik-crud@v1.5.2
+- pkg:composer/yanah/laravel-kwik-crud@v1.5.3
+- pkg:composer/yanah/laravel-kwik-crud@v1.5.4
+- pkg:composer/yanah/laravel-kwik-crud@v1.5.5

@@ -70,3 +70,5 @@
 - pkg:composer/yii2-module/yii2-insee-naf@8.0.5
 - pkg:composer/yii2-module/yii2-insee-naf@8.0.6
 - pkg:composer/yii2-module/yii2-insee-naf@8.0.7
+- pkg:composer/yii2-module/yii2-insee-naf@8.0.8
+- pkg:composer/yii2-module/yii2-insee-naf@9.0.0

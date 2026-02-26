@@ -44,6 +44,7 @@
 - pkg:composer/webman-tech/dto@v5.0.12
 - pkg:composer/webman-tech/dto@v5.0.13
 - pkg:composer/webman-tech/dto@v5.0.14
+- pkg:composer/webman-tech/dto@v5.0.15
 - pkg:composer/webman-tech/dto@v5.0.2
 - pkg:composer/webman-tech/dto@v5.0.3
 - pkg:composer/webman-tech/dto@v5.0.4
@@ -52,3 +53,4 @@
 - pkg:composer/webman-tech/dto@v5.0.7
 - pkg:composer/webman-tech/dto@v5.0.8
 - pkg:composer/webman-tech/dto@v5.0.9
+- pkg:composer/webman-tech/dto@v5.1.0

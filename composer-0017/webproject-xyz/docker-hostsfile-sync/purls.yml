@@ -17,3 +17,5 @@
 - pkg:composer/webproject-xyz/docker-hostsfile-sync@1.5.8
 - pkg:composer/webproject-xyz/docker-hostsfile-sync@1.6.0
 - pkg:composer/webproject-xyz/docker-hostsfile-sync@1.7.0
+- pkg:composer/webproject-xyz/docker-hostsfile-sync@1.7.1
+- pkg:composer/webproject-xyz/docker-hostsfile-sync@1.7.2

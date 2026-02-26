@@ -8,4 +8,5 @@
 - pkg:composer/yeswedev-team/roots-deployer@1.4.3
 - pkg:composer/yeswedev-team/roots-deployer@1.4.4
 - pkg:composer/yeswedev-team/roots-deployer@2.0.0
-- pkg:composer/yeswedev-team/roots-deployer@2.1
+- pkg:composer/yeswedev-team/roots-deployer@2.1.0
+- pkg:composer/yeswedev-team/roots-deployer@2.2

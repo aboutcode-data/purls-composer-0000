@@ -49,3 +49,4 @@
 - pkg:composer/yii2-extended/yii2-module-metadata-object@8.0.7
 - pkg:composer/yii2-extended/yii2-module-metadata-object@8.0.8
 - pkg:composer/yii2-extended/yii2-module-metadata-object@8.0.9
+- pkg:composer/yii2-extended/yii2-module-metadata-object@9.0.0

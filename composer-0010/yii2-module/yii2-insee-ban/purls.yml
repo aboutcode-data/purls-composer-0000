@@ -111,3 +111,5 @@
 - pkg:composer/yii2-module/yii2-insee-ban@8.0.2
 - pkg:composer/yii2-module/yii2-insee-ban@8.0.3
 - pkg:composer/yii2-module/yii2-insee-ban@8.0.4
+- pkg:composer/yii2-module/yii2-insee-ban@8.0.5
+- pkg:composer/yii2-module/yii2-insee-ban@9.0.0

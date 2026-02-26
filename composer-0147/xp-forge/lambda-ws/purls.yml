@@ -22,3 +22,4 @@
 - pkg:composer/xp-forge/lambda-ws@v2.2.0
 - pkg:composer/xp-forge/lambda-ws@v2.3.0
 - pkg:composer/xp-forge/lambda-ws@v3.0.0
+- pkg:composer/xp-forge/lambda-ws@v4.0.0

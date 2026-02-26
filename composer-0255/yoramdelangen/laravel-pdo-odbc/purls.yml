@@ -15,3 +15,4 @@
 - pkg:composer/yoramdelangen/laravel-pdo-odbc@1.2.5
 - pkg:composer/yoramdelangen/laravel-pdo-odbc@2.0.0
 - pkg:composer/yoramdelangen/laravel-pdo-odbc@2.0.1
+- pkg:composer/yoramdelangen/laravel-pdo-odbc@2.0.2
