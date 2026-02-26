@@ -29,3 +29,4 @@
 - pkg:composer/trinsic/api@2.3.0-alpha1
 - pkg:composer/trinsic/api@2.3.0-alpha2
 - pkg:composer/trinsic/api@3.0.0
+- pkg:composer/trinsic/api@3.0.1

@@ -14,3 +14,4 @@
 - pkg:composer/tfs/mpesa@v2.1.1
 - pkg:composer/tfs/mpesa@v3.0.0
 - pkg:composer/tfs/mpesa@v3.0.1
+- pkg:composer/tfs/mpesa@v3.0.15

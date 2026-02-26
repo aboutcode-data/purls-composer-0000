@@ -3,3 +3,5 @@
 - pkg:composer/torqit/portable-classification-store-bundle@v0.3.0
 - pkg:composer/torqit/portable-classification-store-bundle@v1.0.0
 - pkg:composer/torqit/portable-classification-store-bundle@v2.0.0
+- pkg:composer/torqit/portable-classification-store-bundle@v2.1.0
+- pkg:composer/torqit/portable-classification-store-bundle@v2.1.1

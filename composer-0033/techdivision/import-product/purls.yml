@@ -188,6 +188,7 @@
 - pkg:composer/techdivision/import-product@26.1.1
 - pkg:composer/techdivision/import-product@26.2.0
 - pkg:composer/techdivision/import-product@26.2.0-alpha
+- pkg:composer/techdivision/import-product@26.2.1
 - pkg:composer/techdivision/import-product@3.0.0
 - pkg:composer/techdivision/import-product@4.0.0
 - pkg:composer/techdivision/import-product@5.0.0

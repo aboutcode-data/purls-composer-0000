@@ -18,3 +18,4 @@
 - pkg:composer/tjvb/laravel-mail-catchall@4.4.0
 - pkg:composer/tjvb/laravel-mail-catchall@4.5.0
 - pkg:composer/tjvb/laravel-mail-catchall@4.6.0
+- pkg:composer/tjvb/laravel-mail-catchall@4.7.0

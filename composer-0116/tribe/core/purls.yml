@@ -150,6 +150,7 @@
 - pkg:composer/tribe/core@v5.0.1
 - pkg:composer/tribe/core@v5.0.10
 - pkg:composer/tribe/core@v5.0.11
+- pkg:composer/tribe/core@v5.0.12
 - pkg:composer/tribe/core@v5.0.2
 - pkg:composer/tribe/core@v5.0.3
 - pkg:composer/tribe/core@v5.0.4
@@ -158,3 +159,6 @@
 - pkg:composer/tribe/core@v5.0.7
 - pkg:composer/tribe/core@v5.0.8
 - pkg:composer/tribe/core@v5.0.9
+- pkg:composer/tribe/core@v5.1.0
+- pkg:composer/tribe/core@v5.1.1
+- pkg:composer/tribe/core@v5.1.2

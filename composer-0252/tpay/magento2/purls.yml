@@ -59,3 +59,4 @@
 - pkg:composer/tpay/magento2@2.5.1
 - pkg:composer/tpay/magento2@2.5.2
 - pkg:composer/tpay/magento2@2.5.3
+- pkg:composer/tpay/magento2@2.6.0

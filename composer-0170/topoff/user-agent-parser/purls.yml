@@ -30,4 +30,6 @@
 - pkg:composer/topoff/user-agent-parser@v4.1.0
 - pkg:composer/topoff/user-agent-parser@v5.0.0
 - pkg:composer/topoff/user-agent-parser@v5.0.1
+- pkg:composer/topoff/user-agent-parser@v5.1.0
 - pkg:composer/topoff/user-agent-parser@v6.0.0
+- pkg:composer/topoff/user-agent-parser@v7.0.0
