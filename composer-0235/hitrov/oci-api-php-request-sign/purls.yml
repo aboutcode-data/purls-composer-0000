@@ -8,3 +8,4 @@
 - pkg:composer/hitrov/oci-api-php-request-sign@1.2.3
 - pkg:composer/hitrov/oci-api-php-request-sign@v1.2.4
 - pkg:composer/hitrov/oci-api-php-request-sign@v1.2.5
+- pkg:composer/hitrov/oci-api-php-request-sign@v1.2.6
