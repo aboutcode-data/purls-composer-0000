@@ -17,3 +17,4 @@
 - pkg:composer/sunnysideup/email_address_database_field@4.0.0
 - pkg:composer/sunnysideup/email_address_database_field@5.0.0
 - pkg:composer/sunnysideup/email_address_database_field@5.1.0
+- pkg:composer/sunnysideup/email_address_database_field@5.1.1

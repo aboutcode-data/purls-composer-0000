@@ -218,8 +218,11 @@
 - pkg:composer/sproutcms/cms@v4.3.46
 - pkg:composer/sproutcms/cms@v4.3.47
 - pkg:composer/sproutcms/cms@v4.3.48
+- pkg:composer/sproutcms/cms@v4.3.49
 - pkg:composer/sproutcms/cms@v4.3.5
+- pkg:composer/sproutcms/cms@v4.3.50
 - pkg:composer/sproutcms/cms@v4.3.6
 - pkg:composer/sproutcms/cms@v4.3.7
 - pkg:composer/sproutcms/cms@v4.3.8
 - pkg:composer/sproutcms/cms@v4.3.9
+- pkg:composer/sproutcms/cms@v4.4.0

@@ -115,6 +115,7 @@
 - pkg:composer/spryker/product@6.50.0
 - pkg:composer/spryker/product@6.51.0
 - pkg:composer/spryker/product@6.52.0
+- pkg:composer/spryker/product@6.53.0
 - pkg:composer/spryker/product@6.6.0
 - pkg:composer/spryker/product@6.6.1
 - pkg:composer/spryker/product@6.6.2

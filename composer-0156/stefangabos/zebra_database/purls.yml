@@ -6,6 +6,8 @@
 - pkg:composer/stefangabos/zebra_database@2.12.0
 - pkg:composer/stefangabos/zebra_database@2.12.1
 - pkg:composer/stefangabos/zebra_database@2.13.0
+- pkg:composer/stefangabos/zebra_database@2.13.1
+- pkg:composer/stefangabos/zebra_database@2.13.2
 - pkg:composer/stefangabos/zebra_database@2.8.2
 - pkg:composer/stefangabos/zebra_database@2.8.3
 - pkg:composer/stefangabos/zebra_database@2.8.4

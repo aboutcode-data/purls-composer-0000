@@ -100,6 +100,7 @@
 - pkg:composer/socket-manager/contents-project@v1.25.6
 - pkg:composer/socket-manager/contents-project@v1.25.7
 - pkg:composer/socket-manager/contents-project@v1.25.8
+- pkg:composer/socket-manager/contents-project@v1.25.9
 - pkg:composer/socket-manager/contents-project@v1.3.0
 - pkg:composer/socket-manager/contents-project@v1.4.0
 - pkg:composer/socket-manager/contents-project@v1.4.1

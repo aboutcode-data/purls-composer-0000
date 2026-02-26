@@ -54,6 +54,7 @@
 - pkg:composer/spaze/phpstan-disallowed-calls@v2.8.0
 - pkg:composer/spaze/phpstan-disallowed-calls@v2.9.0
 - pkg:composer/spaze/phpstan-disallowed-calls@v3.0.0
+- pkg:composer/spaze/phpstan-disallowed-calls@v3.1.0
 - pkg:composer/spaze/phpstan-disallowed-calls@v3.1.1
 - pkg:composer/spaze/phpstan-disallowed-calls@v3.1.2
 - pkg:composer/spaze/phpstan-disallowed-calls@v3.2.0
@@ -74,3 +75,5 @@
 - pkg:composer/spaze/phpstan-disallowed-calls@v4.5.0
 - pkg:composer/spaze/phpstan-disallowed-calls@v4.6.0
 - pkg:composer/spaze/phpstan-disallowed-calls@v4.7.0
+- pkg:composer/spaze/phpstan-disallowed-calls@v4.7.1
+- pkg:composer/spaze/phpstan-disallowed-calls@v4.8.0

@@ -29,3 +29,4 @@
 - pkg:composer/spryker/availability-storage@2.7.1
 - pkg:composer/spryker/availability-storage@2.8.0
 - pkg:composer/spryker/availability-storage@2.8.1
+- pkg:composer/spryker/availability-storage@2.9.0

@@ -27,3 +27,5 @@
 - pkg:composer/spatie/laravel-schemaless-attributes@2.4.0
 - pkg:composer/spatie/laravel-schemaless-attributes@2.5.0
 - pkg:composer/spatie/laravel-schemaless-attributes@2.5.1
+- pkg:composer/spatie/laravel-schemaless-attributes@2.5.2
+- pkg:composer/spatie/laravel-schemaless-attributes@2.6.0

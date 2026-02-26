@@ -4,3 +4,5 @@
 - pkg:composer/symbiont/services@v0.3
 - pkg:composer/symbiont/services@v0.4
 - pkg:composer/symbiont/services@v0.5
+- pkg:composer/symbiont/services@v0.6
+- pkg:composer/symbiont/services@v0.7

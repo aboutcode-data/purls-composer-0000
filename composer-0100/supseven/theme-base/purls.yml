@@ -16,3 +16,6 @@
 - pkg:composer/supseven/theme-base@13.0.3
 - pkg:composer/supseven/theme-base@13.0.4
 - pkg:composer/supseven/theme-base@13.0.5
+- pkg:composer/supseven/theme-base@14.0.0
+- pkg:composer/supseven/theme-base@14.1.0
+- pkg:composer/supseven/theme-base@14.1.1

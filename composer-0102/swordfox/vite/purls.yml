@@ -9,3 +9,6 @@
 - pkg:composer/swordfox/vite@3.2.5
 - pkg:composer/swordfox/vite@3.2.6
 - pkg:composer/swordfox/vite@3.2.7
+- pkg:composer/swordfox/vite@4.0.0
+- pkg:composer/swordfox/vite@4.0.1
+- pkg:composer/swordfox/vite@4.0.2

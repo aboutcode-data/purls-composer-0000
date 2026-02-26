@@ -11,3 +11,4 @@
 - pkg:composer/stfalcon-studio/doctrine-redis-cache-bundle@2.1.1
 - pkg:composer/stfalcon-studio/doctrine-redis-cache-bundle@3.0.0
 - pkg:composer/stfalcon-studio/doctrine-redis-cache-bundle@3.1.0
+- pkg:composer/stfalcon-studio/doctrine-redis-cache-bundle@4.0.0

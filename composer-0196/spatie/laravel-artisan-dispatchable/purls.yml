@@ -9,3 +9,4 @@
 - pkg:composer/spatie/laravel-artisan-dispatchable@1.5.0
 - pkg:composer/spatie/laravel-artisan-dispatchable@1.5.1
 - pkg:composer/spatie/laravel-artisan-dispatchable@1.5.2
+- pkg:composer/spatie/laravel-artisan-dispatchable@1.6.0

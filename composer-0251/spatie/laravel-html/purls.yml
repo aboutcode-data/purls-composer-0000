@@ -76,6 +76,7 @@
 - pkg:composer/spatie/laravel-html@3.12.1
 - pkg:composer/spatie/laravel-html@3.12.2
 - pkg:composer/spatie/laravel-html@3.12.3
+- pkg:composer/spatie/laravel-html@3.13.0
 - pkg:composer/spatie/laravel-html@3.2.0
 - pkg:composer/spatie/laravel-html@3.2.1
 - pkg:composer/spatie/laravel-html@3.2.2

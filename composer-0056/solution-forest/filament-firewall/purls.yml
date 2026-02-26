@@ -7,3 +7,5 @@
 - pkg:composer/solution-forest/filament-firewall@2.0.4
 - pkg:composer/solution-forest/filament-firewall@3.0.0
 - pkg:composer/solution-forest/filament-firewall@3.0.1
+- pkg:composer/solution-forest/filament-firewall@3.0.2
+- pkg:composer/solution-forest/filament-firewall@4.0.0

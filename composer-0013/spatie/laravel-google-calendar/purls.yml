@@ -40,3 +40,4 @@
 - pkg:composer/spatie/laravel-google-calendar@3.8.2
 - pkg:composer/spatie/laravel-google-calendar@3.8.3
 - pkg:composer/spatie/laravel-google-calendar@3.8.4
+- pkg:composer/spatie/laravel-google-calendar@3.8.5

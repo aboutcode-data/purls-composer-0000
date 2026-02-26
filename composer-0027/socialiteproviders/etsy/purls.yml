@@ -2,6 +2,7 @@
 - pkg:composer/socialiteproviders/etsy@4.1.0
 - pkg:composer/socialiteproviders/etsy@5.0.0
 - pkg:composer/socialiteproviders/etsy@5.0.1
+- pkg:composer/socialiteproviders/etsy@5.1.0
 - pkg:composer/socialiteproviders/etsy@v1.0.0
 - pkg:composer/socialiteproviders/etsy@v2.0.0
 - pkg:composer/socialiteproviders/etsy@v2.0.1

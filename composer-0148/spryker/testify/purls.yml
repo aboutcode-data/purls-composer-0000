@@ -126,6 +126,7 @@
 - pkg:composer/spryker/testify@3.62.1
 - pkg:composer/spryker/testify@3.62.2
 - pkg:composer/spryker/testify@3.63.0
+- pkg:composer/spryker/testify@3.63.1
 - pkg:composer/spryker/testify@3.7.0
 - pkg:composer/spryker/testify@3.8.0
 - pkg:composer/spryker/testify@3.9.0

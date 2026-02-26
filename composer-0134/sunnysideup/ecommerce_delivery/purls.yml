@@ -31,3 +31,5 @@
 - pkg:composer/sunnysideup/ecommerce_delivery@9.1.0
 - pkg:composer/sunnysideup/ecommerce_delivery@9.2.0
 - pkg:composer/sunnysideup/ecommerce_delivery@9.2.1
+- pkg:composer/sunnysideup/ecommerce_delivery@9.2.2
+- pkg:composer/sunnysideup/ecommerce_delivery@9.2.3

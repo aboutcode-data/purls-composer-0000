@@ -46,3 +46,5 @@
 - pkg:composer/spatie/nova-tags-field@4.0.8
 - pkg:composer/spatie/nova-tags-field@4.1.0
 - pkg:composer/spatie/nova-tags-field@5.0.0
+- pkg:composer/spatie/nova-tags-field@5.0.1
+- pkg:composer/spatie/nova-tags-field@5.0.2

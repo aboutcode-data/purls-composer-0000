@@ -10,3 +10,5 @@
 - pkg:composer/spatie/google-time-zone@1.2.5
 - pkg:composer/spatie/google-time-zone@1.2.6
 - pkg:composer/spatie/google-time-zone@1.2.7
+- pkg:composer/spatie/google-time-zone@1.2.8
+- pkg:composer/spatie/google-time-zone@1.3.0

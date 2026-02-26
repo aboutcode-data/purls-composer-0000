@@ -47,3 +47,5 @@
 - pkg:composer/spatie/laravel-uptime-monitor@4.4.0
 - pkg:composer/spatie/laravel-uptime-monitor@4.5.0
 - pkg:composer/spatie/laravel-uptime-monitor@4.5.1
+- pkg:composer/spatie/laravel-uptime-monitor@4.5.2
+- pkg:composer/spatie/laravel-uptime-monitor@4.6.0

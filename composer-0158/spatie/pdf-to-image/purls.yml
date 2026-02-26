@@ -31,3 +31,4 @@
 - pkg:composer/spatie/pdf-to-image@2.3.0
 - pkg:composer/spatie/pdf-to-image@3.0.0
 - pkg:composer/spatie/pdf-to-image@3.1.0
+- pkg:composer/spatie/pdf-to-image@3.2.0

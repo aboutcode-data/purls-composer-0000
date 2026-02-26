@@ -22,6 +22,7 @@
 - pkg:composer/spryker/rabbit-mq@2.2.0
 - pkg:composer/spryker/rabbit-mq@2.20.0
 - pkg:composer/spryker/rabbit-mq@2.21.0
+- pkg:composer/spryker/rabbit-mq@2.21.1
 - pkg:composer/spryker/rabbit-mq@2.22.0
 - pkg:composer/spryker/rabbit-mq@2.3.0
 - pkg:composer/spryker/rabbit-mq@2.4.0

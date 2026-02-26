@@ -5,7 +5,9 @@
 - pkg:composer/strucura/visualizations@0.5.0
 - pkg:composer/strucura/visualizations@0.5.1
 - pkg:composer/strucura/visualizations@0.6.0
+- pkg:composer/strucura/visualizations@0.7.0
 - pkg:composer/strucura/visualizations@0.7.0-beta
 - pkg:composer/strucura/visualizations@0.7.1-beta
 - pkg:composer/strucura/visualizations@0.7.2-beta
 - pkg:composer/strucura/visualizations@0.7.3-beta
+- pkg:composer/strucura/visualizations@0.8.0

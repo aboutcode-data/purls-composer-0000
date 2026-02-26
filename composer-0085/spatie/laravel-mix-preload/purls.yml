@@ -16,3 +16,4 @@
 - pkg:composer/spatie/laravel-mix-preload@1.3.1
 - pkg:composer/spatie/laravel-mix-preload@1.4.0
 - pkg:composer/spatie/laravel-mix-preload@1.4.1
+- pkg:composer/spatie/laravel-mix-preload@1.5.0
