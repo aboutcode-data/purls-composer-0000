@@ -1,2 +1,4 @@
 - pkg:composer/dynamic/foxystripe-inventory@1.0.0
 - pkg:composer/dynamic/foxystripe-inventory@1.0.0-alpha1
+- pkg:composer/dynamic/foxystripe-inventory@2.0.0
+- pkg:composer/dynamic/foxystripe-inventory@3.0.0

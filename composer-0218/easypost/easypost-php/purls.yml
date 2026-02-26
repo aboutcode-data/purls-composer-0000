@@ -73,3 +73,4 @@
 - pkg:composer/easypost/easypost-php@8.4.0
 - pkg:composer/easypost/easypost-php@8.5.0
 - pkg:composer/easypost/easypost-php@8.6.0
+- pkg:composer/easypost/easypost-php@8.7.0
