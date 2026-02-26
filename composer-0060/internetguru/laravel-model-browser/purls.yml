@@ -77,3 +77,5 @@
 - pkg:composer/internetguru/laravel-model-browser@v3.1.7
 - pkg:composer/internetguru/laravel-model-browser@v3.1.8
 - pkg:composer/internetguru/laravel-model-browser@v3.1.9
+- pkg:composer/internetguru/laravel-model-browser@v3.2.0
+- pkg:composer/internetguru/laravel-model-browser@v4.0.0

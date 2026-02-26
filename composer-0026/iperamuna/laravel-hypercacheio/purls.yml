@@ -25,3 +25,4 @@
 - pkg:composer/iperamuna/laravel-hypercacheio@v1.6.3
 - pkg:composer/iperamuna/laravel-hypercacheio@v1.6.4
 - pkg:composer/iperamuna/laravel-hypercacheio@v1.6.5
+- pkg:composer/iperamuna/laravel-hypercacheio@v1.6.6
