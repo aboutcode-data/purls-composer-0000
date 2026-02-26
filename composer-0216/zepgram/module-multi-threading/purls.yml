@@ -8,4 +8,4 @@
 - pkg:composer/zepgram/module-multi-threading@0.1.7
 - pkg:composer/zepgram/module-multi-threading@0.1.8
 - pkg:composer/zepgram/module-multi-threading@0.1.9
-- pkg:composer/zepgram/module-multi-threading@0.2.0
+- pkg:composer/zepgram/module-multi-threading@0.3.0

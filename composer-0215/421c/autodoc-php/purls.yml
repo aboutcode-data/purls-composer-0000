@@ -16,6 +16,8 @@
 - pkg:composer/421c/autodoc-php@v1.15.3
 - pkg:composer/421c/autodoc-php@v1.15.4
 - pkg:composer/421c/autodoc-php@v1.15.5
+- pkg:composer/421c/autodoc-php@v1.16.0
+- pkg:composer/421c/autodoc-php@v1.16.1
 - pkg:composer/421c/autodoc-php@v1.2.0
 - pkg:composer/421c/autodoc-php@v1.3.0
 - pkg:composer/421c/autodoc-php@v1.4.0

@@ -63,3 +63,6 @@
 - pkg:composer/1tomany/rich-bundle@v1.9.7
 - pkg:composer/1tomany/rich-bundle@v1.9.8
 - pkg:composer/1tomany/rich-bundle@v1.9.9
+- pkg:composer/1tomany/rich-bundle@v2.0.0
+- pkg:composer/1tomany/rich-bundle@v2.0.1
+- pkg:composer/1tomany/rich-bundle@v2.0.2

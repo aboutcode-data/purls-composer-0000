@@ -17,3 +17,6 @@
 - pkg:composer/zero-to-prod/data-model-adapter-swagger@v0.1.8
 - pkg:composer/zero-to-prod/data-model-adapter-swagger@v0.1.9
 - pkg:composer/zero-to-prod/data-model-adapter-swagger@v0.2.0
+- pkg:composer/zero-to-prod/data-model-adapter-swagger@v0.2.1
+- pkg:composer/zero-to-prod/data-model-adapter-swagger@v0.2.2
+- pkg:composer/zero-to-prod/data-model-adapter-swagger@v0.2.3

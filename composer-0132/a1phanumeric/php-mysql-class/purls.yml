@@ -7,3 +7,4 @@
 - pkg:composer/a1phanumeric/php-mysql-class@2.2
 - pkg:composer/a1phanumeric/php-mysql-class@2.3
 - pkg:composer/a1phanumeric/php-mysql-class@2.4
+- pkg:composer/a1phanumeric/php-mysql-class@v3.0.0

@@ -5,3 +5,4 @@
 - pkg:composer/ahed92wakim/laravel-db-transaction-retry@2.0.0
 - pkg:composer/ahed92wakim/laravel-db-transaction-retry@3.0.0
 - pkg:composer/ahed92wakim/laravel-db-transaction-retry@4.0.0
+- pkg:composer/ahed92wakim/laravel-db-transaction-retry@5.0.0

@@ -83,6 +83,12 @@
 - pkg:composer/agrcmsx/dxbase@11.1.4.1
 - pkg:composer/agrcmsx/dxbase@11.1.4.2
 - pkg:composer/agrcmsx/dxbase@11.2.0.0
+- pkg:composer/agrcmsx/dxbase@11.2.0.1
+- pkg:composer/agrcmsx/dxbase@11.2.0.2
+- pkg:composer/agrcmsx/dxbase@11.2.0.3
+- pkg:composer/agrcmsx/dxbase@11.2.0.4
+- pkg:composer/agrcmsx/dxbase@11.2.0.5
+- pkg:composer/agrcmsx/dxbase@11.2.0.6
 - pkg:composer/agrcmsx/dxbase@3.0.0
 - pkg:composer/agrcmsx/dxbase@3.0.0-alpha10
 - pkg:composer/agrcmsx/dxbase@3.0.0-alpha7
