@@ -9,3 +9,4 @@
 - pkg:composer/wordpress/php-ai-client@0.4.3
 - pkg:composer/wordpress/php-ai-client@1.0.0
 - pkg:composer/wordpress/php-ai-client@1.1.0
+- pkg:composer/wordpress/php-ai-client@1.2.0
