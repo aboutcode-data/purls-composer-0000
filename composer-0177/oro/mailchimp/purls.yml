@@ -37,6 +37,7 @@
 - pkg:composer/oro/mailchimp@5.0.6
 - pkg:composer/oro/mailchimp@5.0.7
 - pkg:composer/oro/mailchimp@5.0.8
+- pkg:composer/oro/mailchimp@5.0.9
 - pkg:composer/oro/mailchimp@5.1.0
 - pkg:composer/oro/mailchimp@5.1.0-alpha.1
 - pkg:composer/oro/mailchimp@5.1.0-alpha.2

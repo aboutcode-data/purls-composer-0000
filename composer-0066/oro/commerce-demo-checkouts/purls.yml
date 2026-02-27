@@ -7,6 +7,7 @@
 - pkg:composer/oro/commerce-demo-checkouts@5.0.0-rc
 - pkg:composer/oro/commerce-demo-checkouts@5.0.1
 - pkg:composer/oro/commerce-demo-checkouts@5.0.2
+- pkg:composer/oro/commerce-demo-checkouts@5.0.3
 - pkg:composer/oro/commerce-demo-checkouts@5.1.0
 - pkg:composer/oro/commerce-demo-checkouts@5.1.1
 - pkg:composer/oro/commerce-demo-checkouts@5.1.2

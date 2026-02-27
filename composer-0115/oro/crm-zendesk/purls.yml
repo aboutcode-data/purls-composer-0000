@@ -86,6 +86,7 @@
 - pkg:composer/oro/crm-zendesk@5.0.1
 - pkg:composer/oro/crm-zendesk@5.0.2
 - pkg:composer/oro/crm-zendesk@5.0.3
+- pkg:composer/oro/crm-zendesk@5.0.4
 - pkg:composer/oro/crm-zendesk@5.1.0
 - pkg:composer/oro/crm-zendesk@5.1.0-alpha.1
 - pkg:composer/oro/crm-zendesk@5.1.0-alpha.2

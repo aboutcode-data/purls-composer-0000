@@ -51,6 +51,7 @@
 - pkg:composer/oro/oauth2-server@5.0.5
 - pkg:composer/oro/oauth2-server@5.0.6
 - pkg:composer/oro/oauth2-server@5.0.7
+- pkg:composer/oro/oauth2-server@5.0.8
 - pkg:composer/oro/oauth2-server@5.1.0
 - pkg:composer/oro/oauth2-server@5.1.0-alpha.1
 - pkg:composer/oro/oauth2-server@5.1.0-alpha.2
