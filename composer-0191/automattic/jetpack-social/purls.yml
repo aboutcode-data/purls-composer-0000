@@ -60,3 +60,5 @@
 - pkg:composer/automattic/jetpack-social@7.2.0
 - pkg:composer/automattic/jetpack-social@7.3.0
 - pkg:composer/automattic/jetpack-social@7.4.0
+- pkg:composer/automattic/jetpack-social@8.0.0
+- pkg:composer/automattic/jetpack-social@8.0.1

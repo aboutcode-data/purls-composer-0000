@@ -8,6 +8,7 @@
 - pkg:composer/bamarni/composer-bin-plugin@1.8.2
 - pkg:composer/bamarni/composer-bin-plugin@1.8.3
 - pkg:composer/bamarni/composer-bin-plugin@1.9.0
+- pkg:composer/bamarni/composer-bin-plugin@1.9.1
 - pkg:composer/bamarni/composer-bin-plugin@v0.0.1
 - pkg:composer/bamarni/composer-bin-plugin@v0.0.2
 - pkg:composer/bamarni/composer-bin-plugin@v1.0.0

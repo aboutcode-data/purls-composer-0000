@@ -12,3 +12,4 @@
 - pkg:composer/bigfork/silverstripe-oauth-login@2.2.0
 - pkg:composer/bigfork/silverstripe-oauth-login@2.3.0
 - pkg:composer/bigfork/silverstripe-oauth-login@2.3.1
+- pkg:composer/bigfork/silverstripe-oauth-login@3.0.0

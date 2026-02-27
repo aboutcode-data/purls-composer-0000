@@ -32,3 +32,4 @@
 - pkg:composer/avto-dev/identity-laravel@v5.7.0
 - pkg:composer/avto-dev/identity-laravel@v5.8.0
 - pkg:composer/avto-dev/identity-laravel@v5.9.0
+- pkg:composer/avto-dev/identity-laravel@v6.0.0

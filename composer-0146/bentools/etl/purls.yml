@@ -20,6 +20,7 @@
 - pkg:composer/bentools/etl@4.0-alpha9
 - pkg:composer/bentools/etl@4.0.1
 - pkg:composer/bentools/etl@4.1
+- pkg:composer/bentools/etl@4.2.0
 - pkg:composer/bentools/etl@v1.0.0
 - pkg:composer/bentools/etl@v1.0.1
 - pkg:composer/bentools/etl@v1.0.2

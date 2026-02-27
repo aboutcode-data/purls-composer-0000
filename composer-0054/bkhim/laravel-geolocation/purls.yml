@@ -8,4 +8,8 @@
 - pkg:composer/bkhim/laravel-geolocation@3.0.0
 - pkg:composer/bkhim/laravel-geolocation@4.0.0
 - pkg:composer/bkhim/laravel-geolocation@4.0.1
+- pkg:composer/bkhim/laravel-geolocation@4.0.2
+- pkg:composer/bkhim/laravel-geolocation@4.0.3
+- pkg:composer/bkhim/laravel-geolocation@4.0.4
+- pkg:composer/bkhim/laravel-geolocation@4.0.5
 - pkg:composer/bkhim/laravel-geolocation@v2.0.0

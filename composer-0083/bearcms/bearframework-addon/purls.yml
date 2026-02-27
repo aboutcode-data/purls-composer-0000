@@ -197,6 +197,8 @@
 - pkg:composer/bearcms/bearframework-addon@v1.151.1
 - pkg:composer/bearcms/bearframework-addon@v1.152.0
 - pkg:composer/bearcms/bearframework-addon@v1.152.1
+- pkg:composer/bearcms/bearframework-addon@v1.153.0
+- pkg:composer/bearcms/bearframework-addon@v1.153.1
 - pkg:composer/bearcms/bearframework-addon@v1.16.0
 - pkg:composer/bearcms/bearframework-addon@v1.17.0
 - pkg:composer/bearcms/bearframework-addon@v1.18.0

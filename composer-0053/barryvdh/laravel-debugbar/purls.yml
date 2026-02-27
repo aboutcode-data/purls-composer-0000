@@ -206,7 +206,12 @@
 - pkg:composer/barryvdh/laravel-debugbar@v4.0-rc.1
 - pkg:composer/barryvdh/laravel-debugbar@v4.0.0
 - pkg:composer/barryvdh/laravel-debugbar@v4.0.1
+- pkg:composer/barryvdh/laravel-debugbar@v4.0.10
 - pkg:composer/barryvdh/laravel-debugbar@v4.0.2
 - pkg:composer/barryvdh/laravel-debugbar@v4.0.3
 - pkg:composer/barryvdh/laravel-debugbar@v4.0.4
 - pkg:composer/barryvdh/laravel-debugbar@v4.0.5
+- pkg:composer/barryvdh/laravel-debugbar@v4.0.6
+- pkg:composer/barryvdh/laravel-debugbar@v4.0.7
+- pkg:composer/barryvdh/laravel-debugbar@v4.0.8
+- pkg:composer/barryvdh/laravel-debugbar@v4.0.9

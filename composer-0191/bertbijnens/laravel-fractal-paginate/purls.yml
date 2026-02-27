@@ -12,3 +12,5 @@
 - pkg:composer/bertbijnens/laravel-fractal-paginate@v1.2.0
 - pkg:composer/bertbijnens/laravel-fractal-paginate@v1.2.1
 - pkg:composer/bertbijnens/laravel-fractal-paginate@v1.2.2
+- pkg:composer/bertbijnens/laravel-fractal-paginate@v1.2.3
+- pkg:composer/bertbijnens/laravel-fractal-paginate@v1.2.4

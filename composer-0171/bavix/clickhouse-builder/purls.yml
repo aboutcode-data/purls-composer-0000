@@ -1,2 +1,4 @@
 - pkg:composer/bavix/clickhouse-builder@6.1.0
 - pkg:composer/bavix/clickhouse-builder@6.1.1
+- pkg:composer/bavix/clickhouse-builder@6.2.0
+- pkg:composer/bavix/clickhouse-builder@6.2.1
