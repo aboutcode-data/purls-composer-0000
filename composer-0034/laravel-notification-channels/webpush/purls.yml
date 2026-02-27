@@ -8,6 +8,7 @@
 - pkg:composer/laravel-notification-channels/webpush@10.2.0
 - pkg:composer/laravel-notification-channels/webpush@10.3.0
 - pkg:composer/laravel-notification-channels/webpush@10.4.0
+- pkg:composer/laravel-notification-channels/webpush@10.5.0
 - pkg:composer/laravel-notification-channels/webpush@2.0.0
 - pkg:composer/laravel-notification-channels/webpush@3.0.0
 - pkg:composer/laravel-notification-channels/webpush@3.0.1
