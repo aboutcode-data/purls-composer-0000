@@ -30,3 +30,7 @@
 - pkg:composer/imiskuf/basic-api-bundle@v2.6.5
 - pkg:composer/imiskuf/basic-api-bundle@v2.7.0
 - pkg:composer/imiskuf/basic-api-bundle@v2.8.0
+- pkg:composer/imiskuf/basic-api-bundle@v3.0.0
+- pkg:composer/imiskuf/basic-api-bundle@v3.0.1
+- pkg:composer/imiskuf/basic-api-bundle@v3.0.2
+- pkg:composer/imiskuf/basic-api-bundle@v3.0.3
