@@ -38,6 +38,8 @@
 - pkg:composer/saucebase/saucebase@v0.0.43
 - pkg:composer/saucebase/saucebase@v0.0.44
 - pkg:composer/saucebase/saucebase@v0.0.45
+- pkg:composer/saucebase/saucebase@v0.0.46
+- pkg:composer/saucebase/saucebase@v0.0.47
 - pkg:composer/saucebase/saucebase@v0.0.5
 - pkg:composer/saucebase/saucebase@v0.0.6
 - pkg:composer/saucebase/saucebase@v0.0.7
