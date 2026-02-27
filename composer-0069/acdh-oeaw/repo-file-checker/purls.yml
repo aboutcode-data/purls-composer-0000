@@ -41,3 +41,4 @@
 - pkg:composer/acdh-oeaw/repo-file-checker@3.15.2
 - pkg:composer/acdh-oeaw/repo-file-checker@3.16.0
 - pkg:composer/acdh-oeaw/repo-file-checker@3.16.1
+- pkg:composer/acdh-oeaw/repo-file-checker@3.17.0
