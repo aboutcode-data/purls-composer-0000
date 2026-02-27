@@ -1,3 +1,4 @@
 - pkg:composer/reptily/async-run@1.0
 - pkg:composer/reptily/async-run@2.0
 - pkg:composer/reptily/async-run@3.0
+- pkg:composer/reptily/async-run@3.1
