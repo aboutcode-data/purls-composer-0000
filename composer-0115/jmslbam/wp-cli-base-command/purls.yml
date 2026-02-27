@@ -2,3 +2,4 @@
 - pkg:composer/jmslbam/wp-cli-base-command@2.0.0
 - pkg:composer/jmslbam/wp-cli-base-command@2.0.1
 - pkg:composer/jmslbam/wp-cli-base-command@2.1.0
+- pkg:composer/jmslbam/wp-cli-base-command@2.2.0
