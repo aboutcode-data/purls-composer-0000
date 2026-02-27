@@ -16,3 +16,5 @@
 - pkg:composer/andrew-gos/telegram-bot@4.0.7
 - pkg:composer/andrew-gos/telegram-bot@4.1.0
 - pkg:composer/andrew-gos/telegram-bot@4.1.1
+- pkg:composer/andrew-gos/telegram-bot@4.2.0
+- pkg:composer/andrew-gos/telegram-bot@4.3.0

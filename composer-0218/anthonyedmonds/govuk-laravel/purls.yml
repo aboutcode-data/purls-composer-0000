@@ -96,3 +96,10 @@
 - pkg:composer/anthonyedmonds/govuk-laravel@6.3.2
 - pkg:composer/anthonyedmonds/govuk-laravel@6.4.0
 - pkg:composer/anthonyedmonds/govuk-laravel@6.5.0
+- pkg:composer/anthonyedmonds/govuk-laravel@6.6.0
+- pkg:composer/anthonyedmonds/govuk-laravel@6.7.0
+- pkg:composer/anthonyedmonds/govuk-laravel@7.0.0
+- pkg:composer/anthonyedmonds/govuk-laravel@7.0.1
+- pkg:composer/anthonyedmonds/govuk-laravel@7.0.2
+- pkg:composer/anthonyedmonds/govuk-laravel@7.1.0
+- pkg:composer/anthonyedmonds/govuk-laravel@7.2.0

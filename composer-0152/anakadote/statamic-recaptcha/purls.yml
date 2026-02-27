@@ -19,3 +19,4 @@
 - pkg:composer/anakadote/statamic-recaptcha@1.0.9
 - pkg:composer/anakadote/statamic-recaptcha@2.0
 - pkg:composer/anakadote/statamic-recaptcha@3.0
+- pkg:composer/anakadote/statamic-recaptcha@3.1

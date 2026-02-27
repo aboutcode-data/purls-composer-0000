@@ -12,3 +12,4 @@
 - pkg:composer/async-aws/firehose@1.4.0
 - pkg:composer/async-aws/firehose@1.5.0
 - pkg:composer/async-aws/firehose@1.6.0
+- pkg:composer/async-aws/firehose@1.6.1

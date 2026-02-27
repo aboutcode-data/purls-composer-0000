@@ -1,2 +1,3 @@
 - pkg:composer/ami-praha/laravel-db-queue-monitor@1.0.12
 - pkg:composer/ami-praha/laravel-db-queue-monitor@1.1.0
+- pkg:composer/ami-praha/laravel-db-queue-monitor@1.2.0

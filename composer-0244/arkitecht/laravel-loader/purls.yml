@@ -6,3 +6,4 @@
 - pkg:composer/arkitecht/laravel-loader@5.0
 - pkg:composer/arkitecht/laravel-loader@5.1
 - pkg:composer/arkitecht/laravel-loader@5.2
+- pkg:composer/arkitecht/laravel-loader@6.0

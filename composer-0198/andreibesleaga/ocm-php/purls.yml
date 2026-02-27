@@ -2,3 +2,6 @@
 - pkg:composer/andreibesleaga/ocm-php@v0.1.0
 - pkg:composer/andreibesleaga/ocm-php@v0.1.1
 - pkg:composer/andreibesleaga/ocm-php@v0.1.2
+- pkg:composer/andreibesleaga/ocm-php@v0.2.0
+- pkg:composer/andreibesleaga/ocm-php@v0.2.1
+- pkg:composer/andreibesleaga/ocm-php@v0.2.1-beta

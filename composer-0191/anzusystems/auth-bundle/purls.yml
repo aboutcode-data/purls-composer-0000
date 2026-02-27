@@ -20,3 +20,5 @@
 - pkg:composer/anzusystems/auth-bundle@4.1.1
 - pkg:composer/anzusystems/auth-bundle@4.2.0
 - pkg:composer/anzusystems/auth-bundle@4.3.0
+- pkg:composer/anzusystems/auth-bundle@4.4.0
+- pkg:composer/anzusystems/auth-bundle@5.0.0

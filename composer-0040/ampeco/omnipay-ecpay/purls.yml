@@ -7,3 +7,4 @@
 - pkg:composer/ampeco/omnipay-ecpay@1.2.1
 - pkg:composer/ampeco/omnipay-ecpay@1.2.2
 - pkg:composer/ampeco/omnipay-ecpay@1.2.3
+- pkg:composer/ampeco/omnipay-ecpay@v1.2.4

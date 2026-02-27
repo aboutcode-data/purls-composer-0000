@@ -91,3 +91,5 @@
 - pkg:composer/althinect/filament-spatie-roles-permissions@v2.3.1
 - pkg:composer/althinect/filament-spatie-roles-permissions@v2.3.2
 - pkg:composer/althinect/filament-spatie-roles-permissions@v3.0
+- pkg:composer/althinect/filament-spatie-roles-permissions@v3.1
+- pkg:composer/althinect/filament-spatie-roles-permissions@v3.2

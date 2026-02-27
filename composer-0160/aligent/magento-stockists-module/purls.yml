@@ -6,7 +6,7 @@
 - pkg:composer/aligent/magento-stockists-module@1.2.12
 - pkg:composer/aligent/magento-stockists-module@1.2.13
 - pkg:composer/aligent/magento-stockists-module@1.2.14
-- pkg:composer/aligent/magento-stockists-module@1.2.4.0
+- pkg:composer/aligent/magento-stockists-module@1.2.4
 - pkg:composer/aligent/magento-stockists-module@1.2.4.1
 - pkg:composer/aligent/magento-stockists-module@1.2.4.2
 - pkg:composer/aligent/magento-stockists-module@1.2.5.0
@@ -28,3 +28,5 @@
 - pkg:composer/aligent/magento-stockists-module@v2.2.1
 - pkg:composer/aligent/magento-stockists-module@v2.3.0
 - pkg:composer/aligent/magento-stockists-module@v2.3.1
+- pkg:composer/aligent/magento-stockists-module@v2.3.2
+- pkg:composer/aligent/magento-stockists-module@v2.3.3

@@ -39,6 +39,7 @@
 - pkg:composer/api-skeletons/doctrine-orm-graphql@12.5.3
 - pkg:composer/api-skeletons/doctrine-orm-graphql@13.0.0
 - pkg:composer/api-skeletons/doctrine-orm-graphql@13.0.0a
+- pkg:composer/api-skeletons/doctrine-orm-graphql@13.0.1
 - pkg:composer/api-skeletons/doctrine-orm-graphql@8.1.4
 - pkg:composer/api-skeletons/doctrine-orm-graphql@8.1.5
 - pkg:composer/api-skeletons/doctrine-orm-graphql@8.2.0

@@ -65,6 +65,9 @@
 - pkg:composer/altis/seo@24.0.0-beta.1
 - pkg:composer/altis/seo@25.0.0
 - pkg:composer/altis/seo@25.0.0-beta.1
+- pkg:composer/altis/seo@26.0.0
+- pkg:composer/altis/seo@26.0.0-beta.1
+- pkg:composer/altis/seo@26.0.0-beta.2
 - pkg:composer/altis/seo@3.0.0
 - pkg:composer/altis/seo@3.0.0-beta1
 - pkg:composer/altis/seo@3.0.0-beta2

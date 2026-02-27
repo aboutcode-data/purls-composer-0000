@@ -5,6 +5,9 @@
 - pkg:composer/appitudeio/lcms-sdk@3.5.3
 - pkg:composer/appitudeio/lcms-sdk@3.5.4
 - pkg:composer/appitudeio/lcms-sdk@3.5.5
+- pkg:composer/appitudeio/lcms-sdk@3.5.8
+- pkg:composer/appitudeio/lcms-sdk@3.6.0
+- pkg:composer/appitudeio/lcms-sdk@3.7.0
 - pkg:composer/appitudeio/lcms-sdk@v3.0.0
 - pkg:composer/appitudeio/lcms-sdk@v3.0.1
 - pkg:composer/appitudeio/lcms-sdk@v3.0.10
