@@ -30,3 +30,4 @@
 - pkg:composer/lotcz/zavadil-php-common@1.2.8
 - pkg:composer/lotcz/zavadil-php-common@1.2.9
 - pkg:composer/lotcz/zavadil-php-common@1.3.0
+- pkg:composer/lotcz/zavadil-php-common@2.0.1
