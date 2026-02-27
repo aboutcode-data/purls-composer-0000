@@ -65,3 +65,6 @@
 - pkg:composer/cakephp/authentication@3.3.2
 - pkg:composer/cakephp/authentication@3.3.3
 - pkg:composer/cakephp/authentication@3.3.4
+- pkg:composer/cakephp/authentication@3.3.5
+- pkg:composer/cakephp/authentication@4.0.0
+- pkg:composer/cakephp/authentication@4.0.1

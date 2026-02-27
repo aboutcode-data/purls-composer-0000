@@ -144,6 +144,7 @@
 - pkg:composer/code-tool/jaeger-client-symfony-bridge@v3.10.1
 - pkg:composer/code-tool/jaeger-client-symfony-bridge@v3.11.0
 - pkg:composer/code-tool/jaeger-client-symfony-bridge@v3.12.0
+- pkg:composer/code-tool/jaeger-client-symfony-bridge@v3.13.0
 - pkg:composer/code-tool/jaeger-client-symfony-bridge@v3.2.0
 - pkg:composer/code-tool/jaeger-client-symfony-bridge@v3.2.1
 - pkg:composer/code-tool/jaeger-client-symfony-bridge@v3.3.0

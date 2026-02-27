@@ -21,4 +21,5 @@
 - pkg:composer/codeception/stub@4.1.4
 - pkg:composer/codeception/stub@4.2.0
 - pkg:composer/codeception/stub@4.2.1
+- pkg:composer/codeception/stub@4.3.0
 - pkg:composer/codeception/stub@v1.0.0

@@ -48,3 +48,4 @@
 - pkg:composer/codingms/fluid-fpdf@2.8.7
 - pkg:composer/codingms/fluid-fpdf@2.8.8
 - pkg:composer/codingms/fluid-fpdf@2.9.0
+- pkg:composer/codingms/fluid-fpdf@2.9.1

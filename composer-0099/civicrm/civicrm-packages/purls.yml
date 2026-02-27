@@ -318,6 +318,9 @@
 - pkg:composer/civicrm/civicrm-packages@6.1.2
 - pkg:composer/civicrm/civicrm-packages@6.10.0
 - pkg:composer/civicrm/civicrm-packages@6.10.1
+- pkg:composer/civicrm/civicrm-packages@6.10.2
+- pkg:composer/civicrm/civicrm-packages@6.11.0
+- pkg:composer/civicrm/civicrm-packages@6.11.1
 - pkg:composer/civicrm/civicrm-packages@6.2.0
 - pkg:composer/civicrm/civicrm-packages@6.3.0
 - pkg:composer/civicrm/civicrm-packages@6.3.1

@@ -2,3 +2,5 @@
 - pkg:composer/chgst/persistence-doctrine@0.2.0
 - pkg:composer/chgst/persistence-doctrine@0.2.1
 - pkg:composer/chgst/persistence-doctrine@0.3.0
+- pkg:composer/chgst/persistence-doctrine@0.4.0
+- pkg:composer/chgst/persistence-doctrine@0.4.1

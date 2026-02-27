@@ -39,3 +39,4 @@
 - pkg:composer/codegenus/salesforce-rest-sdk@v2.0.1
 - pkg:composer/codegenus/salesforce-rest-sdk@v3.0.0
 - pkg:composer/codegenus/salesforce-rest-sdk@v3.0.1
+- pkg:composer/codegenus/salesforce-rest-sdk@v4.0.0
