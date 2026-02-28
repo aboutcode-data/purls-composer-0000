@@ -181,6 +181,7 @@
 - pkg:composer/spryker/gui@4.0.2
 - pkg:composer/spryker/gui@4.1.0
 - pkg:composer/spryker/gui@4.10.0
+- pkg:composer/spryker/gui@4.11.0
 - pkg:composer/spryker/gui@4.2.0
 - pkg:composer/spryker/gui@4.3.0
 - pkg:composer/spryker/gui@4.3.1
