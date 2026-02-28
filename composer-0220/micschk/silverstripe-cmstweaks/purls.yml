@@ -46,6 +46,7 @@
 - pkg:composer/micschk/silverstripe-cmstweaks@3.0.8
 - pkg:composer/micschk/silverstripe-cmstweaks@3.0.9
 - pkg:composer/micschk/silverstripe-cmstweaks@3.1.0
+- pkg:composer/micschk/silverstripe-cmstweaks@3.10.0
 - pkg:composer/micschk/silverstripe-cmstweaks@3.2.0
 - pkg:composer/micschk/silverstripe-cmstweaks@3.3.0
 - pkg:composer/micschk/silverstripe-cmstweaks@3.3.1
