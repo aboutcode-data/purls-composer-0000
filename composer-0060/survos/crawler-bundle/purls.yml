@@ -741,6 +741,7 @@
 - pkg:composer/survos/crawler-bundle@2.0.112
 - pkg:composer/survos/crawler-bundle@2.0.113
 - pkg:composer/survos/crawler-bundle@2.0.114
+- pkg:composer/survos/crawler-bundle@2.0.115
 - pkg:composer/survos/crawler-bundle@2.0.17
 - pkg:composer/survos/crawler-bundle@2.0.18
 - pkg:composer/survos/crawler-bundle@2.0.19
