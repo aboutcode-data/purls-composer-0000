@@ -33,3 +33,5 @@
 - pkg:composer/mikespub/php-epub-meta@4.0.0
 - pkg:composer/mikespub/php-epub-meta@4.0.1
 - pkg:composer/mikespub/php-epub-meta@4.0.2
+- pkg:composer/mikespub/php-epub-meta@4.1.0
+- pkg:composer/mikespub/php-epub-meta@4.1.1
