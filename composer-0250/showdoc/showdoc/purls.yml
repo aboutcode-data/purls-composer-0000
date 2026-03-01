@@ -165,3 +165,5 @@
 - pkg:composer/showdoc/showdoc@v3.6.1
 - pkg:composer/showdoc/showdoc@v3.6.2
 - pkg:composer/showdoc/showdoc@v3.7.1
+- pkg:composer/showdoc/showdoc@v3.7.2
+- pkg:composer/showdoc/showdoc@v3.7.3
