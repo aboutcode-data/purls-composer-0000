@@ -8,6 +8,7 @@
 - pkg:composer/skeleton-theme/core@1.17-alpha
 - pkg:composer/skeleton-theme/core@1.18-alpha
 - pkg:composer/skeleton-theme/core@1.19-alpha
+- pkg:composer/skeleton-theme/core@1.19.1-alpha
 - pkg:composer/skeleton-theme/core@1.20.0
 - pkg:composer/skeleton-theme/core@1.7-alpha
 - pkg:composer/skeleton-theme/core@1.8-alpha
