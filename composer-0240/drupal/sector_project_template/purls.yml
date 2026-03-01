@@ -6,6 +6,7 @@
 - pkg:composer/drupal/sector_project_template@10.0.5
 - pkg:composer/drupal/sector_project_template@10.0.6
 - pkg:composer/drupal/sector_project_template@10.0.7
+- pkg:composer/drupal/sector_project_template@10.0.9
 - pkg:composer/drupal/sector_project_template@8.0
 - pkg:composer/drupal/sector_project_template@8.1
 - pkg:composer/drupal/sector_project_template@8.1.1

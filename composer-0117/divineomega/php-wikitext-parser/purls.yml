@@ -1,3 +1,5 @@
 - pkg:composer/divineomega/php-wikitext-parser@v1.0.0
 - pkg:composer/divineomega/php-wikitext-parser@v1.0.1
 - pkg:composer/divineomega/php-wikitext-parser@v1.0.2
+- pkg:composer/divineomega/php-wikitext-parser@v2.0.0
+- pkg:composer/divineomega/php-wikitext-parser@v3.0.0

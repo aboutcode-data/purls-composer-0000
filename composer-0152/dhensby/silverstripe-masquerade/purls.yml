@@ -7,3 +7,4 @@
 - pkg:composer/dhensby/silverstripe-masquerade@v0.2.3
 - pkg:composer/dhensby/silverstripe-masquerade@v1.0.0
 - pkg:composer/dhensby/silverstripe-masquerade@v1.0.1
+- pkg:composer/dhensby/silverstripe-masquerade@v2.0.0

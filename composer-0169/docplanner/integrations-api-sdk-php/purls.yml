@@ -44,3 +44,6 @@
 - pkg:composer/docplanner/integrations-api-sdk-php@v1.4.7
 - pkg:composer/docplanner/integrations-api-sdk-php@v1.6.1
 - pkg:composer/docplanner/integrations-api-sdk-php@v1.8.0
+- pkg:composer/docplanner/integrations-api-sdk-php@v1.8.1
+- pkg:composer/docplanner/integrations-api-sdk-php@v1.9.0
+- pkg:composer/docplanner/integrations-api-sdk-php@v1.9.1

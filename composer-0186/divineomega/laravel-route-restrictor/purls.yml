@@ -11,3 +11,5 @@
 - pkg:composer/divineomega/laravel-route-restrictor@v2.1.7
 - pkg:composer/divineomega/laravel-route-restrictor@v2.2.0
 - pkg:composer/divineomega/laravel-route-restrictor@v2.3.1
+- pkg:composer/divineomega/laravel-route-restrictor@v3.0.0
+- pkg:composer/divineomega/laravel-route-restrictor@v4.0.0

@@ -2,3 +2,5 @@
 - pkg:composer/divineomega/email-structure-parser@v2.0.0
 - pkg:composer/divineomega/email-structure-parser@v2.0.1
 - pkg:composer/divineomega/email-structure-parser@v2.2.0
+- pkg:composer/divineomega/email-structure-parser@v3.0.0
+- pkg:composer/divineomega/email-structure-parser@v4.0.0

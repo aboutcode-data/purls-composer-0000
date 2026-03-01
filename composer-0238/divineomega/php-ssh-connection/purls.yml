@@ -7,3 +7,5 @@
 - pkg:composer/divineomega/php-ssh-connection@v2.0.0
 - pkg:composer/divineomega/php-ssh-connection@v2.1.0
 - pkg:composer/divineomega/php-ssh-connection@v2.2.0
+- pkg:composer/divineomega/php-ssh-connection@v3.0.0
+- pkg:composer/divineomega/php-ssh-connection@v4.0.0

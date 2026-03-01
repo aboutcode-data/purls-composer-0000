@@ -6,6 +6,9 @@
 - pkg:composer/digitalrevolution/phpunit-extensions@v1.11.0
 - pkg:composer/digitalrevolution/phpunit-extensions@v1.12.0
 - pkg:composer/digitalrevolution/phpunit-extensions@v1.12.1
+- pkg:composer/digitalrevolution/phpunit-extensions@v1.13.0
+- pkg:composer/digitalrevolution/phpunit-extensions@v1.13.1
+- pkg:composer/digitalrevolution/phpunit-extensions@v1.13.2
 - pkg:composer/digitalrevolution/phpunit-extensions@v1.2.0
 - pkg:composer/digitalrevolution/phpunit-extensions@v1.3.0
 - pkg:composer/digitalrevolution/phpunit-extensions@v1.4.0
