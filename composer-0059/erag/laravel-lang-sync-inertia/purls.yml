@@ -6,3 +6,4 @@
 - pkg:composer/erag/laravel-lang-sync-inertia@v1.6.0
 - pkg:composer/erag/laravel-lang-sync-inertia@v1.7.0
 - pkg:composer/erag/laravel-lang-sync-inertia@v1.8.0
+- pkg:composer/erag/laravel-lang-sync-inertia@v2.0.0
