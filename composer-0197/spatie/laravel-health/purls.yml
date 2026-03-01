@@ -114,6 +114,7 @@
 - pkg:composer/spatie/laravel-health@1.36.0
 - pkg:composer/spatie/laravel-health@1.37.0
 - pkg:composer/spatie/laravel-health@1.38.0
+- pkg:composer/spatie/laravel-health@1.39.0
 - pkg:composer/spatie/laravel-health@1.4.0
 - pkg:composer/spatie/laravel-health@1.4.1
 - pkg:composer/spatie/laravel-health@1.4.2
