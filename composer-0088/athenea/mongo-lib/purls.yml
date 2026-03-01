@@ -24,6 +24,5 @@
 - pkg:composer/athenea/mongo-lib@7.1.2
 - pkg:composer/athenea/mongo-lib@7.2.0
 - pkg:composer/athenea/mongo-lib@7.2.1
-- pkg:composer/athenea/mongo-lib@7.2.2
 - pkg:composer/athenea/mongo-lib@8.0.0
 - pkg:composer/athenea/mongo-lib@8.0.1

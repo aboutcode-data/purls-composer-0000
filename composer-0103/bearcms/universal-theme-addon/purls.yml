@@ -50,6 +50,7 @@
 - pkg:composer/bearcms/universal-theme-addon@v1.20.0
 - pkg:composer/bearcms/universal-theme-addon@v1.21.0
 - pkg:composer/bearcms/universal-theme-addon@v1.22.0
+- pkg:composer/bearcms/universal-theme-addon@v1.23.0
 - pkg:composer/bearcms/universal-theme-addon@v1.3.0
 - pkg:composer/bearcms/universal-theme-addon@v1.3.1
 - pkg:composer/bearcms/universal-theme-addon@v1.3.2
