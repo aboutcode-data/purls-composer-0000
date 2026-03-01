@@ -69,6 +69,7 @@
 - pkg:composer/argws/asaas-sdk-php@v0.2.6
 - pkg:composer/argws/asaas-sdk-php@v0.2.60
 - pkg:composer/argws/asaas-sdk-php@v0.2.61
+- pkg:composer/argws/asaas-sdk-php@v0.2.62
 - pkg:composer/argws/asaas-sdk-php@v0.2.7
 - pkg:composer/argws/asaas-sdk-php@v0.2.8
 - pkg:composer/argws/asaas-sdk-php@v0.2.9
