@@ -4,3 +4,4 @@
 - pkg:composer/3brs/sylius-payment-restrictions-plugin@v2.2.1
 - pkg:composer/3brs/sylius-payment-restrictions-plugin@v2.3.0
 - pkg:composer/3brs/sylius-payment-restrictions-plugin@v3.0.0
+- pkg:composer/3brs/sylius-payment-restrictions-plugin@v3.1.0
