@@ -8,3 +8,4 @@
 - pkg:composer/markocupic/contao-component-bootstrap@5.2.0
 - pkg:composer/markocupic/contao-component-bootstrap@5.2.1
 - pkg:composer/markocupic/contao-component-bootstrap@5.3.3
+- pkg:composer/markocupic/contao-component-bootstrap@5.3.8
