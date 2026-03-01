@@ -72,3 +72,4 @@
 - pkg:composer/yii2-extended/yii2-export-policy-datetime@8.0.8
 - pkg:composer/yii2-extended/yii2-export-policy-datetime@8.0.9
 - pkg:composer/yii2-extended/yii2-export-policy-datetime@9.0.0
+- pkg:composer/yii2-extended/yii2-export-policy-datetime@9.0.1
