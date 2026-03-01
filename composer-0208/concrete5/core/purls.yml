@@ -78,3 +78,4 @@
 - pkg:composer/concrete5/core@9.4.5
 - pkg:composer/concrete5/core@9.4.6
 - pkg:composer/concrete5/core@9.4.7
+- pkg:composer/concrete5/core@9.5.0RC1

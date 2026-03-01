@@ -8,3 +8,4 @@
 - pkg:composer/danilopolani/laravel-fusionauth-jwt@v3.2.0
 - pkg:composer/danilopolani/laravel-fusionauth-jwt@v3.3.0
 - pkg:composer/danilopolani/laravel-fusionauth-jwt@v3.3.1
+- pkg:composer/danilopolani/laravel-fusionauth-jwt@v3.4.0

@@ -28,3 +28,4 @@
 - pkg:composer/dascentral/rma@0.7.0
 - pkg:composer/dascentral/rma@0.8.0
 - pkg:composer/dascentral/rma@0.9.0
+- pkg:composer/dascentral/rma@v0.12.0

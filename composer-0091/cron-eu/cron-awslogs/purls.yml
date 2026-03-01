@@ -1,1 +1,2 @@
 - pkg:composer/cron-eu/cron-awslogs@1.0.0
+- pkg:composer/cron-eu/cron-awslogs@1.1.0

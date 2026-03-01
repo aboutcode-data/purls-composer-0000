@@ -46,3 +46,5 @@
 - pkg:composer/dereuromark/cakephp-dto@2.5.1
 - pkg:composer/dereuromark/cakephp-dto@2.6.0
 - pkg:composer/dereuromark/cakephp-dto@2.7.0
+- pkg:composer/dereuromark/cakephp-dto@2.8.0
+- pkg:composer/dereuromark/cakephp-dto@2.9.0

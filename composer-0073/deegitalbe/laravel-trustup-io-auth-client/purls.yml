@@ -40,3 +40,4 @@
 - pkg:composer/deegitalbe/laravel-trustup-io-auth-client@v1.1.4
 - pkg:composer/deegitalbe/laravel-trustup-io-auth-client@v1.1.5
 - pkg:composer/deegitalbe/laravel-trustup-io-auth-client@v1.2.0
+- pkg:composer/deegitalbe/laravel-trustup-io-auth-client@v2.0.0

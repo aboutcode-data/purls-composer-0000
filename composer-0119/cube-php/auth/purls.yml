@@ -5,3 +5,4 @@
 - pkg:composer/cube-php/auth@0.0.6
 - pkg:composer/cube-php/auth@0.0.7
 - pkg:composer/cube-php/auth@0.0.8
+- pkg:composer/cube-php/auth@0.0.9

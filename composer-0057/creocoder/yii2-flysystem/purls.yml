@@ -17,3 +17,4 @@
 - pkg:composer/creocoder/yii2-flysystem@1.0.0-rc1
 - pkg:composer/creocoder/yii2-flysystem@1.1.0
 - pkg:composer/creocoder/yii2-flysystem@1.2.0
+- pkg:composer/creocoder/yii2-flysystem@2.0.0-beta1

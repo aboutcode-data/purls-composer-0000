@@ -24,3 +24,5 @@
 - pkg:composer/dconco/phpspa@v2.0.6
 - pkg:composer/dconco/phpspa@v2.0.6.82
 - pkg:composer/dconco/phpspa@v2.0.7
+- pkg:composer/dconco/phpspa@v2.0.7.1
+- pkg:composer/dconco/phpspa@v2.0.8

@@ -1,1 +1,8 @@
-- pkg:composer/dayvsonspacca/aqw-socket-client@1.0.0
+- pkg:composer/dayvsonspacca/aqw-socket-client@v2.0.0
+- pkg:composer/dayvsonspacca/aqw-socket-client@v2.0.1
+- pkg:composer/dayvsonspacca/aqw-socket-client@v3.0.0
+- pkg:composer/dayvsonspacca/aqw-socket-client@v3.0.1
+- pkg:composer/dayvsonspacca/aqw-socket-client@v3.0.2
+- pkg:composer/dayvsonspacca/aqw-socket-client@v3.0.3
+- pkg:composer/dayvsonspacca/aqw-socket-client@v3.0.4
+- pkg:composer/dayvsonspacca/aqw-socket-client@v3.0.5

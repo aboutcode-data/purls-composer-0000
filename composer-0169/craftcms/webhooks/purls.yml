@@ -24,3 +24,4 @@
 - pkg:composer/craftcms/webhooks@3.0.5
 - pkg:composer/craftcms/webhooks@3.1.0
 - pkg:composer/craftcms/webhooks@3.1.1
+- pkg:composer/craftcms/webhooks@3.2.0

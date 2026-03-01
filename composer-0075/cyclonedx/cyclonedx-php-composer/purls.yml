@@ -49,3 +49,4 @@
 - pkg:composer/cyclonedx/cyclonedx-php-composer@v5.3.0
 - pkg:composer/cyclonedx/cyclonedx-php-composer@v6.0.0
 - pkg:composer/cyclonedx/cyclonedx-php-composer@v6.1.0
+- pkg:composer/cyclonedx/cyclonedx-php-composer@v6.2.0
