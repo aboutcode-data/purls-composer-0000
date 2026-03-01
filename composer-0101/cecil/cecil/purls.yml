@@ -1064,12 +1064,14 @@
 - pkg:composer/cecil/cecil@8.85.1
 - pkg:composer/cecil/cecil@8.85.2
 - pkg:composer/cecil/cecil@8.85.3
+- pkg:composer/cecil/cecil@8.86.0-beta-7
 - pkg:composer/cecil/cecil@8.86.0-beta.1
 - pkg:composer/cecil/cecil@8.86.0-beta.2
 - pkg:composer/cecil/cecil@8.86.0-beta.3
 - pkg:composer/cecil/cecil@8.86.0-beta.4
 - pkg:composer/cecil/cecil@8.86.0-beta.5
 - pkg:composer/cecil/cecil@8.86.0-beta.6
+- pkg:composer/cecil/cecil@8.86.0-beta.8
 - pkg:composer/cecil/cecil@8.9.0
 - pkg:composer/cecil/cecil@8.9.1
 - pkg:composer/cecil/cecil@8.9.2

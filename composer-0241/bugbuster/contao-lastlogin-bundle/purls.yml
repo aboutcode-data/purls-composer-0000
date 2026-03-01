@@ -9,3 +9,4 @@
 - pkg:composer/bugbuster/contao-lastlogin-bundle@1.8.0
 - pkg:composer/bugbuster/contao-lastlogin-bundle@1.8.1
 - pkg:composer/bugbuster/contao-lastlogin-bundle@2.0.0
+- pkg:composer/bugbuster/contao-lastlogin-bundle@2.0.1

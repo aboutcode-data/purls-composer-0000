@@ -49,6 +49,7 @@
 - pkg:composer/caremillc/caremi@v3.16.0
 - pkg:composer/caremillc/caremi@v3.17.0
 - pkg:composer/caremillc/caremi@v3.18.0
+- pkg:composer/caremillc/caremi@v3.19.0
 - pkg:composer/caremillc/caremi@v3.2.0
 - pkg:composer/caremillc/caremi@v3.3.0
 - pkg:composer/caremillc/caremi@v3.4.0
@@ -57,3 +58,4 @@
 - pkg:composer/caremillc/caremi@v3.7.0
 - pkg:composer/caremillc/caremi@v3.8.0
 - pkg:composer/caremillc/caremi@v3.9.0
+- pkg:composer/caremillc/caremi@v4.0.0
