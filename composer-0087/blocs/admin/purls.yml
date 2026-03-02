@@ -408,6 +408,8 @@
 - pkg:composer/blocs/admin@v2.0.32
 - pkg:composer/blocs/admin@v2.0.33
 - pkg:composer/blocs/admin@v2.0.34
+- pkg:composer/blocs/admin@v2.0.35
+- pkg:composer/blocs/admin@v2.0.36
 - pkg:composer/blocs/admin@v2.0.4
 - pkg:composer/blocs/admin@v2.0.5
 - pkg:composer/blocs/admin@v2.0.6
