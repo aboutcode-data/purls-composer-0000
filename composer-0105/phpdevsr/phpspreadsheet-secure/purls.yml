@@ -1,3 +1,4 @@
 - pkg:composer/phpdevsr/phpspreadsheet-secure@1.0.0
 - pkg:composer/phpdevsr/phpspreadsheet-secure@1.0.1
 - pkg:composer/phpdevsr/phpspreadsheet-secure@1.0.2
+- pkg:composer/phpdevsr/phpspreadsheet-secure@2.0.0
