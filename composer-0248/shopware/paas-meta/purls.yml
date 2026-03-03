@@ -13,6 +13,7 @@
 - pkg:composer/shopware/paas-meta@6.6.5
 - pkg:composer/shopware/paas-meta@6.6.6
 - pkg:composer/shopware/paas-meta@6.6.7
+- pkg:composer/shopware/paas-meta@6.6.8
 - pkg:composer/shopware/paas-meta@6.7.0
 - pkg:composer/shopware/paas-meta@6.7.1
 - pkg:composer/shopware/paas-meta@6.7.2
