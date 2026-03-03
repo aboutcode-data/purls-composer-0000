@@ -11,3 +11,5 @@
 - pkg:composer/zero-bounce/sdk@v1.1.3
 - pkg:composer/zero-bounce/sdk@v1.1.4
 - pkg:composer/zero-bounce/sdk@v1.2.0
+- pkg:composer/zero-bounce/sdk@v2.0.0
+- pkg:composer/zero-bounce/sdk@v2.0.1
