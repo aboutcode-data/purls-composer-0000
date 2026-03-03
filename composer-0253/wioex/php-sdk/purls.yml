@@ -11,6 +11,7 @@
 - pkg:composer/wioex/php-sdk@v2.13.1
 - pkg:composer/wioex/php-sdk@v2.14.0
 - pkg:composer/wioex/php-sdk@v2.15.0
+- pkg:composer/wioex/php-sdk@v2.16.0
 - pkg:composer/wioex/php-sdk@v2.2.0
 - pkg:composer/wioex/php-sdk@v2.3.0
 - pkg:composer/wioex/php-sdk@v2.3.1
