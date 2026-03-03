@@ -100,3 +100,5 @@
 - pkg:composer/experteam/api-laravel-interface@3.8.1
 - pkg:composer/experteam/api-laravel-interface@3.8.2
 - pkg:composer/experteam/api-laravel-interface@3.8.3
+- pkg:composer/experteam/api-laravel-interface@3.9.0
+- pkg:composer/experteam/api-laravel-interface@3.9.1
