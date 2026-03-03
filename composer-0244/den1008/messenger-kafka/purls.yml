@@ -1,1 +1,3 @@
 - pkg:composer/den1008/messenger-kafka@1.0.0
+- pkg:composer/den1008/messenger-kafka@1.0.1
+- pkg:composer/den1008/messenger-kafka@1.0.2
