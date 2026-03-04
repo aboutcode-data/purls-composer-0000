@@ -1,3 +1,5 @@
 - pkg:composer/cline/rpc@1.0.0
 - pkg:composer/cline/rpc@2.0.0
 - pkg:composer/cline/rpc@3.0.0
+- pkg:composer/cline/rpc@4.0.0
+- pkg:composer/cline/rpc@4.0.1

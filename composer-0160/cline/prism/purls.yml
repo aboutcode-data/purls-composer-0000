@@ -25,3 +25,5 @@
 - pkg:composer/cline/prism@1.6.0
 - pkg:composer/cline/prism@1.6.1
 - pkg:composer/cline/prism@1.7.0
+- pkg:composer/cline/prism@2.0.0
+- pkg:composer/cline/prism@2.0.1
