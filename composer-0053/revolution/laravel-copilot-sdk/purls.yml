@@ -26,6 +26,7 @@
 - pkg:composer/revolution/laravel-copilot-sdk@0.2.23
 - pkg:composer/revolution/laravel-copilot-sdk@0.2.24
 - pkg:composer/revolution/laravel-copilot-sdk@0.2.25
+- pkg:composer/revolution/laravel-copilot-sdk@0.2.26
 - pkg:composer/revolution/laravel-copilot-sdk@0.2.3
 - pkg:composer/revolution/laravel-copilot-sdk@0.2.4
 - pkg:composer/revolution/laravel-copilot-sdk@0.2.5
