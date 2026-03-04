@@ -131,3 +131,4 @@
 - pkg:composer/simplesamlphp/simplesamlphp@v2.4.4
 - pkg:composer/simplesamlphp/simplesamlphp@v2.5.0-rc3
 - pkg:composer/simplesamlphp/simplesamlphp@v2.5.0-rc5
+- pkg:composer/simplesamlphp/simplesamlphp@v2.5.0-rc6
