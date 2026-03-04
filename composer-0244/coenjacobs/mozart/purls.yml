@@ -24,8 +24,10 @@
 - pkg:composer/coenjacobs/mozart@1.0.6
 - pkg:composer/coenjacobs/mozart@1.0.7
 - pkg:composer/coenjacobs/mozart@1.0.8
+- pkg:composer/coenjacobs/mozart@1.0.9
 - pkg:composer/coenjacobs/mozart@1.1.0
 - pkg:composer/coenjacobs/mozart@1.1.0-beta-1
 - pkg:composer/coenjacobs/mozart@1.1.0-beta-2
 - pkg:composer/coenjacobs/mozart@1.1.1
 - pkg:composer/coenjacobs/mozart@1.1.2
+- pkg:composer/coenjacobs/mozart@1.1.3
