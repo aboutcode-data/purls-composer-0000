@@ -12,6 +12,7 @@
 - pkg:composer/alledia/edd-sl-plugin-updater@1.6.19
 - pkg:composer/alledia/edd-sl-plugin-updater@1.6.20
 - pkg:composer/alledia/edd-sl-plugin-updater@1.6.24
+- pkg:composer/alledia/edd-sl-plugin-updater@1.6.25
 - pkg:composer/alledia/edd-sl-plugin-updater@v1.6.21
 - pkg:composer/alledia/edd-sl-plugin-updater@v1.6.22
 - pkg:composer/alledia/edd-sl-plugin-updater@v1.6.23
