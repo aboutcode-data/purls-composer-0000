@@ -341,3 +341,4 @@
 - pkg:composer/dunglas/json-ld-api-bundle@v4.2.9
 - pkg:composer/dunglas/json-ld-api-bundle@v4.3.0-alpha.1
 - pkg:composer/dunglas/json-ld-api-bundle@v4.3.0-alpha.2
+- pkg:composer/dunglas/json-ld-api-bundle@v4.3.0-beta.1

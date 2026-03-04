@@ -58,6 +58,7 @@
 - pkg:composer/ec-cube/ec-cube@4.1.2-p2
 - pkg:composer/ec-cube/ec-cube@4.1.2-p3
 - pkg:composer/ec-cube/ec-cube@4.1.2-p4
+- pkg:composer/ec-cube/ec-cube@4.1.2-p5
 - pkg:composer/ec-cube/ec-cube@4.2.0
 - pkg:composer/ec-cube/ec-cube@4.2.0-alpha
 - pkg:composer/ec-cube/ec-cube@4.2.0-beta
@@ -77,6 +78,7 @@
 - pkg:composer/ec-cube/ec-cube@4.2.2
 - pkg:composer/ec-cube/ec-cube@4.2.3
 - pkg:composer/ec-cube/ec-cube@4.2.3-p1
+- pkg:composer/ec-cube/ec-cube@4.2.3-p2
 - pkg:composer/ec-cube/ec-cube@4.3.0
 - pkg:composer/ec-cube/ec-cube@4.3.0-alpha
 - pkg:composer/ec-cube/ec-cube@4.3.0-alpha-0304
@@ -85,3 +87,4 @@
 - pkg:composer/ec-cube/ec-cube@4.3.0-beta-240412
 - pkg:composer/ec-cube/ec-cube@4.3.0-rc
 - pkg:composer/ec-cube/ec-cube@4.3.1
+- pkg:composer/ec-cube/ec-cube@4.3.1-p1
