@@ -17,3 +17,5 @@
 - pkg:composer/anthonyedmonds/laravel-find@6.0.1
 - pkg:composer/anthonyedmonds/laravel-find@6.1.0
 - pkg:composer/anthonyedmonds/laravel-find@6.2.0
+- pkg:composer/anthonyedmonds/laravel-find@6.3.0
+- pkg:composer/anthonyedmonds/laravel-find@6.3.1

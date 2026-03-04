@@ -99,3 +99,7 @@
 - pkg:composer/alnv/catalog-manager-bundle@3.4.7
 - pkg:composer/alnv/catalog-manager-bundle@3.4.8
 - pkg:composer/alnv/catalog-manager-bundle@3.4.9
+- pkg:composer/alnv/catalog-manager-bundle@4.0.0
+- pkg:composer/alnv/catalog-manager-bundle@4.0.1
+- pkg:composer/alnv/catalog-manager-bundle@4.0.2
+- pkg:composer/alnv/catalog-manager-bundle@4.0.3
