@@ -25,6 +25,9 @@
 - pkg:composer/genkgo/mail@2.12.3
 - pkg:composer/genkgo/mail@2.12.4
 - pkg:composer/genkgo/mail@2.12.5
+- pkg:composer/genkgo/mail@2.12.6
+- pkg:composer/genkgo/mail@2.12.7
+- pkg:composer/genkgo/mail@2.12.8
 - pkg:composer/genkgo/mail@2.2.0
 - pkg:composer/genkgo/mail@2.3.0
 - pkg:composer/genkgo/mail@2.4.0

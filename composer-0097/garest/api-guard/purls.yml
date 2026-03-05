@@ -1,3 +1,4 @@
 - pkg:composer/garest/api-guard@1.0.0
 - pkg:composer/garest/api-guard@1.0.1
 - pkg:composer/garest/api-guard@1.1.0
+- pkg:composer/garest/api-guard@2.0.0
