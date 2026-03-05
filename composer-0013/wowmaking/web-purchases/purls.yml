@@ -82,3 +82,4 @@
 - pkg:composer/wowmaking/web-purchases@1.4.5.beta
 - pkg:composer/wowmaking/web-purchases@1.4.beta
 - pkg:composer/wowmaking/web-purchases@2.0.0
+- pkg:composer/wowmaking/web-purchases@2.1.0
