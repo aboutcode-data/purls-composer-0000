@@ -14,6 +14,7 @@
 - pkg:composer/oro/commerce-stripe@5.1.6
 - pkg:composer/oro/commerce-stripe@5.1.7
 - pkg:composer/oro/commerce-stripe@5.1.8
+- pkg:composer/oro/commerce-stripe@5.1.9
 - pkg:composer/oro/commerce-stripe@6.0.0
 - pkg:composer/oro/commerce-stripe@6.0.0-beta.1
 - pkg:composer/oro/commerce-stripe@6.0.0-rc

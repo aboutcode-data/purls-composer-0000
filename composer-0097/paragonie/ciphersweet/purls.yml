@@ -28,6 +28,7 @@
 - pkg:composer/paragonie/ciphersweet@v4.0.1
 - pkg:composer/paragonie/ciphersweet@v4.0.2
 - pkg:composer/paragonie/ciphersweet@v4.1.0
+- pkg:composer/paragonie/ciphersweet@v4.10.0
 - pkg:composer/paragonie/ciphersweet@v4.2.0
 - pkg:composer/paragonie/ciphersweet@v4.3.0
 - pkg:composer/paragonie/ciphersweet@v4.4.0

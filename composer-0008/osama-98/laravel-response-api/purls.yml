@@ -11,3 +11,5 @@
 - pkg:composer/osama-98/laravel-response-api@1.9.1
 - pkg:composer/osama-98/laravel-response-api@1.9.2
 - pkg:composer/osama-98/laravel-response-api@1.9.3
+- pkg:composer/osama-98/laravel-response-api@2.0.0
+- pkg:composer/osama-98/laravel-response-api@2.0.1

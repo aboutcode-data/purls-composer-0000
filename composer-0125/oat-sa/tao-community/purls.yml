@@ -343,6 +343,8 @@
 - pkg:composer/oat-sa/tao-community@2026.02.5
 - pkg:composer/oat-sa/tao-community@2026.02.6
 - pkg:composer/oat-sa/tao-community@2026.02.7
+- pkg:composer/oat-sa/tao-community@2026.02.8
+- pkg:composer/oat-sa/tao-community@2026.03
 - pkg:composer/oat-sa/tao-community@v0.100.0-alpha
 - pkg:composer/oat-sa/tao-community@v0.101.0-alpha
 - pkg:composer/oat-sa/tao-community@v0.101.1-alpha
@@ -820,3 +822,4 @@
 - pkg:composer/oat-sa/tao-community@v2024.09.3
 - pkg:composer/oat-sa/tao-community@v2025.05.14
 - pkg:composer/oat-sa/tao-community@v2025.08.2
+- pkg:composer/oat-sa/tao-community@v2026.02.9

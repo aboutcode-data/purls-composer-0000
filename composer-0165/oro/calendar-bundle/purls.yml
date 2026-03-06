@@ -142,6 +142,7 @@
 - pkg:composer/oro/calendar-bundle@5.1.5
 - pkg:composer/oro/calendar-bundle@5.1.6
 - pkg:composer/oro/calendar-bundle@5.1.7
+- pkg:composer/oro/calendar-bundle@5.1.8
 - pkg:composer/oro/calendar-bundle@6.0.0
 - pkg:composer/oro/calendar-bundle@6.0.0-beta.1
 - pkg:composer/oro/calendar-bundle@6.0.0-rc
