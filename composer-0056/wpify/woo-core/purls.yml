@@ -78,3 +78,4 @@
 - pkg:composer/wpify/woo-core@5.4.3
 - pkg:composer/wpify/woo-core@5.4.4
 - pkg:composer/wpify/woo-core@5.5.0
+- pkg:composer/wpify/woo-core@5.5.1
