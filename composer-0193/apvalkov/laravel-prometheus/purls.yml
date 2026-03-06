@@ -6,3 +6,7 @@
 - pkg:composer/apvalkov/laravel-prometheus@v0.0.6
 - pkg:composer/apvalkov/laravel-prometheus@v0.0.7
 - pkg:composer/apvalkov/laravel-prometheus@v0.0.8
+- pkg:composer/apvalkov/laravel-prometheus@v0.0.9
+- pkg:composer/apvalkov/laravel-prometheus@v1.0.0
+- pkg:composer/apvalkov/laravel-prometheus@v2.0.0
+- pkg:composer/apvalkov/laravel-prometheus@v2.0.1
