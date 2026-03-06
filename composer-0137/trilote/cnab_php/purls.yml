@@ -28,9 +28,10 @@
 - pkg:composer/trilote/cnab_php@1.4.18
 - pkg:composer/trilote/cnab_php@1.4.19
 - pkg:composer/trilote/cnab_php@1.4.2
-- pkg:composer/trilote/cnab_php@1.4.20
 - pkg:composer/trilote/cnab_php@1.4.21
 - pkg:composer/trilote/cnab_php@1.4.22
+- pkg:composer/trilote/cnab_php@1.4.23
+- pkg:composer/trilote/cnab_php@1.4.24
 - pkg:composer/trilote/cnab_php@1.4.3
 - pkg:composer/trilote/cnab_php@1.4.4
 - pkg:composer/trilote/cnab_php@1.4.5
@@ -38,3 +39,4 @@
 - pkg:composer/trilote/cnab_php@1.4.7
 - pkg:composer/trilote/cnab_php@1.4.8
 - pkg:composer/trilote/cnab_php@1.4.9
+- pkg:composer/trilote/cnab_php@v1.4.20
