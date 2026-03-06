@@ -148,3 +148,5 @@
 - pkg:composer/maximebf/debugbar@v3.3.1
 - pkg:composer/maximebf/debugbar@v3.4.0
 - pkg:composer/maximebf/debugbar@v3.4.1
+- pkg:composer/maximebf/debugbar@v3.5.0
+- pkg:composer/maximebf/debugbar@v3.5.1

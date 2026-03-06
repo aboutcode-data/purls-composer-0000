@@ -25,3 +25,6 @@
 - pkg:composer/matecat/icu-intl@1.1.7
 - pkg:composer/matecat/icu-intl@1.1.8
 - pkg:composer/matecat/icu-intl@1.1.9
+- pkg:composer/matecat/icu-intl@v1.1.14
+- pkg:composer/matecat/icu-intl@v1.1.15
+- pkg:composer/matecat/icu-intl@v1.1.16
