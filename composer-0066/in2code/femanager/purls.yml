@@ -2,6 +2,8 @@
 - pkg:composer/in2code/femanager@13.1.0
 - pkg:composer/in2code/femanager@13.2.0
 - pkg:composer/in2code/femanager@13.2.1
+- pkg:composer/in2code/femanager@13.3.0
+- pkg:composer/in2code/femanager@13.3.1
 - pkg:composer/in2code/femanager@2.5.0
 - pkg:composer/in2code/femanager@2.5.1
 - pkg:composer/in2code/femanager@2.6.0
@@ -87,3 +89,4 @@
 - pkg:composer/in2code/femanager@8.3.1
 - pkg:composer/in2code/femanager@8.3.2
 - pkg:composer/in2code/femanager@8.3.3
+- pkg:composer/in2code/femanager@8.4.0

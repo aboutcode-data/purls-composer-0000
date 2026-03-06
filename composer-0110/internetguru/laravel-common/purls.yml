@@ -169,3 +169,4 @@
 - pkg:composer/internetguru/laravel-common@v4.8.6
 - pkg:composer/internetguru/laravel-common@v5.0.0
 - pkg:composer/internetguru/laravel-common@v5.1.0
+- pkg:composer/internetguru/laravel-common@v5.2.0
