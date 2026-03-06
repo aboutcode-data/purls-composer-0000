@@ -11,3 +11,4 @@
 - pkg:composer/mvanduijker/laravel-model-exists-rule@3.3.0
 - pkg:composer/mvanduijker/laravel-model-exists-rule@3.3.1
 - pkg:composer/mvanduijker/laravel-model-exists-rule@3.3.2
+- pkg:composer/mvanduijker/laravel-model-exists-rule@3.4.0

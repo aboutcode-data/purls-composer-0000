@@ -39,3 +39,4 @@
 - pkg:composer/netgen/ibexa-site-api@6.2.5
 - pkg:composer/netgen/ibexa-site-api@6.3.0
 - pkg:composer/netgen/ibexa-site-api@6.3.1
+- pkg:composer/netgen/ibexa-site-api@7.0.0
