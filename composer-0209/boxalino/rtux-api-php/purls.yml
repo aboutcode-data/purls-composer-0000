@@ -116,3 +116,4 @@
 - pkg:composer/boxalino/rtux-api-php@4.1.6
 - pkg:composer/boxalino/rtux-api-php@4.1.7
 - pkg:composer/boxalino/rtux-api-php@4.2.0
+- pkg:composer/boxalino/rtux-api-php@5.0.0
