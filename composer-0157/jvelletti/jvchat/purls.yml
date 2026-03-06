@@ -37,5 +37,9 @@
 - pkg:composer/jvelletti/jvchat@12.4.6
 - pkg:composer/jvelletti/jvchat@12.4.7
 - pkg:composer/jvelletti/jvchat@12.4.9
+- pkg:composer/jvelletti/jvchat@13.4.0
+- pkg:composer/jvelletti/jvchat@13.4.2
+- pkg:composer/jvelletti/jvchat@13.4.3
+- pkg:composer/jvelletti/jvchat@13.4.4
 - pkg:composer/jvelletti/jvchat@9.5.1
 - pkg:composer/jvelletti/jvchat@9.5.2

@@ -1,0 +1,2 @@
+- pkg:composer/kipchak/driver-cloudflare-dns@1.0
+- pkg:composer/kipchak/driver-cloudflare-dns@1.1
