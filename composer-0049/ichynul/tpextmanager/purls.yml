@@ -90,6 +90,7 @@
 - pkg:composer/ichynul/tpextmanager@1.9.115
 - pkg:composer/ichynul/tpextmanager@1.9.116
 - pkg:composer/ichynul/tpextmanager@1.9.117
+- pkg:composer/ichynul/tpextmanager@1.9.118
 - pkg:composer/ichynul/tpextmanager@3.0.1
 - pkg:composer/ichynul/tpextmanager@3.0.10
 - pkg:composer/ichynul/tpextmanager@3.0.2
@@ -149,3 +150,4 @@
 - pkg:composer/ichynul/tpextmanager@3.6.1
 - pkg:composer/ichynul/tpextmanager@3.6.2
 - pkg:composer/ichynul/tpextmanager@3.6.3
+- pkg:composer/ichynul/tpextmanager@3.6.4

@@ -7,4 +7,6 @@
 - pkg:composer/horde/pear@1.0.0alpha9
 - pkg:composer/horde/pear@2.0.0alpha1
 - pkg:composer/horde/pear@2.0.0alpha2
+- pkg:composer/horde/pear@v1.0.0alpha13
+- pkg:composer/horde/pear@v1.0.0alpha14
 - pkg:composer/horde/pear@v2.0.0alpha3
