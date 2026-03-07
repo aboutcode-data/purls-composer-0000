@@ -8,3 +8,4 @@
 - pkg:composer/cuongnx/laravel-repo-service-generator@v2.0.5
 - pkg:composer/cuongnx/laravel-repo-service-generator@v2.0.6
 - pkg:composer/cuongnx/laravel-repo-service-generator@v2.0.7
+- pkg:composer/cuongnx/laravel-repo-service-generator@v2.0.8
