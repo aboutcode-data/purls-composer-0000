@@ -5,6 +5,8 @@
 - pkg:composer/hashbangcode/sitemap_checker@0.13.0
 - pkg:composer/hashbangcode/sitemap_checker@0.14.0
 - pkg:composer/hashbangcode/sitemap_checker@0.15.0
+- pkg:composer/hashbangcode/sitemap_checker@0.16.0
+- pkg:composer/hashbangcode/sitemap_checker@0.16.1
 - pkg:composer/hashbangcode/sitemap_checker@0.2
 - pkg:composer/hashbangcode/sitemap_checker@0.3
 - pkg:composer/hashbangcode/sitemap_checker@0.4
