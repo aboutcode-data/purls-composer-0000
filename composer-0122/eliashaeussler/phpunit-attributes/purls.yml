@@ -10,3 +10,5 @@
 - pkg:composer/eliashaeussler/phpunit-attributes@1.7.0
 - pkg:composer/eliashaeussler/phpunit-attributes@1.8.0
 - pkg:composer/eliashaeussler/phpunit-attributes@2.0.0
+- pkg:composer/eliashaeussler/phpunit-attributes@2.0.1
+- pkg:composer/eliashaeussler/phpunit-attributes@2.0.2
