@@ -22,3 +22,4 @@
 - pkg:composer/horde/service_weather@3.0.0alpha1
 - pkg:composer/horde/service_weather@3.0.0alpha2
 - pkg:composer/horde/service_weather@v3.0.0alpha3
+- pkg:composer/horde/service_weather@v3.0.0alpha5
