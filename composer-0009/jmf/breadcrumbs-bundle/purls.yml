@@ -12,3 +12,4 @@
 - pkg:composer/jmf/breadcrumbs-bundle@3.3.0
 - pkg:composer/jmf/breadcrumbs-bundle@3.4.0
 - pkg:composer/jmf/breadcrumbs-bundle@3.5.0
+- pkg:composer/jmf/breadcrumbs-bundle@4.0.0
