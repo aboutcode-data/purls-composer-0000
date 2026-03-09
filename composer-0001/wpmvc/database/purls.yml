@@ -5,3 +5,4 @@
 - pkg:composer/wpmvc/database@1.2.0
 - pkg:composer/wpmvc/database@1.3.0
 - pkg:composer/wpmvc/database@1.3.2
+- pkg:composer/wpmvc/database@2.0.0
