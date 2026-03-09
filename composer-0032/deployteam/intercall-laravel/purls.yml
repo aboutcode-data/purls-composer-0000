@@ -8,3 +8,4 @@
 - pkg:composer/deployteam/intercall-laravel@0.6.0
 - pkg:composer/deployteam/intercall-laravel@0.7.0
 - pkg:composer/deployteam/intercall-laravel@0.7.1
+- pkg:composer/deployteam/intercall-laravel@0.8.0
