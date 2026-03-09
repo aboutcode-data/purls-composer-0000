@@ -30,3 +30,4 @@
 - pkg:composer/phug/event@1.8.2
 - pkg:composer/phug/event@1.8.3
 - pkg:composer/phug/event@1.9.0
+- pkg:composer/phug/event@2.0.0

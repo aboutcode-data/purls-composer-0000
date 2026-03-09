@@ -1,1 +1,2 @@
 - pkg:composer/pinarkive/pinarkive-sdk-php@2.3.0
+- pkg:composer/pinarkive/pinarkive-sdk-php@3.0.0

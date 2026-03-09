@@ -17,3 +17,4 @@
 - pkg:composer/phug/facade@1.8.2
 - pkg:composer/phug/facade@1.8.3
 - pkg:composer/phug/facade@1.9.0
+- pkg:composer/phug/facade@2.0.0
