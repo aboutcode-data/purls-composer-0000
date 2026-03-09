@@ -17,6 +17,14 @@
 - pkg:composer/suhk/datafinder-laravel@v2.1.1
 - pkg:composer/suhk/datafinder-laravel@v2.2.0
 - pkg:composer/suhk/datafinder-laravel@v2.2.1
+- pkg:composer/suhk/datafinder-laravel@v2.2.10
+- pkg:composer/suhk/datafinder-laravel@v2.2.11
+- pkg:composer/suhk/datafinder-laravel@v2.2.12
 - pkg:composer/suhk/datafinder-laravel@v2.2.2
 - pkg:composer/suhk/datafinder-laravel@v2.2.3
 - pkg:composer/suhk/datafinder-laravel@v2.2.4
+- pkg:composer/suhk/datafinder-laravel@v2.2.5
+- pkg:composer/suhk/datafinder-laravel@v2.2.6
+- pkg:composer/suhk/datafinder-laravel@v2.2.7
+- pkg:composer/suhk/datafinder-laravel@v2.2.8
+- pkg:composer/suhk/datafinder-laravel@v2.2.9
