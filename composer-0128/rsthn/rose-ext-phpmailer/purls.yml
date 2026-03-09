@@ -1,1 +1,2 @@
 - pkg:composer/rsthn/rose-ext-phpmailer@2.0.0
+- pkg:composer/rsthn/rose-ext-phpmailer@v2.0.1

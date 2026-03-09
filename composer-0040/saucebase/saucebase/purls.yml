@@ -68,3 +68,6 @@
 - pkg:composer/saucebase/saucebase@v1.2.3
 - pkg:composer/saucebase/saucebase@v1.2.4
 - pkg:composer/saucebase/saucebase@v1.2.5
+- pkg:composer/saucebase/saucebase@v1.2.6
+- pkg:composer/saucebase/saucebase@v1.2.7
+- pkg:composer/saucebase/saucebase@v1.2.8
