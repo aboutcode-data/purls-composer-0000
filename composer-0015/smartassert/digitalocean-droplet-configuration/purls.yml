@@ -6,3 +6,8 @@
 - pkg:composer/smartassert/digitalocean-droplet-configuration@1.0
 - pkg:composer/smartassert/digitalocean-droplet-configuration@1.1
 - pkg:composer/smartassert/digitalocean-droplet-configuration@1.2
+- pkg:composer/smartassert/digitalocean-droplet-configuration@2.0
+- pkg:composer/smartassert/digitalocean-droplet-configuration@3.0
+- pkg:composer/smartassert/digitalocean-droplet-configuration@4.0
+- pkg:composer/smartassert/digitalocean-droplet-configuration@5.0
+- pkg:composer/smartassert/digitalocean-droplet-configuration@5.1

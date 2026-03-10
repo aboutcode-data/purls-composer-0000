@@ -7,3 +7,4 @@
 - pkg:composer/spryker/api-platform@0.5.2
 - pkg:composer/spryker/api-platform@0.5.3
 - pkg:composer/spryker/api-platform@0.5.4
+- pkg:composer/spryker/api-platform@0.6.0

@@ -1,3 +1,4 @@
 - pkg:composer/sigedi/jasper-report-bundle@1.0.0
 - pkg:composer/sigedi/jasper-report-bundle@2.0.0
 - pkg:composer/sigedi/jasper-report-bundle@2.0.1
+- pkg:composer/sigedi/jasper-report-bundle@2.0.2
