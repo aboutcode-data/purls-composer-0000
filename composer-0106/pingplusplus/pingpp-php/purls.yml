@@ -25,3 +25,4 @@
 - pkg:composer/pingplusplus/pingpp-php@2.5.0
 - pkg:composer/pingplusplus/pingpp-php@2.5.1
 - pkg:composer/pingplusplus/pingpp-php@2.6.0
+- pkg:composer/pingplusplus/pingpp-php@3.0.0
