@@ -12,6 +12,7 @@
 - pkg:composer/pluswerk/grumphp-config@10.2.4
 - pkg:composer/pluswerk/grumphp-config@10.2.5
 - pkg:composer/pluswerk/grumphp-config@10.2.6
+- pkg:composer/pluswerk/grumphp-config@11.0.0
 - pkg:composer/pluswerk/grumphp-config@2.0.0
 - pkg:composer/pluswerk/grumphp-config@2.1.0
 - pkg:composer/pluswerk/grumphp-config@2.1.1
