@@ -106,3 +106,4 @@
 - pkg:composer/teknoo/east-common-symfony@4.1.4
 - pkg:composer/teknoo/east-common-symfony@4.1.5
 - pkg:composer/teknoo/east-common-symfony@4.2.0
+- pkg:composer/teknoo/east-common-symfony@4.2.1
