@@ -15,4 +15,5 @@
 - pkg:composer/secretstache/wordpress-gutenberg-starter@2.0.5
 - pkg:composer/secretstache/wordpress-gutenberg-starter@2.0.6
 - pkg:composer/secretstache/wordpress-gutenberg-starter@2.0.7
+- pkg:composer/secretstache/wordpress-gutenberg-starter@2.0.8
 - pkg:composer/secretstache/wordpress-gutenberg-starter@v1.0.0
