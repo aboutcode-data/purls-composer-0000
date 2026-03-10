@@ -865,6 +865,10 @@
 - pkg:composer/pushword/admin@1.0.0-rc512
 - pkg:composer/pushword/admin@1.0.0-rc513
 - pkg:composer/pushword/admin@1.0.0-rc514
+- pkg:composer/pushword/admin@1.0.0-rc515
+- pkg:composer/pushword/admin@1.0.0-rc516
+- pkg:composer/pushword/admin@1.0.0-rc517
+- pkg:composer/pushword/admin@1.0.0-rc518
 - pkg:composer/pushword/admin@1.0.0-rc52
 - pkg:composer/pushword/admin@1.0.0-rc53
 - pkg:composer/pushword/admin@1.0.0-rc54
@@ -915,6 +919,5 @@
 - pkg:composer/pushword/admin@1.0.0-rc97
 - pkg:composer/pushword/admin@1.0.0-rc98
 - pkg:composer/pushword/admin@1.0.0-rc99
-- pkg:composer/pushword/admin@1.0.1
 - pkg:composer/pushword/admin@v0.0.33
 - pkg:composer/pushword/admin@v0.0.35
