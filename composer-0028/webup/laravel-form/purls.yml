@@ -1,3 +1,4 @@
+- pkg:composer/webup/laravel-form@V1.10.0
 - pkg:composer/webup/laravel-form@v1.0.0
 - pkg:composer/webup/laravel-form@v1.0.1
 - pkg:composer/webup/laravel-form@v1.0.2
