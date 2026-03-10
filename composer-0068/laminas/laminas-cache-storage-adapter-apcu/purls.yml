@@ -10,3 +10,4 @@
 - pkg:composer/laminas/laminas-cache-storage-adapter-apcu@2.6.0
 - pkg:composer/laminas/laminas-cache-storage-adapter-apcu@3.0.0
 - pkg:composer/laminas/laminas-cache-storage-adapter-apcu@3.1.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-apcu@3.2.0
