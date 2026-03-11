@@ -37,3 +37,5 @@
 - pkg:composer/asciisd/knet@v5.0.0
 - pkg:composer/asciisd/knet@v6.0.0
 - pkg:composer/asciisd/knet@v6.0.1
+- pkg:composer/asciisd/knet@v7.0.0
+- pkg:composer/asciisd/knet@v7.1.0

@@ -22,4 +22,5 @@
 - pkg:composer/aternos/thanos@v2.0.0
 - pkg:composer/aternos/thanos@v2.1.0
 - pkg:composer/aternos/thanos@v2.2.0
+- pkg:composer/aternos/thanos@v3.0.0
 - pkg:composer/aternos/thanos@v3.0.0-beta.1
