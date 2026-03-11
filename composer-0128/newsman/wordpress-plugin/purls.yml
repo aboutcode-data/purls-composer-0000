@@ -11,3 +11,5 @@
 - pkg:composer/newsman/wordpress-plugin@3.3.3
 - pkg:composer/newsman/wordpress-plugin@3.3.4
 - pkg:composer/newsman/wordpress-plugin@3.4.0
+- pkg:composer/newsman/wordpress-plugin@3.5.0
+- pkg:composer/newsman/wordpress-plugin@3.6.0
