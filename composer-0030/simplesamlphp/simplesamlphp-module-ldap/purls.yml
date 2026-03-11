@@ -81,3 +81,4 @@
 - pkg:composer/simplesamlphp/simplesamlphp-module-ldap@v2.4.9
 - pkg:composer/simplesamlphp/simplesamlphp-module-ldap@v2.5.0
 - pkg:composer/simplesamlphp/simplesamlphp-module-ldap@v2.5.1
+- pkg:composer/simplesamlphp/simplesamlphp-module-ldap@v2.5.2
