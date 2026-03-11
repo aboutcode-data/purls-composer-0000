@@ -10,3 +10,4 @@
 - pkg:composer/andersundsehr/rector-p@10.1.4
 - pkg:composer/andersundsehr/rector-p@10.2.1
 - pkg:composer/andersundsehr/rector-p@10.2.2
+- pkg:composer/andersundsehr/rector-p@11.0.0

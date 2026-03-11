@@ -11,3 +11,6 @@
 - pkg:composer/alajusticia/laravel-logins@v1.3
 - pkg:composer/alajusticia/laravel-logins@v1.3.1
 - pkg:composer/alajusticia/laravel-logins@v1.3.2
+- pkg:composer/alajusticia/laravel-logins@v1.4.0
+- pkg:composer/alajusticia/laravel-logins@v1.5.0
+- pkg:composer/alajusticia/laravel-logins@v1.5.1
