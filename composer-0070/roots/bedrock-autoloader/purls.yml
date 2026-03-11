@@ -4,3 +4,4 @@
 - pkg:composer/roots/bedrock-autoloader@1.0.3
 - pkg:composer/roots/bedrock-autoloader@1.0.4
 - pkg:composer/roots/bedrock-autoloader@1.1.0
+- pkg:composer/roots/bedrock-autoloader@v2.0.0-beta.1
