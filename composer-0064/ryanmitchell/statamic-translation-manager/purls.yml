@@ -17,3 +17,4 @@
 - pkg:composer/ryanmitchell/statamic-translation-manager@2.2.1
 - pkg:composer/ryanmitchell/statamic-translation-manager@3.0.0
 - pkg:composer/ryanmitchell/statamic-translation-manager@3.0.1
+- pkg:composer/ryanmitchell/statamic-translation-manager@3.0.2
