@@ -161,3 +161,4 @@
 - pkg:composer/simplesamlphp/xml-common@v2.6.0
 - pkg:composer/simplesamlphp/xml-common@v2.7.0
 - pkg:composer/simplesamlphp/xml-common@v2.7.1
+- pkg:composer/simplesamlphp/xml-common@v2.7.2
