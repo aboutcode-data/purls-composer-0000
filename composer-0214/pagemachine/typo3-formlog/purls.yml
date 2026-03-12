@@ -29,6 +29,7 @@
 - pkg:composer/pagemachine/typo3-formlog@2.3.0
 - pkg:composer/pagemachine/typo3-formlog@2.4.0
 - pkg:composer/pagemachine/typo3-formlog@2.4.1
+- pkg:composer/pagemachine/typo3-formlog@2.4.10
 - pkg:composer/pagemachine/typo3-formlog@2.4.2
 - pkg:composer/pagemachine/typo3-formlog@2.4.3
 - pkg:composer/pagemachine/typo3-formlog@2.4.4
@@ -36,3 +37,4 @@
 - pkg:composer/pagemachine/typo3-formlog@2.4.6
 - pkg:composer/pagemachine/typo3-formlog@2.4.7
 - pkg:composer/pagemachine/typo3-formlog@2.4.8
+- pkg:composer/pagemachine/typo3-formlog@2.4.9
