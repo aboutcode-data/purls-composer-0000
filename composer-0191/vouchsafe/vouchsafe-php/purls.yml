@@ -28,6 +28,7 @@
 - pkg:composer/vouchsafe/vouchsafe-php@v0.1.33
 - pkg:composer/vouchsafe/vouchsafe-php@v0.1.34
 - pkg:composer/vouchsafe/vouchsafe-php@v0.1.35
+- pkg:composer/vouchsafe/vouchsafe-php@v0.1.36
 - pkg:composer/vouchsafe/vouchsafe-php@v0.1.4
 - pkg:composer/vouchsafe/vouchsafe-php@v0.1.5
 - pkg:composer/vouchsafe/vouchsafe-php@v0.1.6
