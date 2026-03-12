@@ -1,3 +1,4 @@
 - pkg:composer/syropian/laravel-notification-channel-throttling@v1.0.0
 - pkg:composer/syropian/laravel-notification-channel-throttling@v1.0.1
 - pkg:composer/syropian/laravel-notification-channel-throttling@v1.0.2
+- pkg:composer/syropian/laravel-notification-channel-throttling@v1.0.3
