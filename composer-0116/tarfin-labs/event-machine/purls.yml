@@ -24,4 +24,5 @@
 - pkg:composer/tarfin-labs/event-machine@6.0.0
 - pkg:composer/tarfin-labs/event-machine@6.1.0
 - pkg:composer/tarfin-labs/event-machine@6.2.0
+- pkg:composer/tarfin-labs/event-machine@6.3.0
 - pkg:composer/tarfin-labs/event-machine@v3.0.0
