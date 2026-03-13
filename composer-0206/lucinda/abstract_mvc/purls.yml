@@ -27,3 +27,5 @@
 - pkg:composer/lucinda/abstract_mvc@v3.0.5
 - pkg:composer/lucinda/abstract_mvc@v3.0.6
 - pkg:composer/lucinda/abstract_mvc@v3.0.7
+- pkg:composer/lucinda/abstract_mvc@v3.0.8
+- pkg:composer/lucinda/abstract_mvc@v3.0.9
