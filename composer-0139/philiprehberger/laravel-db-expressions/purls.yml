@@ -1,1 +1,2 @@
 - pkg:composer/philiprehberger/laravel-db-expressions@v1.0.0
+- pkg:composer/philiprehberger/laravel-db-expressions@v1.1.0
