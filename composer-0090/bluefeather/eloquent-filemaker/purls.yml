@@ -87,3 +87,4 @@
 - pkg:composer/bluefeather/eloquent-filemaker@2.6.2
 - pkg:composer/bluefeather/eloquent-filemaker@2.6.3
 - pkg:composer/bluefeather/eloquent-filemaker@2.6.4
+- pkg:composer/bluefeather/eloquent-filemaker@2.7.0

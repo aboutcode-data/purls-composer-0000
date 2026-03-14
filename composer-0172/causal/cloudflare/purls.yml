@@ -19,3 +19,4 @@
 - pkg:composer/causal/cloudflare@2.6.1
 - pkg:composer/causal/cloudflare@2.6.2
 - pkg:composer/causal/cloudflare@2.6.3
+- pkg:composer/causal/cloudflare@2.6.4
