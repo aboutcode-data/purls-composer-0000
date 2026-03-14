@@ -79,3 +79,4 @@
 - pkg:composer/php-extended/php-http-client-logger@8.0.9
 - pkg:composer/php-extended/php-http-client-logger@9.0.0
 - pkg:composer/php-extended/php-http-client-logger@9.0.1
+- pkg:composer/php-extended/php-http-client-logger@9.0.2

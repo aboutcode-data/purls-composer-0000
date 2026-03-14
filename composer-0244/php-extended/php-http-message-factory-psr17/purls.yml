@@ -68,3 +68,4 @@
 - pkg:composer/php-extended/php-http-message-factory-psr17@8.0.9
 - pkg:composer/php-extended/php-http-message-factory-psr17@9.0.0
 - pkg:composer/php-extended/php-http-message-factory-psr17@9.0.1
+- pkg:composer/php-extended/php-http-message-factory-psr17@9.0.2
