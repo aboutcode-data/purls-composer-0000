@@ -10,3 +10,6 @@
 - pkg:composer/bee-coded/laravel-efactura-sdk@v0.9
 - pkg:composer/bee-coded/laravel-efactura-sdk@v1.0
 - pkg:composer/bee-coded/laravel-efactura-sdk@v1.1
+- pkg:composer/bee-coded/laravel-efactura-sdk@v2.0
+- pkg:composer/bee-coded/laravel-efactura-sdk@v2.1.0
+- pkg:composer/bee-coded/laravel-efactura-sdk@v2.1.1

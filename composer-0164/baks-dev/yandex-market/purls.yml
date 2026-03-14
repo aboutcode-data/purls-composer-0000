@@ -68,3 +68,5 @@
 - pkg:composer/baks-dev/yandex-market@v7.3.6
 - pkg:composer/baks-dev/yandex-market@v7.4.0
 - pkg:composer/baks-dev/yandex-market@v7.4.1
+- pkg:composer/baks-dev/yandex-market@v7.4.2
+- pkg:composer/baks-dev/yandex-market@v7.4.3
