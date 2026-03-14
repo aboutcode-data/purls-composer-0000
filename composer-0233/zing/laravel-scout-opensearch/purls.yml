@@ -17,3 +17,4 @@
 - pkg:composer/zing/laravel-scout-opensearch@3.4.1
 - pkg:composer/zing/laravel-scout-opensearch@3.4.2
 - pkg:composer/zing/laravel-scout-opensearch@3.4.3
+- pkg:composer/zing/laravel-scout-opensearch@3.5.0
