@@ -70,6 +70,7 @@
 - pkg:composer/socket-manager/library@v1.23.20
 - pkg:composer/socket-manager/library@v1.23.21
 - pkg:composer/socket-manager/library@v1.23.22
+- pkg:composer/socket-manager/library@v1.23.23
 - pkg:composer/socket-manager/library@v1.23.3
 - pkg:composer/socket-manager/library@v1.23.4
 - pkg:composer/socket-manager/library@v1.23.5

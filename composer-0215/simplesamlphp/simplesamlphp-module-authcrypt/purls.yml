@@ -10,3 +10,4 @@
 - pkg:composer/simplesamlphp/simplesamlphp-module-authcrypt@v1.0.4
 - pkg:composer/simplesamlphp/simplesamlphp-module-authcrypt@v1.1.0
 - pkg:composer/simplesamlphp/simplesamlphp-module-authcrypt@v1.2.0
+- pkg:composer/simplesamlphp/simplesamlphp-module-authcrypt@v1.3.0
