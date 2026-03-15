@@ -27,6 +27,7 @@
 - pkg:composer/codefyphp/codefy@v2.1.4
 - pkg:composer/codefyphp/codefy@v2.1.5
 - pkg:composer/codefyphp/codefy@v2.1.6
+- pkg:composer/codefyphp/codefy@v2.2.0
 - pkg:composer/codefyphp/codefy@v3.0.0
 - pkg:composer/codefyphp/codefy@v3.0.0-beta.1
 - pkg:composer/codefyphp/codefy@v3.0.0-beta.2
@@ -37,3 +38,4 @@
 - pkg:composer/codefyphp/codefy@v3.0.0-rc.2
 - pkg:composer/codefyphp/codefy@v3.0.1
 - pkg:composer/codefyphp/codefy@v3.1.0
+- pkg:composer/codefyphp/codefy@v3.1.1

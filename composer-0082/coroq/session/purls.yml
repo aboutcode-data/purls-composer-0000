@@ -1,5 +1,6 @@
 - pkg:composer/coroq/session@0.0.1
 - pkg:composer/coroq/session@0.1.0
+- pkg:composer/coroq/session@0.1.1
 - pkg:composer/coroq/session@0.2.0
 - pkg:composer/coroq/session@0.2.1
 - pkg:composer/coroq/session@0.3.0
