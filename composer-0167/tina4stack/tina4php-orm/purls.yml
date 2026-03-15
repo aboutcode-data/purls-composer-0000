@@ -21,6 +21,8 @@
 - pkg:composer/tina4stack/tina4php-orm@v2.0.2
 - pkg:composer/tina4stack/tina4php-orm@v2.0.20
 - pkg:composer/tina4stack/tina4php-orm@v2.0.21
+- pkg:composer/tina4stack/tina4php-orm@v2.0.22
+- pkg:composer/tina4stack/tina4php-orm@v2.0.23
 - pkg:composer/tina4stack/tina4php-orm@v2.0.3
 - pkg:composer/tina4stack/tina4php-orm@v2.0.4
 - pkg:composer/tina4stack/tina4php-orm@v2.0.5
