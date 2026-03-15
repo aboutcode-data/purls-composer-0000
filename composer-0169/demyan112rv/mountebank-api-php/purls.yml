@@ -27,6 +27,9 @@
 - pkg:composer/demyan112rv/mountebank-api-php@1.10.1
 - pkg:composer/demyan112rv/mountebank-api-php@1.11.0
 - pkg:composer/demyan112rv/mountebank-api-php@1.11.1
+- pkg:composer/demyan112rv/mountebank-api-php@1.12.0
+- pkg:composer/demyan112rv/mountebank-api-php@1.13.0
+- pkg:composer/demyan112rv/mountebank-api-php@1.13.1
 - pkg:composer/demyan112rv/mountebank-api-php@1.2.0
 - pkg:composer/demyan112rv/mountebank-api-php@1.3.0
 - pkg:composer/demyan112rv/mountebank-api-php@1.3.1

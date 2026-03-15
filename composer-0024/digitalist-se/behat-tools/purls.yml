@@ -23,3 +23,4 @@
 - pkg:composer/digitalist-se/behat-tools@v0.0.2
 - pkg:composer/digitalist-se/behat-tools@v0.0.3
 - pkg:composer/digitalist-se/behat-tools@v0.0.4
+- pkg:composer/digitalist-se/behat-tools@v2.0.5

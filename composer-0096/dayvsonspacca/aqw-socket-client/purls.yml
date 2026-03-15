@@ -8,3 +8,6 @@
 - pkg:composer/dayvsonspacca/aqw-socket-client@v3.0.5
 - pkg:composer/dayvsonspacca/aqw-socket-client@v4.0.0
 - pkg:composer/dayvsonspacca/aqw-socket-client@v4.0.1
+- pkg:composer/dayvsonspacca/aqw-socket-client@v5.0.0
+- pkg:composer/dayvsonspacca/aqw-socket-client@v6.0.0
+- pkg:composer/dayvsonspacca/aqw-socket-client@v6.0.1
