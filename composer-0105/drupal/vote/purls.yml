@@ -3,3 +3,5 @@
 - pkg:composer/drupal/vote@1.0.0-alpha3
 - pkg:composer/drupal/vote@1.0.0-beta1
 - pkg:composer/drupal/vote@1.0.0-beta2
+- pkg:composer/drupal/vote@1.0.0-beta3
+- pkg:composer/drupal/vote@1.0.0-beta4

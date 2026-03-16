@@ -5,3 +5,4 @@
 - pkg:composer/elasticemail/elasticemail-php@4.0.24
 - pkg:composer/elasticemail/elasticemail-php@4.0.25
 - pkg:composer/elasticemail/elasticemail-php@4.0.26
+- pkg:composer/elasticemail/elasticemail-php@4.0.27

@@ -107,3 +107,4 @@
 - pkg:composer/eappointment/zmsdb@2.30.01
 - pkg:composer/eappointment/zmsdb@2.30.02
 - pkg:composer/eappointment/zmsdb@2.30.03
+- pkg:composer/eappointment/zmsdb@2.30.03-patch1
