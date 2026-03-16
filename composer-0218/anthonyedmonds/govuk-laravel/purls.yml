@@ -105,3 +105,4 @@
 - pkg:composer/anthonyedmonds/govuk-laravel@7.2.0
 - pkg:composer/anthonyedmonds/govuk-laravel@7.3.0
 - pkg:composer/anthonyedmonds/govuk-laravel@7.4.0
+- pkg:composer/anthonyedmonds/govuk-laravel@7.4.1
