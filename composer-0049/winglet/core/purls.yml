@@ -7,8 +7,12 @@
 - pkg:composer/winglet/core@v0.2
 - pkg:composer/winglet/core@v0.2.1
 - pkg:composer/winglet/core@v0.2.2
+- pkg:composer/winglet/core@v0.2.3
 - pkg:composer/winglet/core@v0.2.3-RC1
 - pkg:composer/winglet/core@v0.2.3-RC2
 - pkg:composer/winglet/core@v0.2.3-RC3
 - pkg:composer/winglet/core@v0.2.3-RC4
 - pkg:composer/winglet/core@v0.2.3-RC5
+- pkg:composer/winglet/core@v0.2.3-RC6
+- pkg:composer/winglet/core@v0.2.3-RC7
+- pkg:composer/winglet/core@v0.2.4
