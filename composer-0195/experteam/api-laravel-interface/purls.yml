@@ -42,6 +42,8 @@
 - pkg:composer/experteam/api-laravel-interface@3.1.0
 - pkg:composer/experteam/api-laravel-interface@3.1.1
 - pkg:composer/experteam/api-laravel-interface@3.1.2
+- pkg:composer/experteam/api-laravel-interface@3.10.0
+- pkg:composer/experteam/api-laravel-interface@3.11.0
 - pkg:composer/experteam/api-laravel-interface@3.2.0
 - pkg:composer/experteam/api-laravel-interface@3.2.1
 - pkg:composer/experteam/api-laravel-interface@3.2.10
