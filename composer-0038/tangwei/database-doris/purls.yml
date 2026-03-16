@@ -1,1 +1,2 @@
 - pkg:composer/tangwei/database-doris@v0.1.0
+- pkg:composer/tangwei/database-doris@v0.1.1
