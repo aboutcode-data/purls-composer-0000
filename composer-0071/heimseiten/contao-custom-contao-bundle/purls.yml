@@ -61,3 +61,4 @@
 - pkg:composer/heimseiten/contao-custom-contao-bundle@6.2.4
 - pkg:composer/heimseiten/contao-custom-contao-bundle@6.3.0
 - pkg:composer/heimseiten/contao-custom-contao-bundle@6.4.0
+- pkg:composer/heimseiten/contao-custom-contao-bundle@6.4.1

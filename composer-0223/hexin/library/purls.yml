@@ -8,6 +8,8 @@
 - pkg:composer/hexin/library@v10.2
 - pkg:composer/hexin/library@v10.3
 - pkg:composer/hexin/library@v10.4
+- pkg:composer/hexin/library@v10.5
+- pkg:composer/hexin/library@v10.6
 - pkg:composer/hexin/library@v2.0.0
 - pkg:composer/hexin/library@v2.0.1
 - pkg:composer/hexin/library@v2.0.2

@@ -40,3 +40,4 @@
 - pkg:composer/gibson-os/hc@v5.0.3
 - pkg:composer/gibson-os/hc@v5.0.4
 - pkg:composer/gibson-os/hc@v5.0.5
+- pkg:composer/gibson-os/hc@v5.0.6
