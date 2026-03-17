@@ -16,3 +16,4 @@
 - pkg:composer/innmind/ipc@4.2.0
 - pkg:composer/innmind/ipc@4.3.0
 - pkg:composer/innmind/ipc@4.4.0
+- pkg:composer/innmind/ipc@5.0.0

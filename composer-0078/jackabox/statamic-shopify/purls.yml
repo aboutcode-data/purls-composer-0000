@@ -98,3 +98,4 @@
 - pkg:composer/jackabox/statamic-shopify@v7.2.0
 - pkg:composer/jackabox/statamic-shopify@v7.3.0
 - pkg:composer/jackabox/statamic-shopify@v7.3.1
+- pkg:composer/jackabox/statamic-shopify@v7.4.0
