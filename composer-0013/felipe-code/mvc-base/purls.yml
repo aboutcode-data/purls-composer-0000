@@ -39,6 +39,9 @@
 - pkg:composer/felipe-code/mvc-base@4.2.4
 - pkg:composer/felipe-code/mvc-base@4.2.5
 - pkg:composer/felipe-code/mvc-base@4.2.6
+- pkg:composer/felipe-code/mvc-base@4.3.0
+- pkg:composer/felipe-code/mvc-base@4.3.1
+- pkg:composer/felipe-code/mvc-base@4.3.2
 - pkg:composer/felipe-code/mvc-base@v1.0.0
 - pkg:composer/felipe-code/mvc-base@v1.0.1
 - pkg:composer/felipe-code/mvc-base@v1.0.2
