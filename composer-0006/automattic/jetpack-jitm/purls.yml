@@ -229,6 +229,7 @@
 - pkg:composer/automattic/jetpack-jitm@v4.3.23
 - pkg:composer/automattic/jetpack-jitm@v4.3.24
 - pkg:composer/automattic/jetpack-jitm@v4.3.25
+- pkg:composer/automattic/jetpack-jitm@v4.3.26
 - pkg:composer/automattic/jetpack-jitm@v4.3.3
 - pkg:composer/automattic/jetpack-jitm@v4.3.4
 - pkg:composer/automattic/jetpack-jitm@v4.3.5
