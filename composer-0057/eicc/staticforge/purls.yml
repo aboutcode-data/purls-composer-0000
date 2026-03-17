@@ -106,3 +106,4 @@
 - pkg:composer/eicc/staticforge@1.9.0
 - pkg:composer/eicc/staticforge@1.9.1
 - pkg:composer/eicc/staticforge@1.9.2
+- pkg:composer/eicc/staticforge@2.0.1
