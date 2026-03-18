@@ -2,3 +2,4 @@
 - pkg:composer/cline/coding-standard@1.7.0
 - pkg:composer/cline/coding-standard@2.0.0
 - pkg:composer/cline/coding-standard@2.0.1
+- pkg:composer/cline/coding-standard@2.0.2

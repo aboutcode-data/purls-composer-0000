@@ -2,3 +2,4 @@
 - pkg:composer/charcoal-dev/http-client@0.2.12
 - pkg:composer/charcoal-dev/http-client@0.2.13
 - pkg:composer/charcoal-dev/http-client@0.2.14
+- pkg:composer/charcoal-dev/http-client@0.2.15
