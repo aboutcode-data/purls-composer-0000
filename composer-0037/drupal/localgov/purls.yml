@@ -74,5 +74,6 @@
 - pkg:composer/drupal/localgov@3.3.0
 - pkg:composer/drupal/localgov@3.3.1
 - pkg:composer/drupal/localgov@3.4.0
+- pkg:composer/drupal/localgov@4.0.0
 - pkg:composer/drupal/localgov@4.0.0-beta1
 - pkg:composer/drupal/localgov@4.0.0-beta2
