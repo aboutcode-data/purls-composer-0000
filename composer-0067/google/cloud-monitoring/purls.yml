@@ -95,3 +95,4 @@
 - pkg:composer/google/cloud-monitoring@v2.1.2
 - pkg:composer/google/cloud-monitoring@v2.2.0
 - pkg:composer/google/cloud-monitoring@v2.2.1
+- pkg:composer/google/cloud-monitoring@v2.2.2

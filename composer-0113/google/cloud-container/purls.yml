@@ -105,3 +105,4 @@
 - pkg:composer/google/cloud-container@v2.6.1
 - pkg:composer/google/cloud-container@v2.7.0
 - pkg:composer/google/cloud-container@v2.8.0
+- pkg:composer/google/cloud-container@v2.8.1

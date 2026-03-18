@@ -114,3 +114,4 @@
 - pkg:composer/google/cloud-speech@v2.2.1
 - pkg:composer/google/cloud-speech@v2.3.0
 - pkg:composer/google/cloud-speech@v2.4.0
+- pkg:composer/google/cloud-speech@v2.5.0

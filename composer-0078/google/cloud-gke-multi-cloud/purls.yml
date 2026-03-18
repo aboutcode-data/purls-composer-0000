@@ -30,3 +30,4 @@
 - pkg:composer/google/cloud-gke-multi-cloud@v1.3.0
 - pkg:composer/google/cloud-gke-multi-cloud@v1.3.1
 - pkg:composer/google/cloud-gke-multi-cloud@v1.4.0
+- pkg:composer/google/cloud-gke-multi-cloud@v1.4.1
