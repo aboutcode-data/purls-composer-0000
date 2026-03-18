@@ -57,3 +57,4 @@
 - pkg:composer/yajra/laravel-datatables-editor@v12.1.5
 - pkg:composer/yajra/laravel-datatables-editor@v12.2.0
 - pkg:composer/yajra/laravel-datatables-editor@v12.3.0
+- pkg:composer/yajra/laravel-datatables-editor@v13.0.0
