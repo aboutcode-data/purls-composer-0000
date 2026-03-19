@@ -30,3 +30,6 @@
 - pkg:composer/juniwalk/chart-js@v2.3.7
 - pkg:composer/juniwalk/chart-js@v2.3.8
 - pkg:composer/juniwalk/chart-js@v2.3.9
+- pkg:composer/juniwalk/chart-js@v2.4.0
+- pkg:composer/juniwalk/chart-js@v2.4.1
+- pkg:composer/juniwalk/chart-js@v2.4.2

@@ -7,3 +7,5 @@
 - pkg:composer/jobmetric/laravel-extension@1.5.0
 - pkg:composer/jobmetric/laravel-extension@1.6.0
 - pkg:composer/jobmetric/laravel-extension@1.7.0
+- pkg:composer/jobmetric/laravel-extension@2.0.0
+- pkg:composer/jobmetric/laravel-extension@2.1.0

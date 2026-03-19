@@ -13,3 +13,5 @@
 - pkg:composer/jorisnoo/laravel-remote-sync@0.3.8
 - pkg:composer/jorisnoo/laravel-remote-sync@0.3.9
 - pkg:composer/jorisnoo/laravel-remote-sync@0.4.0
+- pkg:composer/jorisnoo/laravel-remote-sync@0.4.1
+- pkg:composer/jorisnoo/laravel-remote-sync@0.5.0

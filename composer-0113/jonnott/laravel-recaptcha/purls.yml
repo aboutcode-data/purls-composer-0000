@@ -32,3 +32,4 @@
 - pkg:composer/jonnott/laravel-recaptcha@v6.0.0
 - pkg:composer/jonnott/laravel-recaptcha@v6.1.0
 - pkg:composer/jonnott/laravel-recaptcha@v6.2.0
+- pkg:composer/jonnott/laravel-recaptcha@v6.3.0
