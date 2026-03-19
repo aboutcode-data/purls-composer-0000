@@ -46,6 +46,7 @@
 - pkg:composer/marshmallow/helpers@v2.19.1
 - pkg:composer/marshmallow/helpers@v2.2.0
 - pkg:composer/marshmallow/helpers@v2.20.0
+- pkg:composer/marshmallow/helpers@v2.21.0
 - pkg:composer/marshmallow/helpers@v2.3.0
 - pkg:composer/marshmallow/helpers@v2.3.1
 - pkg:composer/marshmallow/helpers@v2.3.2
