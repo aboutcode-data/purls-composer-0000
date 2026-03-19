@@ -35,3 +35,4 @@
 - pkg:composer/dyrynda/laravel-model-uuid@8.1.0
 - pkg:composer/dyrynda/laravel-model-uuid@8.1.1
 - pkg:composer/dyrynda/laravel-model-uuid@8.2.0
+- pkg:composer/dyrynda/laravel-model-uuid@8.3.0

@@ -10,6 +10,7 @@
 - pkg:composer/edgetelemetrics/eventcorrelation@v0.12.0
 - pkg:composer/edgetelemetrics/eventcorrelation@v0.13.0
 - pkg:composer/edgetelemetrics/eventcorrelation@v0.13.1
+- pkg:composer/edgetelemetrics/eventcorrelation@v0.13.2
 - pkg:composer/edgetelemetrics/eventcorrelation@v0.2.0
 - pkg:composer/edgetelemetrics/eventcorrelation@v0.2.10
 - pkg:composer/edgetelemetrics/eventcorrelation@v0.2.11
