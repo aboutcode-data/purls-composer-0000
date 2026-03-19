@@ -29,6 +29,9 @@
 - pkg:composer/horde/components@v1.0.0alpha38
 - pkg:composer/horde/components@v1.0.0alpha39
 - pkg:composer/horde/components@v1.0.0alpha4
+- pkg:composer/horde/components@v1.0.0alpha40
+- pkg:composer/horde/components@v1.0.0alpha41
+- pkg:composer/horde/components@v1.0.0alpha42
 - pkg:composer/horde/components@v1.0.0alpha5
 - pkg:composer/horde/components@v1.0.0alpha6
 - pkg:composer/horde/components@v1.0.0alpha7

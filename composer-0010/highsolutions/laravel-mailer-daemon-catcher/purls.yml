@@ -12,3 +12,4 @@
 - pkg:composer/highsolutions/laravel-mailer-daemon-catcher@2.0.1
 - pkg:composer/highsolutions/laravel-mailer-daemon-catcher@2.1.0
 - pkg:composer/highsolutions/laravel-mailer-daemon-catcher@2.2.0
+- pkg:composer/highsolutions/laravel-mailer-daemon-catcher@2.3.0
