@@ -3,3 +3,4 @@
 - pkg:composer/snowsoft/cdn-laravel-adapter@v0.03
 - pkg:composer/snowsoft/cdn-laravel-adapter@v0.04
 - pkg:composer/snowsoft/cdn-laravel-adapter@v0.05
+- pkg:composer/snowsoft/cdn-laravel-adapter@v0.06

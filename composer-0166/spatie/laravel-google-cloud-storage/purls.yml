@@ -20,3 +20,5 @@
 - pkg:composer/spatie/laravel-google-cloud-storage@2.3.2
 - pkg:composer/spatie/laravel-google-cloud-storage@2.3.3
 - pkg:composer/spatie/laravel-google-cloud-storage@2.3.4
+- pkg:composer/spatie/laravel-google-cloud-storage@2.4.0
+- pkg:composer/spatie/laravel-google-cloud-storage@2.4.1

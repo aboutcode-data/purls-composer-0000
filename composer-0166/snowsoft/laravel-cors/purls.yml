@@ -1,3 +1,4 @@
 - pkg:composer/snowsoft/laravel-cors@0.01
 - pkg:composer/snowsoft/laravel-cors@0.02
 - pkg:composer/snowsoft/laravel-cors@0.03
+- pkg:composer/snowsoft/laravel-cors@0.04

@@ -44,3 +44,4 @@
 - pkg:composer/sledgehammer/core@18.08.0
 - pkg:composer/sledgehammer/core@20.01.0
 - pkg:composer/sledgehammer/core@22.07.0
+- pkg:composer/sledgehammer/core@26.03.0
