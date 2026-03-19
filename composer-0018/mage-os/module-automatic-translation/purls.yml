@@ -24,3 +24,4 @@
 - pkg:composer/mage-os/module-automatic-translation@1.9.1
 - pkg:composer/mage-os/module-automatic-translation@2.0.0
 - pkg:composer/mage-os/module-automatic-translation@2.0.1
+- pkg:composer/mage-os/module-automatic-translation@2.0.2
