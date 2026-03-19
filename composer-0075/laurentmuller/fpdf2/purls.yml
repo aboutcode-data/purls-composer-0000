@@ -72,3 +72,6 @@
 - pkg:composer/laurentmuller/fpdf2@4.0.2
 - pkg:composer/laurentmuller/fpdf2@4.0.3
 - pkg:composer/laurentmuller/fpdf2@4.1.0
+- pkg:composer/laurentmuller/fpdf2@4.2.0
+- pkg:composer/laurentmuller/fpdf2@4.3.0
+- pkg:composer/laurentmuller/fpdf2@4.3.1

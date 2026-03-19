@@ -1,2 +1,4 @@
 - pkg:composer/kipchak/driver-anthropic@1.0
 - pkg:composer/kipchak/driver-anthropic@1.1
+- pkg:composer/kipchak/driver-anthropic@1.2
+- pkg:composer/kipchak/driver-anthropic@1.3

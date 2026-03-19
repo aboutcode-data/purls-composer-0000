@@ -28,6 +28,7 @@
 - pkg:composer/kkomelin/laravel-translatable-string-exporter@1.23.0
 - pkg:composer/kkomelin/laravel-translatable-string-exporter@1.24.0
 - pkg:composer/kkomelin/laravel-translatable-string-exporter@1.25.0
+- pkg:composer/kkomelin/laravel-translatable-string-exporter@1.26.0
 - pkg:composer/kkomelin/laravel-translatable-string-exporter@1.3.0
 - pkg:composer/kkomelin/laravel-translatable-string-exporter@1.4.0
 - pkg:composer/kkomelin/laravel-translatable-string-exporter@1.5.0
