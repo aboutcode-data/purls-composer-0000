@@ -45,6 +45,9 @@
 - pkg:composer/model/router@v0.2.31
 - pkg:composer/model/router@v0.2.32
 - pkg:composer/model/router@v0.2.33
+- pkg:composer/model/router@v0.2.34
+- pkg:composer/model/router@v0.2.35
+- pkg:composer/model/router@v0.2.36
 - pkg:composer/model/router@v0.2.4
 - pkg:composer/model/router@v0.2.5
 - pkg:composer/model/router@v0.2.6

@@ -7,3 +7,5 @@
 - pkg:composer/mcmatters/laravel-tracking@v2.0
 - pkg:composer/mcmatters/laravel-tracking@v2.0.1
 - pkg:composer/mcmatters/laravel-tracking@v3.0.0
+- pkg:composer/mcmatters/laravel-tracking@v4.0.0
+- pkg:composer/mcmatters/laravel-tracking@v4.0.1
