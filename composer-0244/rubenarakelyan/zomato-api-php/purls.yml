@@ -82,6 +82,8 @@
 - pkg:composer/rubenarakelyan/zomato-api-php@v12.8.0
 - pkg:composer/rubenarakelyan/zomato-api-php@v12.9.0
 - pkg:composer/rubenarakelyan/zomato-api-php@v12.9.1
+- pkg:composer/rubenarakelyan/zomato-api-php@v13.0.0
+- pkg:composer/rubenarakelyan/zomato-api-php@v13.1.0
 - pkg:composer/rubenarakelyan/zomato-api-php@v4.0.0
 - pkg:composer/rubenarakelyan/zomato-api-php@v4.0.0-BETA3
 - pkg:composer/rubenarakelyan/zomato-api-php@v4.0.0-BETA4
