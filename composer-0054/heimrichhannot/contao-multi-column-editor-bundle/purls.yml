@@ -73,6 +73,8 @@
 - pkg:composer/heimrichhannot/contao-multi-column-editor-bundle@2.20.1
 - pkg:composer/heimrichhannot/contao-multi-column-editor-bundle@2.20.2
 - pkg:composer/heimrichhannot/contao-multi-column-editor-bundle@2.20.3
+- pkg:composer/heimrichhannot/contao-multi-column-editor-bundle@2.21.0
+- pkg:composer/heimrichhannot/contao-multi-column-editor-bundle@2.21.1
 - pkg:composer/heimrichhannot/contao-multi-column-editor-bundle@2.3.0
 - pkg:composer/heimrichhannot/contao-multi-column-editor-bundle@2.4.0
 - pkg:composer/heimrichhannot/contao-multi-column-editor-bundle@2.4.1
