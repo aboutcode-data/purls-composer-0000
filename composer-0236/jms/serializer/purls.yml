@@ -86,6 +86,7 @@
 - pkg:composer/jms/serializer@3.32.4
 - pkg:composer/jms/serializer@3.32.5
 - pkg:composer/jms/serializer@3.32.6
+- pkg:composer/jms/serializer@3.32.7
 - pkg:composer/jms/serializer@3.4.0
 - pkg:composer/jms/serializer@3.5.0
 - pkg:composer/jms/serializer@3.6.0
