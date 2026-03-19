@@ -5,3 +5,4 @@
 - pkg:composer/glance-project/error-middleware@v1.0.1
 - pkg:composer/glance-project/error-middleware@v1.0.2
 - pkg:composer/glance-project/error-middleware@v1.0.3
+- pkg:composer/glance-project/error-middleware@v2.0.0

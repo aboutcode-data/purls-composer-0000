@@ -168,6 +168,7 @@
 - pkg:composer/fusionauth/fusionauth-client@1.62.0
 - pkg:composer/fusionauth/fusionauth-client@1.62.1
 - pkg:composer/fusionauth/fusionauth-client@1.63.0
+- pkg:composer/fusionauth/fusionauth-client@1.64.0
 - pkg:composer/fusionauth/fusionauth-client@1.7.0
 - pkg:composer/fusionauth/fusionauth-client@1.7.1
 - pkg:composer/fusionauth/fusionauth-client@1.7.2
