@@ -203,3 +203,4 @@
 - pkg:composer/recras/recras-wordpress-plugin@v6.5.0
 - pkg:composer/recras/recras-wordpress-plugin@v6.5.1
 - pkg:composer/recras/recras-wordpress-plugin@v6.5.2
+- pkg:composer/recras/recras-wordpress-plugin@v6.5.3

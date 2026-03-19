@@ -1,3 +1,5 @@
 - pkg:composer/precision-soft/symfony-doctrine-audit@v1.0.0
 - pkg:composer/precision-soft/symfony-doctrine-audit@v2.0.0
 - pkg:composer/precision-soft/symfony-doctrine-audit@v2.1.0
+- pkg:composer/precision-soft/symfony-doctrine-audit@v3.0.0
+- pkg:composer/precision-soft/symfony-doctrine-audit@v3.0.1

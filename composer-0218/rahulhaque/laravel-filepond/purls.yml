@@ -24,6 +24,7 @@
 - pkg:composer/rahulhaque/laravel-filepond@v12.3.4
 - pkg:composer/rahulhaque/laravel-filepond@v12.3.5
 - pkg:composer/rahulhaque/laravel-filepond@v12.3.6
+- pkg:composer/rahulhaque/laravel-filepond@v13.0.0
 - pkg:composer/rahulhaque/laravel-filepond@v7.0.0
 - pkg:composer/rahulhaque/laravel-filepond@v7.0.1
 - pkg:composer/rahulhaque/laravel-filepond@v7.1.1
