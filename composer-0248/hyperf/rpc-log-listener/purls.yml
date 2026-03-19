@@ -6,3 +6,4 @@
 - pkg:composer/hyperf/rpc-log-listener@v1.0.5
 - pkg:composer/hyperf/rpc-log-listener@v1.1.1
 - pkg:composer/hyperf/rpc-log-listener@v1.1.2
+- pkg:composer/hyperf/rpc-log-listener@v1.1.3
