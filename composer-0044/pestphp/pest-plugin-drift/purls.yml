@@ -13,3 +13,4 @@
 - pkg:composer/pestphp/pest-plugin-drift@v2.6.1
 - pkg:composer/pestphp/pest-plugin-drift@v3.0.0
 - pkg:composer/pestphp/pest-plugin-drift@v4.0.0
+- pkg:composer/pestphp/pest-plugin-drift@v4.1.0

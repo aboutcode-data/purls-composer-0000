@@ -41,6 +41,8 @@
 - pkg:composer/orchestra/workbench@v10.0.6
 - pkg:composer/orchestra/workbench@v10.0.7
 - pkg:composer/orchestra/workbench@v10.0.8
+- pkg:composer/orchestra/workbench@v11.0.0
+- pkg:composer/orchestra/workbench@v11.0.1
 - pkg:composer/orchestra/workbench@v7.0.0
 - pkg:composer/orchestra/workbench@v7.1.0
 - pkg:composer/orchestra/workbench@v7.10.0
