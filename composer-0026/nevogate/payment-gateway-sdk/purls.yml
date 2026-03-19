@@ -42,4 +42,6 @@
 - pkg:composer/nevogate/payment-gateway-sdk@5.0.0
 - pkg:composer/nevogate/payment-gateway-sdk@5.0.0-beta.1
 - pkg:composer/nevogate/payment-gateway-sdk@5.0.0-beta.2
+- pkg:composer/nevogate/payment-gateway-sdk@5.0.1
 - pkg:composer/nevogate/payment-gateway-sdk@5.0.1-beta.1
+- pkg:composer/nevogate/payment-gateway-sdk@5.1.0-beta.1

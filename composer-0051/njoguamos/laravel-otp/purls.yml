@@ -33,3 +33,5 @@
 - pkg:composer/njoguamos/laravel-otp@v1.4.50
 - pkg:composer/njoguamos/laravel-otp@v1.4.52
 - pkg:composer/njoguamos/laravel-otp@v1.4.55
+- pkg:composer/njoguamos/laravel-otp@v2.0.0
+- pkg:composer/njoguamos/laravel-otp@v2.0.1
