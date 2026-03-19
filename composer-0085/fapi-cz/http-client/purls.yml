@@ -12,3 +12,4 @@
 - pkg:composer/fapi-cz/http-client@v1.0.3
 - pkg:composer/fapi-cz/http-client@v1.0.4
 - pkg:composer/fapi-cz/http-client@v1.0.5
+- pkg:composer/fapi-cz/http-client@v1.0.6
