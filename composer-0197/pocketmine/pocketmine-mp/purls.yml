@@ -370,6 +370,7 @@
 - pkg:composer/pocketmine/pocketmine-mp@5.4.4
 - pkg:composer/pocketmine/pocketmine-mp@5.40.0
 - pkg:composer/pocketmine/pocketmine-mp@5.41.0
+- pkg:composer/pocketmine/pocketmine-mp@5.41.1
 - pkg:composer/pocketmine/pocketmine-mp@5.5.0
 - pkg:composer/pocketmine/pocketmine-mp@5.5.0-BETA1
 - pkg:composer/pocketmine/pocketmine-mp@5.6.0
