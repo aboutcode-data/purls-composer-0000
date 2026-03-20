@@ -2,3 +2,4 @@
 - pkg:composer/php-db/phpdb-mysql@0.1.1
 - pkg:composer/php-db/phpdb-mysql@0.1.2
 - pkg:composer/php-db/phpdb-mysql@0.2.0
+- pkg:composer/php-db/phpdb-mysql@0.3.0

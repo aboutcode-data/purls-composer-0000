@@ -72,3 +72,4 @@
 - pkg:composer/overtrue/laravel-wechat@7.2.0
 - pkg:composer/overtrue/laravel-wechat@7.3.0
 - pkg:composer/overtrue/laravel-wechat@7.4.0
+- pkg:composer/overtrue/laravel-wechat@8.0.0

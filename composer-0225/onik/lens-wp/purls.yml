@@ -1,10 +1,1 @@
-- pkg:composer/onik/lens-wp@v0.10
-- pkg:composer/onik/lens-wp@v0.11
-- pkg:composer/onik/lens-wp@v0.12
-- pkg:composer/onik/lens-wp@v0.13.03182
-- pkg:composer/onik/lens-wp@v0.13.260317
-- pkg:composer/onik/lens-wp@v0.13.260317b
-- pkg:composer/onik/lens-wp@v0.13.260318
-- pkg:composer/onik/lens-wp@v0.13.2603182
-- pkg:composer/onik/lens-wp@v0.13.260318b
-- pkg:composer/onik/lens-wp@v0.9
+- pkg:composer/onik/lens-wp@v0.13.260319
