@@ -12,6 +12,7 @@
 - pkg:composer/etsglobal/log-bundle@v1.5.1
 - pkg:composer/etsglobal/log-bundle@v1.5.2
 - pkg:composer/etsglobal/log-bundle@v1.5.3
+- pkg:composer/etsglobal/log-bundle@v1.5.4
 - pkg:composer/etsglobal/log-bundle@v2.0.0
 - pkg:composer/etsglobal/log-bundle@v3.0.0
 - pkg:composer/etsglobal/log-bundle@v3.0.1
