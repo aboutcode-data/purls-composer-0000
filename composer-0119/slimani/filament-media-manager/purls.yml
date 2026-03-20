@@ -1,5 +1,4 @@
 - pkg:composer/slimani/filament-media-manager@v0.1.0
-- pkg:composer/slimani/filament-media-manager@v0.10.0
 - pkg:composer/slimani/filament-media-manager@v0.2.0
 - pkg:composer/slimani/filament-media-manager@v0.2.1
 - pkg:composer/slimani/filament-media-manager@v0.2.2
@@ -24,3 +23,7 @@
 - pkg:composer/slimani/filament-media-manager@v0.9.3
 - pkg:composer/slimani/filament-media-manager@v0.9.4
 - pkg:composer/slimani/filament-media-manager@v0.9.5
+- pkg:composer/slimani/filament-media-manager@v0.9.6
+- pkg:composer/slimani/filament-media-manager@v0.9.7
+- pkg:composer/slimani/filament-media-manager@v0.9.8
+- pkg:composer/slimani/filament-media-manager@v0.9.9
