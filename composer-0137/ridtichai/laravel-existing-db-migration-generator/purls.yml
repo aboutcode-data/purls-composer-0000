@@ -5,3 +5,5 @@
 - pkg:composer/ridtichai/laravel-existing-db-migration-generator@v0.2.3
 - pkg:composer/ridtichai/laravel-existing-db-migration-generator@v0.2.4
 - pkg:composer/ridtichai/laravel-existing-db-migration-generator@v0.2.5
+- pkg:composer/ridtichai/laravel-existing-db-migration-generator@v0.2.6
+- pkg:composer/ridtichai/laravel-existing-db-migration-generator@v0.2.7

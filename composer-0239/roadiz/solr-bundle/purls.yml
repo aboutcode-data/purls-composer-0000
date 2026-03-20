@@ -19,6 +19,7 @@
 - pkg:composer/roadiz/solr-bundle@v2.6.25
 - pkg:composer/roadiz/solr-bundle@v2.6.26
 - pkg:composer/roadiz/solr-bundle@v2.6.27
+- pkg:composer/roadiz/solr-bundle@v2.6.28
 - pkg:composer/roadiz/solr-bundle@v2.6.3
 - pkg:composer/roadiz/solr-bundle@v2.6.4
 - pkg:composer/roadiz/solr-bundle@v2.6.5
@@ -32,3 +33,7 @@
 - pkg:composer/roadiz/solr-bundle@v2.7.3
 - pkg:composer/roadiz/solr-bundle@v2.7.4
 - pkg:composer/roadiz/solr-bundle@v2.7.5
+- pkg:composer/roadiz/solr-bundle@v2.7.6
+- pkg:composer/roadiz/solr-bundle@v2.7.7
+- pkg:composer/roadiz/solr-bundle@v2.7.8
+- pkg:composer/roadiz/solr-bundle@v2.7.9
