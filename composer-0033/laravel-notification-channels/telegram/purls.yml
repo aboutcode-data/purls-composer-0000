@@ -23,3 +23,4 @@
 - pkg:composer/laravel-notification-channels/telegram@4.0.0
 - pkg:composer/laravel-notification-channels/telegram@5.0.0
 - pkg:composer/laravel-notification-channels/telegram@6.0.0
+- pkg:composer/laravel-notification-channels/telegram@7.0.0
