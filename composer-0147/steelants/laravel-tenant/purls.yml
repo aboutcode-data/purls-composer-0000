@@ -20,3 +20,4 @@
 - pkg:composer/steelants/laravel-tenant@2.2.3
 - pkg:composer/steelants/laravel-tenant@2.2.4
 - pkg:composer/steelants/laravel-tenant@2.2.5
+- pkg:composer/steelants/laravel-tenant@2.2.6

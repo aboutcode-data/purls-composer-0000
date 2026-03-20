@@ -16,3 +16,4 @@
 - pkg:composer/sytxlabs/laravel-error-logger@1.8.1
 - pkg:composer/sytxlabs/laravel-error-logger@1.9.0
 - pkg:composer/sytxlabs/laravel-error-logger@1.9.1
+- pkg:composer/sytxlabs/laravel-error-logger@1.9.2

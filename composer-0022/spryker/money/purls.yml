@@ -13,6 +13,7 @@
 - pkg:composer/spryker/money@2.13.1
 - pkg:composer/spryker/money@2.14.0
 - pkg:composer/spryker/money@2.15.0
+- pkg:composer/spryker/money@2.16.0
 - pkg:composer/spryker/money@2.2.0
 - pkg:composer/spryker/money@2.3.0
 - pkg:composer/spryker/money@2.4.0

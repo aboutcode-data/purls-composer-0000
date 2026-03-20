@@ -240,3 +240,4 @@
 - pkg:composer/statamic-rad-pack/runway@v9.0.0-alpha.9
 - pkg:composer/statamic-rad-pack/runway@v9.1.0
 - pkg:composer/statamic-rad-pack/runway@v9.1.1
+- pkg:composer/statamic-rad-pack/runway@v9.2.0

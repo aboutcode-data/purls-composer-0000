@@ -729,7 +729,10 @@
 - pkg:composer/survos/wiki-bundle@2.0.13
 - pkg:composer/survos/wiki-bundle@2.0.14
 - pkg:composer/survos/wiki-bundle@2.0.15
+- pkg:composer/survos/wiki-bundle@2.0.159
 - pkg:composer/survos/wiki-bundle@2.0.16
+- pkg:composer/survos/wiki-bundle@2.0.160
+- pkg:composer/survos/wiki-bundle@2.0.161
 - pkg:composer/survos/wiki-bundle@2.0.17
 - pkg:composer/survos/wiki-bundle@2.0.18
 - pkg:composer/survos/wiki-bundle@2.0.19

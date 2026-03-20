@@ -11,3 +11,4 @@
 - pkg:composer/spryker/stock-gui@2.2.0
 - pkg:composer/spryker/stock-gui@3.0.0
 - pkg:composer/spryker/stock-gui@3.0.1
+- pkg:composer/spryker/stock-gui@3.1.0

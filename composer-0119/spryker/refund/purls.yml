@@ -23,6 +23,7 @@
 - pkg:composer/spryker/refund@5.11.0
 - pkg:composer/spryker/refund@5.12.0
 - pkg:composer/spryker/refund@5.13.0
+- pkg:composer/spryker/refund@5.14.0
 - pkg:composer/spryker/refund@5.2.0
 - pkg:composer/spryker/refund@5.2.1
 - pkg:composer/spryker/refund@5.2.2

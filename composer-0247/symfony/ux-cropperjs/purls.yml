@@ -42,6 +42,7 @@
 - pkg:composer/symfony/ux-cropperjs@v2.30.0
 - pkg:composer/symfony/ux-cropperjs@v2.31.0
 - pkg:composer/symfony/ux-cropperjs@v2.32.0
+- pkg:composer/symfony/ux-cropperjs@v2.33.0
 - pkg:composer/symfony/ux-cropperjs@v2.4.0
 - pkg:composer/symfony/ux-cropperjs@v2.5.0
 - pkg:composer/symfony/ux-cropperjs@v2.6.0
