@@ -88,3 +88,4 @@
 - pkg:composer/johnshopkins/shared-scss@v2.8.7
 - pkg:composer/johnshopkins/shared-scss@v2.8.8
 - pkg:composer/johnshopkins/shared-scss@v2.8.9
+- pkg:composer/johnshopkins/shared-scss@v2.9.0
