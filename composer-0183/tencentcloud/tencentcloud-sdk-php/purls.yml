@@ -609,7 +609,10 @@
 - pkg:composer/tencentcloud/tencentcloud-sdk-php@3.0.1546
 - pkg:composer/tencentcloud/tencentcloud-sdk-php@3.0.1547
 - pkg:composer/tencentcloud/tencentcloud-sdk-php@3.0.1548
+- pkg:composer/tencentcloud/tencentcloud-sdk-php@3.0.1549
 - pkg:composer/tencentcloud/tencentcloud-sdk-php@3.0.155
+- pkg:composer/tencentcloud/tencentcloud-sdk-php@3.0.1550
+- pkg:composer/tencentcloud/tencentcloud-sdk-php@3.0.1551
 - pkg:composer/tencentcloud/tencentcloud-sdk-php@3.0.156
 - pkg:composer/tencentcloud/tencentcloud-sdk-php@3.0.157
 - pkg:composer/tencentcloud/tencentcloud-sdk-php@3.0.158

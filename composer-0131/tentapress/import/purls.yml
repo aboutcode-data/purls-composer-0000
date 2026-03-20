@@ -5,3 +5,4 @@
 - pkg:composer/tentapress/import@v0.1.6
 - pkg:composer/tentapress/import@v0.1.9
 - pkg:composer/tentapress/import@v0.22.0
+- pkg:composer/tentapress/import@v0.23.1
