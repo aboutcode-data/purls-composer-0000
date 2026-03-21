@@ -19,3 +19,4 @@
 - pkg:composer/netresearch/agent-php-modernization@v1.7.5
 - pkg:composer/netresearch/agent-php-modernization@v1.7.6
 - pkg:composer/netresearch/agent-php-modernization@v1.8.0
+- pkg:composer/netresearch/agent-php-modernization@v1.9.0
