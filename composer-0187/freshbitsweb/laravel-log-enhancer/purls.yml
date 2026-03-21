@@ -14,3 +14,4 @@
 - pkg:composer/freshbitsweb/laravel-log-enhancer@v1.5.0
 - pkg:composer/freshbitsweb/laravel-log-enhancer@v1.7.0
 - pkg:composer/freshbitsweb/laravel-log-enhancer@v2.0.0
+- pkg:composer/freshbitsweb/laravel-log-enhancer@v2.1.0
