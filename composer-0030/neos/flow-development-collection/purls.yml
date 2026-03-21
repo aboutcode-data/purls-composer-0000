@@ -460,6 +460,7 @@
 - pkg:composer/neos/flow-development-collection@8.3.16
 - pkg:composer/neos/flow-development-collection@8.3.17
 - pkg:composer/neos/flow-development-collection@8.3.18
+- pkg:composer/neos/flow-development-collection@8.3.19
 - pkg:composer/neos/flow-development-collection@8.3.2
 - pkg:composer/neos/flow-development-collection@8.3.3
 - pkg:composer/neos/flow-development-collection@8.3.4
@@ -471,6 +472,7 @@
 - pkg:composer/neos/flow-development-collection@8.4.0
 - pkg:composer/neos/flow-development-collection@8.4.1
 - pkg:composer/neos/flow-development-collection@8.4.2
+- pkg:composer/neos/flow-development-collection@8.4.3
 - pkg:composer/neos/flow-development-collection@9.0.0
 - pkg:composer/neos/flow-development-collection@9.0.0-beta1
 - pkg:composer/neos/flow-development-collection@9.0.0-beta10
@@ -491,4 +493,6 @@
 - pkg:composer/neos/flow-development-collection@9.0.3
 - pkg:composer/neos/flow-development-collection@9.0.4
 - pkg:composer/neos/flow-development-collection@9.0.5
+- pkg:composer/neos/flow-development-collection@9.0.6
 - pkg:composer/neos/flow-development-collection@9.1.0
+- pkg:composer/neos/flow-development-collection@9.1.1
