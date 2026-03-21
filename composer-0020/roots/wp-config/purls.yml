@@ -1,1 +1,2 @@
 - pkg:composer/roots/wp-config@1.0.0
+- pkg:composer/roots/wp-config@v2.0.0-beta.1

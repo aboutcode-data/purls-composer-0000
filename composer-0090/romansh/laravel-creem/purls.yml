@@ -1,3 +1,4 @@
+- pkg:composer/romansh/laravel-creem@1.2.9
 - pkg:composer/romansh/laravel-creem@v1.0.0
 - pkg:composer/romansh/laravel-creem@v1.0.1
 - pkg:composer/romansh/laravel-creem@v1.0.2
@@ -12,4 +13,3 @@
 - pkg:composer/romansh/laravel-creem@v1.2.6
 - pkg:composer/romansh/laravel-creem@v1.2.7
 - pkg:composer/romansh/laravel-creem@v1.2.8
-- pkg:composer/romansh/laravel-creem@v2.2
