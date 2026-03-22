@@ -233,6 +233,7 @@
 - pkg:composer/orchid/platform@14.52.3
 - pkg:composer/orchid/platform@14.52.4
 - pkg:composer/orchid/platform@14.52.5
+- pkg:composer/orchid/platform@14.53.0
 - pkg:composer/orchid/platform@14.6.0
 - pkg:composer/orchid/platform@14.7.0
 - pkg:composer/orchid/platform@14.8.0
