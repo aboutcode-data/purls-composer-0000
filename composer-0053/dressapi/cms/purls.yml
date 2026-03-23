@@ -1,3 +1,5 @@
+- pkg:composer/dressapi/cms@3.0.5
+- pkg:composer/dressapi/cms@3.0.6
 - pkg:composer/dressapi/cms@v3.0.0
 - pkg:composer/dressapi/cms@v3.0.1
 - pkg:composer/dressapi/cms@v3.0.2
