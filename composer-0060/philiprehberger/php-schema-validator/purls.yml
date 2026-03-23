@@ -4,3 +4,4 @@
 - pkg:composer/philiprehberger/php-schema-validator@v1.1.0
 - pkg:composer/philiprehberger/php-schema-validator@v1.1.1
 - pkg:composer/philiprehberger/php-schema-validator@v1.1.2
+- pkg:composer/philiprehberger/php-schema-validator@v1.1.3

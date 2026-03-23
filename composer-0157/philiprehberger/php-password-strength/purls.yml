@@ -1,2 +1,3 @@
 - pkg:composer/philiprehberger/php-password-strength@1.0.0
 - pkg:composer/philiprehberger/php-password-strength@v1.0.2
+- pkg:composer/philiprehberger/php-password-strength@v1.1.0
