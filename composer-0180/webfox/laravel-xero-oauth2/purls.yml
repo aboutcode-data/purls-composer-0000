@@ -22,6 +22,7 @@
 - pkg:composer/webfox/laravel-xero-oauth2@6.0.0
 - pkg:composer/webfox/laravel-xero-oauth2@6.0.1
 - pkg:composer/webfox/laravel-xero-oauth2@6.1.0
+- pkg:composer/webfox/laravel-xero-oauth2@7.0.0
 - pkg:composer/webfox/laravel-xero-oauth2@v1.0.0
 - pkg:composer/webfox/laravel-xero-oauth2@v1.1.0
 - pkg:composer/webfox/laravel-xero-oauth2@v1.1.1
