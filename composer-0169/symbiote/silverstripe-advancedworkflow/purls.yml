@@ -120,3 +120,4 @@
 - pkg:composer/symbiote/silverstripe-advancedworkflow@7.1.1
 - pkg:composer/symbiote/silverstripe-advancedworkflow@7.1.2
 - pkg:composer/symbiote/silverstripe-advancedworkflow@7.2.0-beta1
+- pkg:composer/symbiote/silverstripe-advancedworkflow@7.2.0-rc1
