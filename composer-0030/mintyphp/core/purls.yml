@@ -102,3 +102,5 @@
 - pkg:composer/mintyphp/core@v3.2.8
 - pkg:composer/mintyphp/core@v3.2.9
 - pkg:composer/mintyphp/core@v4.0.0
+- pkg:composer/mintyphp/core@v4.0.1
+- pkg:composer/mintyphp/core@v4.0.2
