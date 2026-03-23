@@ -173,3 +173,6 @@
 - pkg:composer/internetguru/laravel-common@v5.3.0
 - pkg:composer/internetguru/laravel-common@v5.3.1
 - pkg:composer/internetguru/laravel-common@v5.4.0
+- pkg:composer/internetguru/laravel-common@v5.5.0
+- pkg:composer/internetguru/laravel-common@v5.6.0
+- pkg:composer/internetguru/laravel-common@v5.6.1
