@@ -29,3 +29,5 @@
 - pkg:composer/civicrm/cli-tools@v2025.11.18.1763506475
 - pkg:composer/civicrm/cli-tools@v2025.12.05.1764972928
 - pkg:composer/civicrm/cli-tools@v2025.12.06.1764981525
+- pkg:composer/civicrm/cli-tools@v2026.03.20.1773986462
+- pkg:composer/civicrm/cli-tools@v2026.03.20.1774037652

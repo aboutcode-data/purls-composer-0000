@@ -5,3 +5,4 @@
 - pkg:composer/cline/relay@2.0.3
 - pkg:composer/cline/relay@3.0.0
 - pkg:composer/cline/relay@3.0.1
+- pkg:composer/cline/relay@4.0.0

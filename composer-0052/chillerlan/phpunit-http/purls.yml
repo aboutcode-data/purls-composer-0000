@@ -1,2 +1,4 @@
 - pkg:composer/chillerlan/phpunit-http@1.0.0
 - pkg:composer/chillerlan/phpunit-http@1.0.1
+- pkg:composer/chillerlan/phpunit-http@1.0.2
+- pkg:composer/chillerlan/phpunit-http@2.0.0
