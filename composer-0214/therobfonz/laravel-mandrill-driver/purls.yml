@@ -7,6 +7,7 @@
 - pkg:composer/therobfonz/laravel-mandrill-driver@6.0.0
 - pkg:composer/therobfonz/laravel-mandrill-driver@6.0.1
 - pkg:composer/therobfonz/laravel-mandrill-driver@6.1.0
+- pkg:composer/therobfonz/laravel-mandrill-driver@6.2.0
 - pkg:composer/therobfonz/laravel-mandrill-driver@v1.0.0
 - pkg:composer/therobfonz/laravel-mandrill-driver@v1.0.1
 - pkg:composer/therobfonz/laravel-mandrill-driver@v2.0.0
