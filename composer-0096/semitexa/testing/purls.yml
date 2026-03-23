@@ -1,3 +1,5 @@
+- pkg:composer/semitexa/testing@1.0.5
+- pkg:composer/semitexa/testing@1.0.7
 - pkg:composer/semitexa/testing@v1.0.1
 - pkg:composer/semitexa/testing@v1.0.2
 - pkg:composer/semitexa/testing@v1.0.3
