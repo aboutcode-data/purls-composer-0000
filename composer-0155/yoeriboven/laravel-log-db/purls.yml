@@ -9,3 +9,4 @@
 - pkg:composer/yoeriboven/laravel-log-db@1.4
 - pkg:composer/yoeriboven/laravel-log-db@2.0
 - pkg:composer/yoeriboven/laravel-log-db@2.1
+- pkg:composer/yoeriboven/laravel-log-db@3.0

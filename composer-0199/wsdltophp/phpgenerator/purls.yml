@@ -30,3 +30,4 @@
 - pkg:composer/wsdltophp/phpgenerator@4.1.1
 - pkg:composer/wsdltophp/phpgenerator@4.1.2
 - pkg:composer/wsdltophp/phpgenerator@4.1.3
+- pkg:composer/wsdltophp/phpgenerator@4.1.4
