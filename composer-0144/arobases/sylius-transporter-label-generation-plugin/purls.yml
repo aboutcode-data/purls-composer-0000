@@ -14,6 +14,7 @@
 - pkg:composer/arobases/sylius-transporter-label-generation-plugin@0.0.23
 - pkg:composer/arobases/sylius-transporter-label-generation-plugin@0.0.24
 - pkg:composer/arobases/sylius-transporter-label-generation-plugin@0.0.25
+- pkg:composer/arobases/sylius-transporter-label-generation-plugin@0.0.26
 - pkg:composer/arobases/sylius-transporter-label-generation-plugin@0.0.6
 - pkg:composer/arobases/sylius-transporter-label-generation-plugin@0.0.7
 - pkg:composer/arobases/sylius-transporter-label-generation-plugin@0.0.8
