@@ -73,6 +73,7 @@
 - pkg:composer/automattic/jetpack-stats-admin@v0.30.6
 - pkg:composer/automattic/jetpack-stats-admin@v0.30.7
 - pkg:composer/automattic/jetpack-stats-admin@v0.30.8
+- pkg:composer/automattic/jetpack-stats-admin@v0.30.9
 - pkg:composer/automattic/jetpack-stats-admin@v0.4.0
 - pkg:composer/automattic/jetpack-stats-admin@v0.4.1
 - pkg:composer/automattic/jetpack-stats-admin@v0.5.0

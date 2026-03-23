@@ -32,3 +32,5 @@
 - pkg:composer/brandembassy/slim-nette-extension@5.7
 - pkg:composer/brandembassy/slim-nette-extension@5.8
 - pkg:composer/brandembassy/slim-nette-extension@5.9
+- pkg:composer/brandembassy/slim-nette-extension@6.0
+- pkg:composer/brandembassy/slim-nette-extension@6.0.1
