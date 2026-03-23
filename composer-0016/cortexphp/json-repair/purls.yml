@@ -2,3 +2,4 @@
 - pkg:composer/cortexphp/json-repair@0.2
 - pkg:composer/cortexphp/json-repair@0.3
 - pkg:composer/cortexphp/json-repair@0.4.0
+- pkg:composer/cortexphp/json-repair@0.4.1

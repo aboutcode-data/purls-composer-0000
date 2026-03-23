@@ -8,6 +8,8 @@
 - pkg:composer/csgt/laravel@v11.1000.3
 - pkg:composer/csgt/laravel@v11.1000.4
 - pkg:composer/csgt/laravel@v11.1000.5
+- pkg:composer/csgt/laravel@v13.1000.0
+- pkg:composer/csgt/laravel@v13.1000.1
 - pkg:composer/csgt/laravel@v4.0.0
 - pkg:composer/csgt/laravel@v4.0.0-BETA3
 - pkg:composer/csgt/laravel@v4.0.0-BETA4
