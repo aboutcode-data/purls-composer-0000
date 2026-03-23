@@ -46,3 +46,4 @@
 - pkg:composer/palpalani/laravel-sqs-queue-json-reader@0.5.2
 - pkg:composer/palpalani/laravel-sqs-queue-json-reader@0.5.3
 - pkg:composer/palpalani/laravel-sqs-queue-json-reader@0.5.4
+- pkg:composer/palpalani/laravel-sqs-queue-json-reader@0.6.0
