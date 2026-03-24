@@ -1,6 +1,8 @@
 - pkg:composer/vursion/laravel-sitemappable@1.0.0
 - pkg:composer/vursion/laravel-sitemappable@1.1.0
 - pkg:composer/vursion/laravel-sitemappable@1.10.0
+- pkg:composer/vursion/laravel-sitemappable@1.11.0
+- pkg:composer/vursion/laravel-sitemappable@1.12.0
 - pkg:composer/vursion/laravel-sitemappable@1.2.0
 - pkg:composer/vursion/laravel-sitemappable@1.3.0
 - pkg:composer/vursion/laravel-sitemappable@1.4.0
