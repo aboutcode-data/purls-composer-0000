@@ -198,3 +198,4 @@
 - pkg:composer/spryker/gui@4.8.0
 - pkg:composer/spryker/gui@4.9.0
 - pkg:composer/spryker/gui@5.0.0
+- pkg:composer/spryker/gui@5.0.1
