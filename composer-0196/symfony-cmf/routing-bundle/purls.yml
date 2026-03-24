@@ -52,3 +52,4 @@
 - pkg:composer/symfony-cmf/routing-bundle@3.1.0
 - pkg:composer/symfony-cmf/routing-bundle@3.1.1
 - pkg:composer/symfony-cmf/routing-bundle@3.1.2
+- pkg:composer/symfony-cmf/routing-bundle@3.2.0
