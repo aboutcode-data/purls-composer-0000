@@ -5,6 +5,7 @@
 - pkg:composer/lemmon/validator@v0.11.2
 - pkg:composer/lemmon/validator@v0.12.0
 - pkg:composer/lemmon/validator@v0.13.0
+- pkg:composer/lemmon/validator@v0.14.0
 - pkg:composer/lemmon/validator@v0.2.0
 - pkg:composer/lemmon/validator@v0.3.0
 - pkg:composer/lemmon/validator@v0.4.0
