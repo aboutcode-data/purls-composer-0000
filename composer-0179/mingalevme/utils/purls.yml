@@ -4,6 +4,7 @@
 - pkg:composer/mingalevme/utils@1.0.11
 - pkg:composer/mingalevme/utils@1.0.12
 - pkg:composer/mingalevme/utils@1.0.13
+- pkg:composer/mingalevme/utils@1.0.14
 - pkg:composer/mingalevme/utils@1.0.2
 - pkg:composer/mingalevme/utils@1.0.3
 - pkg:composer/mingalevme/utils@1.0.4
@@ -23,3 +24,4 @@
 - pkg:composer/mingalevme/utils@2.0
 - pkg:composer/mingalevme/utils@3.0
 - pkg:composer/mingalevme/utils@4.0
+- pkg:composer/mingalevme/utils@4.0.1
