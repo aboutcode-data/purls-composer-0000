@@ -45,3 +45,4 @@
 - pkg:composer/yajra/laravel-datatables-export@v12.2.0
 - pkg:composer/yajra/laravel-datatables-export@v12.3.0
 - pkg:composer/yajra/laravel-datatables-export@v12.3.1
+- pkg:composer/yajra/laravel-datatables-export@v13.0.0
