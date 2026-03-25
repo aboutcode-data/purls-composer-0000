@@ -1,5 +1,6 @@
 - pkg:composer/gienielab/silverstripe-passkey-auth@6.0.1
 - pkg:composer/gienielab/silverstripe-passkey-auth@6.0.2
+- pkg:composer/gienielab/silverstripe-passkey-auth@6.0.3
 - pkg:composer/gienielab/silverstripe-passkey-auth@v1.0.0
 - pkg:composer/gienielab/silverstripe-passkey-auth@v1.0.1
 - pkg:composer/gienielab/silverstripe-passkey-auth@v1.0.10

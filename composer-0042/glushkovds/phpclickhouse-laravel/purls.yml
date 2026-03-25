@@ -53,3 +53,5 @@
 - pkg:composer/glushkovds/phpclickhouse-laravel@v2.3.3
 - pkg:composer/glushkovds/phpclickhouse-laravel@v2.3.4
 - pkg:composer/glushkovds/phpclickhouse-laravel@v2.5.0
+- pkg:composer/glushkovds/phpclickhouse-laravel@v2.5.1
+- pkg:composer/glushkovds/phpclickhouse-laravel@v2.5.2

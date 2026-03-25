@@ -51,3 +51,4 @@
 - pkg:composer/g4t/swagger@3.2.3
 - pkg:composer/g4t/swagger@4.0.0
 - pkg:composer/g4t/swagger@4.0.1
+- pkg:composer/g4t/swagger@4.0.2
