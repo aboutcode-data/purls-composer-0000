@@ -16,3 +16,4 @@
 - pkg:composer/babenkoivan/elastic-scout-driver@v3.2.0
 - pkg:composer/babenkoivan/elastic-scout-driver@v4.0.0
 - pkg:composer/babenkoivan/elastic-scout-driver@v5.0.0
+- pkg:composer/babenkoivan/elastic-scout-driver@v6.0.0
