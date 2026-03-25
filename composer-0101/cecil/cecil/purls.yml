@@ -1075,6 +1075,7 @@
 - pkg:composer/cecil/cecil@8.86.0-beta.8
 - pkg:composer/cecil/cecil@8.87.0
 - pkg:composer/cecil/cecil@8.87.1
+- pkg:composer/cecil/cecil@8.87.2
 - pkg:composer/cecil/cecil@8.9.0
 - pkg:composer/cecil/cecil@8.9.1
 - pkg:composer/cecil/cecil@8.9.2
