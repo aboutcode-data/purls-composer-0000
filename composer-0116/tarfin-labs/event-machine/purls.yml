@@ -59,5 +59,8 @@
 - pkg:composer/tarfin-labs/event-machine@8.5.4
 - pkg:composer/tarfin-labs/event-machine@8.6.0
 - pkg:composer/tarfin-labs/event-machine@8.6.1
+- pkg:composer/tarfin-labs/event-machine@8.6.2
+- pkg:composer/tarfin-labs/event-machine@8.6.3
+- pkg:composer/tarfin-labs/event-machine@8.6.4
 - pkg:composer/tarfin-labs/event-machine@v3.0.0
 - pkg:composer/tarfin-labs/event-machine@v7.0.0
