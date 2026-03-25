@@ -32,4 +32,5 @@
 - pkg:composer/2lenet/pdf-generator-bundle@4.2.0
 - pkg:composer/2lenet/pdf-generator-bundle@4.2.1
 - pkg:composer/2lenet/pdf-generator-bundle@4.2.2
+- pkg:composer/2lenet/pdf-generator-bundle@4.2.3
 - pkg:composer/2lenet/pdf-generator-bundle@v1.0.1
