@@ -1,5 +1,6 @@
 - pkg:composer/van-ons/laravel-environment-importer@v0.1.0
 - pkg:composer/van-ons/laravel-environment-importer@v0.10.0
+- pkg:composer/van-ons/laravel-environment-importer@v0.10.1
 - pkg:composer/van-ons/laravel-environment-importer@v0.2.0
 - pkg:composer/van-ons/laravel-environment-importer@v0.3.0
 - pkg:composer/van-ons/laravel-environment-importer@v0.3.1

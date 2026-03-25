@@ -123,3 +123,5 @@
 - pkg:composer/vormkracht10/laravel-mails@v2.1.0
 - pkg:composer/vormkracht10/laravel-mails@v2.2.0
 - pkg:composer/vormkracht10/laravel-mails@v2.3.0
+- pkg:composer/vormkracht10/laravel-mails@v3.0.0
+- pkg:composer/vormkracht10/laravel-mails@v3.0.1

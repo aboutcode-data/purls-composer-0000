@@ -1,5 +1,6 @@
 - pkg:composer/tzsk/otp@1.0.0
 - pkg:composer/tzsk/otp@1.0.1
+- pkg:composer/tzsk/otp@10.0.0
 - pkg:composer/tzsk/otp@2.0.0
 - pkg:composer/tzsk/otp@3.0.0
 - pkg:composer/tzsk/otp@4.0.0
