@@ -5,3 +5,4 @@
 - pkg:composer/curio/sdclient@v4.2.0
 - pkg:composer/curio/sdclient@v4.2.1
 - pkg:composer/curio/sdclient@v4.3.0
+- pkg:composer/curio/sdclient@v5.0.0

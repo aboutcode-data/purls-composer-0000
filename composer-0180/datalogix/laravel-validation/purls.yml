@@ -8,3 +8,4 @@
 - pkg:composer/datalogix/laravel-validation@v2.2.0
 - pkg:composer/datalogix/laravel-validation@v3.0.0
 - pkg:composer/datalogix/laravel-validation@v3.0.1
+- pkg:composer/datalogix/laravel-validation@v3.1.0
