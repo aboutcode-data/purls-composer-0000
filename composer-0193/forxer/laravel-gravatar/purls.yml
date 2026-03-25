@@ -19,4 +19,7 @@
 - pkg:composer/forxer/laravel-gravatar@4.2.0
 - pkg:composer/forxer/laravel-gravatar@4.2.1
 - pkg:composer/forxer/laravel-gravatar@4.3.0
+- pkg:composer/forxer/laravel-gravatar@4.4.0
 - pkg:composer/forxer/laravel-gravatar@5.0.0
+- pkg:composer/forxer/laravel-gravatar@5.1.0
+- pkg:composer/forxer/laravel-gravatar@6.0.0

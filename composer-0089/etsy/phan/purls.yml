@@ -187,3 +187,5 @@
 - pkg:composer/etsy/phan@6.0.0-beta
 - pkg:composer/etsy/phan@6.0.1
 - pkg:composer/etsy/phan@6.0.2
+- pkg:composer/etsy/phan@6.0.3
+- pkg:composer/etsy/phan@6.0.4
