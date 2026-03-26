@@ -7,3 +7,4 @@
 - pkg:composer/dbt/interactions@4.0.0
 - pkg:composer/dbt/interactions@5.0.0
 - pkg:composer/dbt/interactions@5.0.1
+- pkg:composer/dbt/interactions@5.1.0

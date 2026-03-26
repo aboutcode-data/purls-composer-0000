@@ -27,6 +27,7 @@
 - pkg:composer/codebar-ag/laravel-flysystem-cloudinary@v12.4.0
 - pkg:composer/codebar-ag/laravel-flysystem-cloudinary@v12.5.0
 - pkg:composer/codebar-ag/laravel-flysystem-cloudinary@v12.6.0
+- pkg:composer/codebar-ag/laravel-flysystem-cloudinary@v12.7.0
 - pkg:composer/codebar-ag/laravel-flysystem-cloudinary@v3.1.0
 - pkg:composer/codebar-ag/laravel-flysystem-cloudinary@v4.0
 - pkg:composer/codebar-ag/laravel-flysystem-cloudinary@v4.1
