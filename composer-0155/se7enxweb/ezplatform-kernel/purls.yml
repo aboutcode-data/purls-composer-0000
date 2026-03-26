@@ -70,6 +70,7 @@
 - pkg:composer/se7enxweb/ezplatform-kernel@v1.3.40
 - pkg:composer/se7enxweb/ezplatform-kernel@v1.3.41
 - pkg:composer/se7enxweb/ezplatform-kernel@v1.3.42
+- pkg:composer/se7enxweb/ezplatform-kernel@v1.3.43
 - pkg:composer/se7enxweb/ezplatform-kernel@v1.3.5
 - pkg:composer/se7enxweb/ezplatform-kernel@v1.3.6
 - pkg:composer/se7enxweb/ezplatform-kernel@v1.3.7

@@ -162,3 +162,4 @@
 - pkg:composer/salesmanago/api-sso-util@3.8.5-beta1
 - pkg:composer/salesmanago/api-sso-util@3.8.5-beta2
 - pkg:composer/salesmanago/api-sso-util@3.8.5-beta3
+- pkg:composer/salesmanago/api-sso-util@3.8.6

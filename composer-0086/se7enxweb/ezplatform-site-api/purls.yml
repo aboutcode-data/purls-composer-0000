@@ -60,3 +60,5 @@
 - pkg:composer/se7enxweb/ezplatform-site-api@v2.0.0-beta1
 - pkg:composer/se7enxweb/ezplatform-site-api@v2.0.1
 - pkg:composer/se7enxweb/ezplatform-site-api@v4.3.4
+- pkg:composer/se7enxweb/ezplatform-site-api@v4.3.5
+- pkg:composer/se7enxweb/ezplatform-site-api@v4.3.6
