@@ -49,3 +49,4 @@
 - pkg:composer/algolia/algolia-search-bundle@6.0.0
 - pkg:composer/algolia/algolia-search-bundle@6.0.1
 - pkg:composer/algolia/algolia-search-bundle@7.0.0
+- pkg:composer/algolia/algolia-search-bundle@8.0.0
