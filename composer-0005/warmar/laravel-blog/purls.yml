@@ -5,3 +5,6 @@
 - pkg:composer/warmar/laravel-blog@v0.1.5
 - pkg:composer/warmar/laravel-blog@v0.1.6
 - pkg:composer/warmar/laravel-blog@v0.1.7
+- pkg:composer/warmar/laravel-blog@v0.2.0
+- pkg:composer/warmar/laravel-blog@v1.0.0
+- pkg:composer/warmar/laravel-blog@v1.0.1
