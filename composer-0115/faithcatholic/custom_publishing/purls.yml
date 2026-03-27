@@ -1,4 +1,5 @@
 - pkg:composer/faithcatholic/custom_publishing@4.2.3
+- pkg:composer/faithcatholic/custom_publishing@4.3.0
 - pkg:composer/faithcatholic/custom_publishing@v1.0.0
 - pkg:composer/faithcatholic/custom_publishing@v1.0.1
 - pkg:composer/faithcatholic/custom_publishing@v1.0.2
