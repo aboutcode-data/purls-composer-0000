@@ -78,3 +78,4 @@
 - pkg:composer/spaze/phpstan-disallowed-calls@v4.7.1
 - pkg:composer/spaze/phpstan-disallowed-calls@v4.8.0
 - pkg:composer/spaze/phpstan-disallowed-calls@v4.9.0
+- pkg:composer/spaze/phpstan-disallowed-calls@v4.9.1

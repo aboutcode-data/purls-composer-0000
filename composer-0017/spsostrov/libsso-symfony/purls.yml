@@ -5,3 +5,4 @@
 - pkg:composer/spsostrov/libsso-symfony@v0.3.1
 - pkg:composer/spsostrov/libsso-symfony@v0.3.2
 - pkg:composer/spsostrov/libsso-symfony@v0.3.3
+- pkg:composer/spsostrov/libsso-symfony@v1.0.0

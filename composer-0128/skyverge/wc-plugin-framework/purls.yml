@@ -113,3 +113,5 @@
 - pkg:composer/skyverge/wc-plugin-framework@6.0.0
 - pkg:composer/skyverge/wc-plugin-framework@6.0.1
 - pkg:composer/skyverge/wc-plugin-framework@6.1.0
+- pkg:composer/skyverge/wc-plugin-framework@6.1.1
+- pkg:composer/skyverge/wc-plugin-framework@6.1.2
