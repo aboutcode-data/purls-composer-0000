@@ -24,3 +24,4 @@
 - pkg:composer/zephyrphp/starter@v0.4.7
 - pkg:composer/zephyrphp/starter@v0.4.8
 - pkg:composer/zephyrphp/starter@v0.4.9
+- pkg:composer/zephyrphp/starter@v0.5.8
