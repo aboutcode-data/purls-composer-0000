@@ -338,3 +338,7 @@
 - pkg:composer/tina4stack/tina4php@v3.8.3
 - pkg:composer/tina4stack/tina4php@v3.8.7
 - pkg:composer/tina4stack/tina4php@v3.9.0
+- pkg:composer/tina4stack/tina4php@v3.9.1
+- pkg:composer/tina4stack/tina4php@v3.9.2
+- pkg:composer/tina4stack/tina4php@v3.9.3
+- pkg:composer/tina4stack/tina4php@v3.9.4
