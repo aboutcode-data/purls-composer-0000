@@ -10,3 +10,4 @@
 - pkg:composer/drupal/ai_provider_amazeeio_recipe@1.2.0
 - pkg:composer/drupal/ai_provider_amazeeio_recipe@1.2.0-beta1
 - pkg:composer/drupal/ai_provider_amazeeio_recipe@1.2.1
+- pkg:composer/drupal/ai_provider_amazeeio_recipe@1.3.0-alpha1

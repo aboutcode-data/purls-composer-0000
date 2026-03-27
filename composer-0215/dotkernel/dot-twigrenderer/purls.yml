@@ -26,6 +26,7 @@
 - pkg:composer/dotkernel/dot-twigrenderer@3.5.1
 - pkg:composer/dotkernel/dot-twigrenderer@3.6.0
 - pkg:composer/dotkernel/dot-twigrenderer@3.7.0
+- pkg:composer/dotkernel/dot-twigrenderer@3.8.0
 - pkg:composer/dotkernel/dot-twigrenderer@v1.0.0
 - pkg:composer/dotkernel/dot-twigrenderer@v1.1.0
 - pkg:composer/dotkernel/dot-twigrenderer@v1.2.0
