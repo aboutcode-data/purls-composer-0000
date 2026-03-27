@@ -17,3 +17,4 @@
 - pkg:composer/squirrelphp/strings-bundle@v1.1
 - pkg:composer/squirrelphp/strings-bundle@v2.0
 - pkg:composer/squirrelphp/strings-bundle@v2.1
+- pkg:composer/squirrelphp/strings-bundle@v3.0
