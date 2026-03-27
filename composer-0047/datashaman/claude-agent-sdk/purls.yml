@@ -1,1 +1,4 @@
 - pkg:composer/datashaman/claude-agent-sdk@v0.1.0
+- pkg:composer/datashaman/claude-agent-sdk@v0.1.1
+- pkg:composer/datashaman/claude-agent-sdk@v0.1.2
+- pkg:composer/datashaman/claude-agent-sdk@v0.1.3
