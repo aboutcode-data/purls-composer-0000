@@ -17,6 +17,7 @@
 - pkg:composer/astrotomic/laravel-translatable@v11.15.1
 - pkg:composer/astrotomic/laravel-translatable@v11.16.0
 - pkg:composer/astrotomic/laravel-translatable@v11.16.1
+- pkg:composer/astrotomic/laravel-translatable@v11.17.0
 - pkg:composer/astrotomic/laravel-translatable@v11.2.0
 - pkg:composer/astrotomic/laravel-translatable@v11.2.1
 - pkg:composer/astrotomic/laravel-translatable@v11.3.0
