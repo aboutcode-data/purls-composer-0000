@@ -86,3 +86,4 @@
 - pkg:composer/wpify/woo-core@5.5.6
 - pkg:composer/wpify/woo-core@5.5.7
 - pkg:composer/wpify/woo-core@5.6.0
+- pkg:composer/wpify/woo-core@5.6.1
