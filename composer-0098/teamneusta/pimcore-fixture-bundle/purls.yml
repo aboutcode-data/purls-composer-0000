@@ -5,3 +5,4 @@
 - pkg:composer/teamneusta/pimcore-fixture-bundle@2.2.0
 - pkg:composer/teamneusta/pimcore-fixture-bundle@2.2.1
 - pkg:composer/teamneusta/pimcore-fixture-bundle@2.2.2
+- pkg:composer/teamneusta/pimcore-fixture-bundle@3.0.0
