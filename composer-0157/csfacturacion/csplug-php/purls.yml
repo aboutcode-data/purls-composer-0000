@@ -10,3 +10,4 @@
 - pkg:composer/csfacturacion/csplug-php@v2.1.4
 - pkg:composer/csfacturacion/csplug-php@v2.1.5
 - pkg:composer/csfacturacion/csplug-php@v2.2.0
+- pkg:composer/csfacturacion/csplug-php@v3.0.0

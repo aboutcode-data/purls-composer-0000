@@ -1,2 +1,3 @@
+- pkg:composer/daikazu/eloquent-salesforce-objects@v1.0.0
 - pkg:composer/daikazu/eloquent-salesforce-objects@v1.0.0-beta
 - pkg:composer/daikazu/eloquent-salesforce-objects@v1.0.0-beta.1

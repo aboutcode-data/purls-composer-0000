@@ -6,6 +6,7 @@
 - pkg:composer/codedge/laravel-fpdf@1.12.1
 - pkg:composer/codedge/laravel-fpdf@1.12.2
 - pkg:composer/codedge/laravel-fpdf@1.12.3
+- pkg:composer/codedge/laravel-fpdf@1.13.0
 - pkg:composer/codedge/laravel-fpdf@1.2
 - pkg:composer/codedge/laravel-fpdf@1.2.1
 - pkg:composer/codedge/laravel-fpdf@1.2.2
