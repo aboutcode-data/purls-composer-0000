@@ -7,3 +7,4 @@
 - pkg:composer/hashtagcms/create-app@v2.0.0
 - pkg:composer/hashtagcms/create-app@v3.0.0
 - pkg:composer/hashtagcms/create-app@v3.0.1
+- pkg:composer/hashtagcms/create-app@v3.0.2
