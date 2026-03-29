@@ -38,11 +38,17 @@
 - pkg:composer/jvelletti/jvchat@12.4.7
 - pkg:composer/jvelletti/jvchat@12.4.9
 - pkg:composer/jvelletti/jvchat@13.4.0
+- pkg:composer/jvelletti/jvchat@13.4.10
+- pkg:composer/jvelletti/jvchat@13.4.11
+- pkg:composer/jvelletti/jvchat@13.4.12
+- pkg:composer/jvelletti/jvchat@13.4.13
 - pkg:composer/jvelletti/jvchat@13.4.2
 - pkg:composer/jvelletti/jvchat@13.4.3
 - pkg:composer/jvelletti/jvchat@13.4.4
 - pkg:composer/jvelletti/jvchat@13.4.5
 - pkg:composer/jvelletti/jvchat@13.4.6
 - pkg:composer/jvelletti/jvchat@13.4.7
+- pkg:composer/jvelletti/jvchat@13.4.8
+- pkg:composer/jvelletti/jvchat@13.4.9
 - pkg:composer/jvelletti/jvchat@9.5.1
 - pkg:composer/jvelletti/jvchat@9.5.2

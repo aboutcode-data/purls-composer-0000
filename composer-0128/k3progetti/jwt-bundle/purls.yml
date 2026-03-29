@@ -1,5 +1,6 @@
 - pkg:composer/k3progetti/jwt-bundle@2.2.3
 - pkg:composer/k3progetti/jwt-bundle@3.0.2
+- pkg:composer/k3progetti/jwt-bundle@4.0.0
 - pkg:composer/k3progetti/jwt-bundle@v1.1.0
 - pkg:composer/k3progetti/jwt-bundle@v1.1.1
 - pkg:composer/k3progetti/jwt-bundle@v1.1.10
