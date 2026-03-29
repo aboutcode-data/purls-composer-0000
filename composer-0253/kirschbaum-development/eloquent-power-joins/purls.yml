@@ -74,3 +74,4 @@
 - pkg:composer/kirschbaum-development/eloquent-power-joins@4.2.8
 - pkg:composer/kirschbaum-development/eloquent-power-joins@4.2.9
 - pkg:composer/kirschbaum-development/eloquent-power-joins@4.3.0
+- pkg:composer/kirschbaum-development/eloquent-power-joins@4.3.1
