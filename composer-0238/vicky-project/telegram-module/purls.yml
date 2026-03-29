@@ -159,6 +159,11 @@
 - pkg:composer/vicky-project/telegram-module@1.0.240
 - pkg:composer/vicky-project/telegram-module@1.0.241
 - pkg:composer/vicky-project/telegram-module@1.0.242
+- pkg:composer/vicky-project/telegram-module@1.0.243
+- pkg:composer/vicky-project/telegram-module@1.0.244
+- pkg:composer/vicky-project/telegram-module@1.0.245
+- pkg:composer/vicky-project/telegram-module@1.0.246
+- pkg:composer/vicky-project/telegram-module@1.0.247
 - pkg:composer/vicky-project/telegram-module@1.0.25
 - pkg:composer/vicky-project/telegram-module@1.0.26
 - pkg:composer/vicky-project/telegram-module@1.0.27
