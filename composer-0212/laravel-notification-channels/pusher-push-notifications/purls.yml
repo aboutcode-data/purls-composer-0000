@@ -16,3 +16,4 @@
 - pkg:composer/laravel-notification-channels/pusher-push-notifications@4.1.0
 - pkg:composer/laravel-notification-channels/pusher-push-notifications@4.2.0
 - pkg:composer/laravel-notification-channels/pusher-push-notifications@4.3.0
+- pkg:composer/laravel-notification-channels/pusher-push-notifications@4.4.0

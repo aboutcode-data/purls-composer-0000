@@ -23,12 +23,16 @@
 - pkg:composer/loupe/loupe@0.12.9
 - pkg:composer/loupe/loupe@0.13.0
 - pkg:composer/loupe/loupe@0.13.1
+- pkg:composer/loupe/loupe@0.13.10
+- pkg:composer/loupe/loupe@0.13.11
 - pkg:composer/loupe/loupe@0.13.2
 - pkg:composer/loupe/loupe@0.13.3
 - pkg:composer/loupe/loupe@0.13.4
 - pkg:composer/loupe/loupe@0.13.5
 - pkg:composer/loupe/loupe@0.13.6
 - pkg:composer/loupe/loupe@0.13.7
+- pkg:composer/loupe/loupe@0.13.8
+- pkg:composer/loupe/loupe@0.13.9
 - pkg:composer/loupe/loupe@0.2.0
 - pkg:composer/loupe/loupe@0.3.0
 - pkg:composer/loupe/loupe@0.3.1

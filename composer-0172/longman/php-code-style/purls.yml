@@ -8,6 +8,7 @@
 - pkg:composer/longman/php-code-style@10.2.0
 - pkg:composer/longman/php-code-style@10.3.0
 - pkg:composer/longman/php-code-style@10.4.0
+- pkg:composer/longman/php-code-style@10.5.0
 - pkg:composer/longman/php-code-style@2.0.0
 - pkg:composer/longman/php-code-style@3.0.0
 - pkg:composer/longman/php-code-style@3.0.1

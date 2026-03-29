@@ -25,3 +25,4 @@
 - pkg:composer/lunarstorm/laravel-ddd@v2.0.1
 - pkg:composer/lunarstorm/laravel-ddd@v2.0.2
 - pkg:composer/lunarstorm/laravel-ddd@v2.1.0
+- pkg:composer/lunarstorm/laravel-ddd@v2.1.1

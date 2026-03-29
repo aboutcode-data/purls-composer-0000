@@ -10,3 +10,5 @@
 - pkg:composer/laravel-modules/module-generator@v3.2.0
 - pkg:composer/laravel-modules/module-generator@v3.2.1
 - pkg:composer/laravel-modules/module-generator@v3.2.2
+- pkg:composer/laravel-modules/module-generator@v3.2.3
+- pkg:composer/laravel-modules/module-generator@v3.2.4

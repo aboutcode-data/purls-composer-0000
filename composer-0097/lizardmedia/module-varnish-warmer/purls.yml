@@ -14,3 +14,4 @@
 - pkg:composer/lizardmedia/module-varnish-warmer@2.3
 - pkg:composer/lizardmedia/module-varnish-warmer@2.3.1
 - pkg:composer/lizardmedia/module-varnish-warmer@2.3.2
+- pkg:composer/lizardmedia/module-varnish-warmer@2.3.3
