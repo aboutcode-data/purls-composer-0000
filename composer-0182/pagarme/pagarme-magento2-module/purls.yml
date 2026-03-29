@@ -32,3 +32,4 @@
 - pkg:composer/pagarme/pagarme-magento2-module@2.7.0
 - pkg:composer/pagarme/pagarme-magento2-module@2.7.1
 - pkg:composer/pagarme/pagarme-magento2-module@2.8.0
+- pkg:composer/pagarme/pagarme-magento2-module@2.8.1

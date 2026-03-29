@@ -14,3 +14,4 @@
 - pkg:composer/open-telemetry/opentelemetry-auto-http-async@1.0.1
 - pkg:composer/open-telemetry/opentelemetry-auto-http-async@1.1.0
 - pkg:composer/open-telemetry/opentelemetry-auto-http-async@1.1.1
+- pkg:composer/open-telemetry/opentelemetry-auto-http-async@1.2.0

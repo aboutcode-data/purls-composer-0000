@@ -21,3 +21,4 @@
 - pkg:composer/overtrue/laravel-like@5.3.0
 - pkg:composer/overtrue/laravel-like@5.4.0
 - pkg:composer/overtrue/laravel-like@5.4.1
+- pkg:composer/overtrue/laravel-like@v6.0.0
