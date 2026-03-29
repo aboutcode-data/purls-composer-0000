@@ -432,3 +432,4 @@
 - pkg:composer/moodle/moodle@v5.1.1
 - pkg:composer/moodle/moodle@v5.1.2
 - pkg:composer/moodle/moodle@v5.1.3
+- pkg:composer/moodle/moodle@v5.2.0-beta
