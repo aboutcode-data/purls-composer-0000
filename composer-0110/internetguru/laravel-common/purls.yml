@@ -169,6 +169,7 @@
 - pkg:composer/internetguru/laravel-common@v4.8.6
 - pkg:composer/internetguru/laravel-common@v5.0.0
 - pkg:composer/internetguru/laravel-common@v5.1.0
+- pkg:composer/internetguru/laravel-common@v5.10.0
 - pkg:composer/internetguru/laravel-common@v5.2.0
 - pkg:composer/internetguru/laravel-common@v5.3.0
 - pkg:composer/internetguru/laravel-common@v5.3.1
@@ -176,3 +177,14 @@
 - pkg:composer/internetguru/laravel-common@v5.5.0
 - pkg:composer/internetguru/laravel-common@v5.6.0
 - pkg:composer/internetguru/laravel-common@v5.6.1
+- pkg:composer/internetguru/laravel-common@v5.6.2
+- pkg:composer/internetguru/laravel-common@v5.6.3
+- pkg:composer/internetguru/laravel-common@v5.6.4
+- pkg:composer/internetguru/laravel-common@v5.6.5
+- pkg:composer/internetguru/laravel-common@v5.7.0
+- pkg:composer/internetguru/laravel-common@v5.8.0
+- pkg:composer/internetguru/laravel-common@v5.8.1
+- pkg:composer/internetguru/laravel-common@v5.8.2
+- pkg:composer/internetguru/laravel-common@v5.8.3
+- pkg:composer/internetguru/laravel-common@v5.9.0
+- pkg:composer/internetguru/laravel-common@v5.9.1
