@@ -1,1 +1,3 @@
 - pkg:composer/micilini/video-stream@1.0.0
+- pkg:composer/micilini/video-stream@v2.3.0
+- pkg:composer/micilini/video-stream@v3.4.0
