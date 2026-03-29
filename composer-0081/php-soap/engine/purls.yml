@@ -12,6 +12,7 @@
 - pkg:composer/php-soap/engine@2.18.0
 - pkg:composer/php-soap/engine@2.19.0
 - pkg:composer/php-soap/engine@2.2.0
+- pkg:composer/php-soap/engine@2.20.0
 - pkg:composer/php-soap/engine@2.3.0
 - pkg:composer/php-soap/engine@2.4.0
 - pkg:composer/php-soap/engine@2.5.0

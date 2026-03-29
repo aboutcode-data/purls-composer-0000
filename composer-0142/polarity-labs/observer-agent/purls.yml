@@ -1,3 +1,4 @@
+- pkg:composer/polarity-labs/observer-agent@v0.0.10
 - pkg:composer/polarity-labs/observer-agent@v0.0.3
 - pkg:composer/polarity-labs/observer-agent@v0.0.4
 - pkg:composer/polarity-labs/observer-agent@v0.0.5

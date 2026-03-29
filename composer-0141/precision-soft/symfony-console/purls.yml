@@ -15,3 +15,4 @@
 - pkg:composer/precision-soft/symfony-console@v2.3.5
 - pkg:composer/precision-soft/symfony-console@v2.3.6
 - pkg:composer/precision-soft/symfony-console@v2.3.7
+- pkg:composer/precision-soft/symfony-console@v3.0.0

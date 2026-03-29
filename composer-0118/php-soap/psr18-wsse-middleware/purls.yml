@@ -7,6 +7,7 @@
 - pkg:composer/php-soap/psr18-wsse-middleware@2.7.0
 - pkg:composer/php-soap/psr18-wsse-middleware@2.8.0
 - pkg:composer/php-soap/psr18-wsse-middleware@2.9.0
+- pkg:composer/php-soap/psr18-wsse-middleware@3.0.0
 - pkg:composer/php-soap/psr18-wsse-middleware@v0.1.0
 - pkg:composer/php-soap/psr18-wsse-middleware@v1.0.0
 - pkg:composer/php-soap/psr18-wsse-middleware@v1.1.0
