@@ -28,3 +28,4 @@
 - pkg:composer/ez-php/http@1.1.0
 - pkg:composer/ez-php/http@1.1.1
 - pkg:composer/ez-php/http@1.2.0
+- pkg:composer/ez-php/http@1.3.0
