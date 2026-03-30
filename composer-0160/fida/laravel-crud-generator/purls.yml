@@ -1,1 +1,2 @@
 - pkg:composer/fida/laravel-crud-generator@v1.0.0
+- pkg:composer/fida/laravel-crud-generator@v1.0.1
