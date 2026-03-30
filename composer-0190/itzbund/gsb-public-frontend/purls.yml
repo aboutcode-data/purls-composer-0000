@@ -270,6 +270,7 @@
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.49
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.5
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.50
+- pkg:composer/itzbund/gsb-public-frontend@v1.7.51
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.6
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.7
 - pkg:composer/itzbund/gsb-public-frontend@v1.7.8
