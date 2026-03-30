@@ -18,3 +18,4 @@
 - pkg:composer/cleaniquecoders/laravel-db-doc@1.5.2
 - pkg:composer/cleaniquecoders/laravel-db-doc@1.5.3
 - pkg:composer/cleaniquecoders/laravel-db-doc@1.5.4
+- pkg:composer/cleaniquecoders/laravel-db-doc@1.6.0
