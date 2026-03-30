@@ -5,3 +5,4 @@
 - pkg:composer/marmanik/laravel-azure-service-bus@1.11
 - pkg:composer/marmanik/laravel-azure-service-bus@1.12
 - pkg:composer/marmanik/laravel-azure-service-bus@1.14
+- pkg:composer/marmanik/laravel-azure-service-bus@1.15
