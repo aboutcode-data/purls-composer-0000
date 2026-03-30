@@ -1,2 +1,4 @@
 - pkg:composer/buggregator/frontend@1.27.4
 - pkg:composer/buggregator/frontend@1.28.0
+- pkg:composer/buggregator/frontend@1.29.0
+- pkg:composer/buggregator/frontend@1.29.1
