@@ -18,3 +18,4 @@
 - pkg:composer/bekwoh/laravel-db-doc@1.5.2
 - pkg:composer/bekwoh/laravel-db-doc@1.5.3
 - pkg:composer/bekwoh/laravel-db-doc@1.5.4
+- pkg:composer/bekwoh/laravel-db-doc@1.6.0
