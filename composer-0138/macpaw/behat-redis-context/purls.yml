@@ -9,3 +9,4 @@
 - pkg:composer/macpaw/behat-redis-context@v2.0.0
 - pkg:composer/macpaw/behat-redis-context@v2.0.1
 - pkg:composer/macpaw/behat-redis-context@v2.0.2
+- pkg:composer/macpaw/behat-redis-context@v3.0.0
