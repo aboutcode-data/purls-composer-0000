@@ -1,3 +1,4 @@
 - pkg:composer/jorisnoo/craft-cloudinary@1.8.0
 - pkg:composer/jorisnoo/craft-cloudinary@1.9.0
 - pkg:composer/jorisnoo/craft-cloudinary@1.9.1
+- pkg:composer/jorisnoo/craft-cloudinary@2.0.0
