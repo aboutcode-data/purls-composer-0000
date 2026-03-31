@@ -62,3 +62,4 @@
 - pkg:composer/inhere/php-validate@v2.8.5
 - pkg:composer/inhere/php-validate@v3.0.0
 - pkg:composer/inhere/php-validate@v3.0.1
+- pkg:composer/inhere/php-validate@v3.0.2
