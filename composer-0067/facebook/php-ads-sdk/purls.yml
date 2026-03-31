@@ -76,6 +76,7 @@
 - pkg:composer/facebook/php-ads-sdk@24.0.0
 - pkg:composer/facebook/php-ads-sdk@24.0.1
 - pkg:composer/facebook/php-ads-sdk@25.0.0
+- pkg:composer/facebook/php-ads-sdk@25.0.1
 - pkg:composer/facebook/php-ads-sdk@3.0.0
 - pkg:composer/facebook/php-ads-sdk@3.0.1
 - pkg:composer/facebook/php-ads-sdk@3.0.2

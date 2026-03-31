@@ -49,6 +49,7 @@
 - pkg:composer/expando-dev/translator-package@2.12.1
 - pkg:composer/expando-dev/translator-package@2.12.2
 - pkg:composer/expando-dev/translator-package@2.12.3
+- pkg:composer/expando-dev/translator-package@2.12.4
 - pkg:composer/expando-dev/translator-package@2.2.0
 - pkg:composer/expando-dev/translator-package@2.2.1
 - pkg:composer/expando-dev/translator-package@2.2.2
