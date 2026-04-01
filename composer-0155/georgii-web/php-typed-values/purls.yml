@@ -47,6 +47,7 @@
 - pkg:composer/georgii-web/php-typed-values@v1.11.32
 - pkg:composer/georgii-web/php-typed-values@v1.11.33
 - pkg:composer/georgii-web/php-typed-values@v1.11.34
+- pkg:composer/georgii-web/php-typed-values@v1.11.35
 - pkg:composer/georgii-web/php-typed-values@v1.11.4
 - pkg:composer/georgii-web/php-typed-values@v1.11.5
 - pkg:composer/georgii-web/php-typed-values@v1.11.6
@@ -152,6 +153,7 @@
 - pkg:composer/georgii-web/php-typed-values@v2.11.32
 - pkg:composer/georgii-web/php-typed-values@v2.11.33
 - pkg:composer/georgii-web/php-typed-values@v2.11.34
+- pkg:composer/georgii-web/php-typed-values@v2.11.35
 - pkg:composer/georgii-web/php-typed-values@v2.11.4
 - pkg:composer/georgii-web/php-typed-values@v2.11.5
 - pkg:composer/georgii-web/php-typed-values@v2.11.6
@@ -229,6 +231,7 @@
 - pkg:composer/georgii-web/php-typed-values@v3.11.32
 - pkg:composer/georgii-web/php-typed-values@v3.11.33
 - pkg:composer/georgii-web/php-typed-values@v3.11.34
+- pkg:composer/georgii-web/php-typed-values@v3.11.35
 - pkg:composer/georgii-web/php-typed-values@v3.11.4
 - pkg:composer/georgii-web/php-typed-values@v3.11.5
 - pkg:composer/georgii-web/php-typed-values@v3.11.6
