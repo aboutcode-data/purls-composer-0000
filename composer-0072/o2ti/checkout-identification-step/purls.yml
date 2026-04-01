@@ -18,3 +18,4 @@
 - pkg:composer/o2ti/checkout-identification-step@100.1.7
 - pkg:composer/o2ti/checkout-identification-step@100.1.8
 - pkg:composer/o2ti/checkout-identification-step@100.1.9
+- pkg:composer/o2ti/checkout-identification-step@101.0.1
