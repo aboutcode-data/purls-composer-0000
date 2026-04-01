@@ -10,3 +10,4 @@
 - pkg:composer/getstream/getstream-php@v4.0.0-beta.1
 - pkg:composer/getstream/getstream-php@v4.1.0
 - pkg:composer/getstream/getstream-php@v4.2.0
+- pkg:composer/getstream/getstream-php@v5.0.0
