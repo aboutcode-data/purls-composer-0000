@@ -14,3 +14,4 @@
 - pkg:composer/mvccore/ext-debug-tracy-mvccore@v5.3.0
 - pkg:composer/mvccore/ext-debug-tracy-mvccore@v5.3.1
 - pkg:composer/mvccore/ext-debug-tracy-mvccore@v5.3.2
+- pkg:composer/mvccore/ext-debug-tracy-mvccore@v5.3.3
