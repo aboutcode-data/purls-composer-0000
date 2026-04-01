@@ -20,3 +20,6 @@
 - pkg:composer/gigerit/bexio-api-client@v4.1.0
 - pkg:composer/gigerit/bexio-api-client@v4.2.0
 - pkg:composer/gigerit/bexio-api-client@v4.2.1
+- pkg:composer/gigerit/bexio-api-client@v4.3.0
+- pkg:composer/gigerit/bexio-api-client@v4.4.0
+- pkg:composer/gigerit/bexio-api-client@v4.5.0
