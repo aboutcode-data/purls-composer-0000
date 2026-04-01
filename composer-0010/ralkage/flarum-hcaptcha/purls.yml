@@ -1,1 +1,5 @@
 - pkg:composer/ralkage/flarum-hcaptcha@1.0.0
+- pkg:composer/ralkage/flarum-hcaptcha@1.1.0
+- pkg:composer/ralkage/flarum-hcaptcha@1.2.0
+- pkg:composer/ralkage/flarum-hcaptcha@1.3.0
+- pkg:composer/ralkage/flarum-hcaptcha@v2.0.0-beta.8
