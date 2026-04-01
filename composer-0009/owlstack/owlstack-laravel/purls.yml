@@ -6,3 +6,4 @@
 - pkg:composer/owlstack/owlstack-laravel@V1.2.3
 - pkg:composer/owlstack/owlstack-laravel@v2.0.0
 - pkg:composer/owlstack/owlstack-laravel@v2.0.0-beta
+- pkg:composer/owlstack/owlstack-laravel@v2.0.1
