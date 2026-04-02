@@ -1,3 +1,4 @@
 - pkg:composer/pomodocs/commonmark-alert@v0.5.1
 - pkg:composer/pomodocs/commonmark-alert@v0.6
 - pkg:composer/pomodocs/commonmark-alert@v0.7
+- pkg:composer/pomodocs/commonmark-alert@v0.8
