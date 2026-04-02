@@ -84,3 +84,6 @@
 - pkg:composer/se7enxweb/legacy-bridge@v2.1.7
 - pkg:composer/se7enxweb/legacy-bridge@v2.1.8
 - pkg:composer/se7enxweb/legacy-bridge@v2.1.9
+- pkg:composer/se7enxweb/legacy-bridge@v3.0.0.26
+- pkg:composer/se7enxweb/legacy-bridge@v3.0.0.27
+- pkg:composer/se7enxweb/legacy-bridge@v3.0.0.28

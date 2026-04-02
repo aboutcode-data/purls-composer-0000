@@ -614,6 +614,7 @@
 - pkg:composer/se7enxweb/symfony@v5.4.33
 - pkg:composer/se7enxweb/symfony@v5.4.34
 - pkg:composer/se7enxweb/symfony@v5.4.35
+- pkg:composer/se7enxweb/symfony@v5.4.36
 - pkg:composer/se7enxweb/symfony@v5.4.4
 - pkg:composer/se7enxweb/symfony@v5.4.5
 - pkg:composer/se7enxweb/symfony@v5.4.6

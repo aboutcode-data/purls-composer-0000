@@ -5,6 +5,7 @@
 - pkg:composer/rollerworks/search-doctrine-orm@v1.0.0-beta4
 - pkg:composer/rollerworks/search-doctrine-orm@v1.1.0
 - pkg:composer/rollerworks/search-doctrine-orm@v1.2.0
+- pkg:composer/rollerworks/search-doctrine-orm@v2.0.0
 - pkg:composer/rollerworks/search-doctrine-orm@v2.0.0-ALPHA1
 - pkg:composer/rollerworks/search-doctrine-orm@v2.0.0-ALPHA10
 - pkg:composer/rollerworks/search-doctrine-orm@v2.0.0-ALPHA11
