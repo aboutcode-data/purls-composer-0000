@@ -1,2 +1,4 @@
 - pkg:composer/otago/silverstripe-tiptap@6.0.0
 - pkg:composer/otago/silverstripe-tiptap@6.0.1
+- pkg:composer/otago/silverstripe-tiptap@6.1
+- pkg:composer/otago/silverstripe-tiptap@6.1.1
