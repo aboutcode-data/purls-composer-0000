@@ -8,3 +8,4 @@
 - pkg:composer/ocolin/netbox@1.4
 - pkg:composer/ocolin/netbox@2.0
 - pkg:composer/ocolin/netbox@2.1
+- pkg:composer/ocolin/netbox@v3.0.0
