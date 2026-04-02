@@ -123,3 +123,5 @@
 - pkg:composer/smartystreets/phpsdk@6.2.1
 - pkg:composer/smartystreets/phpsdk@6.2.2
 - pkg:composer/smartystreets/phpsdk@6.3.0
+- pkg:composer/smartystreets/phpsdk@6.4.0
+- pkg:composer/smartystreets/phpsdk@6.5.0

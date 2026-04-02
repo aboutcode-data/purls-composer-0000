@@ -78,6 +78,7 @@
 - pkg:composer/spryker/product-page-search@3.44.0
 - pkg:composer/spryker/product-page-search@3.44.1
 - pkg:composer/spryker/product-page-search@3.45.0
+- pkg:composer/spryker/product-page-search@3.46.0
 - pkg:composer/spryker/product-page-search@3.5.0
 - pkg:composer/spryker/product-page-search@3.5.1
 - pkg:composer/spryker/product-page-search@3.6.0

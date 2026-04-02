@@ -86,6 +86,7 @@
 - pkg:composer/sonypradana/php-library@v0.40.3
 - pkg:composer/sonypradana/php-library@v0.40.4
 - pkg:composer/sonypradana/php-library@v0.41.0
+- pkg:composer/sonypradana/php-library@v0.41.1
 - pkg:composer/sonypradana/php-library@v0.5.0
 - pkg:composer/sonypradana/php-library@v0.6.0
 - pkg:composer/sonypradana/php-library@v0.6.1

@@ -70,6 +70,8 @@
 - pkg:composer/shineunited/wordpress@4.7.29
 - pkg:composer/shineunited/wordpress@4.7.30
 - pkg:composer/shineunited/wordpress@4.7.31
+- pkg:composer/shineunited/wordpress@4.7.32
+- pkg:composer/shineunited/wordpress@4.7.33
 - pkg:composer/shineunited/wordpress@4.8.19
 - pkg:composer/shineunited/wordpress@4.8.20
 - pkg:composer/shineunited/wordpress@4.8.21
@@ -79,6 +81,7 @@
 - pkg:composer/shineunited/wordpress@4.8.25
 - pkg:composer/shineunited/wordpress@4.8.26
 - pkg:composer/shineunited/wordpress@4.8.27
+- pkg:composer/shineunited/wordpress@4.8.28
 - pkg:composer/shineunited/wordpress@4.9.20
 - pkg:composer/shineunited/wordpress@4.9.21
 - pkg:composer/shineunited/wordpress@4.9.22
@@ -88,6 +91,7 @@
 - pkg:composer/shineunited/wordpress@4.9.26
 - pkg:composer/shineunited/wordpress@4.9.27
 - pkg:composer/shineunited/wordpress@4.9.28
+- pkg:composer/shineunited/wordpress@4.9.29
 - pkg:composer/shineunited/wordpress@5.0.16
 - pkg:composer/shineunited/wordpress@5.0.17
 - pkg:composer/shineunited/wordpress@5.0.18
@@ -97,6 +101,7 @@
 - pkg:composer/shineunited/wordpress@5.0.22
 - pkg:composer/shineunited/wordpress@5.0.23
 - pkg:composer/shineunited/wordpress@5.0.24
+- pkg:composer/shineunited/wordpress@5.0.25
 - pkg:composer/shineunited/wordpress@5.1.13
 - pkg:composer/shineunited/wordpress@5.1.14
 - pkg:composer/shineunited/wordpress@5.1.15
@@ -106,6 +111,7 @@
 - pkg:composer/shineunited/wordpress@5.1.19
 - pkg:composer/shineunited/wordpress@5.1.20
 - pkg:composer/shineunited/wordpress@5.1.21
+- pkg:composer/shineunited/wordpress@5.1.22
 - pkg:composer/shineunited/wordpress@5.2.15
 - pkg:composer/shineunited/wordpress@5.2.16
 - pkg:composer/shineunited/wordpress@5.2.17
@@ -115,6 +121,7 @@
 - pkg:composer/shineunited/wordpress@5.2.21
 - pkg:composer/shineunited/wordpress@5.2.22
 - pkg:composer/shineunited/wordpress@5.2.23
+- pkg:composer/shineunited/wordpress@5.2.24
 - pkg:composer/shineunited/wordpress@5.3.12
 - pkg:composer/shineunited/wordpress@5.3.13
 - pkg:composer/shineunited/wordpress@5.3.14

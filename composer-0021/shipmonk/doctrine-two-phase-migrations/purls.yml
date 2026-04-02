@@ -7,3 +7,4 @@
 - pkg:composer/shipmonk/doctrine-two-phase-migrations@0.5.0
 - pkg:composer/shipmonk/doctrine-two-phase-migrations@0.6.0
 - pkg:composer/shipmonk/doctrine-two-phase-migrations@0.6.1
+- pkg:composer/shipmonk/doctrine-two-phase-migrations@0.7.0
