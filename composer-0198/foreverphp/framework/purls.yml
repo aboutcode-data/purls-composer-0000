@@ -57,6 +57,8 @@
 - pkg:composer/foreverphp/framework@v0.4.6
 - pkg:composer/foreverphp/framework@v0.4.60
 - pkg:composer/foreverphp/framework@v0.4.61
+- pkg:composer/foreverphp/framework@v0.4.62
+- pkg:composer/foreverphp/framework@v0.4.63
 - pkg:composer/foreverphp/framework@v0.4.7
 - pkg:composer/foreverphp/framework@v0.4.8
 - pkg:composer/foreverphp/framework@v0.4.9

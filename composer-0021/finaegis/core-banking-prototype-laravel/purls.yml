@@ -52,3 +52,5 @@
 - pkg:composer/finaegis/core-banking-prototype-laravel@v7.8.0
 - pkg:composer/finaegis/core-banking-prototype-laravel@v7.8.1
 - pkg:composer/finaegis/core-banking-prototype-laravel@v7.8.2
+- pkg:composer/finaegis/core-banking-prototype-laravel@v7.8.3
+- pkg:composer/finaegis/core-banking-prototype-laravel@v7.8.4
