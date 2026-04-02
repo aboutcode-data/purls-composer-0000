@@ -1,3 +1,4 @@
 - pkg:composer/justbetter/laravel-exact-client@1.0.0
 - pkg:composer/justbetter/laravel-exact-client@1.0.1
 - pkg:composer/justbetter/laravel-exact-client@1.1.0
+- pkg:composer/justbetter/laravel-exact-client@1.2.0
