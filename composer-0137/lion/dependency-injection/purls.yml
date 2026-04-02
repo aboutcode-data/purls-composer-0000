@@ -28,3 +28,4 @@
 - pkg:composer/lion/dependency-injection@v4.9.0
 - pkg:composer/lion/dependency-injection@v5.0.0
 - pkg:composer/lion/dependency-injection@v5.1.0
+- pkg:composer/lion/dependency-injection@v5.1.1
