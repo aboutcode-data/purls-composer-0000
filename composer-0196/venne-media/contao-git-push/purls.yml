@@ -2,3 +2,4 @@
 - pkg:composer/venne-media/contao-git-push@v1.0.1
 - pkg:composer/venne-media/contao-git-push@v1.0.2
 - pkg:composer/venne-media/contao-git-push@v1.0.3
+- pkg:composer/venne-media/contao-git-push@v2.0.0

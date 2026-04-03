@@ -48,6 +48,7 @@
 - pkg:composer/visualbuilder/user-consent@4.0.18
 - pkg:composer/visualbuilder/user-consent@4.0.19
 - pkg:composer/visualbuilder/user-consent@4.0.2
+- pkg:composer/visualbuilder/user-consent@4.0.20
 - pkg:composer/visualbuilder/user-consent@4.0.3
 - pkg:composer/visualbuilder/user-consent@4.0.4
 - pkg:composer/visualbuilder/user-consent@4.0.5
@@ -55,3 +56,6 @@
 - pkg:composer/visualbuilder/user-consent@4.0.7
 - pkg:composer/visualbuilder/user-consent@4.0.8
 - pkg:composer/visualbuilder/user-consent@4.0.9
+- pkg:composer/visualbuilder/user-consent@5.0.0
+- pkg:composer/visualbuilder/user-consent@5.0.1
+- pkg:composer/visualbuilder/user-consent@5.0.2

@@ -23,3 +23,5 @@
 - pkg:composer/valencio/laravel-kit@2.0.1
 - pkg:composer/valencio/laravel-kit@2.0.2
 - pkg:composer/valencio/laravel-kit@2.0.21
+- pkg:composer/valencio/laravel-kit@2.0.21.1
+- pkg:composer/valencio/laravel-kit@2.0.21.2
