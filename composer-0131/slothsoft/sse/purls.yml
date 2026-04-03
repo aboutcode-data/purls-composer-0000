@@ -15,3 +15,6 @@
 - pkg:composer/slothsoft/sse@1.0.8
 - pkg:composer/slothsoft/sse@1.0.9
 - pkg:composer/slothsoft/sse@1.10.16
+- pkg:composer/slothsoft/sse@1.11.0
+- pkg:composer/slothsoft/sse@1.11.1
+- pkg:composer/slothsoft/sse@1.11.2
