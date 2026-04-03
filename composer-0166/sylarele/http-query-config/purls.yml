@@ -16,3 +16,4 @@
 - pkg:composer/sylarele/http-query-config@v0.5.2
 - pkg:composer/sylarele/http-query-config@v0.5.3
 - pkg:composer/sylarele/http-query-config@v0.5.4
+- pkg:composer/sylarele/http-query-config@v0.6.0

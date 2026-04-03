@@ -20,3 +20,4 @@
 - pkg:composer/stackkit/laravel-google-cloud-scheduler@v4.0.0-beta.1
 - pkg:composer/stackkit/laravel-google-cloud-scheduler@v4.0.0-beta.2
 - pkg:composer/stackkit/laravel-google-cloud-scheduler@v4.0.0-beta.3
+- pkg:composer/stackkit/laravel-google-cloud-scheduler@v5.0.0

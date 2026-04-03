@@ -16,6 +16,10 @@
 - pkg:composer/survos/ciine-bundle@2.0.115
 - pkg:composer/survos/ciine-bundle@2.0.116
 - pkg:composer/survos/ciine-bundle@2.0.117
+- pkg:composer/survos/ciine-bundle@2.0.189
+- pkg:composer/survos/ciine-bundle@2.0.190
+- pkg:composer/survos/ciine-bundle@2.0.191
+- pkg:composer/survos/ciine-bundle@2.0.192
 - pkg:composer/survos/ciine-bundle@2.0.20
 - pkg:composer/survos/ciine-bundle@2.0.21
 - pkg:composer/survos/ciine-bundle@2.0.22

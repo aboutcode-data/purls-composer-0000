@@ -412,6 +412,9 @@
 - pkg:composer/tencentcloud/cvm@3.0.1531
 - pkg:composer/tencentcloud/cvm@3.0.1538
 - pkg:composer/tencentcloud/cvm@3.0.1553
+- pkg:composer/tencentcloud/cvm@3.0.1558
+- pkg:composer/tencentcloud/cvm@3.0.1559
+- pkg:composer/tencentcloud/cvm@3.0.1560
 - pkg:composer/tencentcloud/cvm@3.0.248
 - pkg:composer/tencentcloud/cvm@3.0.249
 - pkg:composer/tencentcloud/cvm@3.0.250
