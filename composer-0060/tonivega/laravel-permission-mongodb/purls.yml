@@ -1,6 +1,4 @@
 - pkg:composer/tonivega/laravel-permission-mongodb@10.0
-- pkg:composer/tonivega/laravel-permission-mongodb@10.1
-- pkg:composer/tonivega/laravel-permission-mongodb@10.2
 - pkg:composer/tonivega/laravel-permission-mongodb@10.3
 - pkg:composer/tonivega/laravel-permission-mongodb@11.0
 - pkg:composer/tonivega/laravel-permission-mongodb@12.0

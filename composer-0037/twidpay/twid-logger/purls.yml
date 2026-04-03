@@ -6,3 +6,4 @@
 - pkg:composer/twidpay/twid-logger@2.0.1
 - pkg:composer/twidpay/twid-logger@2.0.2
 - pkg:composer/twidpay/twid-logger@3.0.0
+- pkg:composer/twidpay/twid-logger@4.0.0

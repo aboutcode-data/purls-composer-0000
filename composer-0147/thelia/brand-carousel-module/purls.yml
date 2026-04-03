@@ -1,1 +1,3 @@
 - pkg:composer/thelia/brand-carousel-module@1.2.0
+- pkg:composer/thelia/brand-carousel-module@2.0.0
+- pkg:composer/thelia/brand-carousel-module@2.0.1

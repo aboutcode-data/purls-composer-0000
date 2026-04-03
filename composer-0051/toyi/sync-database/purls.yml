@@ -26,3 +26,4 @@
 - pkg:composer/toyi/sync-database@v2.0.2
 - pkg:composer/toyi/sync-database@v2.0.3
 - pkg:composer/toyi/sync-database@v2.0.4
+- pkg:composer/toyi/sync-database@v2.0.5
