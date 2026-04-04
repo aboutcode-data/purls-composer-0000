@@ -52,3 +52,5 @@
 - pkg:composer/silviooosilva/cacheer-php@v4.7.7
 - pkg:composer/silviooosilva/cacheer-php@v5.0.0
 - pkg:composer/silviooosilva/cacheer-php@v5.0.1
+- pkg:composer/silviooosilva/cacheer-php@v5.0.2
+- pkg:composer/silviooosilva/cacheer-php@v5.0.3
