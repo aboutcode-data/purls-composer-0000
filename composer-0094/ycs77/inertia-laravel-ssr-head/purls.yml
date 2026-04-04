@@ -16,3 +16,5 @@
 - pkg:composer/ycs77/inertia-laravel-ssr-head@v1.3.0
 - pkg:composer/ycs77/inertia-laravel-ssr-head@v1.4.0
 - pkg:composer/ycs77/inertia-laravel-ssr-head@v2.0.0
+- pkg:composer/ycs77/inertia-laravel-ssr-head@v3.0.0
+- pkg:composer/ycs77/inertia-laravel-ssr-head@v3.0.1
