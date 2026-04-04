@@ -1,3 +1,4 @@
 - pkg:composer/ukeloop/laravel-impersonatable-guard@v1.0.0
 - pkg:composer/ukeloop/laravel-impersonatable-guard@v1.1.0
 - pkg:composer/ukeloop/laravel-impersonatable-guard@v2.0.0
+- pkg:composer/ukeloop/laravel-impersonatable-guard@v3.0.0
