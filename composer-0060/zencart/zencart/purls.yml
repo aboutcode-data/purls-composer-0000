@@ -20,3 +20,4 @@
 - pkg:composer/zencart/zencart@v2.1.0-beta1
 - pkg:composer/zencart/zencart@v2.2.0-alpha
 - pkg:composer/zencart/zencart@v2.2.1
+- pkg:composer/zencart/zencart@v2.2.2
