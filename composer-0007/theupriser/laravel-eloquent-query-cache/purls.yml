@@ -35,3 +35,4 @@
 - pkg:composer/theupriser/laravel-eloquent-query-cache@v4.0.1
 - pkg:composer/theupriser/laravel-eloquent-query-cache@v4.1.0
 - pkg:composer/theupriser/laravel-eloquent-query-cache@v4.2.0
+- pkg:composer/theupriser/laravel-eloquent-query-cache@v4.3.0
