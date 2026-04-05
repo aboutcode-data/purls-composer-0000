@@ -29,6 +29,8 @@
 - pkg:composer/alibabacloud/eiam-20211201@2.13.0
 - pkg:composer/alibabacloud/eiam-20211201@2.13.1
 - pkg:composer/alibabacloud/eiam-20211201@2.13.2
+- pkg:composer/alibabacloud/eiam-20211201@2.13.3
+- pkg:composer/alibabacloud/eiam-20211201@2.13.4
 - pkg:composer/alibabacloud/eiam-20211201@2.2.0
 - pkg:composer/alibabacloud/eiam-20211201@2.3.0
 - pkg:composer/alibabacloud/eiam-20211201@2.4.0
