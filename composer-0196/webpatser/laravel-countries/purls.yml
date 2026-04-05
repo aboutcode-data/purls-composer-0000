@@ -18,3 +18,5 @@
 - pkg:composer/webpatser/laravel-countries@1.5.3
 - pkg:composer/webpatser/laravel-countries@1.5.4
 - pkg:composer/webpatser/laravel-countries@v2.0.0
+- pkg:composer/webpatser/laravel-countries@v2.1.0
+- pkg:composer/webpatser/laravel-countries@v2.1.1

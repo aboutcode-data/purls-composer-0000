@@ -69,3 +69,4 @@
 - pkg:composer/vdlp/oc-redirect-plugin@4.0.0
 - pkg:composer/vdlp/oc-redirect-plugin@4.0.1
 - pkg:composer/vdlp/oc-redirect-plugin@4.1.0
+- pkg:composer/vdlp/oc-redirect-plugin@4.2.0
