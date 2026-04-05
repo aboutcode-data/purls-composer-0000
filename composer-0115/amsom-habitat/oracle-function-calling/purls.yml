@@ -19,3 +19,6 @@
 - pkg:composer/amsom-habitat/oracle-function-calling@v2.5.0
 - pkg:composer/amsom-habitat/oracle-function-calling@v2.5.3
 - pkg:composer/amsom-habitat/oracle-function-calling@v2.5.4
+- pkg:composer/amsom-habitat/oracle-function-calling@v2.6.0
+- pkg:composer/amsom-habitat/oracle-function-calling@v2.6.1
+- pkg:composer/amsom-habitat/oracle-function-calling@v2.6.2

@@ -3,6 +3,11 @@
 - pkg:composer/andreazorzi/search-table@1.0.7
 - pkg:composer/andreazorzi/search-table@1.0.8
 - pkg:composer/andreazorzi/search-table@1.1.0
+- pkg:composer/andreazorzi/search-table@1.2.0
+- pkg:composer/andreazorzi/search-table@1.2.1
+- pkg:composer/andreazorzi/search-table@1.2.2
+- pkg:composer/andreazorzi/search-table@1.2.3
+- pkg:composer/andreazorzi/search-table@1.2.4
 - pkg:composer/andreazorzi/search-table@v1.0.0
 - pkg:composer/andreazorzi/search-table@v1.0.1
 - pkg:composer/andreazorzi/search-table@v1.0.2
