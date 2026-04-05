@@ -7,3 +7,4 @@
 - pkg:composer/phpnomad/mysql-integration@1.0.6
 - pkg:composer/phpnomad/mysql-integration@1.0.7
 - pkg:composer/phpnomad/mysql-integration@1.0.8
+- pkg:composer/phpnomad/mysql-integration@1.0.9
