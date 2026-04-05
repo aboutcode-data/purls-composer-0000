@@ -1,3 +1,5 @@
+- pkg:composer/birdcode/bc-simpleproject@1.0.0
+- pkg:composer/birdcode/bc-simpleproject@1.0.1
 - pkg:composer/birdcode/bc-simpleproject@v0.0.1-rc.1
 - pkg:composer/birdcode/bc-simpleproject@v0.0.2
 - pkg:composer/birdcode/bc-simpleproject@v0.1.0

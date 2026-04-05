@@ -12,3 +12,4 @@
 - pkg:composer/barryvdh/elfinder-flysystem-driver@v0.4.2
 - pkg:composer/barryvdh/elfinder-flysystem-driver@v0.4.3
 - pkg:composer/barryvdh/elfinder-flysystem-driver@v0.5.0
+- pkg:composer/barryvdh/elfinder-flysystem-driver@v0.6.0

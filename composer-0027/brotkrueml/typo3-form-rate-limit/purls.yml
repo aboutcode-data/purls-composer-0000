@@ -1,3 +1,5 @@
+- pkg:composer/brotkrueml/typo3-form-rate-limit@2.1.0
+- pkg:composer/brotkrueml/typo3-form-rate-limit@2.1.1
 - pkg:composer/brotkrueml/typo3-form-rate-limit@v1.0.0
 - pkg:composer/brotkrueml/typo3-form-rate-limit@v1.1.0
 - pkg:composer/brotkrueml/typo3-form-rate-limit@v1.2.0

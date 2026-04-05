@@ -9,3 +9,4 @@
 - pkg:composer/bsn4/grpc@v0.1.8
 - pkg:composer/bsn4/grpc@v0.1.9
 - pkg:composer/bsn4/grpc@v0.2.0
+- pkg:composer/bsn4/grpc@v0.2.1
