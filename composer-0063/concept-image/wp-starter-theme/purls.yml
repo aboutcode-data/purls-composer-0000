@@ -81,6 +81,9 @@
 - pkg:composer/concept-image/wp-starter-theme@4.2.7
 - pkg:composer/concept-image/wp-starter-theme@4.2.8
 - pkg:composer/concept-image/wp-starter-theme@4.2.9
+- pkg:composer/concept-image/wp-starter-theme@5.0.0
+- pkg:composer/concept-image/wp-starter-theme@5.0.1
+- pkg:composer/concept-image/wp-starter-theme@5.0.2
 - pkg:composer/concept-image/wp-starter-theme@v1.0.1
 - pkg:composer/concept-image/wp-starter-theme@v1.0.2
 - pkg:composer/concept-image/wp-starter-theme@v1.0.3

@@ -21,3 +21,4 @@
 - pkg:composer/code-rhapsodie/dataflow-bundle@v5.3.1
 - pkg:composer/code-rhapsodie/dataflow-bundle@v5.4.0
 - pkg:composer/code-rhapsodie/dataflow-bundle@v5.4.1
+- pkg:composer/code-rhapsodie/dataflow-bundle@v5.5.0

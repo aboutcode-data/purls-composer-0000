@@ -129,6 +129,7 @@
 - pkg:composer/composer/composer@2.1.7
 - pkg:composer/composer/composer@2.1.8
 - pkg:composer/composer/composer@2.1.9
+- pkg:composer/composer/composer@2.10.0-RC1
 - pkg:composer/composer/composer@2.2.0
 - pkg:composer/composer/composer@2.2.0-RC1
 - pkg:composer/composer/composer@2.2.1

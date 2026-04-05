@@ -13,4 +13,6 @@
 - pkg:composer/codebar-ag/laravel-zendesk@v12.3.0
 - pkg:composer/codebar-ag/laravel-zendesk@v12.4.0
 - pkg:composer/codebar-ag/laravel-zendesk@v12.5.0
+- pkg:composer/codebar-ag/laravel-zendesk@v12.6.0
+- pkg:composer/codebar-ag/laravel-zendesk@v13.0.0
 - pkg:composer/codebar-ag/laravel-zendesk@v2.0
