@@ -11,6 +11,8 @@
 - pkg:composer/xwoo/data-type@v1.3.1
 - pkg:composer/xwoo/data-type@v1.3.2
 - pkg:composer/xwoo/data-type@v1.4.0
+- pkg:composer/xwoo/data-type@v1.4.1
 - pkg:composer/xwoo/data-type@v1.4.1-beta.1
 - pkg:composer/xwoo/data-type@v1.4.1-beta.2
 - pkg:composer/xwoo/data-type@v1.4.1-beta.3
+- pkg:composer/xwoo/data-type@v1.4.1-beta.4
