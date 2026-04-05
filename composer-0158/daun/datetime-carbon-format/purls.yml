@@ -9,3 +9,5 @@
 - pkg:composer/daun/datetime-carbon-format@v2.0.2
 - pkg:composer/daun/datetime-carbon-format@v2.0.3
 - pkg:composer/daun/datetime-carbon-format@v2.0.4
+- pkg:composer/daun/datetime-carbon-format@v2.0.5
+- pkg:composer/daun/datetime-carbon-format@v2.0.6

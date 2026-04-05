@@ -1,6 +1,11 @@
 - pkg:composer/dimoussa/doctrine-db-mapper-bundle@1.2.0
 - pkg:composer/dimoussa/doctrine-db-mapper-bundle@1.4.1
+- pkg:composer/dimoussa/doctrine-db-mapper-bundle@1.4.3
+- pkg:composer/dimoussa/doctrine-db-mapper-bundle@1.5.0
+- pkg:composer/dimoussa/doctrine-db-mapper-bundle@1.5.1
+- pkg:composer/dimoussa/doctrine-db-mapper-bundle@1.5.2
 - pkg:composer/dimoussa/doctrine-db-mapper-bundle@v1.0.0
 - pkg:composer/dimoussa/doctrine-db-mapper-bundle@v1.1.0
 - pkg:composer/dimoussa/doctrine-db-mapper-bundle@v1.3.0
 - pkg:composer/dimoussa/doctrine-db-mapper-bundle@v1.4.0
+- pkg:composer/dimoussa/doctrine-db-mapper-bundle@v1.4.2
