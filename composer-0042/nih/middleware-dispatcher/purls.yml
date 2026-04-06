@@ -1,1 +1,2 @@
 - pkg:composer/nih/middleware-dispatcher@0.1.0
+- pkg:composer/nih/middleware-dispatcher@0.1.1
