@@ -437,7 +437,6 @@
 - pkg:composer/tencentcloud/cls@3.0.1552
 - pkg:composer/tencentcloud/cls@3.0.1556
 - pkg:composer/tencentcloud/cls@3.0.1559
-- pkg:composer/tencentcloud/cls@3.0.1561
 - pkg:composer/tencentcloud/cls@3.0.403
 - pkg:composer/tencentcloud/cls@3.0.404
 - pkg:composer/tencentcloud/cls@3.0.405
