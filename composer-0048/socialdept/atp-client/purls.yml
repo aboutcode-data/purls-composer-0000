@@ -66,3 +66,4 @@
 - pkg:composer/socialdept/atp-client@v0.1.5
 - pkg:composer/socialdept/atp-client@v0.1.6
 - pkg:composer/socialdept/atp-client@v0.2.0
+- pkg:composer/socialdept/atp-client@v0.2.1
