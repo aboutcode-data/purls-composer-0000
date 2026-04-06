@@ -359,7 +359,6 @@
 - pkg:composer/tina4stack/tina4php@v3.10.40
 - pkg:composer/tina4stack/tina4php@v3.10.41
 - pkg:composer/tina4stack/tina4php@v3.10.42
-- pkg:composer/tina4stack/tina4php@v3.10.44
 - pkg:composer/tina4stack/tina4php@v3.10.45
 - pkg:composer/tina4stack/tina4php@v3.10.46
 - pkg:composer/tina4stack/tina4php@v3.10.47
@@ -377,6 +376,8 @@
 - pkg:composer/tina4stack/tina4php@v3.10.66
 - pkg:composer/tina4stack/tina4php@v3.10.67
 - pkg:composer/tina4stack/tina4php@v3.10.68
+- pkg:composer/tina4stack/tina4php@v3.10.70
+- pkg:composer/tina4stack/tina4php@v3.10.71
 - pkg:composer/tina4stack/tina4php@v3.2.0
 - pkg:composer/tina4stack/tina4php@v3.2.1
 - pkg:composer/tina4stack/tina4php@v3.2.2

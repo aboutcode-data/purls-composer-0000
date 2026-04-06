@@ -5,3 +5,5 @@
 - pkg:composer/trk/processwire-htmx@v1.0.3
 - pkg:composer/trk/processwire-htmx@v1.0.4
 - pkg:composer/trk/processwire-htmx@v1.0.6
+- pkg:composer/trk/processwire-htmx@v1.0.7
+- pkg:composer/trk/processwire-htmx@v1.0.8
