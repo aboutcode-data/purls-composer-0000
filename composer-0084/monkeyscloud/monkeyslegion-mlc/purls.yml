@@ -1,2 +1,5 @@
 - pkg:composer/monkeyscloud/monkeyslegion-mlc@1.0.0
 - pkg:composer/monkeyscloud/monkeyslegion-mlc@2.0.0
+- pkg:composer/monkeyscloud/monkeyslegion-mlc@3.0.0
+- pkg:composer/monkeyscloud/monkeyslegion-mlc@3.1.0
+- pkg:composer/monkeyscloud/monkeyslegion-mlc@3.1.1

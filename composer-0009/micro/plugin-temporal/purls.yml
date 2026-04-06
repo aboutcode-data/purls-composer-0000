@@ -1,3 +1,2 @@
 - pkg:composer/micro/plugin-temporal@1.0
 - pkg:composer/micro/plugin-temporal@2.0.0-alpha
-- pkg:composer/micro/plugin-temporal@v2.0.0-alpha1

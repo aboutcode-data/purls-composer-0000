@@ -23,7 +23,6 @@
 - pkg:composer/mitoteam/jpgraph@10.5.0-beta
 - pkg:composer/mitoteam/jpgraph@10.5.1
 - pkg:composer/mitoteam/jpgraph@10.5.2
-- pkg:composer/mitoteam/jpgraph@10.5.3
 - pkg:composer/mitoteam/jpgraph@4.3.4-alpha1
 - pkg:composer/mitoteam/jpgraph@4.3.5
 - pkg:composer/mitoteam/jpgraph@4.4.0
