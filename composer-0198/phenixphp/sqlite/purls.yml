@@ -1,2 +1,3 @@
 - pkg:composer/phenixphp/sqlite@0.1.1
 - pkg:composer/phenixphp/sqlite@0.1.2
+- pkg:composer/phenixphp/sqlite@0.1.3
