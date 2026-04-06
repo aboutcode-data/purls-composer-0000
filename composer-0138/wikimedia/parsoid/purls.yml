@@ -345,6 +345,7 @@
 - pkg:composer/wikimedia/parsoid@v0.23.0-a22
 - pkg:composer/wikimedia/parsoid@v0.23.0-a23
 - pkg:composer/wikimedia/parsoid@v0.23.0-a24
+- pkg:composer/wikimedia/parsoid@v0.23.0-a25
 - pkg:composer/wikimedia/parsoid@v0.23.0-a3
 - pkg:composer/wikimedia/parsoid@v0.23.0-a4
 - pkg:composer/wikimedia/parsoid@v0.23.0-a5
