@@ -6,3 +6,4 @@
 - pkg:composer/philiprehberger/php-csv@v1.1.2
 - pkg:composer/philiprehberger/php-csv@v1.2.0
 - pkg:composer/philiprehberger/php-csv@v1.3.0
+- pkg:composer/philiprehberger/php-csv@v1.4.0
