@@ -7,3 +7,5 @@
 - pkg:composer/statikbe/laravel-puppeteer-pdf-converter@v1.2.2
 - pkg:composer/statikbe/laravel-puppeteer-pdf-converter@v1.3.0
 - pkg:composer/statikbe/laravel-puppeteer-pdf-converter@v1.3.1
+- pkg:composer/statikbe/laravel-puppeteer-pdf-converter@v1.4.0
+- pkg:composer/statikbe/laravel-puppeteer-pdf-converter@v1.4.1

@@ -68,6 +68,7 @@
 - pkg:composer/sonata-project/page-bundle@4.1.0
 - pkg:composer/sonata-project/page-bundle@4.1.1
 - pkg:composer/sonata-project/page-bundle@4.10.0
+- pkg:composer/sonata-project/page-bundle@4.11.0
 - pkg:composer/sonata-project/page-bundle@4.2.0
 - pkg:composer/sonata-project/page-bundle@4.3.0
 - pkg:composer/sonata-project/page-bundle@4.4.0
