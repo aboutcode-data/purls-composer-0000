@@ -1,2 +1,3 @@
 - pkg:composer/osumionline/plugin-websocket@0.1.0
 - pkg:composer/osumionline/plugin-websocket@1.0.0
+- pkg:composer/osumionline/plugin-websocket@1.0.1
