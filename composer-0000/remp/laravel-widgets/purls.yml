@@ -29,3 +29,5 @@
 - pkg:composer/remp/laravel-widgets@4.2.5
 - pkg:composer/remp/laravel-widgets@4.3.0
 - pkg:composer/remp/laravel-widgets@4.3.1
+- pkg:composer/remp/laravel-widgets@5.0.0
+- pkg:composer/remp/laravel-widgets@5.0.1

@@ -10,6 +10,7 @@
 - pkg:composer/roadrunner-php/laravel-bridge@6.2.1
 - pkg:composer/roadrunner-php/laravel-bridge@6.2.2
 - pkg:composer/roadrunner-php/laravel-bridge@6.3.0
+- pkg:composer/roadrunner-php/laravel-bridge@6.3.1
 - pkg:composer/roadrunner-php/laravel-bridge@v3.3.0
 - pkg:composer/roadrunner-php/laravel-bridge@v3.4.0
 - pkg:composer/roadrunner-php/laravel-bridge@v3.5.0
