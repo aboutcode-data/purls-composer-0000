@@ -6,3 +6,4 @@
 - pkg:composer/irman/legacy-encrypter@v5.8.0
 - pkg:composer/irman/legacy-encrypter@v6.0.0
 - pkg:composer/irman/legacy-encrypter@v7.0.0
+- pkg:composer/irman/legacy-encrypter@v7.0.1

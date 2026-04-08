@@ -351,3 +351,4 @@
 - pkg:composer/hyperf/hyperf@v3.2.0-beta.2
 - pkg:composer/hyperf/hyperf@v3.2.0-beta.3
 - pkg:composer/hyperf/hyperf@v3.2.0-rc.1
+- pkg:composer/hyperf/hyperf@v3.2.0-rc.2
