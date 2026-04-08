@@ -7,3 +7,5 @@
 - pkg:composer/dru1x/expo-server-sdk-php@0.6.0
 - pkg:composer/dru1x/expo-server-sdk-php@0.7.0
 - pkg:composer/dru1x/expo-server-sdk-php@0.8.0
+- pkg:composer/dru1x/expo-server-sdk-php@0.8.1
+- pkg:composer/dru1x/expo-server-sdk-php@v0.8.2

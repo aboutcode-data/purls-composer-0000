@@ -2,3 +2,4 @@
 - pkg:composer/digitalmanagerguru/laravel-json-fields@1.0.1
 - pkg:composer/digitalmanagerguru/laravel-json-fields@1.1.0
 - pkg:composer/digitalmanagerguru/laravel-json-fields@2.0.0
+- pkg:composer/digitalmanagerguru/laravel-json-fields@3.0.0

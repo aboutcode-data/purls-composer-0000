@@ -17,6 +17,7 @@
 - pkg:composer/efabrica/phpstan-latte@0.18.0
 - pkg:composer/efabrica/phpstan-latte@0.19.0
 - pkg:composer/efabrica/phpstan-latte@0.2.0
+- pkg:composer/efabrica/phpstan-latte@0.20.0
 - pkg:composer/efabrica/phpstan-latte@0.3.0
 - pkg:composer/efabrica/phpstan-latte@0.4.0
 - pkg:composer/efabrica/phpstan-latte@0.5.0
