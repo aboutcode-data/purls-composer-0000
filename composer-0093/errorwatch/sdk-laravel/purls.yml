@@ -1,2 +1,11 @@
 - pkg:composer/errorwatch/sdk-laravel@v0.5.0
 - pkg:composer/errorwatch/sdk-laravel@v1.0.0
+- pkg:composer/errorwatch/sdk-laravel@v1.0.1
+- pkg:composer/errorwatch/sdk-laravel@v1.1.0
+- pkg:composer/errorwatch/sdk-laravel@v1.1.1
+- pkg:composer/errorwatch/sdk-laravel@v1.1.2
+- pkg:composer/errorwatch/sdk-laravel@v1.1.3
+- pkg:composer/errorwatch/sdk-laravel@v1.1.4
+- pkg:composer/errorwatch/sdk-laravel@v1.1.5
+- pkg:composer/errorwatch/sdk-laravel@v1.1.6
+- pkg:composer/errorwatch/sdk-laravel@v1.1.7

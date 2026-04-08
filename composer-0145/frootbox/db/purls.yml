@@ -24,3 +24,4 @@
 - pkg:composer/frootbox/db@1.5
 - pkg:composer/frootbox/db@1.5.1
 - pkg:composer/frootbox/db@1.6
+- pkg:composer/frootbox/db@1.7
