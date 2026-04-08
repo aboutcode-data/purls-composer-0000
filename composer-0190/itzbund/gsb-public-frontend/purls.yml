@@ -612,6 +612,8 @@
 - pkg:composer/itzbund/gsb-public-frontend@v2.8.0-rc.35
 - pkg:composer/itzbund/gsb-public-frontend@v2.8.0-rc.36
 - pkg:composer/itzbund/gsb-public-frontend@v2.8.0-rc.37
+- pkg:composer/itzbund/gsb-public-frontend@v2.8.0-rc.38
+- pkg:composer/itzbund/gsb-public-frontend@v2.8.0-rc.39
 - pkg:composer/itzbund/gsb-public-frontend@v2.8.0-rc.4
 - pkg:composer/itzbund/gsb-public-frontend@v2.8.0-rc.5
 - pkg:composer/itzbund/gsb-public-frontend@v2.8.0-rc.6
