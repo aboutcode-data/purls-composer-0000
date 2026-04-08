@@ -117,3 +117,4 @@
 - pkg:composer/wikibase-solutions/flex-form@v2.7.1
 - pkg:composer/wikibase-solutions/flex-form@v2.8.0
 - pkg:composer/wikibase-solutions/flex-form@v2.8.1
+- pkg:composer/wikibase-solutions/flex-form@v2.8.2
