@@ -1,1 +1,2 @@
 - pkg:composer/gosuperscript/phpstan-rules@v0.1.0
+- pkg:composer/gosuperscript/phpstan-rules@v0.1.1
