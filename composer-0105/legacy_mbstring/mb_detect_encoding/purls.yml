@@ -1,0 +1,1 @@
+- pkg:composer/legacy_mbstring/mb_detect_encoding@v0.2.1

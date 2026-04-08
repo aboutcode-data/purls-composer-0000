@@ -5,3 +5,6 @@
 - pkg:composer/lartisan/filament-architect@v0.1.4
 - pkg:composer/lartisan/filament-architect@v0.1.5
 - pkg:composer/lartisan/filament-architect@v0.2.0
+- pkg:composer/lartisan/filament-architect@v0.2.1
+- pkg:composer/lartisan/filament-architect@v0.2.2
+- pkg:composer/lartisan/filament-architect@v1.0.0
