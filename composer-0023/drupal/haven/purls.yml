@@ -3,3 +3,4 @@
 - pkg:composer/drupal/haven@1.0.0-beta2
 - pkg:composer/drupal/haven@1.0.0-beta3
 - pkg:composer/drupal/haven@1.0.1
+- pkg:composer/drupal/haven@1.0.2
