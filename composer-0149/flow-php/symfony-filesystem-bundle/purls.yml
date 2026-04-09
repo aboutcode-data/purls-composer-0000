@@ -1,1 +1,2 @@
 - pkg:composer/flow-php/symfony-filesystem-bundle@0.35.0
+- pkg:composer/flow-php/symfony-filesystem-bundle@0.35.1
