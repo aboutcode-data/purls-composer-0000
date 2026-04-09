@@ -9,3 +9,4 @@
 - pkg:composer/horde/wicked@2.0.8RC1
 - pkg:composer/horde/wicked@v3.0.0
 - pkg:composer/horde/wicked@v3.0.2
+- pkg:composer/horde/wicked@v3.1.0
