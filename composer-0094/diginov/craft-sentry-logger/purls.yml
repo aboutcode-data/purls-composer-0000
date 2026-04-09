@@ -45,3 +45,4 @@
 - pkg:composer/diginov/craft-sentry-logger@5.0.0-beta.1
 - pkg:composer/diginov/craft-sentry-logger@5.0.1
 - pkg:composer/diginov/craft-sentry-logger@5.0.2
+- pkg:composer/diginov/craft-sentry-logger@5.0.3
