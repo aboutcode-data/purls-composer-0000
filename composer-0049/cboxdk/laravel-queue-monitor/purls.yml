@@ -5,4 +5,4 @@
 - pkg:composer/cboxdk/laravel-queue-monitor@v1.2.0-beta.3
 - pkg:composer/cboxdk/laravel-queue-monitor@v1.2.0-beta.6
 - pkg:composer/cboxdk/laravel-queue-monitor@v1.2.0-beta.7
-- pkg:composer/cboxdk/laravel-queue-monitor@v1.2.0-beta.8
+- pkg:composer/cboxdk/laravel-queue-monitor@v1.3.0

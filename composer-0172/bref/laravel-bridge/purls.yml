@@ -42,3 +42,4 @@
 - pkg:composer/bref/laravel-bridge@3.0.0-alpha1
 - pkg:composer/bref/laravel-bridge@3.0.0-alpha2
 - pkg:composer/bref/laravel-bridge@3.0.0-beta1
+- pkg:composer/bref/laravel-bridge@3.0.1
