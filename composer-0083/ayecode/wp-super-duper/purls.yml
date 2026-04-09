@@ -102,3 +102,5 @@
 - pkg:composer/ayecode/wp-super-duper@2.0.0
 - pkg:composer/ayecode/wp-super-duper@2.0.1
 - pkg:composer/ayecode/wp-super-duper@2.0.2
+- pkg:composer/ayecode/wp-super-duper@3.0.0-beta
+- pkg:composer/ayecode/wp-super-duper@3.0.1-beta

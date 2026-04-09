@@ -6,3 +6,5 @@
 - pkg:composer/bold-web/statamic-ai-assistant@v1.0.5-beta
 - pkg:composer/bold-web/statamic-ai-assistant@v1.0.6-beta
 - pkg:composer/bold-web/statamic-ai-assistant@v1.1-beta
+- pkg:composer/bold-web/statamic-ai-assistant@v2.0
+- pkg:composer/bold-web/statamic-ai-assistant@v2.0.1

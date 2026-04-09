@@ -166,6 +166,7 @@
 - pkg:composer/bitmovin/bitmovin-api-sdk-php@1.26.0-ALPHA0
 - pkg:composer/bitmovin/bitmovin-api-sdk-php@1.260.0
 - pkg:composer/bitmovin/bitmovin-api-sdk-php@1.261.0
+- pkg:composer/bitmovin/bitmovin-api-sdk-php@1.262.0
 - pkg:composer/bitmovin/bitmovin-api-sdk-php@1.27.0-ALPHA0
 - pkg:composer/bitmovin/bitmovin-api-sdk-php@1.28.0-ALPHA0
 - pkg:composer/bitmovin/bitmovin-api-sdk-php@1.29.0-ALPHA0

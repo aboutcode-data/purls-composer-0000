@@ -195,6 +195,7 @@
 - pkg:composer/benhauer/salesmanago-integration@4.14.1
 - pkg:composer/benhauer/salesmanago-integration@4.14.1-beta2
 - pkg:composer/benhauer/salesmanago-integration@4.14.1-beta4
+- pkg:composer/benhauer/salesmanago-integration@4.15.0
 - pkg:composer/benhauer/salesmanago-integration@4.15.0-beta1
 - pkg:composer/benhauer/salesmanago-integration@4.2.0
 - pkg:composer/benhauer/salesmanago-integration@4.2.0-beta1
