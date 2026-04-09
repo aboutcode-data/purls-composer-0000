@@ -10,6 +10,7 @@
 - pkg:composer/grkamil/laravel-telegram-logging@v1.11.0
 - pkg:composer/grkamil/laravel-telegram-logging@v1.12.0
 - pkg:composer/grkamil/laravel-telegram-logging@v1.13.0
+- pkg:composer/grkamil/laravel-telegram-logging@v1.14.0
 - pkg:composer/grkamil/laravel-telegram-logging@v1.2.0
 - pkg:composer/grkamil/laravel-telegram-logging@v1.2.1
 - pkg:composer/grkamil/laravel-telegram-logging@v1.3.0
