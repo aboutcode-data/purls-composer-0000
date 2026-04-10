@@ -145,3 +145,5 @@
 - pkg:composer/internetguru/laravel-user@v6.4.7
 - pkg:composer/internetguru/laravel-user@v6.5.0
 - pkg:composer/internetguru/laravel-user@v6.6.0
+- pkg:composer/internetguru/laravel-user@v6.6.1
+- pkg:composer/internetguru/laravel-user@v6.6.2
