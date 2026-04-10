@@ -81,3 +81,4 @@
 - pkg:composer/uhin/laravel_api@3.0.2
 - pkg:composer/uhin/laravel_api@3.0.3
 - pkg:composer/uhin/laravel_api@4.0.0
+- pkg:composer/uhin/laravel_api@4.1.0
