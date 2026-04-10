@@ -182,3 +182,6 @@
 - pkg:composer/bolt/assets@6.0.0-rc.1
 - pkg:composer/bolt/assets@6.0.0-rc.2
 - pkg:composer/bolt/assets@6.0.1
+- pkg:composer/bolt/assets@6.0.2
+- pkg:composer/bolt/assets@6.0.3
+- pkg:composer/bolt/assets@6.1.0
