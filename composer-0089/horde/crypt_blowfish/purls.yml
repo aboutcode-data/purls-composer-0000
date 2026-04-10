@@ -8,3 +8,5 @@
 - pkg:composer/horde/crypt_blowfish@v2.0.0alpha2
 - pkg:composer/horde/crypt_blowfish@v2.0.0alpha3
 - pkg:composer/horde/crypt_blowfish@v2.0.0alpha4
+- pkg:composer/horde/crypt_blowfish@v2.0.0beta1
+- pkg:composer/horde/crypt_blowfish@v2.0.0beta2
