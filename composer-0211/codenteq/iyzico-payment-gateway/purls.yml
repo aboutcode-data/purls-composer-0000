@@ -9,3 +9,4 @@
 - pkg:composer/codenteq/iyzico-payment-gateway@v1.5.4
 - pkg:composer/codenteq/iyzico-payment-gateway@v1.5.5
 - pkg:composer/codenteq/iyzico-payment-gateway@v1.5.6
+- pkg:composer/codenteq/iyzico-payment-gateway@v1.6.0
