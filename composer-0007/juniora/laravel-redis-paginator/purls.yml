@@ -6,3 +6,4 @@
 - pkg:composer/juniora/laravel-redis-paginator@v2.3.2
 - pkg:composer/juniora/laravel-redis-paginator@v2.4.0
 - pkg:composer/juniora/laravel-redis-paginator@v2.4.1
+- pkg:composer/juniora/laravel-redis-paginator@v2.4.2
