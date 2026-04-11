@@ -12,3 +12,4 @@
 - pkg:composer/pyncer/http@v1.1.6
 - pkg:composer/pyncer/http@v1.2.0
 - pkg:composer/pyncer/http@v1.2.1
+- pkg:composer/pyncer/http@v1.2.2

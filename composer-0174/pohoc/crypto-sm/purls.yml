@@ -1,2 +1,5 @@
 - pkg:composer/pohoc/crypto-sm@v0.0.1
 - pkg:composer/pohoc/crypto-sm@v0.0.2
+- pkg:composer/pohoc/crypto-sm@v0.0.3
+- pkg:composer/pohoc/crypto-sm@v0.1.0
+- pkg:composer/pohoc/crypto-sm@v0.1.1
