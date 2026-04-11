@@ -36,3 +36,5 @@
 - pkg:composer/sebkay/laravel-inertia-vue-starter-kit@5.4.0
 - pkg:composer/sebkay/laravel-inertia-vue-starter-kit@5.4.1
 - pkg:composer/sebkay/laravel-inertia-vue-starter-kit@6.0.0
+- pkg:composer/sebkay/laravel-inertia-vue-starter-kit@6.1.0
+- pkg:composer/sebkay/laravel-inertia-vue-starter-kit@7.0.0
