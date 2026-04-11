@@ -5,6 +5,7 @@
 - pkg:composer/rahulhaque/laravel-filepond@v10.2.2
 - pkg:composer/rahulhaque/laravel-filepond@v10.3.2
 - pkg:composer/rahulhaque/laravel-filepond@v10.3.3
+- pkg:composer/rahulhaque/laravel-filepond@v10.4.3
 - pkg:composer/rahulhaque/laravel-filepond@v11.0.0
 - pkg:composer/rahulhaque/laravel-filepond@v11.0.1
 - pkg:composer/rahulhaque/laravel-filepond@v11.0.2
@@ -14,6 +15,7 @@
 - pkg:composer/rahulhaque/laravel-filepond@v11.2.4
 - pkg:composer/rahulhaque/laravel-filepond@v11.3.4
 - pkg:composer/rahulhaque/laravel-filepond@v11.3.5
+- pkg:composer/rahulhaque/laravel-filepond@v11.4.5
 - pkg:composer/rahulhaque/laravel-filepond@v12.0.0
 - pkg:composer/rahulhaque/laravel-filepond@v12.1.0
 - pkg:composer/rahulhaque/laravel-filepond@v12.1.1
@@ -24,6 +26,7 @@
 - pkg:composer/rahulhaque/laravel-filepond@v12.3.4
 - pkg:composer/rahulhaque/laravel-filepond@v12.3.5
 - pkg:composer/rahulhaque/laravel-filepond@v12.3.6
+- pkg:composer/rahulhaque/laravel-filepond@v12.4.6
 - pkg:composer/rahulhaque/laravel-filepond@v13.0.0
 - pkg:composer/rahulhaque/laravel-filepond@v13.0.1
 - pkg:composer/rahulhaque/laravel-filepond@v13.1.1

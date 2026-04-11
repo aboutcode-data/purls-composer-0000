@@ -47,3 +47,5 @@
 - pkg:composer/resofire/digest-mail@v2.1.9
 - pkg:composer/resofire/digest-mail@v2.2.0
 - pkg:composer/resofire/digest-mail@v2.2.1
+- pkg:composer/resofire/digest-mail@v2.2.2
+- pkg:composer/resofire/digest-mail@v2.2.3

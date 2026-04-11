@@ -3,3 +3,4 @@
 - pkg:composer/roots/acorn-mail@v1.0.2
 - pkg:composer/roots/acorn-mail@v1.0.3
 - pkg:composer/roots/acorn-mail@v1.0.4
+- pkg:composer/roots/acorn-mail@v2.0.0
