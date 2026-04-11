@@ -1,4 +1,7 @@
 - pkg:composer/cimembership/cimembership@4.0.12
+- pkg:composer/cimembership/cimembership@4.0.13
+- pkg:composer/cimembership/cimembership@4.0.14
+- pkg:composer/cimembership/cimembership@4.0.15
 - pkg:composer/cimembership/cimembership@v4.0.0
 - pkg:composer/cimembership/cimembership@v4.0.1
 - pkg:composer/cimembership/cimembership@v4.0.1.1

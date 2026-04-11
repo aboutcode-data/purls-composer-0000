@@ -48,3 +48,4 @@
 - pkg:composer/centrex/laravel-accounting@v2.2.2
 - pkg:composer/centrex/laravel-accounting@v2.2.3
 - pkg:composer/centrex/laravel-accounting@v2.2.4
+- pkg:composer/centrex/laravel-accounting@v2.3.0
