@@ -1,4 +1,5 @@
 - pkg:composer/kiddocaremy/laravel-huawei-push@4.0.0
+- pkg:composer/kiddocaremy/laravel-huawei-push@5.0.0
 - pkg:composer/kiddocaremy/laravel-huawei-push@v1.5.3-beta1
 - pkg:composer/kiddocaremy/laravel-huawei-push@v1.5.3-beta2
 - pkg:composer/kiddocaremy/laravel-huawei-push@v2.0
