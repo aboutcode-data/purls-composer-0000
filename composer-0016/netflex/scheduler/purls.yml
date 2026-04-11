@@ -284,3 +284,6 @@
 - pkg:composer/netflex/scheduler@v6.3.0
 - pkg:composer/netflex/scheduler@v6.3.1
 - pkg:composer/netflex/scheduler@v6.4.0
+- pkg:composer/netflex/scheduler@v6.5.0
+- pkg:composer/netflex/scheduler@v6.6.0
+- pkg:composer/netflex/scheduler@v6.7.0
