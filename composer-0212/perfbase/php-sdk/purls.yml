@@ -24,3 +24,4 @@
 - pkg:composer/perfbase/php-sdk@v1.1.0
 - pkg:composer/perfbase/php-sdk@v1.2.0
 - pkg:composer/perfbase/php-sdk@v1.3.0
+- pkg:composer/perfbase/php-sdk@v1.4.0
