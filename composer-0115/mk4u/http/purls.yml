@@ -1,4 +1,5 @@
 - pkg:composer/mk4u/http@1.3.2
+- pkg:composer/mk4u/http@1.4.0
 - pkg:composer/mk4u/http@v0.1-beta
 - pkg:composer/mk4u/http@v0.2
 - pkg:composer/mk4u/http@v0.2.1

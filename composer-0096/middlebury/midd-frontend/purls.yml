@@ -68,5 +68,7 @@
 - pkg:composer/middlebury/midd-frontend@4.3.8
 - pkg:composer/middlebury/midd-frontend@4.3.9
 - pkg:composer/middlebury/midd-frontend@4.4.0
+- pkg:composer/middlebury/midd-frontend@4.5.0
+- pkg:composer/middlebury/midd-frontend@4.5.1
 - pkg:composer/middlebury/midd-frontend@v0.0.2
 - pkg:composer/middlebury/midd-frontend@v1.1.0
