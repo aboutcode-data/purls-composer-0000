@@ -6,3 +6,4 @@
 - pkg:composer/linkxtr/laravel-qrcode@v2.2.0
 - pkg:composer/linkxtr/laravel-qrcode@v2.3.0
 - pkg:composer/linkxtr/laravel-qrcode@v2.4.0
+- pkg:composer/linkxtr/laravel-qrcode@v2.5.0

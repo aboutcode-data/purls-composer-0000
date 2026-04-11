@@ -5,3 +5,4 @@
 - pkg:composer/macocci7/php-lorenz-curve@0.0.5
 - pkg:composer/macocci7/php-lorenz-curve@0.0.6
 - pkg:composer/macocci7/php-lorenz-curve@0.0.7
+- pkg:composer/macocci7/php-lorenz-curve@1.0.0

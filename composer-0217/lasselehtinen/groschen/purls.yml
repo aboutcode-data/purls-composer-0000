@@ -458,3 +458,5 @@
 - pkg:composer/lasselehtinen/groschen@v7.5.7
 - pkg:composer/lasselehtinen/groschen@v7.5.8
 - pkg:composer/lasselehtinen/groschen@v7.5.9
+- pkg:composer/lasselehtinen/groschen@v7.6.0
+- pkg:composer/lasselehtinen/groschen@v7.6.1

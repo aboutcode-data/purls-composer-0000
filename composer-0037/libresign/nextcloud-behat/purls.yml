@@ -46,3 +46,4 @@
 - pkg:composer/libresign/nextcloud-behat@v1.4.2
 - pkg:composer/libresign/nextcloud-behat@v1.5.0
 - pkg:composer/libresign/nextcloud-behat@v1.5.1
+- pkg:composer/libresign/nextcloud-behat@v1.6.0
