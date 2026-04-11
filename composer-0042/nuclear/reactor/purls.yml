@@ -37,3 +37,4 @@
 - pkg:composer/nuclear/reactor@1.7.3
 - pkg:composer/nuclear/reactor@1.8.0
 - pkg:composer/nuclear/reactor@1.8.1
+- pkg:composer/nuclear/reactor@1.8.2
