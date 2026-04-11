@@ -1,3 +1,4 @@
 - pkg:composer/livewirez/livewirez-billing-laravel@v0.0.1
 - pkg:composer/livewirez/livewirez-billing-laravel@v0.1
 - pkg:composer/livewirez/livewirez-billing-laravel@v0.11
+- pkg:composer/livewirez/livewirez-billing-laravel@v0.12

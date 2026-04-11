@@ -180,3 +180,4 @@
 - pkg:composer/larastan/larastan@v3.9.1
 - pkg:composer/larastan/larastan@v3.9.2
 - pkg:composer/larastan/larastan@v3.9.3
+- pkg:composer/larastan/larastan@v3.9.4
