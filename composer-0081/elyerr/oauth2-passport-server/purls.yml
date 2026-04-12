@@ -33,3 +33,5 @@
 - pkg:composer/elyerr/oauth2-passport-server@v5.1.6
 - pkg:composer/elyerr/oauth2-passport-server@v6.0.0
 - pkg:composer/elyerr/oauth2-passport-server@v6.0.1
+- pkg:composer/elyerr/oauth2-passport-server@v6.0.2
+- pkg:composer/elyerr/oauth2-passport-server@v6.0.3
