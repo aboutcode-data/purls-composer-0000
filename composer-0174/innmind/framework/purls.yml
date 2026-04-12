@@ -12,3 +12,5 @@
 - pkg:composer/innmind/framework@3.0.1
 - pkg:composer/innmind/framework@4.0.0
 - pkg:composer/innmind/framework@4.0.1
+- pkg:composer/innmind/framework@4.0.2
+- pkg:composer/innmind/framework@4.1.0
