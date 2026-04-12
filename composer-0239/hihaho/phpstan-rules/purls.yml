@@ -8,3 +8,4 @@
 - pkg:composer/hihaho/phpstan-rules@v2.0.1
 - pkg:composer/hihaho/phpstan-rules@v2.1.0
 - pkg:composer/hihaho/phpstan-rules@v2.2.0
+- pkg:composer/hihaho/phpstan-rules@v3.0.0
