@@ -4,3 +4,5 @@
 - pkg:composer/devwizardhq/laravel-enumify@v1.1.0
 - pkg:composer/devwizardhq/laravel-enumify@v1.2.0
 - pkg:composer/devwizardhq/laravel-enumify@v1.3.0
+- pkg:composer/devwizardhq/laravel-enumify@v1.3.1
+- pkg:composer/devwizardhq/laravel-enumify@v1.4.0
