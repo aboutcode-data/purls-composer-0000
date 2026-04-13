@@ -6,3 +6,5 @@
 - pkg:composer/msaaq/nelc-xapi-php-sdk@v1.3
 - pkg:composer/msaaq/nelc-xapi-php-sdk@v1.3.1
 - pkg:composer/msaaq/nelc-xapi-php-sdk@v1.4
+- pkg:composer/msaaq/nelc-xapi-php-sdk@v1.5
+- pkg:composer/msaaq/nelc-xapi-php-sdk@v1.5.1
