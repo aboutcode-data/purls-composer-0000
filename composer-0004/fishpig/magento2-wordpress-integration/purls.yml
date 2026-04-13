@@ -191,6 +191,8 @@
 - pkg:composer/fishpig/magento2-wordpress-integration@3.31.25
 - pkg:composer/fishpig/magento2-wordpress-integration@3.31.26
 - pkg:composer/fishpig/magento2-wordpress-integration@3.31.27
+- pkg:composer/fishpig/magento2-wordpress-integration@3.31.28
+- pkg:composer/fishpig/magento2-wordpress-integration@3.31.29
 - pkg:composer/fishpig/magento2-wordpress-integration@3.31.3
 - pkg:composer/fishpig/magento2-wordpress-integration@3.31.4
 - pkg:composer/fishpig/magento2-wordpress-integration@3.31.5

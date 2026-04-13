@@ -61,3 +61,4 @@
 - pkg:composer/forxer/blade-ui-kit-bootstrap@1.2.1
 - pkg:composer/forxer/blade-ui-kit-bootstrap@1.3.0
 - pkg:composer/forxer/blade-ui-kit-bootstrap@1.4.0
+- pkg:composer/forxer/blade-ui-kit-bootstrap@2.0.0

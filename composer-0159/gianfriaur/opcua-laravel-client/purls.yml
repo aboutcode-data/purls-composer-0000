@@ -4,3 +4,5 @@
 - pkg:composer/gianfriaur/opcua-laravel-client@v3.0.0
 - pkg:composer/gianfriaur/opcua-laravel-client@v4.0.0
 - pkg:composer/gianfriaur/opcua-laravel-client@v4.0.1
+- pkg:composer/gianfriaur/opcua-laravel-client@v4.1.0
+- pkg:composer/gianfriaur/opcua-laravel-client@v4.1.1

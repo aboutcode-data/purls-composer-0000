@@ -5,3 +5,5 @@
 - pkg:composer/fluxfiles/laravel@v1.26.2
 - pkg:composer/fluxfiles/laravel@v1.26.3
 - pkg:composer/fluxfiles/laravel@v1.26.4
+- pkg:composer/fluxfiles/laravel@v1.26.5
+- pkg:composer/fluxfiles/laravel@v1.27.0
