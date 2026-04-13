@@ -161,3 +161,4 @@
 - pkg:composer/deployer/deployer@v8.0.0-alpha.3
 - pkg:composer/deployer/deployer@v8.0.0-beta
 - pkg:composer/deployer/deployer@v8.0.0-rc
+- pkg:composer/deployer/deployer@v8.0.0-rc.1
