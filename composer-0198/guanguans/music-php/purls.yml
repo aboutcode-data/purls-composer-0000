@@ -66,6 +66,7 @@
 - pkg:composer/guanguans/music-php@6.5.2
 - pkg:composer/guanguans/music-php@7.0.0
 - pkg:composer/guanguans/music-php@7.0.1
+- pkg:composer/guanguans/music-php@7.0.2
 - pkg:composer/guanguans/music-php@v1.0.0
 - pkg:composer/guanguans/music-php@v1.0.1
 - pkg:composer/guanguans/music-php@v1.0.2
