@@ -9,3 +9,5 @@
 - pkg:composer/lartisan/ploi-dashboard@1.0.7
 - pkg:composer/lartisan/ploi-dashboard@1.0.8
 - pkg:composer/lartisan/ploi-dashboard@1.0.9
+- pkg:composer/lartisan/ploi-dashboard@v2.1.0
+- pkg:composer/lartisan/ploi-dashboard@v2.1.1

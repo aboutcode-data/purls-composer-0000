@@ -120,4 +120,5 @@
 - pkg:composer/limb-php/limb-framework@v4.6.6
 - pkg:composer/limb-php/limb-framework@v4.6.7
 - pkg:composer/limb-php/limb-framework@v4.6.8
+- pkg:composer/limb-php/limb-framework@v4.6.9
 - pkg:composer/limb-php/limb-framework@v5.0.0

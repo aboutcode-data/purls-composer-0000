@@ -36,6 +36,7 @@
 - pkg:composer/lanerp/laravel-common@v1.2.31
 - pkg:composer/lanerp/laravel-common@v1.2.32
 - pkg:composer/lanerp/laravel-common@v1.2.33
+- pkg:composer/lanerp/laravel-common@v1.2.34
 - pkg:composer/lanerp/laravel-common@v1.2.4
 - pkg:composer/lanerp/laravel-common@v1.2.5
 - pkg:composer/lanerp/laravel-common@v1.2.6

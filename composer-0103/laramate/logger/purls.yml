@@ -2,3 +2,4 @@
 - pkg:composer/laramate/logger@0.2
 - pkg:composer/laramate/logger@0.3.0
 - pkg:composer/laramate/logger@0.3.1
+- pkg:composer/laramate/logger@0.4.1
