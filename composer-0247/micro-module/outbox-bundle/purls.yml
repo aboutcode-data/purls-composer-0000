@@ -1,1 +1,4 @@
 - pkg:composer/micro-module/outbox-bundle@v0.1.0
+- pkg:composer/micro-module/outbox-bundle@v0.2.0
+- pkg:composer/micro-module/outbox-bundle@v0.2.1
+- pkg:composer/micro-module/outbox-bundle@v0.2.2

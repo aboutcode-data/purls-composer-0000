@@ -5,3 +5,4 @@
 - pkg:composer/micro-module/saga-bundle@v0.6.0
 - pkg:composer/micro-module/saga-bundle@v0.6.1
 - pkg:composer/micro-module/saga-bundle@v0.6.2
+- pkg:composer/micro-module/saga-bundle@v0.6.3
