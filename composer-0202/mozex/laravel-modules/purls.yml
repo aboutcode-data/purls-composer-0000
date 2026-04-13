@@ -7,6 +7,7 @@
 - pkg:composer/mozex/laravel-modules@2.0.1
 - pkg:composer/mozex/laravel-modules@2.1.0
 - pkg:composer/mozex/laravel-modules@2.10.0
+- pkg:composer/mozex/laravel-modules@2.11.0
 - pkg:composer/mozex/laravel-modules@2.2.0
 - pkg:composer/mozex/laravel-modules@2.2.1
 - pkg:composer/mozex/laravel-modules@2.2.2
