@@ -46,4 +46,5 @@
 - pkg:composer/plugin/owc-gravityforms-digid@v1.6.1
 - pkg:composer/plugin/owc-gravityforms-digid@v1.7.0
 - pkg:composer/plugin/owc-gravityforms-digid@v1.7.1
+- pkg:composer/plugin/owc-gravityforms-digid@v1.8.0
 - pkg:composer/plugin/owc-gravityforms-digid@v2.0.0
