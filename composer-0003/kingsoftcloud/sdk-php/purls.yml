@@ -39,6 +39,7 @@
 - pkg:composer/kingsoftcloud/sdk-php@1.7.43
 - pkg:composer/kingsoftcloud/sdk-php@1.7.44
 - pkg:composer/kingsoftcloud/sdk-php@1.7.45
+- pkg:composer/kingsoftcloud/sdk-php@1.7.46
 - pkg:composer/kingsoftcloud/sdk-php@1.7.5
 - pkg:composer/kingsoftcloud/sdk-php@1.7.7
 - pkg:composer/kingsoftcloud/sdk-php@1.7.8
