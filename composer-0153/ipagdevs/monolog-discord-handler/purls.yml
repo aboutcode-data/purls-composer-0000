@@ -1,2 +1,4 @@
 - pkg:composer/ipagdevs/monolog-discord-handler@1.0.0
 - pkg:composer/ipagdevs/monolog-discord-handler@1.0.1
+- pkg:composer/ipagdevs/monolog-discord-handler@1.0.2
+- pkg:composer/ipagdevs/monolog-discord-handler@1.0.3
