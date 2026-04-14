@@ -1,0 +1,4 @@
+- pkg:composer/phpnomad/cli@1.0.0
+- pkg:composer/phpnomad/cli@1.1.0
+- pkg:composer/phpnomad/cli@1.1.1
+- pkg:composer/phpnomad/cli@1.1.2
