@@ -1,2 +1,4 @@
 - pkg:composer/symfony/ux-native@v2.33.0
 - pkg:composer/symfony/ux-native@v2.34.0
+- pkg:composer/symfony/ux-native@v2.35.0
+- pkg:composer/symfony/ux-native@v3.0.0

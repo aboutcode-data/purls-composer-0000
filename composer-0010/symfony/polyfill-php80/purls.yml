@@ -21,3 +21,4 @@
 - pkg:composer/symfony/polyfill-php80@v1.31.0
 - pkg:composer/symfony/polyfill-php80@v1.32.0
 - pkg:composer/symfony/polyfill-php80@v1.33.0
+- pkg:composer/symfony/polyfill-php80@v1.34.0

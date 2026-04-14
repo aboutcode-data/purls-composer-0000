@@ -95,6 +95,8 @@
 - pkg:composer/survos/translator-bundle@2.0.193
 - pkg:composer/survos/translator-bundle@2.0.194
 - pkg:composer/survos/translator-bundle@2.0.195
+- pkg:composer/survos/translator-bundle@2.0.196
+- pkg:composer/survos/translator-bundle@2.0.197
 - pkg:composer/survos/translator-bundle@2.0.2
 - pkg:composer/survos/translator-bundle@2.0.20
 - pkg:composer/survos/translator-bundle@2.0.21
