@@ -3,3 +3,4 @@
 - pkg:composer/minvws/audit-logger@0.3.0
 - pkg:composer/minvws/audit-logger@0.4.0
 - pkg:composer/minvws/audit-logger@1.0.0
+- pkg:composer/minvws/audit-logger@1.1.0
