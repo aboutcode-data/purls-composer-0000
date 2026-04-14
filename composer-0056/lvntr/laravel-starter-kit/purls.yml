@@ -96,3 +96,5 @@
 - pkg:composer/lvntr/laravel-starter-kit@v13.1.9
 - pkg:composer/lvntr/laravel-starter-kit@v13.2.0
 - pkg:composer/lvntr/laravel-starter-kit@v13.2.1
+- pkg:composer/lvntr/laravel-starter-kit@v13.2.2
+- pkg:composer/lvntr/laravel-starter-kit@v13.2.3
