@@ -6,3 +6,4 @@
 - pkg:composer/laravel-gtm/hubspot-sdk@v0.0.6
 - pkg:composer/laravel-gtm/hubspot-sdk@v0.0.7
 - pkg:composer/laravel-gtm/hubspot-sdk@v0.0.8
+- pkg:composer/laravel-gtm/hubspot-sdk@v0.0.9
