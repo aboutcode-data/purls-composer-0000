@@ -25,6 +25,7 @@
 - pkg:composer/torann/geoip@1.2.0
 - pkg:composer/torann/geoip@1.2.1
 - pkg:composer/torann/geoip@3.0.1
+- pkg:composer/torann/geoip@3.0.10
 - pkg:composer/torann/geoip@3.0.2
 - pkg:composer/torann/geoip@3.0.3
 - pkg:composer/torann/geoip@3.0.4
