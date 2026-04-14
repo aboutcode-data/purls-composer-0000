@@ -466,3 +466,6 @@
 - pkg:composer/laravel-enso/vuedatatable@4.9.6
 - pkg:composer/laravel-enso/vuedatatable@4.9.7
 - pkg:composer/laravel-enso/vuedatatable@5.0.0
+- pkg:composer/laravel-enso/vuedatatable@5.1.0
+- pkg:composer/laravel-enso/vuedatatable@5.1.1
+- pkg:composer/laravel-enso/vuedatatable@5.1.2
