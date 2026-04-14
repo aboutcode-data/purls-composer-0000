@@ -26,3 +26,4 @@
 - pkg:composer/webmozart/assert@2.1.5
 - pkg:composer/webmozart/assert@2.1.6
 - pkg:composer/webmozart/assert@2.2.0
+- pkg:composer/webmozart/assert@2.3.0

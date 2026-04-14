@@ -43,3 +43,5 @@
 - pkg:composer/wabisoft/craft-bonsai-twig@9.1.0
 - pkg:composer/wabisoft/craft-bonsai-twig@9.1.1
 - pkg:composer/wabisoft/craft-bonsai-twig@9.1.2
+- pkg:composer/wabisoft/craft-bonsai-twig@9.1.3
+- pkg:composer/wabisoft/craft-bonsai-twig@9.1.4
