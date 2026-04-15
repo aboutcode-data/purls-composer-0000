@@ -10,3 +10,4 @@
 - pkg:composer/precision-soft/symfony-doctrine-encrypt@v3.0.1
 - pkg:composer/precision-soft/symfony-doctrine-encrypt@v3.0.2
 - pkg:composer/precision-soft/symfony-doctrine-encrypt@v3.1.0
+- pkg:composer/precision-soft/symfony-doctrine-encrypt@v3.1.1
