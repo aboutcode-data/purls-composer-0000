@@ -1,8 +1,3 @@
-- pkg:composer/six-shop/wechatpay@v0.2.32
-- pkg:composer/six-shop/wechatpay@v0.2.33
-- pkg:composer/six-shop/wechatpay@v0.2.34
-- pkg:composer/six-shop/wechatpay@v0.2.35
 - pkg:composer/six-shop/wechatpay@v0.2.36
-- pkg:composer/six-shop/wechatpay@v1.0.0
-- pkg:composer/six-shop/wechatpay@v1.0.1
+- pkg:composer/six-shop/wechatpay@v0.2.37
 - pkg:composer/six-shop/wechatpay@v1.0.2
