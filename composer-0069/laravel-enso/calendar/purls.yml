@@ -87,3 +87,4 @@
 - pkg:composer/laravel-enso/calendar@3.4.0
 - pkg:composer/laravel-enso/calendar@3.5.0
 - pkg:composer/laravel-enso/calendar@3.5.1
+- pkg:composer/laravel-enso/calendar@3.5.2

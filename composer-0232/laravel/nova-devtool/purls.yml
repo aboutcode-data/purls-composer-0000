@@ -35,3 +35,4 @@
 - pkg:composer/laravel/nova-devtool@v1.8.8
 - pkg:composer/laravel/nova-devtool@v1.8.9
 - pkg:composer/laravel/nova-devtool@v1.9.0
+- pkg:composer/laravel/nova-devtool@v1.9.1

@@ -89,3 +89,4 @@
 - pkg:composer/laravel-enso/control-panel-api@3.4.0
 - pkg:composer/laravel-enso/control-panel-api@3.5.0
 - pkg:composer/laravel-enso/control-panel-api@3.6.0
+- pkg:composer/laravel-enso/control-panel-api@3.6.1

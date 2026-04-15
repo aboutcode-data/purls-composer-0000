@@ -15,3 +15,4 @@
 - pkg:composer/laravel-notification-channels/cmsms@3.4.0
 - pkg:composer/laravel-notification-channels/cmsms@4.0.0
 - pkg:composer/laravel-notification-channels/cmsms@4.1.0
+- pkg:composer/laravel-notification-channels/cmsms@4.2.0

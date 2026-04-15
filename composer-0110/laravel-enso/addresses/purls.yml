@@ -265,3 +265,4 @@
 - pkg:composer/laravel-enso/addresses@5.7.0
 - pkg:composer/laravel-enso/addresses@5.8.0
 - pkg:composer/laravel-enso/addresses@5.8.1
+- pkg:composer/laravel-enso/addresses@5.8.2

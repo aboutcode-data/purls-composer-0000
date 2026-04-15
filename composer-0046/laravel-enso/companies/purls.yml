@@ -150,3 +150,5 @@
 - pkg:composer/laravel-enso/companies@4.6.1
 - pkg:composer/laravel-enso/companies@4.6.2
 - pkg:composer/laravel-enso/companies@4.6.3
+- pkg:composer/laravel-enso/companies@4.6.4
+- pkg:composer/laravel-enso/companies@4.6.5
