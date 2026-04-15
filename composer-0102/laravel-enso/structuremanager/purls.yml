@@ -157,3 +157,4 @@
 - pkg:composer/laravel-enso/structuremanager@5.4.1
 - pkg:composer/laravel-enso/structuremanager@5.5.0
 - pkg:composer/laravel-enso/structuremanager@5.5.1
+- pkg:composer/laravel-enso/structuremanager@5.5.2
