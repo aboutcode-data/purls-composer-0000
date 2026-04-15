@@ -32,3 +32,4 @@
 - pkg:composer/herald-project/client-php@v2.8.1
 - pkg:composer/herald-project/client-php@v2.9.0
 - pkg:composer/herald-project/client-php@v2.9.1
+- pkg:composer/herald-project/client-php@v2.9.2
