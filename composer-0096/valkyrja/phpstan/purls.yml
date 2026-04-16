@@ -1,0 +1,4 @@
+- pkg:composer/valkyrja/phpstan@v26.0.0
+- pkg:composer/valkyrja/phpstan@v26.0.1
+- pkg:composer/valkyrja/phpstan@v26.0.2
+- pkg:composer/valkyrja/phpstan@v26.1.0
