@@ -10,3 +10,4 @@
 - pkg:composer/korridor/laravel-model-validation-rules@3.1.0
 - pkg:composer/korridor/laravel-model-validation-rules@3.2.0
 - pkg:composer/korridor/laravel-model-validation-rules@3.3.0
+- pkg:composer/korridor/laravel-model-validation-rules@3.4.0
