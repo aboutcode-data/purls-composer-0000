@@ -100,6 +100,7 @@
 - pkg:composer/phpro/grumphp@v2.18.0
 - pkg:composer/phpro/grumphp@v2.19.0
 - pkg:composer/phpro/grumphp@v2.2.0
+- pkg:composer/phpro/grumphp@v2.20.0
 - pkg:composer/phpro/grumphp@v2.3.0
 - pkg:composer/phpro/grumphp@v2.4.0
 - pkg:composer/phpro/grumphp@v2.5.0
