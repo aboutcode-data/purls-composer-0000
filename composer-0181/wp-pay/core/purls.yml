@@ -113,6 +113,7 @@
 - pkg:composer/wp-pay/core@v4.30.0
 - pkg:composer/wp-pay/core@v4.31.0
 - pkg:composer/wp-pay/core@v4.32.0
+- pkg:composer/wp-pay/core@v4.33.0
 - pkg:composer/wp-pay/core@v4.6.0
 - pkg:composer/wp-pay/core@v4.7.0
 - pkg:composer/wp-pay/core@v4.7.1
