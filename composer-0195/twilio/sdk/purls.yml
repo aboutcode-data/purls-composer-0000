@@ -314,6 +314,7 @@
 - pkg:composer/twilio/sdk@8.11.1
 - pkg:composer/twilio/sdk@8.11.2
 - pkg:composer/twilio/sdk@8.11.3
+- pkg:composer/twilio/sdk@8.11.4
 - pkg:composer/twilio/sdk@8.2.0
 - pkg:composer/twilio/sdk@8.2.1
 - pkg:composer/twilio/sdk@8.2.2

@@ -1,3 +1,4 @@
+- pkg:composer/twikey/twikey-api-php@0.7.0
 - pkg:composer/twikey/twikey-api-php@v0.1.0
 - pkg:composer/twikey/twikey-api-php@v0.2.0
 - pkg:composer/twikey/twikey-api-php@v0.2.1
