@@ -53,6 +53,7 @@
 - pkg:composer/techdivision/import-product-url-rewrite@26.0.0
 - pkg:composer/techdivision/import-product-url-rewrite@26.1.0
 - pkg:composer/techdivision/import-product-url-rewrite@26.1.0-alpha
+- pkg:composer/techdivision/import-product-url-rewrite@26.2.0-alpha
 - pkg:composer/techdivision/import-product-url-rewrite@3.0.0
 - pkg:composer/techdivision/import-product-url-rewrite@4.0.0
 - pkg:composer/techdivision/import-product-url-rewrite@5.0.0

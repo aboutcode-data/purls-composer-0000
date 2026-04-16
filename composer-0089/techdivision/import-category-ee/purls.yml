@@ -57,6 +57,7 @@
 - pkg:composer/techdivision/import-category-ee@22.0.0
 - pkg:composer/techdivision/import-category-ee@22.0.1
 - pkg:composer/techdivision/import-category-ee@23.0.0
+- pkg:composer/techdivision/import-category-ee@23.1.0-alpha
 - pkg:composer/techdivision/import-category-ee@3.0.0
 - pkg:composer/techdivision/import-category-ee@4.0.0
 - pkg:composer/techdivision/import-category-ee@5.0.0

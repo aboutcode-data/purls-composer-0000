@@ -15,6 +15,7 @@
 - pkg:composer/techdivision/import-product-tier-price@19.0.0
 - pkg:composer/techdivision/import-product-tier-price@19.1.0
 - pkg:composer/techdivision/import-product-tier-price@19.1.0-alpha
+- pkg:composer/techdivision/import-product-tier-price@19.2.0-alpha
 - pkg:composer/techdivision/import-product-tier-price@2.0.0
 - pkg:composer/techdivision/import-product-tier-price@3.0.0
 - pkg:composer/techdivision/import-product-tier-price@4.0.0

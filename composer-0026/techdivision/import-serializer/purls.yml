@@ -2,3 +2,4 @@
 - pkg:composer/techdivision/import-serializer@2.0.0
 - pkg:composer/techdivision/import-serializer@2.1.0
 - pkg:composer/techdivision/import-serializer@2.1.0-alpha
+- pkg:composer/techdivision/import-serializer@2.2.0-alpha

@@ -8,3 +8,4 @@
 - pkg:composer/techdivision/import-dbal-collection@2.0.0
 - pkg:composer/techdivision/import-dbal-collection@2.1.0
 - pkg:composer/techdivision/import-dbal-collection@2.1.0-alpha
+- pkg:composer/techdivision/import-dbal-collection@2.2.0-alpha

@@ -20,6 +20,7 @@
 - pkg:composer/techdivision/import-product-grouped-ee@22.0.0
 - pkg:composer/techdivision/import-product-grouped-ee@22.0.1
 - pkg:composer/techdivision/import-product-grouped-ee@22.0.2
+- pkg:composer/techdivision/import-product-grouped-ee@22.1.0-alpha
 - pkg:composer/techdivision/import-product-grouped-ee@3.0.0
 - pkg:composer/techdivision/import-product-grouped-ee@4.0.0
 - pkg:composer/techdivision/import-product-grouped-ee@5.0.0

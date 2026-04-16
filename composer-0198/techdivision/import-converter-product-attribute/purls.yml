@@ -5,6 +5,7 @@
 - pkg:composer/techdivision/import-converter-product-attribute@11.0.0
 - pkg:composer/techdivision/import-converter-product-attribute@11.1.0
 - pkg:composer/techdivision/import-converter-product-attribute@11.1.0-alpha
+- pkg:composer/techdivision/import-converter-product-attribute@11.2.0-alpha
 - pkg:composer/techdivision/import-converter-product-attribute@2.0.0
 - pkg:composer/techdivision/import-converter-product-attribute@3.0.0
 - pkg:composer/techdivision/import-converter-product-attribute@4.0.0
