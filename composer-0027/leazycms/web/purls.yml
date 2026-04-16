@@ -264,9 +264,13 @@
 - pkg:composer/leazycms/web@1.2.242
 - pkg:composer/leazycms/web@1.2.243
 - pkg:composer/leazycms/web@1.2.244
+- pkg:composer/leazycms/web@1.2.245
 - pkg:composer/leazycms/web@1.2.246
 - pkg:composer/leazycms/web@1.2.247
+- pkg:composer/leazycms/web@1.2.248
+- pkg:composer/leazycms/web@1.2.249
 - pkg:composer/leazycms/web@1.2.25
+- pkg:composer/leazycms/web@1.2.250
 - pkg:composer/leazycms/web@1.2.26
 - pkg:composer/leazycms/web@1.2.27
 - pkg:composer/leazycms/web@1.2.28
