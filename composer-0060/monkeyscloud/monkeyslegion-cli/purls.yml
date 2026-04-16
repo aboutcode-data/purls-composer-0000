@@ -13,3 +13,4 @@
 - pkg:composer/monkeyscloud/monkeyslegion-cli@1.0.6
 - pkg:composer/monkeyscloud/monkeyslegion-cli@1.0.7
 - pkg:composer/monkeyscloud/monkeyslegion-cli@1.0.8
+- pkg:composer/monkeyscloud/monkeyslegion-cli@2.0.0
