@@ -26,3 +26,4 @@
 - pkg:composer/precision-soft/symfony-console@v4.1.2
 - pkg:composer/precision-soft/symfony-console@v4.2.0
 - pkg:composer/precision-soft/symfony-console@v4.2.1
+- pkg:composer/precision-soft/symfony-console@v4.2.2
