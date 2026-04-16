@@ -59,6 +59,7 @@
 - pkg:composer/reload/cpr@v0.0.151
 - pkg:composer/reload/cpr@v0.0.152
 - pkg:composer/reload/cpr@v0.0.153
+- pkg:composer/reload/cpr@v0.0.154
 - pkg:composer/reload/cpr@v0.0.16
 - pkg:composer/reload/cpr@v0.0.17
 - pkg:composer/reload/cpr@v0.0.18
