@@ -30,3 +30,4 @@
 - pkg:composer/simplestats-io/laravel-client@v3.5.0
 - pkg:composer/simplestats-io/laravel-client@v3.5.1
 - pkg:composer/simplestats-io/laravel-client@v3.5.2
+- pkg:composer/simplestats-io/laravel-client@v3.5.3
