@@ -101,6 +101,7 @@
 - pkg:composer/se7enxweb/admin-ui@v4.6.23
 - pkg:composer/se7enxweb/admin-ui@v4.6.24
 - pkg:composer/se7enxweb/admin-ui@v4.6.25
+- pkg:composer/se7enxweb/admin-ui@v4.6.26
 - pkg:composer/se7enxweb/admin-ui@v4.6.3
 - pkg:composer/se7enxweb/admin-ui@v4.6.4
 - pkg:composer/se7enxweb/admin-ui@v4.6.5
@@ -114,6 +115,7 @@
 - pkg:composer/se7enxweb/admin-ui@v5.0.1
 - pkg:composer/se7enxweb/admin-ui@v5.0.2
 - pkg:composer/se7enxweb/admin-ui@v5.0.3
+- pkg:composer/se7enxweb/admin-ui@v5.0.4
 - pkg:composer/se7enxweb/admin-ui@v5.0.5.0
 - pkg:composer/se7enxweb/admin-ui@v5.0.5.1
 - pkg:composer/se7enxweb/admin-ui@v5.0.5.2
