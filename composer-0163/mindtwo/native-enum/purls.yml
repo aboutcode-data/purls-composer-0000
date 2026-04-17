@@ -1,4 +1,5 @@
 - pkg:composer/mindtwo/native-enum@1.10
+- pkg:composer/mindtwo/native-enum@1.11
 - pkg:composer/mindtwo/native-enum@1.5
 - pkg:composer/mindtwo/native-enum@1.6
 - pkg:composer/mindtwo/native-enum@1.7
