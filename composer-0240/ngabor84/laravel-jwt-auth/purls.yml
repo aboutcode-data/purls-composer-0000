@@ -13,3 +13,4 @@
 - pkg:composer/ngabor84/laravel-jwt-auth@2.0.0
 - pkg:composer/ngabor84/laravel-jwt-auth@3.0.0
 - pkg:composer/ngabor84/laravel-jwt-auth@3.1.0
+- pkg:composer/ngabor84/laravel-jwt-auth@3.2.0
