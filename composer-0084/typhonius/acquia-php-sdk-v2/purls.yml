@@ -57,3 +57,4 @@
 - pkg:composer/typhonius/acquia-php-sdk-v2@3.7.1
 - pkg:composer/typhonius/acquia-php-sdk-v2@3.7.2
 - pkg:composer/typhonius/acquia-php-sdk-v2@3.7.3
+- pkg:composer/typhonius/acquia-php-sdk-v2@3.8.0
