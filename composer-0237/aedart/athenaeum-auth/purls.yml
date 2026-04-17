@@ -1,5 +1,7 @@
 - pkg:composer/aedart/athenaeum-auth@10.0.0
 - pkg:composer/aedart/athenaeum-auth@10.1.0
+- pkg:composer/aedart/athenaeum-auth@10.2.0
+- pkg:composer/aedart/athenaeum-auth@10.3.0
 - pkg:composer/aedart/athenaeum-auth@7.1.0
 - pkg:composer/aedart/athenaeum-auth@7.10.0
 - pkg:composer/aedart/athenaeum-auth@7.10.1

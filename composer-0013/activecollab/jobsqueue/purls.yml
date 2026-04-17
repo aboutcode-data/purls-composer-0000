@@ -29,6 +29,7 @@
 - pkg:composer/activecollab/jobsqueue@3.0.1
 - pkg:composer/activecollab/jobsqueue@3.0.2
 - pkg:composer/activecollab/jobsqueue@3.0.3
+- pkg:composer/activecollab/jobsqueue@3.0.4
 - pkg:composer/activecollab/jobsqueue@4.0.0
 - pkg:composer/activecollab/jobsqueue@4.1.0
 - pkg:composer/activecollab/jobsqueue@4.1.1

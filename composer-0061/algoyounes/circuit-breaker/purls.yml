@@ -14,3 +14,4 @@
 - pkg:composer/algoyounes/circuit-breaker@v1.5
 - pkg:composer/algoyounes/circuit-breaker@v1.6
 - pkg:composer/algoyounes/circuit-breaker@v1.7
+- pkg:composer/algoyounes/circuit-breaker@v1.8

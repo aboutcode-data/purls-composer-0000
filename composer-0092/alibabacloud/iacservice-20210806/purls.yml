@@ -12,3 +12,6 @@
 - pkg:composer/alibabacloud/iacservice-20210806@2.5.0
 - pkg:composer/alibabacloud/iacservice-20210806@2.6.0
 - pkg:composer/alibabacloud/iacservice-20210806@2.6.1
+- pkg:composer/alibabacloud/iacservice-20210806@2.7.0
+- pkg:composer/alibabacloud/iacservice-20210806@2.8.0
+- pkg:composer/alibabacloud/iacservice-20210806@2.8.1
