@@ -2,3 +2,4 @@
 - pkg:composer/waaz/sylius-dpd-plugin@0.2
 - pkg:composer/waaz/sylius-dpd-plugin@0.3
 - pkg:composer/waaz/sylius-dpd-plugin@1.0
+- pkg:composer/waaz/sylius-dpd-plugin@1.1
