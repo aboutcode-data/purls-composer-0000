@@ -7,3 +7,4 @@
 - pkg:composer/wyzen-packages/mailer-factory@v2.0.0
 - pkg:composer/wyzen-packages/mailer-factory@v2.1.0
 - pkg:composer/wyzen-packages/mailer-factory@v3.0.0
+- pkg:composer/wyzen-packages/mailer-factory@v8.0.0
