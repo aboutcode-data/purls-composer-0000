@@ -2,3 +2,4 @@
 - pkg:composer/paragonie/pqcrypto_compat@v0.2.0
 - pkg:composer/paragonie/pqcrypto_compat@v0.3.0
 - pkg:composer/paragonie/pqcrypto_compat@v0.3.1
+- pkg:composer/paragonie/pqcrypto_compat@v0.3.2
