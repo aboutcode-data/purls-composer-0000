@@ -33,5 +33,10 @@
 - pkg:composer/zephyrphp/starter@v0.5.16
 - pkg:composer/zephyrphp/starter@v0.5.17
 - pkg:composer/zephyrphp/starter@v0.5.18
+- pkg:composer/zephyrphp/starter@v0.5.19
+- pkg:composer/zephyrphp/starter@v0.5.20
+- pkg:composer/zephyrphp/starter@v0.5.21
+- pkg:composer/zephyrphp/starter@v0.5.22
+- pkg:composer/zephyrphp/starter@v0.5.23
 - pkg:composer/zephyrphp/starter@v0.5.8
 - pkg:composer/zephyrphp/starter@v0.5.9

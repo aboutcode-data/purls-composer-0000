@@ -11,3 +11,5 @@
 - pkg:composer/ycodetech/valet-windows@v3.2.0
 - pkg:composer/ycodetech/valet-windows@v3.2.1
 - pkg:composer/ycodetech/valet-windows@v3.3.0
+- pkg:composer/ycodetech/valet-windows@v3.4.0
+- pkg:composer/ycodetech/valet-windows@v3.4.1

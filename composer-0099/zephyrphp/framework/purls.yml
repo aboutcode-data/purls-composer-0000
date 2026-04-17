@@ -49,8 +49,12 @@
 - pkg:composer/zephyrphp/framework@v0.4.53
 - pkg:composer/zephyrphp/framework@v0.4.54
 - pkg:composer/zephyrphp/framework@v0.4.55
+- pkg:composer/zephyrphp/framework@v0.4.56
+- pkg:composer/zephyrphp/framework@v0.4.57
+- pkg:composer/zephyrphp/framework@v0.4.58
+- pkg:composer/zephyrphp/framework@v0.4.59
 - pkg:composer/zephyrphp/framework@v0.4.6
+- pkg:composer/zephyrphp/framework@v0.4.60
 - pkg:composer/zephyrphp/framework@v0.4.7
 - pkg:composer/zephyrphp/framework@v0.4.8
 - pkg:composer/zephyrphp/framework@v0.4.9
-- pkg:composer/zephyrphp/framework@v0.5.17
