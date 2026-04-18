@@ -118,6 +118,8 @@
 - pkg:composer/anourvalar/eloquent-file@1.43.12
 - pkg:composer/anourvalar/eloquent-file@1.43.13
 - pkg:composer/anourvalar/eloquent-file@1.43.14
+- pkg:composer/anourvalar/eloquent-file@1.43.15
+- pkg:composer/anourvalar/eloquent-file@1.43.16
 - pkg:composer/anourvalar/eloquent-file@1.43.2
 - pkg:composer/anourvalar/eloquent-file@1.43.3
 - pkg:composer/anourvalar/eloquent-file@1.43.4
@@ -126,6 +128,7 @@
 - pkg:composer/anourvalar/eloquent-file@1.43.7
 - pkg:composer/anourvalar/eloquent-file@1.43.8
 - pkg:composer/anourvalar/eloquent-file@1.43.9
+- pkg:composer/anourvalar/eloquent-file@1.44.0
 - pkg:composer/anourvalar/eloquent-file@1.5.0
 - pkg:composer/anourvalar/eloquent-file@1.6.0
 - pkg:composer/anourvalar/eloquent-file@1.6.1

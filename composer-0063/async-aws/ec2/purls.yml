@@ -1,0 +1,2 @@
+- pkg:composer/async-aws/ec2@0.1.0
+- pkg:composer/async-aws/ec2@1.0.0

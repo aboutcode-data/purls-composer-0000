@@ -14,3 +14,4 @@
 - pkg:composer/automattic/eslint-config-target-es@v4.0.0
 - pkg:composer/automattic/eslint-config-target-es@v4.0.1
 - pkg:composer/automattic/eslint-config-target-es@v5.0.0
+- pkg:composer/automattic/eslint-config-target-es@v6.0.0
