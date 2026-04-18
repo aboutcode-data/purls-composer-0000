@@ -13,3 +13,6 @@
 - pkg:composer/ordinary9843/ghostscript@v2.2.2
 - pkg:composer/ordinary9843/ghostscript@v2.2.3
 - pkg:composer/ordinary9843/ghostscript@v2.2.4
+- pkg:composer/ordinary9843/ghostscript@v2.3.0
+- pkg:composer/ordinary9843/ghostscript@v2.3.1
+- pkg:composer/ordinary9843/ghostscript@v2.4.0
