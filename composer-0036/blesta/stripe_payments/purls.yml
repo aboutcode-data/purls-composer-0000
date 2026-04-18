@@ -29,3 +29,4 @@
 - pkg:composer/blesta/stripe_payments@1.8.0
 - pkg:composer/blesta/stripe_payments@1.9.0
 - pkg:composer/blesta/stripe_payments@1.9.1
+- pkg:composer/blesta/stripe_payments@2.0.0

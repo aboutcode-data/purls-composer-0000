@@ -117,6 +117,7 @@
 - pkg:composer/be/be@2.7.25
 - pkg:composer/be/be@2.7.26
 - pkg:composer/be/be@2.7.27
+- pkg:composer/be/be@2.7.28
 - pkg:composer/be/be@2.7.3
 - pkg:composer/be/be@2.7.4
 - pkg:composer/be/be@2.7.5

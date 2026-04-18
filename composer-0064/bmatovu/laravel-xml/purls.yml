@@ -16,3 +16,4 @@
 - pkg:composer/bmatovu/laravel-xml@v3.2.1
 - pkg:composer/bmatovu/laravel-xml@v4.0.0
 - pkg:composer/bmatovu/laravel-xml@v4.1.0
+- pkg:composer/bmatovu/laravel-xml@v4.2.0

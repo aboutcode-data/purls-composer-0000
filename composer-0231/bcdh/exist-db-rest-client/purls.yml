@@ -2,3 +2,4 @@
 - pkg:composer/bcdh/exist-db-rest-client@v1.0.1
 - pkg:composer/bcdh/exist-db-rest-client@v1.0.3
 - pkg:composer/bcdh/exist-db-rest-client@v1.0.4
+- pkg:composer/bcdh/exist-db-rest-client@v1.1.0
