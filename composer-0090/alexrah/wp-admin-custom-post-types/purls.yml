@@ -14,3 +14,6 @@
 - pkg:composer/alexrah/wp-admin-custom-post-types@3.1.0
 - pkg:composer/alexrah/wp-admin-custom-post-types@4.0.0
 - pkg:composer/alexrah/wp-admin-custom-post-types@4.0.1
+- pkg:composer/alexrah/wp-admin-custom-post-types@4.0.2
+- pkg:composer/alexrah/wp-admin-custom-post-types@4.0.3
+- pkg:composer/alexrah/wp-admin-custom-post-types@4.0.4
