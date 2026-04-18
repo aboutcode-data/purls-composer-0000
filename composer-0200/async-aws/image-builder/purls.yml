@@ -1,2 +1,3 @@
 - pkg:composer/async-aws/image-builder@0.1.0
 - pkg:composer/async-aws/image-builder@1.0.0
+- pkg:composer/async-aws/image-builder@1.1.0
