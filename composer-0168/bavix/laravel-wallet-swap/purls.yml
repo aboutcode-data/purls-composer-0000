@@ -12,3 +12,4 @@
 - pkg:composer/bavix/laravel-wallet-swap@6.0.1
 - pkg:composer/bavix/laravel-wallet-swap@7.0.0
 - pkg:composer/bavix/laravel-wallet-swap@7.0.1
+- pkg:composer/bavix/laravel-wallet-swap@8.0.0
