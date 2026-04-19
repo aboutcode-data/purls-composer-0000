@@ -151,6 +151,7 @@
 - pkg:composer/composer/composer@2.2.24
 - pkg:composer/composer/composer@2.2.25
 - pkg:composer/composer/composer@2.2.26
+- pkg:composer/composer/composer@2.2.27
 - pkg:composer/composer/composer@2.2.3
 - pkg:composer/composer/composer@2.2.4
 - pkg:composer/composer/composer@2.2.5
@@ -223,3 +224,5 @@
 - pkg:composer/composer/composer@2.9.3
 - pkg:composer/composer/composer@2.9.4
 - pkg:composer/composer/composer@2.9.5
+- pkg:composer/composer/composer@2.9.6
+- pkg:composer/composer/composer@2.9.7

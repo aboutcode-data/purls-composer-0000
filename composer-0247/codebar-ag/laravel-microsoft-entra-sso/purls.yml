@@ -5,3 +5,4 @@
 - pkg:composer/codebar-ag/laravel-microsoft-entra-sso@v1.0
 - pkg:composer/codebar-ag/laravel-microsoft-entra-sso@v13.0.0
 - pkg:composer/codebar-ag/laravel-microsoft-entra-sso@v13.1.0
+- pkg:composer/codebar-ag/laravel-microsoft-entra-sso@v13.2.0

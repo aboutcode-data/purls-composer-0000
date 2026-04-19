@@ -966,6 +966,12 @@
 - pkg:composer/citation-style-language/styles@v0.2.138
 - pkg:composer/citation-style-language/styles@v0.2.139
 - pkg:composer/citation-style-language/styles@v0.2.14
+- pkg:composer/citation-style-language/styles@v0.2.140
+- pkg:composer/citation-style-language/styles@v0.2.141
+- pkg:composer/citation-style-language/styles@v0.2.142
+- pkg:composer/citation-style-language/styles@v0.2.143
+- pkg:composer/citation-style-language/styles@v0.2.144
+- pkg:composer/citation-style-language/styles@v0.2.145
 - pkg:composer/citation-style-language/styles@v0.2.15
 - pkg:composer/citation-style-language/styles@v0.2.16
 - pkg:composer/citation-style-language/styles@v0.2.17

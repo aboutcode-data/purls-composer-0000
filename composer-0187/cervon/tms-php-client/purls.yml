@@ -5,3 +5,4 @@
 - pkg:composer/cervon/tms-php-client@v0.0.5
 - pkg:composer/cervon/tms-php-client@v0.0.6
 - pkg:composer/cervon/tms-php-client@v0.0.7
+- pkg:composer/cervon/tms-php-client@v0.0.8
