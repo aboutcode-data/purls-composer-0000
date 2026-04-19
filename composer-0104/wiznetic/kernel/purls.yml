@@ -3,3 +3,4 @@
 - pkg:composer/wiznetic/kernel@v1.1.0
 - pkg:composer/wiznetic/kernel@v1.2.0
 - pkg:composer/wiznetic/kernel@v1.4.0
+- pkg:composer/wiznetic/kernel@v2.0.0
