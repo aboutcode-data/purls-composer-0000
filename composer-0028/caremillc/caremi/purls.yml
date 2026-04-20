@@ -3,6 +3,11 @@
 - pkg:composer/caremillc/caremi@v10.0.0
 - pkg:composer/caremillc/caremi@v11.0.0
 - pkg:composer/caremillc/caremi@v12.0.0
+- pkg:composer/caremillc/caremi@v14.0.0
+- pkg:composer/caremillc/caremi@v15.0.0
+- pkg:composer/caremillc/caremi@v16.0.0
+- pkg:composer/caremillc/caremi@v17.0.0
+- pkg:composer/caremillc/caremi@v18.0.0
 - pkg:composer/caremillc/caremi@v2.0.0
 - pkg:composer/caremillc/caremi@v3.0.0
 - pkg:composer/caremillc/caremi@v4.0.0

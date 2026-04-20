@@ -1,2 +1,4 @@
 - pkg:composer/constup/php-collections@1.0.0
 - pkg:composer/constup/php-collections@1.1.0
+- pkg:composer/constup/php-collections@1.1.1
+- pkg:composer/constup/php-collections@1.1.2
