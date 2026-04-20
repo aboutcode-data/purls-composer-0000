@@ -13,7 +13,10 @@
 - pkg:composer/elliotsawyer/silverstripe-typesense@1.0.0-rc1
 - pkg:composer/elliotsawyer/silverstripe-typesense@1.0.0-rc2
 - pkg:composer/elliotsawyer/silverstripe-typesense@1.0.0-rc3
+- pkg:composer/elliotsawyer/silverstripe-typesense@1.0.1
 - pkg:composer/elliotsawyer/silverstripe-typesense@2.0.0
 - pkg:composer/elliotsawyer/silverstripe-typesense@2.0.0-rc1
 - pkg:composer/elliotsawyer/silverstripe-typesense@2.0.0-rc2
 - pkg:composer/elliotsawyer/silverstripe-typesense@2.0.0-rc3
+- pkg:composer/elliotsawyer/silverstripe-typesense@2.0.1
+- pkg:composer/elliotsawyer/silverstripe-typesense@2.0.2

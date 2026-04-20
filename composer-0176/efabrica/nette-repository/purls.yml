@@ -17,3 +17,4 @@
 - pkg:composer/efabrica/nette-repository@0.5.8
 - pkg:composer/efabrica/nette-repository@0.6.0
 - pkg:composer/efabrica/nette-repository@0.7.0
+- pkg:composer/efabrica/nette-repository@0.8.0
