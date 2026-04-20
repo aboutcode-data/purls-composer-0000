@@ -117,3 +117,4 @@
 - pkg:composer/adyen/adyen-shopware6@5.1.1
 - pkg:composer/adyen/adyen-shopware6@5.2.0
 - pkg:composer/adyen/adyen-shopware6@5.2.1
+- pkg:composer/adyen/adyen-shopware6@5.2.2
