@@ -1,6 +1,10 @@
 - pkg:composer/studio-design/auth-sdk-php@v0.2.11
 - pkg:composer/studio-design/auth-sdk-php@v0.2.12
 - pkg:composer/studio-design/auth-sdk-php@v0.2.13
+- pkg:composer/studio-design/auth-sdk-php@v0.2.14
+- pkg:composer/studio-design/auth-sdk-php@v0.2.15
+- pkg:composer/studio-design/auth-sdk-php@v0.2.16
+- pkg:composer/studio-design/auth-sdk-php@v0.2.17
 - pkg:composer/studio-design/auth-sdk-php@v0.2.5
 - pkg:composer/studio-design/auth-sdk-php@v0.2.7
 - pkg:composer/studio-design/auth-sdk-php@v0.2.8
