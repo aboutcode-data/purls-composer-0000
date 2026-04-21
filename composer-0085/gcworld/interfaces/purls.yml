@@ -51,6 +51,7 @@
 - pkg:composer/gcworld/interfaces@4.3.9
 - pkg:composer/gcworld/interfaces@4.4.0
 - pkg:composer/gcworld/interfaces@4.4.1
+- pkg:composer/gcworld/interfaces@4.4.10
 - pkg:composer/gcworld/interfaces@4.4.2
 - pkg:composer/gcworld/interfaces@4.4.3
 - pkg:composer/gcworld/interfaces@4.4.4
@@ -58,3 +59,4 @@
 - pkg:composer/gcworld/interfaces@4.4.6
 - pkg:composer/gcworld/interfaces@4.4.7
 - pkg:composer/gcworld/interfaces@4.4.8
+- pkg:composer/gcworld/interfaces@4.4.9

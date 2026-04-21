@@ -1,2 +1,3 @@
 - pkg:composer/glushkovds/clickhouse-builder@6.1.1
 - pkg:composer/glushkovds/clickhouse-builder@6.1.2
+- pkg:composer/glushkovds/clickhouse-builder@7.0.0
