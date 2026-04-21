@@ -60,3 +60,4 @@
 - pkg:composer/facile-it/paraunit@2.7.0
 - pkg:composer/facile-it/paraunit@2.7.1
 - pkg:composer/facile-it/paraunit@2.8.0
+- pkg:composer/facile-it/paraunit@2.9.0
