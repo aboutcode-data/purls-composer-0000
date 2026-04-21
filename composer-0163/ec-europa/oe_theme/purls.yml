@@ -327,6 +327,7 @@
 - pkg:composer/ec-europa/oe_theme@0.6447.202602162055
 - pkg:composer/ec-europa/oe_theme@0.6447.202602171825
 - pkg:composer/ec-europa/oe_theme@0.6478.202601201600
+- pkg:composer/ec-europa/oe_theme@0.6492.202604211035
 - pkg:composer/ec-europa/oe_theme@0.6497.202601291530
 - pkg:composer/ec-europa/oe_theme@0.6497.202601291531
 - pkg:composer/ec-europa/oe_theme@0.6497.202601291532
@@ -469,4 +470,5 @@
 - pkg:composer/ec-europa/oe_theme@5.0.0-beta7
 - pkg:composer/ec-europa/oe_theme@5.0.0-beta8
 - pkg:composer/ec-europa/oe_theme@5.0.0-beta9
+- pkg:composer/ec-europa/oe_theme@5.0.0-rc1
 - pkg:composer/ec-europa/oe_theme@5104.202501081505

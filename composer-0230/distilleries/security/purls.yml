@@ -11,3 +11,4 @@
 - pkg:composer/distilleries/security@v10.0.1
 - pkg:composer/distilleries/security@v11.0.0
 - pkg:composer/distilleries/security@v12.0.0
+- pkg:composer/distilleries/security@v13.0.0
