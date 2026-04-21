@@ -8,7 +8,10 @@
 - pkg:composer/caremillc/caremi@v16.0.0
 - pkg:composer/caremillc/caremi@v17.0.0
 - pkg:composer/caremillc/caremi@v18.0.0
+- pkg:composer/caremillc/caremi@v19.0.0
 - pkg:composer/caremillc/caremi@v2.0.0
+- pkg:composer/caremillc/caremi@v20.0.0
+- pkg:composer/caremillc/caremi@v21.0.0
 - pkg:composer/caremillc/caremi@v3.0.0
 - pkg:composer/caremillc/caremi@v4.0.0
 - pkg:composer/caremillc/caremi@v5.0.0
