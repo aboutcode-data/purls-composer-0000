@@ -18,3 +18,4 @@
 - pkg:composer/blitz-php/wolke@0.6.1
 - pkg:composer/blitz-php/wolke@1.0.0-rc
 - pkg:composer/blitz-php/wolke@1.1.0-rc
+- pkg:composer/blitz-php/wolke@1.1.1-rc
