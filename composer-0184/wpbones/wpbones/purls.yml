@@ -42,3 +42,5 @@
 - pkg:composer/wpbones/wpbones@v1.11.1
 - pkg:composer/wpbones/wpbones@v2.0.0
 - pkg:composer/wpbones/wpbones@v2.0.1
+- pkg:composer/wpbones/wpbones@v2.0.2
+- pkg:composer/wpbones/wpbones@v2.0.3
