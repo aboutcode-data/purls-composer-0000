@@ -136,6 +136,7 @@
 - pkg:composer/escolalms/auth@0.2.38
 - pkg:composer/escolalms/auth@0.2.39
 - pkg:composer/escolalms/auth@0.2.4
+- pkg:composer/escolalms/auth@0.2.40
 - pkg:composer/escolalms/auth@0.2.5
 - pkg:composer/escolalms/auth@0.2.6
 - pkg:composer/escolalms/auth@0.2.7

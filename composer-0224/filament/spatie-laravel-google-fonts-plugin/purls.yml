@@ -567,6 +567,7 @@
 - pkg:composer/filament/spatie-laravel-google-fonts-plugin@v4.10.0
 - pkg:composer/filament/spatie-laravel-google-fonts-plugin@v4.10.1
 - pkg:composer/filament/spatie-laravel-google-fonts-plugin@v4.10.2
+- pkg:composer/filament/spatie-laravel-google-fonts-plugin@v4.11.0
 - pkg:composer/filament/spatie-laravel-google-fonts-plugin@v4.2.0
 - pkg:composer/filament/spatie-laravel-google-fonts-plugin@v4.2.1
 - pkg:composer/filament/spatie-laravel-google-fonts-plugin@v4.2.2
@@ -634,3 +635,4 @@
 - pkg:composer/filament/spatie-laravel-google-fonts-plugin@v5.5.0
 - pkg:composer/filament/spatie-laravel-google-fonts-plugin@v5.5.1
 - pkg:composer/filament/spatie-laravel-google-fonts-plugin@v5.5.2
+- pkg:composer/filament/spatie-laravel-google-fonts-plugin@v5.6.0
