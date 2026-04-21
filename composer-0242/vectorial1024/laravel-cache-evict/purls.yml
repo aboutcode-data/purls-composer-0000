@@ -11,3 +11,4 @@
 - pkg:composer/vectorial1024/laravel-cache-evict@2.0.8
 - pkg:composer/vectorial1024/laravel-cache-evict@2.0.9
 - pkg:composer/vectorial1024/laravel-cache-evict@2.1.0
+- pkg:composer/vectorial1024/laravel-cache-evict@2.1.1

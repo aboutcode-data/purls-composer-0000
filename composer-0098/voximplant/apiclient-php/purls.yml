@@ -28,3 +28,4 @@
 - pkg:composer/voximplant/apiclient-php@v3.5.0
 - pkg:composer/voximplant/apiclient-php@v3.6.0
 - pkg:composer/voximplant/apiclient-php@v3.7.0
+- pkg:composer/voximplant/apiclient-php@v3.8.0
