@@ -318,6 +318,7 @@
 - pkg:composer/illuminate/macroable@v13.3.0
 - pkg:composer/illuminate/macroable@v13.4.0
 - pkg:composer/illuminate/macroable@v13.5.0
+- pkg:composer/illuminate/macroable@v13.6.0
 - pkg:composer/illuminate/macroable@v8.0.0
 - pkg:composer/illuminate/macroable@v8.0.1
 - pkg:composer/illuminate/macroable@v8.0.2

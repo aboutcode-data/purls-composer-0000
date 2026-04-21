@@ -32,6 +32,8 @@
 - pkg:composer/horde/components@v1.0.0alpha40
 - pkg:composer/horde/components@v1.0.0alpha41
 - pkg:composer/horde/components@v1.0.0alpha42
+- pkg:composer/horde/components@v1.0.0alpha43
+- pkg:composer/horde/components@v1.0.0alpha44
 - pkg:composer/horde/components@v1.0.0alpha5
 - pkg:composer/horde/components@v1.0.0alpha6
 - pkg:composer/horde/components@v1.0.0alpha7

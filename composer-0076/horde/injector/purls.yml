@@ -16,3 +16,6 @@
 - pkg:composer/horde/injector@v3.0.0alpha8
 - pkg:composer/horde/injector@v3.0.0alpha9
 - pkg:composer/horde/injector@v3.0.0beta1
+- pkg:composer/horde/injector@v3.0.0beta2
+- pkg:composer/horde/injector@v3.0.0beta3
+- pkg:composer/horde/injector@v3.0.0beta4

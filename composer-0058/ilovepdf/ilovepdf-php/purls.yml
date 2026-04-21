@@ -36,3 +36,5 @@
 - pkg:composer/ilovepdf/ilovepdf-php@v1.2.4
 - pkg:composer/ilovepdf/ilovepdf-php@v1.2.5
 - pkg:composer/ilovepdf/ilovepdf-php@v1.2.6
+- pkg:composer/ilovepdf/ilovepdf-php@v1.3.0
+- pkg:composer/ilovepdf/ilovepdf-php@v1.3.1
