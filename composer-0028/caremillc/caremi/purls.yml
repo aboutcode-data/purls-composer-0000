@@ -18,7 +18,11 @@
 - pkg:composer/caremillc/caremi@v25.0.0
 - pkg:composer/caremillc/caremi@v26.0.0
 - pkg:composer/caremillc/caremi@v27.0.0
+- pkg:composer/caremillc/caremi@v28.0.0
+- pkg:composer/caremillc/caremi@v29.0.0
 - pkg:composer/caremillc/caremi@v3.0.0
+- pkg:composer/caremillc/caremi@v30.0.0
+- pkg:composer/caremillc/caremi@v31.0.0
 - pkg:composer/caremillc/caremi@v4.0.0
 - pkg:composer/caremillc/caremi@v5.0.0
 - pkg:composer/caremillc/caremi@v6.0.0
