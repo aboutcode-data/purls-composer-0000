@@ -28,6 +28,8 @@
 - pkg:composer/endroid/quality@1.11.3
 - pkg:composer/endroid/quality@1.11.4
 - pkg:composer/endroid/quality@1.11.5
+- pkg:composer/endroid/quality@1.11.6
+- pkg:composer/endroid/quality@1.11.7
 - pkg:composer/endroid/quality@1.2.0
 - pkg:composer/endroid/quality@1.2.1
 - pkg:composer/endroid/quality@1.2.2
@@ -89,3 +91,4 @@
 - pkg:composer/endroid/quality@1.9.6
 - pkg:composer/endroid/quality@1.9.7
 - pkg:composer/endroid/quality@1.9.8
+- pkg:composer/endroid/quality@2.0.0
