@@ -9,6 +9,8 @@
 - pkg:composer/ghazym/laravel-module-suite@1.2.8
 - pkg:composer/ghazym/laravel-module-suite@2.0.0
 - pkg:composer/ghazym/laravel-module-suite@2.0.1
+- pkg:composer/ghazym/laravel-module-suite@2.0.10
+- pkg:composer/ghazym/laravel-module-suite@2.0.11
 - pkg:composer/ghazym/laravel-module-suite@2.0.2
 - pkg:composer/ghazym/laravel-module-suite@2.0.3
 - pkg:composer/ghazym/laravel-module-suite@2.0.4
