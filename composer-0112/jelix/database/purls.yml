@@ -12,3 +12,4 @@
 - pkg:composer/jelix/database@v1.3.2
 - pkg:composer/jelix/database@v1.4.0
 - pkg:composer/jelix/database@v1.4.0-beta.1
+- pkg:composer/jelix/database@v1.4.1

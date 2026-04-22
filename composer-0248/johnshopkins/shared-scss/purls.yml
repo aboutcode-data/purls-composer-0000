@@ -43,6 +43,7 @@
 - pkg:composer/johnshopkins/shared-scss@v2.0.0
 - pkg:composer/johnshopkins/shared-scss@v2.1.0
 - pkg:composer/johnshopkins/shared-scss@v2.1.1
+- pkg:composer/johnshopkins/shared-scss@v2.10.0
 - pkg:composer/johnshopkins/shared-scss@v2.2.0
 - pkg:composer/johnshopkins/shared-scss@v2.3.0
 - pkg:composer/johnshopkins/shared-scss@v2.3.1
