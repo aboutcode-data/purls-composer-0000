@@ -10,3 +10,5 @@
 - pkg:composer/hihaho/phpstan-rules@v2.2.0
 - pkg:composer/hihaho/phpstan-rules@v3.0.0
 - pkg:composer/hihaho/phpstan-rules@v3.1.0
+- pkg:composer/hihaho/phpstan-rules@v3.1.1
+- pkg:composer/hihaho/phpstan-rules@v3.1.2

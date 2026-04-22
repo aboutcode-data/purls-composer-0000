@@ -16,3 +16,4 @@
 - pkg:composer/ignited/laravel-omnipay@3.5.0
 - pkg:composer/ignited/laravel-omnipay@3.6.0
 - pkg:composer/ignited/laravel-omnipay@3.7.0
+- pkg:composer/ignited/laravel-omnipay@3.8.0
