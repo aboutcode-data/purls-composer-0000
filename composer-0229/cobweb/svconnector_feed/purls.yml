@@ -12,3 +12,4 @@
 - pkg:composer/cobweb/svconnector_feed@4.0.1
 - pkg:composer/cobweb/svconnector_feed@4.1.0
 - pkg:composer/cobweb/svconnector_feed@5.0.0
+- pkg:composer/cobweb/svconnector_feed@6.0.0
