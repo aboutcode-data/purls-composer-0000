@@ -1,3 +1,4 @@
 - pkg:composer/andrewdevelop/event-sourcing@1.0.0
 - pkg:composer/andrewdevelop/event-sourcing@2.0.0
 - pkg:composer/andrewdevelop/event-sourcing@2.2.3
+- pkg:composer/andrewdevelop/event-sourcing@2.2.4

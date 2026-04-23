@@ -36,3 +36,4 @@
 - pkg:composer/ans-group/laravel-health-check@v2.0.2
 - pkg:composer/ans-group/laravel-health-check@v2.1.0
 - pkg:composer/ans-group/laravel-health-check@v2.1.1
+- pkg:composer/ans-group/laravel-health-check@v3.0.0
