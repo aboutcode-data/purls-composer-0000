@@ -21,3 +21,4 @@
 - pkg:composer/emaia/laravel-hotwire@0.7.4
 - pkg:composer/emaia/laravel-hotwire@0.7.5
 - pkg:composer/emaia/laravel-hotwire@0.7.6
+- pkg:composer/emaia/laravel-hotwire@0.8.0
