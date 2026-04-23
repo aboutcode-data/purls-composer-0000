@@ -18,3 +18,5 @@
 - pkg:composer/laravel-enso/excel@3.1.6
 - pkg:composer/laravel-enso/excel@3.2.0
 - pkg:composer/laravel-enso/excel@3.2.1
+- pkg:composer/laravel-enso/excel@3.2.2
+- pkg:composer/laravel-enso/excel@3.2.3

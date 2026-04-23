@@ -1,2 +1,4 @@
 - pkg:composer/krasomir/laravel-env-set-command@v1.0.0
 - pkg:composer/krasomir/laravel-env-set-command@v1.1.0
+- pkg:composer/krasomir/laravel-env-set-command@v2.0.0
+- pkg:composer/krasomir/laravel-env-set-command@v2.1.0
