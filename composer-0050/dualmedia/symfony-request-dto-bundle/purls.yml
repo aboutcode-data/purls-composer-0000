@@ -17,3 +17,5 @@
 - pkg:composer/dualmedia/symfony-request-dto-bundle@3.4.0
 - pkg:composer/dualmedia/symfony-request-dto-bundle@3.4.1
 - pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.0
+- pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.1
+- pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.2
