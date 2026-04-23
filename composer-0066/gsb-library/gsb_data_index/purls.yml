@@ -5,6 +5,7 @@
 - pkg:composer/gsb-library/gsb_data_index@v0.0.14
 - pkg:composer/gsb-library/gsb_data_index@v0.0.15
 - pkg:composer/gsb-library/gsb_data_index@v0.0.16
+- pkg:composer/gsb-library/gsb_data_index@v0.0.17
 - pkg:composer/gsb-library/gsb_data_index@v0.0.2
 - pkg:composer/gsb-library/gsb_data_index@v0.0.3
 - pkg:composer/gsb-library/gsb_data_index@v0.0.4
