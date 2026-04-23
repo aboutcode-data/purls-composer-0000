@@ -26,5 +26,6 @@
 - pkg:composer/cundd/assetic@6.0.2
 - pkg:composer/cundd/assetic@7.0.0-alpha.1
 - pkg:composer/cundd/assetic@7.0.0-beta
+- pkg:composer/cundd/assetic@7.0.0-beta2
 - pkg:composer/cundd/assetic@v1.1
 - pkg:composer/cundd/assetic@v1.2.0
