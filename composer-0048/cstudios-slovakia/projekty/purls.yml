@@ -1,4 +1,6 @@
 - pkg:composer/cstudios-slovakia/projekty@1.0.0
+- pkg:composer/cstudios-slovakia/projekty@1.9.12
+- pkg:composer/cstudios-slovakia/projekty@1.9.13
 - pkg:composer/cstudios-slovakia/projekty@v1.1.0
 - pkg:composer/cstudios-slovakia/projekty@v1.1.1
 - pkg:composer/cstudios-slovakia/projekty@v1.2.0
@@ -90,6 +92,7 @@
 - pkg:composer/cstudios-slovakia/projekty@v1.9.0
 - pkg:composer/cstudios-slovakia/projekty@v1.9.1
 - pkg:composer/cstudios-slovakia/projekty@v1.9.10
+- pkg:composer/cstudios-slovakia/projekty@v1.9.11
 - pkg:composer/cstudios-slovakia/projekty@v1.9.2
 - pkg:composer/cstudios-slovakia/projekty@v1.9.3
 - pkg:composer/cstudios-slovakia/projekty@v1.9.4
