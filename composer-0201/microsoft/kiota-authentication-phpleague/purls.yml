@@ -24,3 +24,4 @@
 - pkg:composer/microsoft/kiota-authentication-phpleague@1.5.2
 - pkg:composer/microsoft/kiota-authentication-phpleague@2.0.0
 - pkg:composer/microsoft/kiota-authentication-phpleague@2.0.1
+- pkg:composer/microsoft/kiota-authentication-phpleague@2.0.2

@@ -14,3 +14,4 @@
 - pkg:composer/mangoweb/monolog-tracy-handler@v1.0.3
 - pkg:composer/mangoweb/monolog-tracy-handler@v1.1.0
 - pkg:composer/mangoweb/monolog-tracy-handler@v1.2.0
+- pkg:composer/mangoweb/monolog-tracy-handler@v2.0.0
