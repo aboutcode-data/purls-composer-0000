@@ -16,3 +16,4 @@
 - pkg:composer/ianrothmann/aininja-laravel-sdk@2.6
 - pkg:composer/ianrothmann/aininja-laravel-sdk@2.7
 - pkg:composer/ianrothmann/aininja-laravel-sdk@2.8
+- pkg:composer/ianrothmann/aininja-laravel-sdk@2.9
