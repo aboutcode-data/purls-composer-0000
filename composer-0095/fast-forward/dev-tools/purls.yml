@@ -10,8 +10,11 @@
 - pkg:composer/fast-forward/dev-tools@v1.17.0
 - pkg:composer/fast-forward/dev-tools@v1.17.1
 - pkg:composer/fast-forward/dev-tools@v1.18.0
+- pkg:composer/fast-forward/dev-tools@v1.19.0
 - pkg:composer/fast-forward/dev-tools@v1.2.0
 - pkg:composer/fast-forward/dev-tools@v1.2.1
+- pkg:composer/fast-forward/dev-tools@v1.20.0
+- pkg:composer/fast-forward/dev-tools@v1.21.0
 - pkg:composer/fast-forward/dev-tools@v1.3.0
 - pkg:composer/fast-forward/dev-tools@v1.4.0
 - pkg:composer/fast-forward/dev-tools@v1.5.0
