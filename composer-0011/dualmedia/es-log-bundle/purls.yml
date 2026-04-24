@@ -12,3 +12,4 @@
 - pkg:composer/dualmedia/es-log-bundle@1.5
 - pkg:composer/dualmedia/es-log-bundle@1.5.1
 - pkg:composer/dualmedia/es-log-bundle@1.5.2
+- pkg:composer/dualmedia/es-log-bundle@2.0.0

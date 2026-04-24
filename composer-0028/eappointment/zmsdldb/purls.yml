@@ -85,6 +85,7 @@
 - pkg:composer/eappointment/zmsdldb@2.30.02
 - pkg:composer/eappointment/zmsdldb@2.30.03
 - pkg:composer/eappointment/zmsdldb@2.30.04
+- pkg:composer/eappointment/zmsdldb@2.30.05
 - pkg:composer/eappointment/zmsdldb@2025.1.0
 - pkg:composer/eappointment/zmsdldb@2025.2.0
 - pkg:composer/eappointment/zmsdldb@2025.2.3
