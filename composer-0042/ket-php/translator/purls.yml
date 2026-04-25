@@ -1,3 +1,4 @@
 - pkg:composer/ket-php/translator@1.0
 - pkg:composer/ket-php/translator@2.0
 - pkg:composer/ket-php/translator@2.1
+- pkg:composer/ket-php/translator@3.0

@@ -21,6 +21,7 @@
 - pkg:composer/kitodo/publication@v3.1.5
 - pkg:composer/kitodo/publication@v3.1.6
 - pkg:composer/kitodo/publication@v3.1.7
+- pkg:composer/kitodo/publication@v3.1.8
 - pkg:composer/kitodo/publication@v4.0.0-beta
 - pkg:composer/kitodo/publication@v5.0.0
 - pkg:composer/kitodo/publication@v5.0.0-beta
