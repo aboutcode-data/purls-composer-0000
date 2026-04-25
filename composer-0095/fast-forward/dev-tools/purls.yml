@@ -15,6 +15,10 @@
 - pkg:composer/fast-forward/dev-tools@v1.2.1
 - pkg:composer/fast-forward/dev-tools@v1.20.0
 - pkg:composer/fast-forward/dev-tools@v1.21.0
+- pkg:composer/fast-forward/dev-tools@v1.22.0
+- pkg:composer/fast-forward/dev-tools@v1.22.1
+- pkg:composer/fast-forward/dev-tools@v1.22.2
+- pkg:composer/fast-forward/dev-tools@v1.22.3
 - pkg:composer/fast-forward/dev-tools@v1.3.0
 - pkg:composer/fast-forward/dev-tools@v1.4.0
 - pkg:composer/fast-forward/dev-tools@v1.5.0
