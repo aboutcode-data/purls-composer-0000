@@ -28,10 +28,12 @@
 - pkg:composer/solution-forest/inspirecms-core@1.2.1
 - pkg:composer/solution-forest/inspirecms-core@1.2.2
 - pkg:composer/solution-forest/inspirecms-core@1.2.3
+- pkg:composer/solution-forest/inspirecms-core@1.2.4
 - pkg:composer/solution-forest/inspirecms-core@4.0.0
 - pkg:composer/solution-forest/inspirecms-core@4.0.0.beta.1
 - pkg:composer/solution-forest/inspirecms-core@4.0.1
 - pkg:composer/solution-forest/inspirecms-core@4.0.10
+- pkg:composer/solution-forest/inspirecms-core@4.0.11
 - pkg:composer/solution-forest/inspirecms-core@4.0.2
 - pkg:composer/solution-forest/inspirecms-core@4.0.3
 - pkg:composer/solution-forest/inspirecms-core@4.0.4
@@ -40,3 +42,4 @@
 - pkg:composer/solution-forest/inspirecms-core@4.0.7
 - pkg:composer/solution-forest/inspirecms-core@4.0.8
 - pkg:composer/solution-forest/inspirecms-core@4.0.9
+- pkg:composer/solution-forest/inspirecms-core@5.0.0

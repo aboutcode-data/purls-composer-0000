@@ -8,3 +8,4 @@
 - pkg:composer/stgbundle/cas-bundle@6.2
 - pkg:composer/stgbundle/cas-bundle@7.0
 - pkg:composer/stgbundle/cas-bundle@7.1
+- pkg:composer/stgbundle/cas-bundle@8.0.0

@@ -12,3 +12,4 @@
 - pkg:composer/spryker/dynamic-entity-gui@1.5.3
 - pkg:composer/spryker/dynamic-entity-gui@1.5.4
 - pkg:composer/spryker/dynamic-entity-gui@1.6.0
+- pkg:composer/spryker/dynamic-entity-gui@1.6.1

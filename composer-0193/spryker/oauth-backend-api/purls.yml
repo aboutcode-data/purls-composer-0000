@@ -10,3 +10,4 @@
 - pkg:composer/spryker/oauth-backend-api@1.5.0
 - pkg:composer/spryker/oauth-backend-api@1.6.0
 - pkg:composer/spryker/oauth-backend-api@1.7.0
+- pkg:composer/spryker/oauth-backend-api@1.7.1

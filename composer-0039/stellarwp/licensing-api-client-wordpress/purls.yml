@@ -16,3 +16,4 @@
 - pkg:composer/stellarwp/licensing-api-client-wordpress@0.9.3
 - pkg:composer/stellarwp/licensing-api-client-wordpress@0.9.4
 - pkg:composer/stellarwp/licensing-api-client-wordpress@1.0.0
+- pkg:composer/stellarwp/licensing-api-client-wordpress@2.0.0
