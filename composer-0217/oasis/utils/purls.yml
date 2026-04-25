@@ -27,3 +27,7 @@
 - pkg:composer/oasis/utils@v1.9.0
 - pkg:composer/oasis/utils@v1.9.1
 - pkg:composer/oasis/utils@v1.9.2
+- pkg:composer/oasis/utils@v1.9.3
+- pkg:composer/oasis/utils@v2.0.0
+- pkg:composer/oasis/utils@v2.0.1
+- pkg:composer/oasis/utils@v2.0.2

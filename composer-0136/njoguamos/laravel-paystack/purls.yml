@@ -1,4 +1,5 @@
 - pkg:composer/njoguamos/laravel-paystack@v1.0.0-beta.1
+- pkg:composer/njoguamos/laravel-paystack@v1.0.0-beta.10
 - pkg:composer/njoguamos/laravel-paystack@v1.0.0-beta.2
 - pkg:composer/njoguamos/laravel-paystack@v1.0.0-beta.3
 - pkg:composer/njoguamos/laravel-paystack@v1.0.0-beta.4

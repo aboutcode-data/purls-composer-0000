@@ -12,3 +12,5 @@
 - pkg:composer/oasis/multitasking@v1.3.3
 - pkg:composer/oasis/multitasking@v1.3.4
 - pkg:composer/oasis/multitasking@v1.3.5
+- pkg:composer/oasis/multitasking@v2.0.0
+- pkg:composer/oasis/multitasking@v2.0.1
