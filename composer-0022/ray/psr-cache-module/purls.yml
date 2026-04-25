@@ -14,3 +14,4 @@
 - pkg:composer/ray/psr-cache-module@1.4.0
 - pkg:composer/ray/psr-cache-module@1.5.0
 - pkg:composer/ray/psr-cache-module@1.5.1
+- pkg:composer/ray/psr-cache-module@1.5.2
