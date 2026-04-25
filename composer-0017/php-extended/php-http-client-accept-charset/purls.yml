@@ -69,3 +69,5 @@
 - pkg:composer/php-extended/php-http-client-accept-charset@9.0.0
 - pkg:composer/php-extended/php-http-client-accept-charset@9.0.1
 - pkg:composer/php-extended/php-http-client-accept-charset@9.0.2
+- pkg:composer/php-extended/php-http-client-accept-charset@9.0.3
+- pkg:composer/php-extended/php-http-client-accept-charset@9.0.4

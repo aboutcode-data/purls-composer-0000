@@ -1,0 +1,2 @@
+- pkg:composer/playercentral/laravel-mqtt-broker@v0.1.0
+- pkg:composer/playercentral/laravel-mqtt-broker@v0.1.1

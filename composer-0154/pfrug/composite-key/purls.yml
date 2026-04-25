@@ -1,2 +1,4 @@
 - pkg:composer/pfrug/composite-key@v1.0.0
 - pkg:composer/pfrug/composite-key@v2.0.0
+- pkg:composer/pfrug/composite-key@v3.0.0
+- pkg:composer/pfrug/composite-key@v3.0.1

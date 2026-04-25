@@ -53,3 +53,4 @@
 - pkg:composer/phpgt/dom@v4.1.7
 - pkg:composer/phpgt/dom@v4.1.8
 - pkg:composer/phpgt/dom@v4.1.9
+- pkg:composer/phpgt/dom@v4.2.0

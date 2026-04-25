@@ -43,6 +43,7 @@
 - pkg:composer/phpclassic/php-shopify@v1.2.13
 - pkg:composer/phpclassic/php-shopify@v1.2.14
 - pkg:composer/phpclassic/php-shopify@v1.2.15
+- pkg:composer/phpclassic/php-shopify@v1.2.16
 - pkg:composer/phpclassic/php-shopify@v1.2.2
 - pkg:composer/phpclassic/php-shopify@v1.2.3
 - pkg:composer/phpclassic/php-shopify@v1.2.4

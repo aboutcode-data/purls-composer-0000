@@ -24,3 +24,4 @@
 - pkg:composer/paxport/amadeus-ws-client@v1.9.6
 - pkg:composer/paxport/amadeus-ws-client@v1.9.7
 - pkg:composer/paxport/amadeus-ws-client@v1.9.8
+- pkg:composer/paxport/amadeus-ws-client@v1.9.9

@@ -31,3 +31,4 @@
 - pkg:composer/pimcore/perspective-editor@v2.0.0-RC2
 - pkg:composer/pimcore/perspective-editor@v2.1.0
 - pkg:composer/pimcore/perspective-editor@v2.2.0
+- pkg:composer/pimcore/perspective-editor@v2.2.1

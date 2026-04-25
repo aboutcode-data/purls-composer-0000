@@ -305,3 +305,5 @@
 - pkg:composer/php-extended/php-tld-provider-mozilla@9.0.0
 - pkg:composer/php-extended/php-tld-provider-mozilla@9.0.1
 - pkg:composer/php-extended/php-tld-provider-mozilla@9.0.2
+- pkg:composer/php-extended/php-tld-provider-mozilla@9.0.3
+- pkg:composer/php-extended/php-tld-provider-mozilla@9.0.4

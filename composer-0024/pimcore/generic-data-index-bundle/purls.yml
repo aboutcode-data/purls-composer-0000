@@ -40,4 +40,6 @@
 - pkg:composer/pimcore/generic-data-index-bundle@v2.4.0
 - pkg:composer/pimcore/generic-data-index-bundle@v2.4.1
 - pkg:composer/pimcore/generic-data-index-bundle@v2.5.0
+- pkg:composer/pimcore/generic-data-index-bundle@v2.5.1
 - pkg:composer/pimcore/generic-data-index-bundle@v2026.1.0
+- pkg:composer/pimcore/generic-data-index-bundle@v2026.1.1
