@@ -15,3 +15,5 @@
 - pkg:composer/lindemannrock/craft-campaign-manager@5.7.2
 - pkg:composer/lindemannrock/craft-campaign-manager@5.7.3
 - pkg:composer/lindemannrock/craft-campaign-manager@5.7.4
+- pkg:composer/lindemannrock/craft-campaign-manager@5.8.0
+- pkg:composer/lindemannrock/craft-campaign-manager@5.8.1
