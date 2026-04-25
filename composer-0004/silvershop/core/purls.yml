@@ -30,3 +30,5 @@
 - pkg:composer/silvershop/core@3.2.0
 - pkg:composer/silvershop/core@3.3.0
 - pkg:composer/silvershop/core@3.3.1
+- pkg:composer/silvershop/core@4.0.0
+- pkg:composer/silvershop/core@6.0.0

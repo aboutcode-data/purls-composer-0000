@@ -9,3 +9,4 @@
 - pkg:composer/schema-keeper/schema-keeper@v2.1.1
 - pkg:composer/schema-keeper/schema-keeper@v2.2.0
 - pkg:composer/schema-keeper/schema-keeper@v4.0.0
+- pkg:composer/schema-keeper/schema-keeper@v4.0.1

@@ -4,3 +4,4 @@
 - pkg:composer/sidalex/swoole-app@0.2.4
 - pkg:composer/sidalex/swoole-app@0.2.5
 - pkg:composer/sidalex/swoole-app@0.2.6
+- pkg:composer/sidalex/swoole-app@0.3.0

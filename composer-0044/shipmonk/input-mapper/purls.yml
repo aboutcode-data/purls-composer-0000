@@ -16,3 +16,4 @@
 - pkg:composer/shipmonk/input-mapper@0.9.2
 - pkg:composer/shipmonk/input-mapper@0.9.3
 - pkg:composer/shipmonk/input-mapper@2.0.0
+- pkg:composer/shipmonk/input-mapper@2.1.0
