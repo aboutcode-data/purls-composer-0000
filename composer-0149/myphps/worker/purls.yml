@@ -2,3 +2,4 @@
 - pkg:composer/myphps/worker@1.1
 - pkg:composer/myphps/worker@1.2
 - pkg:composer/myphps/worker@1.4
+- pkg:composer/myphps/worker@1.5

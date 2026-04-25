@@ -9,3 +9,7 @@
 - pkg:composer/netresearch/nr-image-optimize@2.1.0
 - pkg:composer/netresearch/nr-image-optimize@2.2.0
 - pkg:composer/netresearch/nr-image-optimize@2.2.1
+- pkg:composer/netresearch/nr-image-optimize@v1.1.1
+- pkg:composer/netresearch/nr-image-optimize@v1.1.2
+- pkg:composer/netresearch/nr-image-optimize@v2.2.2
+- pkg:composer/netresearch/nr-image-optimize@v2.2.3

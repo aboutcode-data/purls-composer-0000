@@ -14,8 +14,6 @@
 - pkg:composer/netzmacher/startgreen@10.4.2
 - pkg:composer/netzmacher/startgreen@10.4.3
 - pkg:composer/netzmacher/startgreen@10.4.4
-- pkg:composer/netzmacher/startgreen@10.4.4-patch1
-- pkg:composer/netzmacher/startgreen@10.4.4-patch2
 - pkg:composer/netzmacher/startgreen@10.4.5
 - pkg:composer/netzmacher/startgreen@4.0.16
 - pkg:composer/netzmacher/startgreen@4.0.17

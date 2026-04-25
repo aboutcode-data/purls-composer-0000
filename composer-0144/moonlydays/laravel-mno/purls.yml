@@ -8,3 +8,5 @@
 - pkg:composer/moonlydays/laravel-mno@1.2.2
 - pkg:composer/moonlydays/laravel-mno@1.3.0
 - pkg:composer/moonlydays/laravel-mno@1.4.0
+- pkg:composer/moonlydays/laravel-mno@2.0.0
+- pkg:composer/moonlydays/laravel-mno@2.0.1
