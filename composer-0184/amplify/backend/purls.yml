@@ -29,3 +29,4 @@
 - pkg:composer/amplify/backend@1.1.9
 - pkg:composer/amplify/backend@1.2.0
 - pkg:composer/amplify/backend@1.2.1
+- pkg:composer/amplify/backend@1.2.2
