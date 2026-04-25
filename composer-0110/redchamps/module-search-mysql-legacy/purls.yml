@@ -6,3 +6,6 @@
 - pkg:composer/redchamps/module-search-mysql-legacy@1.1.12
 - pkg:composer/redchamps/module-search-mysql-legacy@1.1.8
 - pkg:composer/redchamps/module-search-mysql-legacy@1.1.9
+- pkg:composer/redchamps/module-search-mysql-legacy@1.2.1
+- pkg:composer/redchamps/module-search-mysql-legacy@1.2.2
+- pkg:composer/redchamps/module-search-mysql-legacy@1.2.3
