@@ -8,3 +8,4 @@
 - pkg:composer/lightszentip/laravel-release-changelog-generator@0.4.0
 - pkg:composer/lightszentip/laravel-release-changelog-generator@0.4.1
 - pkg:composer/lightszentip/laravel-release-changelog-generator@1.0.0
+- pkg:composer/lightszentip/laravel-release-changelog-generator@1.1.0
