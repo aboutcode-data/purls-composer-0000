@@ -21,3 +21,7 @@
 - pkg:composer/viames/pair_boilerplate@1.5.4
 - pkg:composer/viames/pair_boilerplate@1.6.0
 - pkg:composer/viames/pair_boilerplate@2.0.0
+- pkg:composer/viames/pair_boilerplate@3.0.0
+- pkg:composer/viames/pair_boilerplate@3.0.0-alpha
+- pkg:composer/viames/pair_boilerplate@3.0.0-beta
+- pkg:composer/viames/pair_boilerplate@4.0.0-alpha

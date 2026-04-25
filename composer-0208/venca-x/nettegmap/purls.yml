@@ -7,6 +7,7 @@
 - pkg:composer/venca-x/nettegmap@1.3.4
 - pkg:composer/venca-x/nettegmap@1.3.5
 - pkg:composer/venca-x/nettegmap@1.3.6
+- pkg:composer/venca-x/nettegmap@1.4.2
 - pkg:composer/venca-x/nettegmap@v1.0.0
 - pkg:composer/venca-x/nettegmap@v1.0.1
 - pkg:composer/venca-x/nettegmap@v1.0.2
@@ -15,3 +16,5 @@
 - pkg:composer/venca-x/nettegmap@v1.1.2
 - pkg:composer/venca-x/nettegmap@v1.1.3
 - pkg:composer/venca-x/nettegmap@v1.1.4
+- pkg:composer/venca-x/nettegmap@v1.4.0
+- pkg:composer/venca-x/nettegmap@v1.4.1

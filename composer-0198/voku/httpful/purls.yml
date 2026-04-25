@@ -39,6 +39,7 @@
 - pkg:composer/voku/httpful@2.4.9
 - pkg:composer/voku/httpful@3.0.0
 - pkg:composer/voku/httpful@3.0.1
+- pkg:composer/voku/httpful@3.1.0
 - pkg:composer/voku/httpful@v0.10.0
 - pkg:composer/voku/httpful@v0.2.23
 - pkg:composer/voku/httpful@v0.2.24
