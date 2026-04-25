@@ -46,6 +46,7 @@
 - pkg:composer/mimmi20/ua-normalizer@7.0.6
 - pkg:composer/mimmi20/ua-normalizer@8.0.0
 - pkg:composer/mimmi20/ua-normalizer@8.0.1
+- pkg:composer/mimmi20/ua-normalizer@8.0.10
 - pkg:composer/mimmi20/ua-normalizer@8.0.2
 - pkg:composer/mimmi20/ua-normalizer@8.0.3
 - pkg:composer/mimmi20/ua-normalizer@8.0.4
@@ -54,3 +55,4 @@
 - pkg:composer/mimmi20/ua-normalizer@8.0.7
 - pkg:composer/mimmi20/ua-normalizer@8.0.8
 - pkg:composer/mimmi20/ua-normalizer@8.0.9
+- pkg:composer/mimmi20/ua-normalizer@9.0.0
