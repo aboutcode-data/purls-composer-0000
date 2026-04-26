@@ -153,3 +153,5 @@
 - pkg:composer/php-feed-io/feed-io@v6.1.1
 - pkg:composer/php-feed-io/feed-io@v6.1.2
 - pkg:composer/php-feed-io/feed-io@v6.2.0
+- pkg:composer/php-feed-io/feed-io@v6.3.0
+- pkg:composer/php-feed-io/feed-io@v6.3.1
