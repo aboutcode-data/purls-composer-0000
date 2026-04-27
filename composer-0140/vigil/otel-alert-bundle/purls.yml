@@ -1,1 +1,2 @@
 - pkg:composer/vigil/otel-alert-bundle@1.0.0
+- pkg:composer/vigil/otel-alert-bundle@v1.5.0

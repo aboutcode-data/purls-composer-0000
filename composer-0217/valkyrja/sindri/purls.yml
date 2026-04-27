@@ -1,1 +1,3 @@
 - pkg:composer/valkyrja/sindri@v26.0.0
+- pkg:composer/valkyrja/sindri@v26.1.0
+- pkg:composer/valkyrja/sindri@v26.1.1
