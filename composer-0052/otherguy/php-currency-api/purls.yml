@@ -8,3 +8,4 @@
 - pkg:composer/otherguy/php-currency-api@1.5
 - pkg:composer/otherguy/php-currency-api@1.6
 - pkg:composer/otherguy/php-currency-api@1.7
+- pkg:composer/otherguy/php-currency-api@2.0.0
