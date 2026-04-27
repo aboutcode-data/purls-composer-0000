@@ -1,1 +1,3 @@
 - pkg:composer/romanalisoy/pashabank-laravel-sdk@1.0.0
+- pkg:composer/romanalisoy/pashabank-laravel-sdk@1.0.1
+- pkg:composer/romanalisoy/pashabank-laravel-sdk@1.0.2
