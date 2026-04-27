@@ -202,3 +202,4 @@
 - pkg:composer/spryker/gui@5.1.0
 - pkg:composer/spryker/gui@5.2.0
 - pkg:composer/spryker/gui@5.2.1
+- pkg:composer/spryker/gui@5.2.2
