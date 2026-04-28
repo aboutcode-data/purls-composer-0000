@@ -19,5 +19,8 @@
 - pkg:composer/sabre/event@5.1.5
 - pkg:composer/sabre/event@5.1.6
 - pkg:composer/sabre/event@5.1.7
+- pkg:composer/sabre/event@5.1.8
 - pkg:composer/sabre/event@6.0.0
 - pkg:composer/sabre/event@6.0.1
+- pkg:composer/sabre/event@6.0.2
+- pkg:composer/sabre/event@6.1.0

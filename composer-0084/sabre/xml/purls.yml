@@ -58,3 +58,4 @@
 - pkg:composer/sabre/xml@4.0.5
 - pkg:composer/sabre/xml@4.0.6
 - pkg:composer/sabre/xml@4.0.7
+- pkg:composer/sabre/xml@4.1.0
