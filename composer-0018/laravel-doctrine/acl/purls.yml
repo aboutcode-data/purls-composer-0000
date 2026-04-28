@@ -29,4 +29,5 @@
 - pkg:composer/laravel-doctrine/acl@1.7.0
 - pkg:composer/laravel-doctrine/acl@1.7.1
 - pkg:composer/laravel-doctrine/acl@2.0.0
+- pkg:composer/laravel-doctrine/acl@2.1.0
 - pkg:composer/laravel-doctrine/acl@v1.0.17
