@@ -38,6 +38,7 @@
 - pkg:composer/resursbank/magento-all@2.2.5
 - pkg:composer/resursbank/magento-all@2.4.0
 - pkg:composer/resursbank/magento-all@2.4.1
+- pkg:composer/resursbank/magento-all@2.4.10
 - pkg:composer/resursbank/magento-all@2.4.2
 - pkg:composer/resursbank/magento-all@2.4.3
 - pkg:composer/resursbank/magento-all@2.4.4
