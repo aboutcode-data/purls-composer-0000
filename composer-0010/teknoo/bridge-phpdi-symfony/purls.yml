@@ -41,3 +41,4 @@
 - pkg:composer/teknoo/bridge-phpdi-symfony@7.1.0
 - pkg:composer/teknoo/bridge-phpdi-symfony@7.1.1
 - pkg:composer/teknoo/bridge-phpdi-symfony@7.1.2
+- pkg:composer/teknoo/bridge-phpdi-symfony@7.1.3
