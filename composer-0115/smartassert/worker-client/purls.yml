@@ -12,3 +12,4 @@
 - pkg:composer/smartassert/worker-client@5.1
 - pkg:composer/smartassert/worker-client@6.0
 - pkg:composer/smartassert/worker-client@7.0
+- pkg:composer/smartassert/worker-client@8.0
