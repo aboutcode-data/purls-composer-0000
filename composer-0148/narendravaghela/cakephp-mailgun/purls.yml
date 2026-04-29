@@ -21,3 +21,4 @@
 - pkg:composer/narendravaghela/cakephp-mailgun@v3.0.1
 - pkg:composer/narendravaghela/cakephp-mailgun@v3.0.2
 - pkg:composer/narendravaghela/cakephp-mailgun@v3.0.3
+- pkg:composer/narendravaghela/cakephp-mailgun@v6.0.0

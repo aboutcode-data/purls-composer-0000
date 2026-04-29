@@ -13,3 +13,6 @@
 - pkg:composer/nael_d/cachex@v1.1.2
 - pkg:composer/nael_d/cachex@v1.2.0
 - pkg:composer/nael_d/cachex@v1.2.1
+- pkg:composer/nael_d/cachex@v2.0.0-beta
+- pkg:composer/nael_d/cachex@v2.1.0-beta
+- pkg:composer/nael_d/cachex@v2.1.1-beta
