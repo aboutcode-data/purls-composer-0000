@@ -29,3 +29,5 @@
 - pkg:composer/optimistdigital/nova-notes-field@3.0.4
 - pkg:composer/optimistdigital/nova-notes-field@3.1.0
 - pkg:composer/optimistdigital/nova-notes-field@4.0.0
+- pkg:composer/optimistdigital/nova-notes-field@5.0.0-beta
+- pkg:composer/optimistdigital/nova-notes-field@5.0.1-beta
