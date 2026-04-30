@@ -1,5 +1,6 @@
 - pkg:composer/private-captcha/private-captcha-php@v0.0.1
 - pkg:composer/private-captcha/private-captcha-php@v0.0.10
+- pkg:composer/private-captcha/private-captcha-php@v0.0.11
 - pkg:composer/private-captcha/private-captcha-php@v0.0.2
 - pkg:composer/private-captcha/private-captcha-php@v0.0.3
 - pkg:composer/private-captcha/private-captcha-php@v0.0.4
