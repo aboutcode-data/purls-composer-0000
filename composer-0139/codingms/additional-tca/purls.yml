@@ -104,3 +104,5 @@
 - pkg:composer/codingms/additional-tca@1.8.0
 - pkg:composer/codingms/additional-tca@1.8.1
 - pkg:composer/codingms/additional-tca@1.9.0
+- pkg:composer/codingms/additional-tca@2.0.0
+- pkg:composer/codingms/additional-tca@2.0.1

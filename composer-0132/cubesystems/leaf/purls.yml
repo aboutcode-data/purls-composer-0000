@@ -123,3 +123,5 @@
 - pkg:composer/cubesystems/leaf@4.1.7
 - pkg:composer/cubesystems/leaf@4.1.8
 - pkg:composer/cubesystems/leaf@4.1.9
+- pkg:composer/cubesystems/leaf@5.0.0
+- pkg:composer/cubesystems/leaf@5.0.1
