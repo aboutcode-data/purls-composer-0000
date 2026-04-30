@@ -1,3 +1,4 @@
+- pkg:composer/timefrontiers/php-validator@1.0.3
 - pkg:composer/timefrontiers/php-validator@v1.0.0
 - pkg:composer/timefrontiers/php-validator@v1.0.1
 - pkg:composer/timefrontiers/php-validator@v1.0.2
