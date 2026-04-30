@@ -3,3 +3,6 @@
 - pkg:composer/kelemen/parallel@2.1.0
 - pkg:composer/kelemen/parallel@2.2.0
 - pkg:composer/kelemen/parallel@2.3.0
+- pkg:composer/kelemen/parallel@2.4.0
+- pkg:composer/kelemen/parallel@2.4.1
+- pkg:composer/kelemen/parallel@2.5.0
