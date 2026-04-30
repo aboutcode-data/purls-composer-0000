@@ -17,3 +17,5 @@
 - pkg:composer/grnhse/greenhouse-tools-php@v1.3.3
 - pkg:composer/grnhse/greenhouse-tools-php@v1.3.4
 - pkg:composer/grnhse/greenhouse-tools-php@v2.2.0
+- pkg:composer/grnhse/greenhouse-tools-php@v3.0.0
+- pkg:composer/grnhse/greenhouse-tools-php@v3.0.1

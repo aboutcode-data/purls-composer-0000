@@ -1,4 +1,7 @@
 - pkg:composer/hypejunction/hypegallery@2.1.5
+- pkg:composer/hypejunction/hypegallery@3.0
 - pkg:composer/hypejunction/hypegallery@3.1.0
 - pkg:composer/hypejunction/hypegallery@3.2.0
 - pkg:composer/hypejunction/hypegallery@3.2.1
+- pkg:composer/hypejunction/hypegallery@4.0.0
+- pkg:composer/hypejunction/hypegallery@5.0.0
