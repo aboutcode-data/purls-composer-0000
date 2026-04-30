@@ -6,3 +6,4 @@
 - pkg:composer/sbooker/doctrine-transaction-handler@2.0.2
 - pkg:composer/sbooker/doctrine-transaction-handler@2.2.0
 - pkg:composer/sbooker/doctrine-transaction-handler@2.3.0
+- pkg:composer/sbooker/doctrine-transaction-handler@2.4.0
