@@ -60,5 +60,6 @@
 - pkg:composer/antaresbr/laravel-crud@12.1.0
 - pkg:composer/antaresbr/laravel-crud@8.0.0
 - pkg:composer/antaresbr/laravel-crud@8.1.0
+- pkg:composer/antaresbr/laravel-crud@8.1.1
 - pkg:composer/antaresbr/laravel-crud@9.0.0
 - pkg:composer/antaresbr/laravel-crud@9.1.0

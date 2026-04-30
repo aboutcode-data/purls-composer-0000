@@ -44,3 +44,5 @@
 - pkg:composer/automattic/co-authors-plus@3.6.6
 - pkg:composer/automattic/co-authors-plus@3.7.0
 - pkg:composer/automattic/co-authors-plus@4.0.0
+- pkg:composer/automattic/co-authors-plus@4.0.1
+- pkg:composer/automattic/co-authors-plus@4.0.2

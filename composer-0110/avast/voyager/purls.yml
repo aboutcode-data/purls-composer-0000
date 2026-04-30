@@ -3,3 +3,5 @@
 - pkg:composer/avast/voyager@12.3.0
 - pkg:composer/avast/voyager@12.5.0
 - pkg:composer/avast/voyager@12.5.1
+- pkg:composer/avast/voyager@12.5.2
+- pkg:composer/avast/voyager@12.5.3
