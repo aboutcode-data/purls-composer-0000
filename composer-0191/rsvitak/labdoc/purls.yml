@@ -43,3 +43,5 @@
 - pkg:composer/rsvitak/labdoc@v3.5.2
 - pkg:composer/rsvitak/labdoc@v3.5.3
 - pkg:composer/rsvitak/labdoc@v3.5.4
+- pkg:composer/rsvitak/labdoc@v4.0.0
+- pkg:composer/rsvitak/labdoc@v4.0.1
