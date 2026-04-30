@@ -2,3 +2,6 @@
 - pkg:composer/adachsoft/changelog-linter@v0.1.1
 - pkg:composer/adachsoft/changelog-linter@v0.2.0
 - pkg:composer/adachsoft/changelog-linter@v0.3.0
+- pkg:composer/adachsoft/changelog-linter@v0.4.0
+- pkg:composer/adachsoft/changelog-linter@v0.5.0
+- pkg:composer/adachsoft/changelog-linter@v0.5.1

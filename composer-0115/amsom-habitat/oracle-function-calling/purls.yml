@@ -22,3 +22,5 @@
 - pkg:composer/amsom-habitat/oracle-function-calling@v2.6.0
 - pkg:composer/amsom-habitat/oracle-function-calling@v2.6.1
 - pkg:composer/amsom-habitat/oracle-function-calling@v2.6.2
+- pkg:composer/amsom-habitat/oracle-function-calling@v3.0.0
+- pkg:composer/amsom-habitat/oracle-function-calling@v3.0.1
