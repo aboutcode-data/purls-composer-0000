@@ -30,3 +30,4 @@
 - pkg:composer/oro/commerce-demo-checkouts@6.1.6
 - pkg:composer/oro/commerce-demo-checkouts@7.0.0
 - pkg:composer/oro/commerce-demo-checkouts@7.0.0-rc
+- pkg:composer/oro/commerce-demo-checkouts@7.0.1
