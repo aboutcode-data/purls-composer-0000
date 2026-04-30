@@ -26,3 +26,4 @@
 - pkg:composer/wp-php-toolkit/reprint-importer@v0.1.45
 - pkg:composer/wp-php-toolkit/reprint-importer@v0.1.46
 - pkg:composer/wp-php-toolkit/reprint-importer@v0.1.47
+- pkg:composer/wp-php-toolkit/reprint-importer@v0.7.0
