@@ -24,3 +24,4 @@
 - pkg:composer/webfiori/components@v0.0.7
 - pkg:composer/webfiori/components@v0.0.8
 - pkg:composer/webfiori/components@v0.0.9
+- pkg:composer/webfiori/components@v1.0.0
