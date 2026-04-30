@@ -10,3 +10,4 @@
 - pkg:composer/ginkelsoft/laravel-encrypted-search-index@v1.0.7
 - pkg:composer/ginkelsoft/laravel-encrypted-search-index@v1.0.8
 - pkg:composer/ginkelsoft/laravel-encrypted-search-index@v1.0.9
+- pkg:composer/ginkelsoft/laravel-encrypted-search-index@v2.0.0
