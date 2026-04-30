@@ -19,6 +19,15 @@
 - pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.0
 - pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.1
 - pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.10
+- pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.11
+- pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.12
+- pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.13
+- pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.14
+- pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.15
+- pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.16
+- pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.17
+- pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.18
+- pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.19
 - pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.2
 - pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.3
 - pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.4
