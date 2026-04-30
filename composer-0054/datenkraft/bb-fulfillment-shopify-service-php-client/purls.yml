@@ -21,3 +21,4 @@
 - pkg:composer/datenkraft/bb-fulfillment-shopify-service-php-client@v1.3.7
 - pkg:composer/datenkraft/bb-fulfillment-shopify-service-php-client@v1.3.8
 - pkg:composer/datenkraft/bb-fulfillment-shopify-service-php-client@v1.3.9
+- pkg:composer/datenkraft/bb-fulfillment-shopify-service-php-client@v1.4.0

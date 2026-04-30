@@ -8,3 +8,5 @@
 - pkg:composer/derhansen/mfa_yubikey@3.0.0
 - pkg:composer/derhansen/mfa_yubikey@3.0.1
 - pkg:composer/derhansen/mfa_yubikey@4.0.0
+- pkg:composer/derhansen/mfa_yubikey@4.0.1
+- pkg:composer/derhansen/mfa_yubikey@4.0.2

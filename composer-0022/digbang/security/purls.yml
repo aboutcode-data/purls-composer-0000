@@ -92,3 +92,7 @@
 - pkg:composer/digbang/security@v7.0.0
 - pkg:composer/digbang/security@v7.1.0
 - pkg:composer/digbang/security@v7.2.0
+- pkg:composer/digbang/security@v7.3.0
+- pkg:composer/digbang/security@v7.4.0
+- pkg:composer/digbang/security@v7.4.1
+- pkg:composer/digbang/security@v7.5.0

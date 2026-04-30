@@ -10,6 +10,7 @@
 - pkg:composer/datenkraft/bb-sku-catalog-api-php-client@v1.3.7
 - pkg:composer/datenkraft/bb-sku-catalog-api-php-client@v1.3.8
 - pkg:composer/datenkraft/bb-sku-catalog-api-php-client@v1.3.9
+- pkg:composer/datenkraft/bb-sku-catalog-api-php-client@v1.4.0
 - pkg:composer/datenkraft/bb-sku-catalog-api-php-client@v2.3.0
 - pkg:composer/datenkraft/bb-sku-catalog-api-php-client@v2.3.1
 - pkg:composer/datenkraft/bb-sku-catalog-api-php-client@v2.3.2
@@ -19,3 +20,4 @@
 - pkg:composer/datenkraft/bb-sku-catalog-api-php-client@v2.3.6
 - pkg:composer/datenkraft/bb-sku-catalog-api-php-client@v2.3.7
 - pkg:composer/datenkraft/bb-sku-catalog-api-php-client@v2.3.8
+- pkg:composer/datenkraft/bb-sku-catalog-api-php-client@v2.4.0
