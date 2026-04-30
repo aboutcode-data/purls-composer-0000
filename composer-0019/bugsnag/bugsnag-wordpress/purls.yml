@@ -14,3 +14,4 @@
 - pkg:composer/bugsnag/bugsnag-wordpress@v1.6.3
 - pkg:composer/bugsnag/bugsnag-wordpress@v1.6.4
 - pkg:composer/bugsnag/bugsnag-wordpress@v1.6.5
+- pkg:composer/bugsnag/bugsnag-wordpress@v2.0.0
