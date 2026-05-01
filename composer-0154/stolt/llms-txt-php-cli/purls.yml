@@ -5,3 +5,4 @@
 - pkg:composer/stolt/llms-txt-php-cli@v1.4.0
 - pkg:composer/stolt/llms-txt-php-cli@v1.5.0
 - pkg:composer/stolt/llms-txt-php-cli@v1.5.1
+- pkg:composer/stolt/llms-txt-php-cli@v1.5.2
