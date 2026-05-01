@@ -1,1 +1,2 @@
 - pkg:composer/webisters/http-client@v1.0.0
+- pkg:composer/webisters/http-client@v1.0.1
