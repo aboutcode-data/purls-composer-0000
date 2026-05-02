@@ -38,3 +38,7 @@
 - pkg:composer/symfonicat/core@v1.2.0
 - pkg:composer/symfonicat/core@v1.2.1
 - pkg:composer/symfonicat/core@v1.2.2
+- pkg:composer/symfonicat/core@v1.3.0
+- pkg:composer/symfonicat/core@v1.3.1
+- pkg:composer/symfonicat/core@v1.3.2
+- pkg:composer/symfonicat/core@v2.0.0
