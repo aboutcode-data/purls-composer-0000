@@ -26,3 +26,4 @@
 - pkg:composer/datenkraft/bb-price-assessment-api-php-client@v2.3.8
 - pkg:composer/datenkraft/bb-price-assessment-api-php-client@v2.3.9
 - pkg:composer/datenkraft/bb-price-assessment-api-php-client@v2.4.0
+- pkg:composer/datenkraft/bb-price-assessment-api-php-client@v2.4.1
