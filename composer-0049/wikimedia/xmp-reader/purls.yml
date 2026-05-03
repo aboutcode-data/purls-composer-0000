@@ -1,6 +1,7 @@
 - pkg:composer/wikimedia/xmp-reader@0.10.0
 - pkg:composer/wikimedia/xmp-reader@0.10.1
 - pkg:composer/wikimedia/xmp-reader@0.10.2
+- pkg:composer/wikimedia/xmp-reader@0.10.3
 - pkg:composer/wikimedia/xmp-reader@0.5.0
 - pkg:composer/wikimedia/xmp-reader@0.5.1
 - pkg:composer/wikimedia/xmp-reader@0.6.0
