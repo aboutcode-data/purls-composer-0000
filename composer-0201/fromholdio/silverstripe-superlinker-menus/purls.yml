@@ -19,3 +19,5 @@
 - pkg:composer/fromholdio/silverstripe-superlinker-menus@5.0.0
 - pkg:composer/fromholdio/silverstripe-superlinker-menus@5.0.1
 - pkg:composer/fromholdio/silverstripe-superlinker-menus@5.1.0
+- pkg:composer/fromholdio/silverstripe-superlinker-menus@5.1.1
+- pkg:composer/fromholdio/silverstripe-superlinker-menus@6.0.0

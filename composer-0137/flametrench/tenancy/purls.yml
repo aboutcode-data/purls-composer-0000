@@ -1,6 +1,7 @@
 - pkg:composer/flametrench/tenancy@v0.0.1
 - pkg:composer/flametrench/tenancy@v0.1.0
 - pkg:composer/flametrench/tenancy@v0.1.1
+- pkg:composer/flametrench/tenancy@v0.2.0
 - pkg:composer/flametrench/tenancy@v0.2.0-rc.3
 - pkg:composer/flametrench/tenancy@v0.2.0-rc.4
 - pkg:composer/flametrench/tenancy@v0.2.0-rc.5

@@ -25,3 +25,4 @@
 - pkg:composer/flynn314/mattermost-client@2.7.1
 - pkg:composer/flynn314/mattermost-client@2.7.2
 - pkg:composer/flynn314/mattermost-client@3.0.0
+- pkg:composer/flynn314/mattermost-client@3.1.0
