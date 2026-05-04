@@ -19,3 +19,4 @@
 - pkg:composer/dereuromark/cakephp-queue-scheduler@0.2.9
 - pkg:composer/dereuromark/cakephp-queue-scheduler@0.3.0
 - pkg:composer/dereuromark/cakephp-queue-scheduler@0.3.1
+- pkg:composer/dereuromark/cakephp-queue-scheduler@0.3.2
