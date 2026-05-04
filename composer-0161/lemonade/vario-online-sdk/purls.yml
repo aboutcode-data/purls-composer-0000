@@ -3,6 +3,8 @@
 - pkg:composer/lemonade/vario-online-sdk@v1.1.1
 - pkg:composer/lemonade/vario-online-sdk@v1.10.0
 - pkg:composer/lemonade/vario-online-sdk@v1.11.0
+- pkg:composer/lemonade/vario-online-sdk@v1.12.0
+- pkg:composer/lemonade/vario-online-sdk@v1.12.1
 - pkg:composer/lemonade/vario-online-sdk@v1.2.0
 - pkg:composer/lemonade/vario-online-sdk@v1.2.1
 - pkg:composer/lemonade/vario-online-sdk@v1.3.0

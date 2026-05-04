@@ -89,6 +89,7 @@
 - pkg:composer/kubawerlos/php-cs-fixer-custom-fixers@v3.36.0
 - pkg:composer/kubawerlos/php-cs-fixer-custom-fixers@v3.36.1
 - pkg:composer/kubawerlos/php-cs-fixer-custom-fixers@v3.37.0
+- pkg:composer/kubawerlos/php-cs-fixer-custom-fixers@v3.37.1
 - pkg:composer/kubawerlos/php-cs-fixer-custom-fixers@v3.4.0
 - pkg:composer/kubawerlos/php-cs-fixer-custom-fixers@v3.4.1
 - pkg:composer/kubawerlos/php-cs-fixer-custom-fixers@v3.5.0
