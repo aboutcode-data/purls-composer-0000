@@ -59,3 +59,4 @@
 - pkg:composer/automattic/jetpack-device-detection@v3.2.0
 - pkg:composer/automattic/jetpack-device-detection@v3.3.0
 - pkg:composer/automattic/jetpack-device-detection@v3.4.0
+- pkg:composer/automattic/jetpack-device-detection@v3.4.1

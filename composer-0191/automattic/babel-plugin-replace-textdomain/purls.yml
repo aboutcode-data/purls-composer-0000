@@ -52,6 +52,7 @@
 - pkg:composer/automattic/babel-plugin-replace-textdomain@v1.0.54
 - pkg:composer/automattic/babel-plugin-replace-textdomain@v1.0.55
 - pkg:composer/automattic/babel-plugin-replace-textdomain@v1.0.56
+- pkg:composer/automattic/babel-plugin-replace-textdomain@v1.0.57
 - pkg:composer/automattic/babel-plugin-replace-textdomain@v1.0.6
 - pkg:composer/automattic/babel-plugin-replace-textdomain@v1.0.7
 - pkg:composer/automattic/babel-plugin-replace-textdomain@v1.0.8
