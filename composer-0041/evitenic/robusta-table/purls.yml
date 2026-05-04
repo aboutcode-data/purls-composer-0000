@@ -39,3 +39,4 @@
 - pkg:composer/evitenic/robusta-table@v2.1.0
 - pkg:composer/evitenic/robusta-table@v2.1.1
 - pkg:composer/evitenic/robusta-table@v2.1.2
+- pkg:composer/evitenic/robusta-table@v2.2.0
