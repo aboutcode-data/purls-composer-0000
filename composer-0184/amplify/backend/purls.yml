@@ -36,3 +36,4 @@
 - pkg:composer/amplify/backend@1.2.6
 - pkg:composer/amplify/backend@1.2.7
 - pkg:composer/amplify/backend@1.2.8
+- pkg:composer/amplify/backend@1.2.9
