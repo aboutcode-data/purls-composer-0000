@@ -28,6 +28,7 @@
 - pkg:composer/endereco/endereco-oxid6-client@4.5.5-rc3
 - pkg:composer/endereco/endereco-oxid6-client@4.6.0-rc.1
 - pkg:composer/endereco/endereco-oxid6-client@4.6.0-rc.2
+- pkg:composer/endereco/endereco-oxid6-client@4.6.0-rc.3
 - pkg:composer/endereco/endereco-oxid6-client@v4.0.0
 - pkg:composer/endereco/endereco-oxid6-client@v4.1.0
 - pkg:composer/endereco/endereco-oxid6-client@v4.1.1
