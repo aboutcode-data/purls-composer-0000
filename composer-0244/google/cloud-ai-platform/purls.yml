@@ -101,6 +101,7 @@
 - pkg:composer/google/cloud-ai-platform@v1.56.0
 - pkg:composer/google/cloud-ai-platform@v1.57.0
 - pkg:composer/google/cloud-ai-platform@v1.58.0
+- pkg:composer/google/cloud-ai-platform@v1.59.0
 - pkg:composer/google/cloud-ai-platform@v1.6.0
 - pkg:composer/google/cloud-ai-platform@v1.7.0
 - pkg:composer/google/cloud-ai-platform@v1.8.0
