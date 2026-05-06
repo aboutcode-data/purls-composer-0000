@@ -62,3 +62,4 @@
 - pkg:composer/mailgun/mailgun-php@v4.3.6
 - pkg:composer/mailgun/mailgun-php@v4.3.7
 - pkg:composer/mailgun/mailgun-php@v4.4.0
+- pkg:composer/mailgun/mailgun-php@v4.5.0

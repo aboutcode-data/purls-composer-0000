@@ -1,2 +1,3 @@
 - pkg:composer/maxserv/frontend-request@1.0.0
 - pkg:composer/maxserv/frontend-request@2.0.0
+- pkg:composer/maxserv/frontend-request@2.0.1

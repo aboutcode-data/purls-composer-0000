@@ -76,3 +76,4 @@
 - pkg:composer/mautic/theme-fresh-left@7.0.2
 - pkg:composer/mautic/theme-fresh-left@7.1.0
 - pkg:composer/mautic/theme-fresh-left@7.1.0-rc
+- pkg:composer/mautic/theme-fresh-left@7.1.1

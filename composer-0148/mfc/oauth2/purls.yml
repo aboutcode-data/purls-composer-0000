@@ -33,3 +33,4 @@
 - pkg:composer/mfc/oauth2@3.3.1
 - pkg:composer/mfc/oauth2@4.0.0
 - pkg:composer/mfc/oauth2@4.0.1
+- pkg:composer/mfc/oauth2@4.0.2

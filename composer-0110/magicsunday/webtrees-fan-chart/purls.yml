@@ -28,6 +28,14 @@
 - pkg:composer/magicsunday/webtrees-fan-chart@3.3.4
 - pkg:composer/magicsunday/webtrees-fan-chart@3.3.5
 - pkg:composer/magicsunday/webtrees-fan-chart@3.3.6
+- pkg:composer/magicsunday/webtrees-fan-chart@3.3.7
+- pkg:composer/magicsunday/webtrees-fan-chart@3.3.8
+- pkg:composer/magicsunday/webtrees-fan-chart@3.3.9
+- pkg:composer/magicsunday/webtrees-fan-chart@3.4.0
+- pkg:composer/magicsunday/webtrees-fan-chart@3.5.0
+- pkg:composer/magicsunday/webtrees-fan-chart@3.5.1
+- pkg:composer/magicsunday/webtrees-fan-chart@3.6.0
+- pkg:composer/magicsunday/webtrees-fan-chart@3.6.1
 - pkg:composer/magicsunday/webtrees-fan-chart@v1.7
 - pkg:composer/magicsunday/webtrees-fan-chart@v1.7.1
 - pkg:composer/magicsunday/webtrees-fan-chart@v1.7.2
