@@ -30,3 +30,4 @@
 - pkg:composer/illuminate/reflection@v13.5.0
 - pkg:composer/illuminate/reflection@v13.6.0
 - pkg:composer/illuminate/reflection@v13.7.0
+- pkg:composer/illuminate/reflection@v13.8.0
