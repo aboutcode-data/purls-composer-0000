@@ -28,3 +28,4 @@
 - pkg:composer/fluffydiscord/roadrunner-symfony-bundle@v4.2.2
 - pkg:composer/fluffydiscord/roadrunner-symfony-bundle@v4.3.0
 - pkg:composer/fluffydiscord/roadrunner-symfony-bundle@v4.4.0
+- pkg:composer/fluffydiscord/roadrunner-symfony-bundle@v5.0.0
