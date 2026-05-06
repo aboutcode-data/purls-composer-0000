@@ -159,6 +159,7 @@
 - pkg:composer/drupal/core-dependency-injection@11.3.6
 - pkg:composer/drupal/core-dependency-injection@11.3.7
 - pkg:composer/drupal/core-dependency-injection@11.3.8
+- pkg:composer/drupal/core-dependency-injection@11.3.9
 - pkg:composer/drupal/core-dependency-injection@8.0.0
 - pkg:composer/drupal/core-dependency-injection@8.0.0-beta10
 - pkg:composer/drupal/core-dependency-injection@8.0.0-beta11
