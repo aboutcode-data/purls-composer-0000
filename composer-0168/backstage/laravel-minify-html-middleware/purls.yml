@@ -40,3 +40,5 @@
 - pkg:composer/backstage/laravel-minify-html-middleware@v4.0.7
 - pkg:composer/backstage/laravel-minify-html-middleware@v4.0.8
 - pkg:composer/backstage/laravel-minify-html-middleware@v4.0.9
+- pkg:composer/backstage/laravel-minify-html-middleware@v4.1.0
+- pkg:composer/backstage/laravel-minify-html-middleware@v4.1.1

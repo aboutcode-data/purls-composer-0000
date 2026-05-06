@@ -114,3 +114,4 @@
 - pkg:composer/backstage/users@v4.0.7
 - pkg:composer/backstage/users@v4.0.8
 - pkg:composer/backstage/users@v4.0.9
+- pkg:composer/backstage/users@v4.1.0
