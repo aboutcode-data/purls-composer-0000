@@ -34,3 +34,4 @@
 - pkg:composer/nette/bootstrap@v3.2.5
 - pkg:composer/nette/bootstrap@v3.2.6
 - pkg:composer/nette/bootstrap@v3.2.7
+- pkg:composer/nette/bootstrap@v3.2.8

@@ -9,4 +9,6 @@
 - pkg:composer/muv/laravel-deployment@v2.0.0
 - pkg:composer/muv/laravel-deployment@v2.1.0
 - pkg:composer/muv/laravel-deployment@v2.1.1
+- pkg:composer/muv/laravel-deployment@v3.0.0
 - pkg:composer/muv/laravel-deployment@v3.0.0-beta1
+- pkg:composer/muv/laravel-deployment@v3.0.1
