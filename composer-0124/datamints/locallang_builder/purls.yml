@@ -20,3 +20,4 @@
 - pkg:composer/datamints/locallang_builder@12.4.1
 - pkg:composer/datamints/locallang_builder@12.4.2
 - pkg:composer/datamints/locallang_builder@12.5.0
+- pkg:composer/datamints/locallang_builder@14.0.0
