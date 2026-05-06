@@ -1,3 +1,4 @@
 - pkg:composer/flyokai/revolt-event-loop@1.0.0
 - pkg:composer/flyokai/revolt-event-loop@v1.0.7
 - pkg:composer/flyokai/revolt-event-loop@v1.0.8
+- pkg:composer/flyokai/revolt-event-loop@v1.0.9
