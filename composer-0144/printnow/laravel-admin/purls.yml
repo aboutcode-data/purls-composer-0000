@@ -8,3 +8,5 @@
 - pkg:composer/printnow/laravel-admin@2.3.7-beta
 - pkg:composer/printnow/laravel-admin@2.3.8-beta
 - pkg:composer/printnow/laravel-admin@2.3.9-beta
+- pkg:composer/printnow/laravel-admin@2.4.0
+- pkg:composer/printnow/laravel-admin@2.4.0-beta

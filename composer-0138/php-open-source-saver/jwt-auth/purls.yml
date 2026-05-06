@@ -69,6 +69,7 @@
 - pkg:composer/php-open-source-saver/jwt-auth@2.7.2
 - pkg:composer/php-open-source-saver/jwt-auth@2.7.3
 - pkg:composer/php-open-source-saver/jwt-auth@2.8.0
+- pkg:composer/php-open-source-saver/jwt-auth@2.9.1
 - pkg:composer/php-open-source-saver/jwt-auth@v2.8.1
 - pkg:composer/php-open-source-saver/jwt-auth@v2.8.2
 - pkg:composer/php-open-source-saver/jwt-auth@v2.8.3
