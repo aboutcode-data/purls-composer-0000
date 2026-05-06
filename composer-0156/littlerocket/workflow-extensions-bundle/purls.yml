@@ -9,3 +9,5 @@
 - pkg:composer/littlerocket/workflow-extensions-bundle@3.0.3
 - pkg:composer/littlerocket/workflow-extensions-bundle@4.0.0-RC1
 - pkg:composer/littlerocket/workflow-extensions-bundle@4.0.1-RC
+- pkg:composer/littlerocket/workflow-extensions-bundle@4.0.2-RC
+- pkg:composer/littlerocket/workflow-extensions-bundle@4.0.3-RC

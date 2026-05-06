@@ -46,9 +46,15 @@
 - pkg:composer/lvntr/laravel-starter-kit@v13.3.3
 - pkg:composer/lvntr/laravel-starter-kit@v13.4.0
 - pkg:composer/lvntr/laravel-starter-kit@v13.4.1
+- pkg:composer/lvntr/laravel-starter-kit@v13.4.10
 - pkg:composer/lvntr/laravel-starter-kit@v13.4.2
 - pkg:composer/lvntr/laravel-starter-kit@v13.4.3
 - pkg:composer/lvntr/laravel-starter-kit@v13.4.4
 - pkg:composer/lvntr/laravel-starter-kit@v13.4.5
 - pkg:composer/lvntr/laravel-starter-kit@v13.4.6
 - pkg:composer/lvntr/laravel-starter-kit@v13.4.7
+- pkg:composer/lvntr/laravel-starter-kit@v13.4.8
+- pkg:composer/lvntr/laravel-starter-kit@v13.4.9
+- pkg:composer/lvntr/laravel-starter-kit@v13.5.0
+- pkg:composer/lvntr/laravel-starter-kit@v13.5.1
+- pkg:composer/lvntr/laravel-starter-kit@v13.5.2
