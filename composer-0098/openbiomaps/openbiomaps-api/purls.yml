@@ -20,3 +20,4 @@
 - pkg:composer/openbiomaps/openbiomaps-api@v4.3.0
 - pkg:composer/openbiomaps/openbiomaps-api@v5.0.0
 - pkg:composer/openbiomaps/openbiomaps-api@v5.1.0
+- pkg:composer/openbiomaps/openbiomaps-api@v5.1.1
