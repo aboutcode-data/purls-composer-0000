@@ -23,6 +23,7 @@
 - pkg:composer/graham-campbell/github@v12.7.0
 - pkg:composer/graham-campbell/github@v12.8.0
 - pkg:composer/graham-campbell/github@v13.0.0
+- pkg:composer/graham-campbell/github@v13.1.0
 - pkg:composer/graham-campbell/github@v2.0.0
 - pkg:composer/graham-campbell/github@v3.0.0
 - pkg:composer/graham-campbell/github@v3.1.0
