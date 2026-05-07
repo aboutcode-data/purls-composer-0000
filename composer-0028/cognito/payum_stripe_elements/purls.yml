@@ -10,4 +10,3 @@
 - pkg:composer/cognito/payum_stripe_elements@1.2.6
 - pkg:composer/cognito/payum_stripe_elements@1.2.7
 - pkg:composer/cognito/payum_stripe_elements@1.3.0
-- pkg:composer/cognito/payum_stripe_elements@1.3.1
