@@ -178,6 +178,11 @@
 - pkg:composer/durable-workflow/workflow@2.0.0-alpha.66
 - pkg:composer/durable-workflow/workflow@2.0.0-alpha.67
 - pkg:composer/durable-workflow/workflow@2.0.0-alpha.68
+- pkg:composer/durable-workflow/workflow@2.0.0-alpha.69
 - pkg:composer/durable-workflow/workflow@2.0.0-alpha.7
+- pkg:composer/durable-workflow/workflow@2.0.0-alpha.70
+- pkg:composer/durable-workflow/workflow@2.0.0-alpha.71
+- pkg:composer/durable-workflow/workflow@2.0.0-alpha.72
+- pkg:composer/durable-workflow/workflow@2.0.0-alpha.73
 - pkg:composer/durable-workflow/workflow@2.0.0-alpha.8
 - pkg:composer/durable-workflow/workflow@2.0.0-alpha.9
