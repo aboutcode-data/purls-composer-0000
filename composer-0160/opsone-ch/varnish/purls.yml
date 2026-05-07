@@ -19,3 +19,4 @@
 - pkg:composer/opsone-ch/varnish@7.1.0
 - pkg:composer/opsone-ch/varnish@8.0.0
 - pkg:composer/opsone-ch/varnish@8.0.1
+- pkg:composer/opsone-ch/varnish@8.0.2
