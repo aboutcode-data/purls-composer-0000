@@ -6,3 +6,4 @@
 - pkg:composer/omalizadeh/laravel-sms@v2.2.1
 - pkg:composer/omalizadeh/laravel-sms@v2.3.0
 - pkg:composer/omalizadeh/laravel-sms@v3.0.0
+- pkg:composer/omalizadeh/laravel-sms@v3.1.0
