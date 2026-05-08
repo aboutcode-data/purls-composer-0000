@@ -32,3 +32,4 @@
 - pkg:composer/magefan/module-lazyload@2.1.5
 - pkg:composer/magefan/module-lazyload@2.1.6
 - pkg:composer/magefan/module-lazyload@2.1.7
+- pkg:composer/magefan/module-lazyload@2.2.0
