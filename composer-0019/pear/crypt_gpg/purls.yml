@@ -17,3 +17,4 @@
 - pkg:composer/pear/crypt_gpg@v1.6.7
 - pkg:composer/pear/crypt_gpg@v1.6.8
 - pkg:composer/pear/crypt_gpg@v1.6.9
+- pkg:composer/pear/crypt_gpg@v1.7.0

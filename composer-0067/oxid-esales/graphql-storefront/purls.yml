@@ -12,3 +12,4 @@
 - pkg:composer/oxid-esales/graphql-storefront@v4.1.0
 - pkg:composer/oxid-esales/graphql-storefront@v4.1.0-rc.1
 - pkg:composer/oxid-esales/graphql-storefront@v4.2.0
+- pkg:composer/oxid-esales/graphql-storefront@v5.0.0
