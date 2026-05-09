@@ -175,6 +175,8 @@
 - pkg:composer/macropay-solutions/maravel-framework@10.71.6
 - pkg:composer/macropay-solutions/maravel-framework@10.71.7
 - pkg:composer/macropay-solutions/maravel-framework@10.71.8
+- pkg:composer/macropay-solutions/maravel-framework@10.71.9
 - pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC1
 - pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC2
 - pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC3
+- pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC4
