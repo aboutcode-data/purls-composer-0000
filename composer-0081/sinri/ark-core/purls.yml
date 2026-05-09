@@ -37,6 +37,7 @@
 - pkg:composer/sinri/ark-core@2.7.22
 - pkg:composer/sinri/ark-core@2.7.23
 - pkg:composer/sinri/ark-core@2.7.24
+- pkg:composer/sinri/ark-core@2.7.25
 - pkg:composer/sinri/ark-core@2.7.3
 - pkg:composer/sinri/ark-core@2.7.4
 - pkg:composer/sinri/ark-core@2.7.5

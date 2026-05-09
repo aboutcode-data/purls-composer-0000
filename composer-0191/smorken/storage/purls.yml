@@ -2,6 +2,7 @@
 - pkg:composer/smorken/storage@v10.1.0
 - pkg:composer/smorken/storage@v10.1.1
 - pkg:composer/smorken/storage@v10.2.0
+- pkg:composer/smorken/storage@v10.3.0
 - pkg:composer/smorken/storage@v5.0.0
 - pkg:composer/smorken/storage@v5.0.1
 - pkg:composer/smorken/storage@v5.0.2

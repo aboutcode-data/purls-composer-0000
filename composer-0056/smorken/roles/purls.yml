@@ -26,6 +26,7 @@
 - pkg:composer/smorken/roles@v10.5.1
 - pkg:composer/smorken/roles@v10.5.2
 - pkg:composer/smorken/roles@v10.6.0
+- pkg:composer/smorken/roles@v10.7.0
 - pkg:composer/smorken/roles@v6.0
 - pkg:composer/smorken/roles@v6.1
 - pkg:composer/smorken/roles@v6.2

@@ -6,7 +6,14 @@
 - pkg:composer/sosupp/slimer-desktop@v0.14.0
 - pkg:composer/sosupp/slimer-desktop@v0.15.0
 - pkg:composer/sosupp/slimer-desktop@v0.16.0
+- pkg:composer/sosupp/slimer-desktop@v0.17.0
+- pkg:composer/sosupp/slimer-desktop@v0.18.0
+- pkg:composer/sosupp/slimer-desktop@v0.19.0
 - pkg:composer/sosupp/slimer-desktop@v0.2.0
+- pkg:composer/sosupp/slimer-desktop@v0.20.0
+- pkg:composer/sosupp/slimer-desktop@v0.21.0
+- pkg:composer/sosupp/slimer-desktop@v0.21.1
+- pkg:composer/sosupp/slimer-desktop@v0.22.0
 - pkg:composer/sosupp/slimer-desktop@v0.3.0
 - pkg:composer/sosupp/slimer-desktop@v0.4.0
 - pkg:composer/sosupp/slimer-desktop@v0.5.0

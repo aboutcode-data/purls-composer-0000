@@ -1,4 +1,2 @@
-- pkg:composer/shopimind/module-magento2@v1.0.0
-- pkg:composer/shopimind/module-magento2@v1.0.1
-- pkg:composer/shopimind/module-magento2@v1.0.2
+- pkg:composer/shopimind/module-magento2@5.0.1
 - pkg:composer/shopimind/module-magento2@v5.0.0
