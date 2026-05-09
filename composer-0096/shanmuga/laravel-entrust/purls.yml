@@ -12,3 +12,4 @@
 - pkg:composer/shanmuga/laravel-entrust@v4.2
 - pkg:composer/shanmuga/laravel-entrust@v5.0
 - pkg:composer/shanmuga/laravel-entrust@v6.0
+- pkg:composer/shanmuga/laravel-entrust@v7.0

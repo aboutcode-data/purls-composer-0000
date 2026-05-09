@@ -156,6 +156,8 @@
 - pkg:composer/sentry/sentry@4.23.1
 - pkg:composer/sentry/sentry@4.24.0
 - pkg:composer/sentry/sentry@4.25.0
+- pkg:composer/sentry/sentry@4.26.0
+- pkg:composer/sentry/sentry@4.27.0
 - pkg:composer/sentry/sentry@4.3.0
 - pkg:composer/sentry/sentry@4.3.1
 - pkg:composer/sentry/sentry@4.4.0

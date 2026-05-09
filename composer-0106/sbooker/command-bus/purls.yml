@@ -11,3 +11,4 @@
 - pkg:composer/sbooker/command-bus@0.9.0
 - pkg:composer/sbooker/command-bus@1.0.0
 - pkg:composer/sbooker/command-bus@1.1.0
+- pkg:composer/sbooker/command-bus@1.2.1

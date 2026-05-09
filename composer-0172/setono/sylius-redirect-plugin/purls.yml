@@ -24,3 +24,5 @@
 - pkg:composer/setono/sylius-redirect-plugin@v2.5.0
 - pkg:composer/setono/sylius-redirect-plugin@v2.6.0
 - pkg:composer/setono/sylius-redirect-plugin@v2.7.0
+- pkg:composer/setono/sylius-redirect-plugin@v3.0.0-alpha
+- pkg:composer/setono/sylius-redirect-plugin@v3.0.0-alpha.2
