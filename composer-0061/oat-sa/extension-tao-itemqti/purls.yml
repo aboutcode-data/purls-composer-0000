@@ -898,6 +898,8 @@
 - pkg:composer/oat-sa/extension-tao-itemqti@v32.5.3
 - pkg:composer/oat-sa/extension-tao-itemqti@v32.5.4
 - pkg:composer/oat-sa/extension-tao-itemqti@v32.5.5
+- pkg:composer/oat-sa/extension-tao-itemqti@v32.5.6
+- pkg:composer/oat-sa/extension-tao-itemqti@v32.5.7
 - pkg:composer/oat-sa/extension-tao-itemqti@v4.2.0
 - pkg:composer/oat-sa/extension-tao-itemqti@v4.3.0
 - pkg:composer/oat-sa/extension-tao-itemqti@v5.0.0
