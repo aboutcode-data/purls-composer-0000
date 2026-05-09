@@ -32,3 +32,6 @@
 - pkg:composer/talleu/php-redis-om@v0.7.0
 - pkg:composer/talleu/php-redis-om@v0.7.1
 - pkg:composer/talleu/php-redis-om@v1.0.0
+- pkg:composer/talleu/php-redis-om@v1.1.0
+- pkg:composer/talleu/php-redis-om@v1.1.1
+- pkg:composer/talleu/php-redis-om@v1.1.2

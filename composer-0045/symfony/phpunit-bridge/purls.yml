@@ -534,3 +534,4 @@
 - pkg:composer/symfony/phpunit-bridge@v8.0.3
 - pkg:composer/symfony/phpunit-bridge@v8.0.7
 - pkg:composer/symfony/phpunit-bridge@v8.0.8
+- pkg:composer/symfony/phpunit-bridge@v8.1.0-BETA1

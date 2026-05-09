@@ -741,3 +741,4 @@
 - pkg:composer/symfony/http-foundation@v8.0.6
 - pkg:composer/symfony/http-foundation@v8.0.7
 - pkg:composer/symfony/http-foundation@v8.0.8
+- pkg:composer/symfony/http-foundation@v8.1.0-BETA1

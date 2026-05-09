@@ -145,3 +145,4 @@
 - pkg:composer/symfony/amqp-messenger@v8.0.4
 - pkg:composer/symfony/amqp-messenger@v8.0.6
 - pkg:composer/symfony/amqp-messenger@v8.0.9
+- pkg:composer/symfony/amqp-messenger@v8.1.0-BETA1
