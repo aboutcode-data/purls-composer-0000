@@ -53,3 +53,5 @@
 - pkg:composer/bnomei/kirby-handlebars@3.6.0
 - pkg:composer/bnomei/kirby-handlebars@4.0.0
 - pkg:composer/bnomei/kirby-handlebars@5.0.0
+- pkg:composer/bnomei/kirby-handlebars@5.1.0
+- pkg:composer/bnomei/kirby-handlebars@5.1.1
