@@ -1,1 +1,3 @@
 - pkg:composer/avraapi/laravel-sdk@1.0.0
+- pkg:composer/avraapi/laravel-sdk@1.0.2
+- pkg:composer/avraapi/laravel-sdk@1.1.2

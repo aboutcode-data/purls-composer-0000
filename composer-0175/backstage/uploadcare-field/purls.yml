@@ -136,3 +136,4 @@
 - pkg:composer/backstage/uploadcare-field@v4.0.9
 - pkg:composer/backstage/uploadcare-field@v4.1.0
 - pkg:composer/backstage/uploadcare-field@v4.1.1
+- pkg:composer/backstage/uploadcare-field@v4.1.2

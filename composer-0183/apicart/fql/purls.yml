@@ -22,6 +22,7 @@
 - pkg:composer/apicart/fql@0.4.8
 - pkg:composer/apicart/fql@0.4.9
 - pkg:composer/apicart/fql@0.5.0
+- pkg:composer/apicart/fql@0.6.0
 - pkg:composer/apicart/fql@v0.1
 - pkg:composer/apicart/fql@v0.1.1
 - pkg:composer/apicart/fql@v0.1.2
