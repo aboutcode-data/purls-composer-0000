@@ -29,3 +29,5 @@
 - pkg:composer/dskripchenko/laravel-admin@v1.2.2
 - pkg:composer/dskripchenko/laravel-admin@v1.2.3
 - pkg:composer/dskripchenko/laravel-admin@v1.2.4
+- pkg:composer/dskripchenko/laravel-admin@v1.3.0
+- pkg:composer/dskripchenko/laravel-admin@v1.4.0
