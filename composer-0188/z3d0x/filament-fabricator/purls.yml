@@ -39,4 +39,6 @@
 - pkg:composer/z3d0x/filament-fabricator@v3.0.1
 - pkg:composer/z3d0x/filament-fabricator@v3.0.2
 - pkg:composer/z3d0x/filament-fabricator@v3.0.3
+- pkg:composer/z3d0x/filament-fabricator@v3.1.0
 - pkg:composer/z3d0x/filament-fabricator@v4.0.0
+- pkg:composer/z3d0x/filament-fabricator@v4.1.0

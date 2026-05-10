@@ -102,8 +102,11 @@
 - pkg:composer/wyxos/shift-php@1.1.51
 - pkg:composer/wyxos/shift-php@1.1.52
 - pkg:composer/wyxos/shift-php@1.1.53
+- pkg:composer/wyxos/shift-php@1.1.54
+- pkg:composer/wyxos/shift-php@1.1.55
 - pkg:composer/wyxos/shift-php@1.1.6
 - pkg:composer/wyxos/shift-php@1.1.7
 - pkg:composer/wyxos/shift-php@1.1.8
 - pkg:composer/wyxos/shift-php@1.1.9
 - pkg:composer/wyxos/shift-php@v1.0.1
+- pkg:composer/wyxos/shift-php@v1.1.56
