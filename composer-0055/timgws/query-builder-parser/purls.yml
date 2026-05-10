@@ -16,5 +16,6 @@
 - pkg:composer/timgws/query-builder-parser@1.6.3
 - pkg:composer/timgws/query-builder-parser@2.0.0
 - pkg:composer/timgws/query-builder-parser@2.1.0
+- pkg:composer/timgws/query-builder-parser@2.2.0
 - pkg:composer/timgws/query-builder-parser@v1.0
 - pkg:composer/timgws/query-builder-parser@v1.1.0
