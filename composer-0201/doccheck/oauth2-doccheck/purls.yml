@@ -5,3 +5,4 @@
 - pkg:composer/doccheck/oauth2-doccheck@v2.0.0-BETA2
 - pkg:composer/doccheck/oauth2-doccheck@v2.0.0-BETA3
 - pkg:composer/doccheck/oauth2-doccheck@v2.0.0-BETA4
+- pkg:composer/doccheck/oauth2-doccheck@v2.1.0
