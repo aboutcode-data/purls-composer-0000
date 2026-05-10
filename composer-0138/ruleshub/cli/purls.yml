@@ -4,3 +4,4 @@
 - pkg:composer/ruleshub/cli@v0.1.0-alpha.5
 - pkg:composer/ruleshub/cli@v0.1.1
 - pkg:composer/ruleshub/cli@v0.1.2
+- pkg:composer/ruleshub/cli@v0.1.3
