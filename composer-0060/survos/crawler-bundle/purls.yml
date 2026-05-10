@@ -920,4 +920,6 @@
 - pkg:composer/survos/crawler-bundle@2.0.97
 - pkg:composer/survos/crawler-bundle@2.0.98
 - pkg:composer/survos/crawler-bundle@2.0.99
+- pkg:composer/survos/crawler-bundle@2.1.1
+- pkg:composer/survos/crawler-bundle@2.1.2
 - pkg:composer/survos/crawler-bundle@v1.2.5
