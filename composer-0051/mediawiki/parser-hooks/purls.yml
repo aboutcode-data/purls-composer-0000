@@ -8,3 +8,5 @@
 - pkg:composer/mediawiki/parser-hooks@1.5.0
 - pkg:composer/mediawiki/parser-hooks@1.6.0
 - pkg:composer/mediawiki/parser-hooks@1.6.1
+- pkg:composer/mediawiki/parser-hooks@2.0.0
+- pkg:composer/mediawiki/parser-hooks@3.0.0
