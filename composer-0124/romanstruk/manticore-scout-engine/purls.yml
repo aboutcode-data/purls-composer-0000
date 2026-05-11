@@ -28,6 +28,7 @@
 - pkg:composer/romanstruk/manticore-scout-engine@4.5.5
 - pkg:composer/romanstruk/manticore-scout-engine@4.5.6
 - pkg:composer/romanstruk/manticore-scout-engine@4.6.0
+- pkg:composer/romanstruk/manticore-scout-engine@4.7.0
 - pkg:composer/romanstruk/manticore-scout-engine@5.0.0
 - pkg:composer/romanstruk/manticore-scout-engine@5.0.1
 - pkg:composer/romanstruk/manticore-scout-engine@5.1.0
