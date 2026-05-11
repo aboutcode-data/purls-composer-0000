@@ -1,4 +1,6 @@
+- pkg:composer/setono/sylius-tier-pricing-plugin@v1.0.0
 - pkg:composer/setono/sylius-tier-pricing-plugin@v1.0.0-alpha
 - pkg:composer/setono/sylius-tier-pricing-plugin@v1.0.0-alpha.2
 - pkg:composer/setono/sylius-tier-pricing-plugin@v1.0.0-alpha.3
 - pkg:composer/setono/sylius-tier-pricing-plugin@v1.0.0-beta
+- pkg:composer/setono/sylius-tier-pricing-plugin@v2.0.0-alpha
