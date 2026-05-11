@@ -12,3 +12,6 @@
 - pkg:composer/sentroy-co/client-sdk@v2.6.2
 - pkg:composer/sentroy-co/client-sdk@v2.6.3
 - pkg:composer/sentroy-co/client-sdk@v2.6.4
+- pkg:composer/sentroy-co/client-sdk@v2.8.0
+- pkg:composer/sentroy-co/client-sdk@v2.8.1
+- pkg:composer/sentroy-co/client-sdk@v2.9.0
