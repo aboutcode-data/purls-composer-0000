@@ -440,6 +440,7 @@
 - pkg:composer/tencentcloud/trtc@3.0.1564
 - pkg:composer/tencentcloud/trtc@3.0.1571
 - pkg:composer/tencentcloud/trtc@3.0.1576
+- pkg:composer/tencentcloud/trtc@3.0.1584
 - pkg:composer/tencentcloud/trtc@3.0.248
 - pkg:composer/tencentcloud/trtc@3.0.249
 - pkg:composer/tencentcloud/trtc@3.0.250
