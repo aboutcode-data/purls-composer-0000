@@ -1,2 +1,3 @@
 - pkg:composer/plazzag/polario-sdk-php@5.5.2
+- pkg:composer/plazzag/polario-sdk-php@5.7.0
 - pkg:composer/plazzag/polario-sdk-php@v5.4.3
