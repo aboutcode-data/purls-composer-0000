@@ -29,3 +29,4 @@
 - pkg:composer/perfbase/php-sdk@v1.5.1
 - pkg:composer/perfbase/php-sdk@v1.6.0
 - pkg:composer/perfbase/php-sdk@v1.7.0
+- pkg:composer/perfbase/php-sdk@v1.8.0

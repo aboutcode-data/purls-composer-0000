@@ -24,6 +24,7 @@
 - pkg:composer/perftools/php-profiler@1.2.0
 - pkg:composer/perftools/php-profiler@1.3.0
 - pkg:composer/perftools/php-profiler@1.4.0
+- pkg:composer/perftools/php-profiler@1.4.1
 - pkg:composer/perftools/php-profiler@v0.1.0
 - pkg:composer/perftools/php-profiler@v0.1.1
 - pkg:composer/perftools/php-profiler@v0.2.0
