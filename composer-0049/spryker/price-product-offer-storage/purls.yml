@@ -28,3 +28,4 @@
 - pkg:composer/spryker/price-product-offer-storage@1.5.1
 - pkg:composer/spryker/price-product-offer-storage@1.6.0
 - pkg:composer/spryker/price-product-offer-storage@1.7.0
+- pkg:composer/spryker/price-product-offer-storage@1.8.0
