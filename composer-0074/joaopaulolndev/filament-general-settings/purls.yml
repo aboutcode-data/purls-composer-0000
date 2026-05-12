@@ -17,6 +17,8 @@
 - pkg:composer/joaopaulolndev/filament-general-settings@v1.0.23
 - pkg:composer/joaopaulolndev/filament-general-settings@v1.0.24
 - pkg:composer/joaopaulolndev/filament-general-settings@v1.0.25
+- pkg:composer/joaopaulolndev/filament-general-settings@v1.0.26
+- pkg:composer/joaopaulolndev/filament-general-settings@v1.0.27
 - pkg:composer/joaopaulolndev/filament-general-settings@v1.0.3
 - pkg:composer/joaopaulolndev/filament-general-settings@v1.0.4
 - pkg:composer/joaopaulolndev/filament-general-settings@v1.0.5
@@ -29,7 +31,11 @@
 - pkg:composer/joaopaulolndev/filament-general-settings@v2.0.2
 - pkg:composer/joaopaulolndev/filament-general-settings@v2.0.3
 - pkg:composer/joaopaulolndev/filament-general-settings@v2.0.4
+- pkg:composer/joaopaulolndev/filament-general-settings@v2.0.5
+- pkg:composer/joaopaulolndev/filament-general-settings@v2.0.6
 - pkg:composer/joaopaulolndev/filament-general-settings@v3.0.0
 - pkg:composer/joaopaulolndev/filament-general-settings@v3.0.1
 - pkg:composer/joaopaulolndev/filament-general-settings@v3.0.2
 - pkg:composer/joaopaulolndev/filament-general-settings@v3.0.3
+- pkg:composer/joaopaulolndev/filament-general-settings@v3.0.4
+- pkg:composer/joaopaulolndev/filament-general-settings@v3.0.5
