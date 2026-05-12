@@ -22,3 +22,4 @@
 - pkg:composer/elementfani/yii2-rabbitmq@2.4.0
 - pkg:composer/elementfani/yii2-rabbitmq@3.0.0
 - pkg:composer/elementfani/yii2-rabbitmq@3.0.1
+- pkg:composer/elementfani/yii2-rabbitmq@3.0.2

@@ -10,3 +10,4 @@
 - pkg:composer/dynamic/recipe-silverstripe-base-site@4.1.0
 - pkg:composer/dynamic/recipe-silverstripe-base-site@5.0.0
 - pkg:composer/dynamic/recipe-silverstripe-base-site@5.1.0
+- pkg:composer/dynamic/recipe-silverstripe-base-site@6.0.0
