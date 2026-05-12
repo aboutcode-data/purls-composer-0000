@@ -3,3 +3,4 @@
 - pkg:composer/firmapi/phpsdk@v1.2.0
 - pkg:composer/firmapi/phpsdk@v1.4.0
 - pkg:composer/firmapi/phpsdk@v1.6.0
+- pkg:composer/firmapi/phpsdk@v1.7.0
