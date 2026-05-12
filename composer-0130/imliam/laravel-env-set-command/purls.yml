@@ -5,3 +5,4 @@
 - pkg:composer/imliam/laravel-env-set-command@v1.2.0
 - pkg:composer/imliam/laravel-env-set-command@v1.3.0
 - pkg:composer/imliam/laravel-env-set-command@v2.0.0
+- pkg:composer/imliam/laravel-env-set-command@v3.0.0

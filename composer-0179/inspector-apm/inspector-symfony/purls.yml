@@ -18,6 +18,7 @@
 - pkg:composer/inspector-apm/inspector-symfony@1.11.1
 - pkg:composer/inspector-apm/inspector-symfony@1.11.2
 - pkg:composer/inspector-apm/inspector-symfony@1.11.3
+- pkg:composer/inspector-apm/inspector-symfony@1.11.4
 - pkg:composer/inspector-apm/inspector-symfony@1.2.0
 - pkg:composer/inspector-apm/inspector-symfony@1.2.1
 - pkg:composer/inspector-apm/inspector-symfony@1.2.2
