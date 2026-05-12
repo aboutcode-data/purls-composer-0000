@@ -139,3 +139,4 @@
 - pkg:composer/unusualify/modularity@v0.9.0-rc2
 - pkg:composer/unusualify/modularity@v0.9.1
 - pkg:composer/unusualify/modularity@v11.0.0
+- pkg:composer/unusualify/modularity@v12.0.0
