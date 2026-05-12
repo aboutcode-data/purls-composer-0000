@@ -5,6 +5,8 @@
 - pkg:composer/sentroy-co/client-sdk@v2.1.0
 - pkg:composer/sentroy-co/client-sdk@v2.12.0
 - pkg:composer/sentroy-co/client-sdk@v2.13.0
+- pkg:composer/sentroy-co/client-sdk@v2.13.1
+- pkg:composer/sentroy-co/client-sdk@v2.13.2
 - pkg:composer/sentroy-co/client-sdk@v2.3.1
 - pkg:composer/sentroy-co/client-sdk@v2.4.1
 - pkg:composer/sentroy-co/client-sdk@v2.4.4
