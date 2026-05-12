@@ -1,2 +1,6 @@
 - pkg:composer/plank/laravel-pivot-events@v1.0.0
 - pkg:composer/plank/laravel-pivot-events@v1.0.1
+- pkg:composer/plank/laravel-pivot-events@v10.0.0
+- pkg:composer/plank/laravel-pivot-events@v11.0.0
+- pkg:composer/plank/laravel-pivot-events@v12.0.0
+- pkg:composer/plank/laravel-pivot-events@v13.0.0
