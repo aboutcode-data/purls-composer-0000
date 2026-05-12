@@ -30,3 +30,4 @@
 - pkg:composer/sunergix/entrust-permissions@v0.4.0beta
 - pkg:composer/sunergix/entrust-permissions@v4.1.0
 - pkg:composer/sunergix/entrust-permissions@v5.0
+- pkg:composer/sunergix/entrust-permissions@v6.0
