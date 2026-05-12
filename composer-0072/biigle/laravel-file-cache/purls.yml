@@ -41,3 +41,4 @@
 - pkg:composer/biigle/laravel-file-cache@v5.0.1
 - pkg:composer/biigle/laravel-file-cache@v5.1.0
 - pkg:composer/biigle/laravel-file-cache@v5.1.1
+- pkg:composer/biigle/laravel-file-cache@v5.2.0

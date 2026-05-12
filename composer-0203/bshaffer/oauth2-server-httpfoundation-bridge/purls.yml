@@ -11,3 +11,4 @@
 - pkg:composer/bshaffer/oauth2-server-httpfoundation-bridge@v1.6
 - pkg:composer/bshaffer/oauth2-server-httpfoundation-bridge@v1.7
 - pkg:composer/bshaffer/oauth2-server-httpfoundation-bridge@v1.7.1
+- pkg:composer/bshaffer/oauth2-server-httpfoundation-bridge@v1.7.2
