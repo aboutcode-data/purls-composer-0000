@@ -1,3 +1,4 @@
 - pkg:composer/theupriser/php-docker-utilities@v1.0.0
 - pkg:composer/theupriser/php-docker-utilities@v1.1.0
 - pkg:composer/theupriser/php-docker-utilities@v1.1.1
+- pkg:composer/theupriser/php-docker-utilities@v1.2.0
