@@ -33,6 +33,7 @@
 - pkg:composer/spryker-shop/shop-ui@1.106.2
 - pkg:composer/spryker-shop/shop-ui@1.106.3
 - pkg:composer/spryker-shop/shop-ui@1.107.0
+- pkg:composer/spryker-shop/shop-ui@1.107.1
 - pkg:composer/spryker-shop/shop-ui@1.11.0
 - pkg:composer/spryker-shop/shop-ui@1.12.0
 - pkg:composer/spryker-shop/shop-ui@1.13.0
