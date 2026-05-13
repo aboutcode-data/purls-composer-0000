@@ -22,6 +22,8 @@
 - pkg:composer/wp-pay-extensions/restrict-content-pro@4.1.0
 - pkg:composer/wp-pay-extensions/restrict-content-pro@4.2.0
 - pkg:composer/wp-pay-extensions/restrict-content-pro@4.2.1
+- pkg:composer/wp-pay-extensions/restrict-content-pro@v4.10.0
+- pkg:composer/wp-pay-extensions/restrict-content-pro@v4.10.1
 - pkg:composer/wp-pay-extensions/restrict-content-pro@v4.3.0
 - pkg:composer/wp-pay-extensions/restrict-content-pro@v4.3.1
 - pkg:composer/wp-pay-extensions/restrict-content-pro@v4.3.2
