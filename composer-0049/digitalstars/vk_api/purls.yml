@@ -93,3 +93,6 @@
 - pkg:composer/digitalstars/vk_api@v3.8.6
 - pkg:composer/digitalstars/vk_api@v3.9.2
 - pkg:composer/digitalstars/vk_api@v3.9.3
+- pkg:composer/digitalstars/vk_api@v3.9.4
+- pkg:composer/digitalstars/vk_api@v3.9.5
+- pkg:composer/digitalstars/vk_api@v3.9.6

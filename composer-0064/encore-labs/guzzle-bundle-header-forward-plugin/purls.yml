@@ -7,3 +7,4 @@
 - pkg:composer/encore-labs/guzzle-bundle-header-forward-plugin@v3.0.0
 - pkg:composer/encore-labs/guzzle-bundle-header-forward-plugin@v3.0.1
 - pkg:composer/encore-labs/guzzle-bundle-header-forward-plugin@v4.0.0
+- pkg:composer/encore-labs/guzzle-bundle-header-forward-plugin@v4.1.0
