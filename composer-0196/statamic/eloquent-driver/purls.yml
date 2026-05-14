@@ -131,3 +131,4 @@
 - pkg:composer/statamic/eloquent-driver@v5.6.2
 - pkg:composer/statamic/eloquent-driver@v5.6.3
 - pkg:composer/statamic/eloquent-driver@v5.7.0
+- pkg:composer/statamic/eloquent-driver@v5.8.0

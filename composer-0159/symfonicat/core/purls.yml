@@ -49,3 +49,5 @@
 - pkg:composer/symfonicat/core@v2.5.0
 - pkg:composer/symfonicat/core@v2.6.0
 - pkg:composer/symfonicat/core@v2.7.0
+- pkg:composer/symfonicat/core@v2.8.0
+- pkg:composer/symfonicat/core@v2.9.0
