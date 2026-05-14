@@ -7,3 +7,4 @@
 - pkg:composer/bolt-php/web@v1.0.1.5
 - pkg:composer/bolt-php/web@v1.0.2.0
 - pkg:composer/bolt-php/web@v1.0.3
+- pkg:composer/bolt-php/web@v1.0.4

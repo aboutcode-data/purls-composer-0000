@@ -42,3 +42,4 @@
 - pkg:composer/braga/db@4.2.3
 - pkg:composer/braga/db@4.2.4
 - pkg:composer/braga/db@4.2.5
+- pkg:composer/braga/db@4.3.0
