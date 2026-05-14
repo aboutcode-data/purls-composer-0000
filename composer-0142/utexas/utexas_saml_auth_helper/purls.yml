@@ -15,3 +15,4 @@
 - pkg:composer/utexas/utexas_saml_auth_helper@3.6.3
 - pkg:composer/utexas/utexas_saml_auth_helper@3.6.4
 - pkg:composer/utexas/utexas_saml_auth_helper@3.7.0
+- pkg:composer/utexas/utexas_saml_auth_helper@3.7.1
