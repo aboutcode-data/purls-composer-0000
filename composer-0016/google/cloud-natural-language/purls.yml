@@ -105,3 +105,4 @@
 - pkg:composer/google/cloud-natural-language@v1.1.2
 - pkg:composer/google/cloud-natural-language@v1.1.4
 - pkg:composer/google/cloud-natural-language@v1.2.0
+- pkg:composer/google/cloud-natural-language@v1.2.1
