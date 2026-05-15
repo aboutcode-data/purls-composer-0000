@@ -4,6 +4,7 @@
 - pkg:composer/igkdev/balafon@2026.0.0.0228
 - pkg:composer/igkdev/balafon@2026.0.0.0306
 - pkg:composer/igkdev/balafon@2026.0.0.0316
+- pkg:composer/igkdev/balafon@2026.0.0.0513
 - pkg:composer/igkdev/balafon@v2025.0.0.0110
 - pkg:composer/igkdev/balafon@v2025.0.0.1121-p12
 - pkg:composer/igkdev/balafon@v2025.0.0.1121-p13
@@ -83,3 +84,6 @@
 - pkg:composer/igkdev/balafon@v2026.0.0.0423-p3
 - pkg:composer/igkdev/balafon@v2026.0.0.0509
 - pkg:composer/igkdev/balafon@v2026.0.0.0511
+- pkg:composer/igkdev/balafon@v2026.0.0.0514
+- pkg:composer/igkdev/balafon@v2026.0.0.0514-p1
+- pkg:composer/igkdev/balafon@v2026.0.0.0514-p2

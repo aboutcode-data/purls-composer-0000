@@ -28,7 +28,6 @@
 - pkg:composer/hypejunction/hypeinbox@6.0.5
 - pkg:composer/hypejunction/hypeinbox@6.0.6
 - pkg:composer/hypejunction/hypeinbox@6.1.0
-- pkg:composer/hypejunction/hypeinbox@7.0.0
 - pkg:composer/hypejunction/hypeinbox@8.0.0
 - pkg:composer/hypejunction/hypeinbox@8.0.1
 - pkg:composer/hypejunction/hypeinbox@8.0.2

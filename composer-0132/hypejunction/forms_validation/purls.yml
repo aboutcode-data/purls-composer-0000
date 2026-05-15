@@ -2,5 +2,7 @@
 - pkg:composer/hypejunction/forms_validation@1.1.0
 - pkg:composer/hypejunction/forms_validation@1.1.1
 - pkg:composer/hypejunction/forms_validation@1.2.0
+- pkg:composer/hypejunction/forms_validation@3.0.0
 - pkg:composer/hypejunction/forms_validation@4.0.0
 - pkg:composer/hypejunction/forms_validation@5.0.0
+- pkg:composer/hypejunction/forms_validation@6.0.0

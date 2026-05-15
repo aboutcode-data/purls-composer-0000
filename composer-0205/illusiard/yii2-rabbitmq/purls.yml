@@ -1,1 +1,2 @@
 - pkg:composer/illusiard/yii2-rabbitmq@v0.1.0
+- pkg:composer/illusiard/yii2-rabbitmq@v1.0.0
