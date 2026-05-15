@@ -21,6 +21,7 @@
 - pkg:composer/ycloud/ycloud-sdk-php@v1.15.5
 - pkg:composer/ycloud/ycloud-sdk-php@v1.15.6
 - pkg:composer/ycloud/ycloud-sdk-php@v1.15.7
+- pkg:composer/ycloud/ycloud-sdk-php@v1.15.9
 - pkg:composer/ycloud/ycloud-sdk-php@v1.2.0
 - pkg:composer/ycloud/ycloud-sdk-php@v1.3.0
 - pkg:composer/ycloud/ycloud-sdk-php@v1.4.0
