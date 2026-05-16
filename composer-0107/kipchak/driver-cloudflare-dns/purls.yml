@@ -5,3 +5,5 @@
 - pkg:composer/kipchak/driver-cloudflare-dns@1.4
 - pkg:composer/kipchak/driver-cloudflare-dns@1.5
 - pkg:composer/kipchak/driver-cloudflare-dns@1.6
+- pkg:composer/kipchak/driver-cloudflare-dns@1.7
+- pkg:composer/kipchak/driver-cloudflare-dns@1.8

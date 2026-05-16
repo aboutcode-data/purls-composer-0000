@@ -31,3 +31,6 @@
 - pkg:composer/knplabs/knp-snappy@v1.5.0
 - pkg:composer/knplabs/knp-snappy@v1.5.1
 - pkg:composer/knplabs/knp-snappy@v1.6.0
+- pkg:composer/knplabs/knp-snappy@v1.7.0
+- pkg:composer/knplabs/knp-snappy@v1.7.1
+- pkg:composer/knplabs/knp-snappy@v1.7.2

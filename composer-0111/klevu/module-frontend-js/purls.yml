@@ -28,3 +28,4 @@
 - pkg:composer/klevu/module-frontend-js@2.3.1
 - pkg:composer/klevu/module-frontend-js@2.4.0
 - pkg:composer/klevu/module-frontend-js@2.4.1
+- pkg:composer/klevu/module-frontend-js@2.5.0
