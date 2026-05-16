@@ -15,3 +15,4 @@
 - pkg:composer/derhansen/sf_event_mgt_indexer@4.0.0
 - pkg:composer/derhansen/sf_event_mgt_indexer@4.0.1
 - pkg:composer/derhansen/sf_event_mgt_indexer@5.0.0
+- pkg:composer/derhansen/sf_event_mgt_indexer@6.0.0
