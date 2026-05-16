@@ -28,6 +28,8 @@
 - pkg:composer/fooman/emailattachments-implementation-m2@107.5.0
 - pkg:composer/fooman/emailattachments-implementation-m2@107.5.1
 - pkg:composer/fooman/emailattachments-implementation-m2@107.5.2
+- pkg:composer/fooman/emailattachments-implementation-m2@107.5.3
+- pkg:composer/fooman/emailattachments-implementation-m2@107.6.0
 - pkg:composer/fooman/emailattachments-implementation-m2@2.0.0
 - pkg:composer/fooman/emailattachments-implementation-m2@2.0.1
 - pkg:composer/fooman/emailattachments-implementation-m2@2.0.2
