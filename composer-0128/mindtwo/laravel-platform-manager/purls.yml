@@ -60,3 +60,4 @@
 - pkg:composer/mindtwo/laravel-platform-manager@2.7.0
 - pkg:composer/mindtwo/laravel-platform-manager@2.7.1
 - pkg:composer/mindtwo/laravel-platform-manager@4.0.0
+- pkg:composer/mindtwo/laravel-platform-manager@4.0.1

@@ -18,3 +18,4 @@
 - pkg:composer/masan27/laravel-redis-om@2.3.1
 - pkg:composer/masan27/laravel-redis-om@2.3.2
 - pkg:composer/masan27/laravel-redis-om@2.3.4
+- pkg:composer/masan27/laravel-redis-om@2.3.5
