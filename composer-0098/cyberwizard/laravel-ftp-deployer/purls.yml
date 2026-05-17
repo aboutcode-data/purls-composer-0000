@@ -1,1 +1,2 @@
 - pkg:composer/cyberwizard/laravel-ftp-deployer@1.0.0
+- pkg:composer/cyberwizard/laravel-ftp-deployer@1.1.0
