@@ -303,6 +303,7 @@
 - pkg:composer/leazycms/web@1.2.282
 - pkg:composer/leazycms/web@1.2.283
 - pkg:composer/leazycms/web@1.2.284
+- pkg:composer/leazycms/web@1.2.285
 - pkg:composer/leazycms/web@1.2.29
 - pkg:composer/leazycms/web@1.2.3
 - pkg:composer/leazycms/web@1.2.30
