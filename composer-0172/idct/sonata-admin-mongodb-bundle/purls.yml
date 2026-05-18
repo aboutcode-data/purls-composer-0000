@@ -1,2 +1,3 @@
 - pkg:composer/idct/sonata-admin-mongodb-bundle@5.0.0
 - pkg:composer/idct/sonata-admin-mongodb-bundle@v5.1.0
+- pkg:composer/idct/sonata-admin-mongodb-bundle@v5.1.1
