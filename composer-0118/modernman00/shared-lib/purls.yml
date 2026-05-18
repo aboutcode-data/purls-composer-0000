@@ -321,7 +321,11 @@
 - pkg:composer/modernman00/shared-lib@v1.8.14
 - pkg:composer/modernman00/shared-lib@v1.8.15
 - pkg:composer/modernman00/shared-lib@v1.8.16
+- pkg:composer/modernman00/shared-lib@v1.8.17
+- pkg:composer/modernman00/shared-lib@v1.8.18
+- pkg:composer/modernman00/shared-lib@v1.8.19
 - pkg:composer/modernman00/shared-lib@v1.8.2
+- pkg:composer/modernman00/shared-lib@v1.8.20
 - pkg:composer/modernman00/shared-lib@v1.8.3
 - pkg:composer/modernman00/shared-lib@v1.8.4
 - pkg:composer/modernman00/shared-lib@v1.8.5
