@@ -1,4 +1,5 @@
 - pkg:composer/friendsoftypo3/tt-address@10.0.0
+- pkg:composer/friendsoftypo3/tt-address@10.0.1
 - pkg:composer/friendsoftypo3/tt-address@3.0.0
 - pkg:composer/friendsoftypo3/tt-address@3.0.1
 - pkg:composer/friendsoftypo3/tt-address@3.0.2
@@ -30,9 +31,11 @@
 - pkg:composer/friendsoftypo3/tt-address@8.0.3
 - pkg:composer/friendsoftypo3/tt-address@8.1.0
 - pkg:composer/friendsoftypo3/tt-address@8.1.1
+- pkg:composer/friendsoftypo3/tt-address@8.1.2
 - pkg:composer/friendsoftypo3/tt-address@9.0.0
 - pkg:composer/friendsoftypo3/tt-address@9.0.1
 - pkg:composer/friendsoftypo3/tt-address@9.1.0
+- pkg:composer/friendsoftypo3/tt-address@9.1.1
 - pkg:composer/friendsoftypo3/tt-address@v3.2.2
 - pkg:composer/friendsoftypo3/tt-address@v3.2.3
 - pkg:composer/friendsoftypo3/tt-address@v3.2.4
