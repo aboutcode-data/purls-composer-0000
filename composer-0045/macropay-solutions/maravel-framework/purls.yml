@@ -179,6 +179,13 @@
 - pkg:composer/macropay-solutions/maravel-framework@10.71.9
 - pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC1
 - pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC10
+- pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC12
+- pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC14
+- pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC15
+- pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC16
+- pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC17
+- pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC18
+- pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC19
 - pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC2
 - pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC3
 - pkg:composer/macropay-solutions/maravel-framework@20.0.0-RC4
