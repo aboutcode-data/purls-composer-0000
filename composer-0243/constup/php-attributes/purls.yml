@@ -4,3 +4,4 @@
 - pkg:composer/constup/php-attributes@1.3.0
 - pkg:composer/constup/php-attributes@2.0.0
 - pkg:composer/constup/php-attributes@2.1.0
+- pkg:composer/constup/php-attributes@2.2.0
