@@ -45,6 +45,7 @@
 - pkg:composer/phpdocumentor/phpdocumentor@v3.1.0-beta
 - pkg:composer/phpdocumentor/phpdocumentor@v3.1.1
 - pkg:composer/phpdocumentor/phpdocumentor@v3.1.2
+- pkg:composer/phpdocumentor/phpdocumentor@v3.10.0
 - pkg:composer/phpdocumentor/phpdocumentor@v3.2.0
 - pkg:composer/phpdocumentor/phpdocumentor@v3.2.1
 - pkg:composer/phpdocumentor/phpdocumentor@v3.3.0

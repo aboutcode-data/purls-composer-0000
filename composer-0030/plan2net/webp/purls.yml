@@ -6,6 +6,11 @@
 - pkg:composer/plan2net/webp@1.2.0
 - pkg:composer/plan2net/webp@13.0.0
 - pkg:composer/plan2net/webp@13.0.1
+- pkg:composer/plan2net/webp@14.0.0
+- pkg:composer/plan2net/webp@14.1.0
+- pkg:composer/plan2net/webp@14.1.1
+- pkg:composer/plan2net/webp@14.2.0
+- pkg:composer/plan2net/webp@14.3.0
 - pkg:composer/plan2net/webp@2.0.0
 - pkg:composer/plan2net/webp@2.1.0
 - pkg:composer/plan2net/webp@2.1.1
