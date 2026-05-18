@@ -53,6 +53,8 @@
 - pkg:composer/nguyenanhung/requests@v2.1.4
 - pkg:composer/nguyenanhung/requests@v2.1.5
 - pkg:composer/nguyenanhung/requests@v2.1.6
+- pkg:composer/nguyenanhung/requests@v2.1.7
+- pkg:composer/nguyenanhung/requests@v2.1.8
 - pkg:composer/nguyenanhung/requests@v3.0.0
 - pkg:composer/nguyenanhung/requests@v3.0.1
 - pkg:composer/nguyenanhung/requests@v3.0.2
@@ -68,6 +70,9 @@
 - pkg:composer/nguyenanhung/requests@v3.1.1
 - pkg:composer/nguyenanhung/requests@v3.1.2
 - pkg:composer/nguyenanhung/requests@v3.1.3
+- pkg:composer/nguyenanhung/requests@v3.1.4
 - pkg:composer/nguyenanhung/requests@v4.0.0
 - pkg:composer/nguyenanhung/requests@v4.0.1
 - pkg:composer/nguyenanhung/requests@v4.0.2
+- pkg:composer/nguyenanhung/requests@v4.0.3
+- pkg:composer/nguyenanhung/requests@v4.1.0

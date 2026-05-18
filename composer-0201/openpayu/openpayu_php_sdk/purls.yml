@@ -25,6 +25,9 @@
 - pkg:composer/openpayu/openpayu_php_sdk@2.3.4
 - pkg:composer/openpayu/openpayu_php_sdk@2.3.5
 - pkg:composer/openpayu/openpayu_php_sdk@2.3.6
+- pkg:composer/openpayu/openpayu_php_sdk@2.4.0
+- pkg:composer/openpayu/openpayu_php_sdk@2.4.1
+- pkg:composer/openpayu/openpayu_php_sdk@2.4.2
 - pkg:composer/openpayu/openpayu_php_sdk@v2.0.2
 - pkg:composer/openpayu/openpayu_php_sdk@v2.0.5
 - pkg:composer/openpayu/openpayu_php_sdk@v2.0.6
