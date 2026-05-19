@@ -175,6 +175,8 @@
 - pkg:composer/durable-workflow/workflow@2.0.0-alpha.152
 - pkg:composer/durable-workflow/workflow@2.0.0-alpha.153
 - pkg:composer/durable-workflow/workflow@2.0.0-alpha.154
+- pkg:composer/durable-workflow/workflow@2.0.0-alpha.155
+- pkg:composer/durable-workflow/workflow@2.0.0-alpha.156
 - pkg:composer/durable-workflow/workflow@2.0.0-alpha.16
 - pkg:composer/durable-workflow/workflow@2.0.0-alpha.17
 - pkg:composer/durable-workflow/workflow@2.0.0-alpha.18
