@@ -42,3 +42,4 @@
 - pkg:composer/rcsofttech/audit-trail-bundle@v3.2.1
 - pkg:composer/rcsofttech/audit-trail-bundle@v3.3.0
 - pkg:composer/rcsofttech/audit-trail-bundle@v4.0.0
+- pkg:composer/rcsofttech/audit-trail-bundle@v4.0.1

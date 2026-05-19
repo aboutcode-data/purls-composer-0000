@@ -98,3 +98,4 @@
 - pkg:composer/prestashop/autoupgrade@v7.6.3-beta.1
 - pkg:composer/prestashop/autoupgrade@v7.6.4
 - pkg:composer/prestashop/autoupgrade@v7.6.4-beta.1
+- pkg:composer/prestashop/autoupgrade@v7.6.5

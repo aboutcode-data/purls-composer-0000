@@ -13,3 +13,4 @@
 - pkg:composer/reb3r/oauth2-server-httpfoundation-bridge@v2.3
 - pkg:composer/reb3r/oauth2-server-httpfoundation-bridge@v2.4
 - pkg:composer/reb3r/oauth2-server-httpfoundation-bridge@v2.5
+- pkg:composer/reb3r/oauth2-server-httpfoundation-bridge@v2.6
