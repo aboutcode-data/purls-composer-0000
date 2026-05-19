@@ -185,6 +185,8 @@
 - pkg:composer/internetguru/laravel-common@v5.13.5
 - pkg:composer/internetguru/laravel-common@v5.13.6
 - pkg:composer/internetguru/laravel-common@v5.13.7
+- pkg:composer/internetguru/laravel-common@v5.14.0
+- pkg:composer/internetguru/laravel-common@v5.14.1
 - pkg:composer/internetguru/laravel-common@v5.2.0
 - pkg:composer/internetguru/laravel-common@v5.3.0
 - pkg:composer/internetguru/laravel-common@v5.3.1
