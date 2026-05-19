@@ -354,6 +354,7 @@
 - pkg:composer/juniwalk/utils@v4.0.9
 - pkg:composer/juniwalk/utils@v4.1.0
 - pkg:composer/juniwalk/utils@v4.1.1
+- pkg:composer/juniwalk/utils@v4.10.0
 - pkg:composer/juniwalk/utils@v4.2.0
 - pkg:composer/juniwalk/utils@v4.2.1
 - pkg:composer/juniwalk/utils@v4.2.2
