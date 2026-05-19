@@ -1,3 +1,4 @@
 - pkg:composer/graphene-ict/laravel-cognito-guard@v1.0.0
 - pkg:composer/graphene-ict/laravel-cognito-guard@v2.0.0
 - pkg:composer/graphene-ict/laravel-cognito-guard@v2.1.0
+- pkg:composer/graphene-ict/laravel-cognito-guard@v2.2.0

@@ -5,3 +5,4 @@
 - pkg:composer/hackthebox/laravel-iam-auth@v2.0.0
 - pkg:composer/hackthebox/laravel-iam-auth@v2.0.1
 - pkg:composer/hackthebox/laravel-iam-auth@v2.0.1-rc.1
+- pkg:composer/hackthebox/laravel-iam-auth@v3.0.0-rc.1
