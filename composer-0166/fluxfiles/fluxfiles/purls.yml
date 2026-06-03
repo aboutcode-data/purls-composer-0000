@@ -1,5 +1,7 @@
-- pkg:composer/fluxfiles/fluxfiles@v1.26.3
-- pkg:composer/fluxfiles/fluxfiles@v1.26.4
-- pkg:composer/fluxfiles/fluxfiles@v1.26.5
-- pkg:composer/fluxfiles/fluxfiles@v1.27.0
-- pkg:composer/fluxfiles/fluxfiles@v1.27.1
+- pkg:composer/fluxfiles/fluxfiles@v0.1.0
+- pkg:composer/fluxfiles/fluxfiles@v0.1.1
+- pkg:composer/fluxfiles/fluxfiles@v0.1.2
+- pkg:composer/fluxfiles/fluxfiles@v0.1.3
+- pkg:composer/fluxfiles/fluxfiles@v0.2.0
+- pkg:composer/fluxfiles/fluxfiles@v0.2.1
+- pkg:composer/fluxfiles/fluxfiles@v0.2.2
