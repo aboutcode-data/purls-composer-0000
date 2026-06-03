@@ -172,6 +172,7 @@
 - pkg:composer/jtl/connector@5.2.8
 - pkg:composer/jtl/connector@5.2.9
 - pkg:composer/jtl/connector@5.3.0
+- pkg:composer/jtl/connector@5.3.1
 - pkg:composer/jtl/connector@v4.0.4
 - pkg:composer/jtl/connector@v4.0.9
 - pkg:composer/jtl/connector@v5.1.0
