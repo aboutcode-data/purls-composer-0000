@@ -2,6 +2,9 @@
 - pkg:composer/imedge/icingaweb2-module-imedge@v0.10.0
 - pkg:composer/imedge/icingaweb2-module-imedge@v0.2.0
 - pkg:composer/imedge/icingaweb2-module-imedge@v0.20.0-rc1
+- pkg:composer/imedge/icingaweb2-module-imedge@v0.20.0-rc2
+- pkg:composer/imedge/icingaweb2-module-imedge@v0.20.0-rc3
+- pkg:composer/imedge/icingaweb2-module-imedge@v0.20.0-rc4
 - pkg:composer/imedge/icingaweb2-module-imedge@v0.3.0
 - pkg:composer/imedge/icingaweb2-module-imedge@v0.4.0
 - pkg:composer/imedge/icingaweb2-module-imedge@v0.5.0
