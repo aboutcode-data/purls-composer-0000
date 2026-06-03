@@ -34,3 +34,5 @@
 - pkg:composer/laravel/ai@v0.6.7
 - pkg:composer/laravel/ai@v0.6.8
 - pkg:composer/laravel/ai@v0.7.0
+- pkg:composer/laravel/ai@v0.7.1
+- pkg:composer/laravel/ai@v0.7.2
