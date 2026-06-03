@@ -49,3 +49,4 @@
 - pkg:composer/jackmartin/laravel-vue-i18n-generator@0.2.1
 - pkg:composer/jackmartin/laravel-vue-i18n-generator@0.2.2
 - pkg:composer/jackmartin/laravel-vue-i18n-generator@0.2.3
+- pkg:composer/jackmartin/laravel-vue-i18n-generator@0.2.4
