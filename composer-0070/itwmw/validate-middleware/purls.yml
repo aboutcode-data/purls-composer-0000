@@ -13,3 +13,7 @@
 - pkg:composer/itwmw/validate-middleware@v6.0.0
 - pkg:composer/itwmw/validate-middleware@v6.1.0
 - pkg:composer/itwmw/validate-middleware@v6.2.0
+- pkg:composer/itwmw/validate-middleware@v6.3.0
+- pkg:composer/itwmw/validate-middleware@v6.3.1
+- pkg:composer/itwmw/validate-middleware@v6.3.2
+- pkg:composer/itwmw/validate-middleware@v6.3.3
