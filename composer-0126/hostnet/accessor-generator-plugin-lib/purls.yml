@@ -92,3 +92,4 @@
 - pkg:composer/hostnet/accessor-generator-plugin-lib@6.0.6
 - pkg:composer/hostnet/accessor-generator-plugin-lib@6.0.7
 - pkg:composer/hostnet/accessor-generator-plugin-lib@6.1.0
+- pkg:composer/hostnet/accessor-generator-plugin-lib@6.2.0
