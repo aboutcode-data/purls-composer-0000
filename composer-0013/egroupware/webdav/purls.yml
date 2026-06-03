@@ -6,6 +6,7 @@
 - pkg:composer/egroupware/webdav@0.3.7
 - pkg:composer/egroupware/webdav@0.4.0
 - pkg:composer/egroupware/webdav@0.5.0
+- pkg:composer/egroupware/webdav@0.5.1
 - pkg:composer/egroupware/webdav@v0.1.0
 - pkg:composer/egroupware/webdav@v0.1.1
 - pkg:composer/egroupware/webdav@v0.1.2
