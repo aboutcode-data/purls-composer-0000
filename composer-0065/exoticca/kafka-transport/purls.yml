@@ -11,3 +11,4 @@
 - pkg:composer/exoticca/kafka-transport@0.1.1
 - pkg:composer/exoticca/kafka-transport@0.1.2
 - pkg:composer/exoticca/kafka-transport@0.1.3
+- pkg:composer/exoticca/kafka-transport@0.1.4
