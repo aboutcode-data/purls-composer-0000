@@ -1,4 +1,6 @@
 - pkg:composer/efabrica/nette-repository@0.1.0
+- pkg:composer/efabrica/nette-repository@0.10.0
+- pkg:composer/efabrica/nette-repository@0.10.1
 - pkg:composer/efabrica/nette-repository@0.2.1
 - pkg:composer/efabrica/nette-repository@0.3.0
 - pkg:composer/efabrica/nette-repository@0.4.0
