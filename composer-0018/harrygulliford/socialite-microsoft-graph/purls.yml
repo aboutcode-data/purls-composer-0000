@@ -5,3 +5,4 @@
 - pkg:composer/harrygulliford/socialite-microsoft-graph@v1.2.1
 - pkg:composer/harrygulliford/socialite-microsoft-graph@v1.3.0
 - pkg:composer/harrygulliford/socialite-microsoft-graph@v1.4.0
+- pkg:composer/harrygulliford/socialite-microsoft-graph@v1.5.0
