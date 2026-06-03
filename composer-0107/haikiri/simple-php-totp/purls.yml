@@ -2,3 +2,4 @@
 - pkg:composer/haikiri/simple-php-totp@1.1.0
 - pkg:composer/haikiri/simple-php-totp@1.2.0
 - pkg:composer/haikiri/simple-php-totp@1.2.1
+- pkg:composer/haikiri/simple-php-totp@2.0.0
