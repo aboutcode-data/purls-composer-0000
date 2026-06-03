@@ -1,3 +1,4 @@
 - pkg:composer/lgarret/health-check-bundle@v1.0.1
 - pkg:composer/lgarret/health-check-bundle@v1.0.2
 - pkg:composer/lgarret/health-check-bundle@v1.0.3
+- pkg:composer/lgarret/health-check-bundle@v1.1.0
