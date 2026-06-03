@@ -4,6 +4,10 @@
 - pkg:composer/horde/stream@1.6.3
 - pkg:composer/horde/stream@2.0.0alpha1
 - pkg:composer/horde/stream@2.0.0alpha2
+- pkg:composer/horde/stream@v1.7.0
+- pkg:composer/horde/stream@v1.7.1
+- pkg:composer/horde/stream@v1.7.2
+- pkg:composer/horde/stream@v2.0.0RC1
 - pkg:composer/horde/stream@v2.0.0alpha3
 - pkg:composer/horde/stream@v2.0.0alpha4
 - pkg:composer/horde/stream@v2.0.0beta1
