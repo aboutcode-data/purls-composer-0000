@@ -1,3 +1,4 @@
 - pkg:composer/keboola/git-service-api-client@1.0.0
 - pkg:composer/keboola/git-service-api-client@2.0.0
 - pkg:composer/keboola/git-service-api-client@2.1.0
+- pkg:composer/keboola/git-service-api-client@3.0.0
