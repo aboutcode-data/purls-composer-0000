@@ -89,6 +89,10 @@
 - pkg:composer/kalel1500/laravel-hexagonal-and-ddd-architecture-utilities@v0.5.0-beta.2
 - pkg:composer/kalel1500/laravel-hexagonal-and-ddd-architecture-utilities@v0.5.0-beta.3
 - pkg:composer/kalel1500/laravel-hexagonal-and-ddd-architecture-utilities@v0.50.0-beta.1
+- pkg:composer/kalel1500/laravel-hexagonal-and-ddd-architecture-utilities@v0.51.0-beta.1
+- pkg:composer/kalel1500/laravel-hexagonal-and-ddd-architecture-utilities@v0.51.1-beta.1
+- pkg:composer/kalel1500/laravel-hexagonal-and-ddd-architecture-utilities@v0.52.0-beta.1
+- pkg:composer/kalel1500/laravel-hexagonal-and-ddd-architecture-utilities@v0.52.1-beta.1
 - pkg:composer/kalel1500/laravel-hexagonal-and-ddd-architecture-utilities@v0.6.0-beta.1
 - pkg:composer/kalel1500/laravel-hexagonal-and-ddd-architecture-utilities@v0.7.0-beta.1
 - pkg:composer/kalel1500/laravel-hexagonal-and-ddd-architecture-utilities@v0.8.0-beta.1
