@@ -2,3 +2,4 @@
 - pkg:composer/flobbos/laravel-image-cache@v0.0.2
 - pkg:composer/flobbos/laravel-image-cache@v0.0.3
 - pkg:composer/flobbos/laravel-image-cache@v1.0.0
+- pkg:composer/flobbos/laravel-image-cache@v2.0.0
