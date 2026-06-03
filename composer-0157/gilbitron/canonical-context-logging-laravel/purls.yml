@@ -1,3 +1,4 @@
 - pkg:composer/gilbitron/canonical-context-logging-laravel@0.1.0
 - pkg:composer/gilbitron/canonical-context-logging-laravel@0.1.1
 - pkg:composer/gilbitron/canonical-context-logging-laravel@0.2.0
+- pkg:composer/gilbitron/canonical-context-logging-laravel@0.2.1
