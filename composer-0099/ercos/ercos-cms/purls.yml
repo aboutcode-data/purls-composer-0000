@@ -38,6 +38,7 @@
 - pkg:composer/ercos/ercos-cms@2.2.2
 - pkg:composer/ercos/ercos-cms@2.2.3
 - pkg:composer/ercos/ercos-cms@2.2.4
+- pkg:composer/ercos/ercos-cms@2.2.5
 - pkg:composer/ercos/ercos-cms@3.0.0
 - pkg:composer/ercos/ercos-cms@3.0.1
 - pkg:composer/ercos/ercos-cms@3.0.2
