@@ -16,3 +16,5 @@
 - pkg:composer/innoweb/silverstripe-social-share@4.4.0
 - pkg:composer/innoweb/silverstripe-social-share@4.5.0
 - pkg:composer/innoweb/silverstripe-social-share@5.0.0
+- pkg:composer/innoweb/silverstripe-social-share@5.0.1
+- pkg:composer/innoweb/silverstripe-social-share@5.0.2
