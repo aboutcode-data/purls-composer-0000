@@ -16,3 +16,4 @@
 - pkg:composer/fastd/dobee@v0.3.0-beta3
 - pkg:composer/fastd/dobee@v0.3.0-beta4
 - pkg:composer/fastd/dobee@v0.3.0-rc1
+- pkg:composer/fastd/dobee@v1.0.0
