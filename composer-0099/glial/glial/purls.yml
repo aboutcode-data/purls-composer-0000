@@ -91,4 +91,6 @@
 - pkg:composer/glial/glial@v5.1.7
 - pkg:composer/glial/glial@v5.1.8
 - pkg:composer/glial/glial@v5.1.9
+- pkg:composer/glial/glial@v5.2.1
+- pkg:composer/glial/glial@v5.2.2
 - pkg:composer/glial/glial@v5.20
