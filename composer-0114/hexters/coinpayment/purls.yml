@@ -14,6 +14,7 @@
 - pkg:composer/hexters/coinpayment@2.0.4
 - pkg:composer/hexters/coinpayment@2.0.5
 - pkg:composer/hexters/coinpayment@2.1.0
+- pkg:composer/hexters/coinpayment@4.0.1
 - pkg:composer/hexters/coinpayment@v1.0.10
 - pkg:composer/hexters/coinpayment@v1.0.11
 - pkg:composer/hexters/coinpayment@v1.0.12
@@ -33,3 +34,4 @@
 - pkg:composer/hexters/coinpayment@v1.1.5
 - pkg:composer/hexters/coinpayment@v2.1.1
 - pkg:composer/hexters/coinpayment@v3.0.0
+- pkg:composer/hexters/coinpayment@v4.0.0
