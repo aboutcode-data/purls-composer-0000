@@ -26,6 +26,7 @@
 - pkg:composer/imagine/imagine@1.5.1
 - pkg:composer/imagine/imagine@1.5.2
 - pkg:composer/imagine/imagine@1.5.3
+- pkg:composer/imagine/imagine@1.5.4
 - pkg:composer/imagine/imagine@v0.2.6
 - pkg:composer/imagine/imagine@v0.2.7
 - pkg:composer/imagine/imagine@v0.2.8
