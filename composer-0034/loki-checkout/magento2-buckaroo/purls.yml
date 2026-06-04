@@ -13,3 +13,4 @@
 - pkg:composer/loki-checkout/magento2-buckaroo@2.0.22
 - pkg:composer/loki-checkout/magento2-buckaroo@3.0.0
 - pkg:composer/loki-checkout/magento2-buckaroo@3.0.1
+- pkg:composer/loki-checkout/magento2-buckaroo@3.0.2
