@@ -5,3 +5,4 @@
 - pkg:composer/json-structure/sdk@v0.5.5
 - pkg:composer/json-structure/sdk@v0.6.0
 - pkg:composer/json-structure/sdk@v0.6.1
+- pkg:composer/json-structure/sdk@v0.6.2
