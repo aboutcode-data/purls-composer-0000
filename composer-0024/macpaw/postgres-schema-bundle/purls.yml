@@ -7,3 +7,4 @@
 - pkg:composer/macpaw/postgres-schema-bundle@v2.0.0
 - pkg:composer/macpaw/postgres-schema-bundle@v2.0.1
 - pkg:composer/macpaw/postgres-schema-bundle@v2.0.2
+- pkg:composer/macpaw/postgres-schema-bundle@v2.0.3
