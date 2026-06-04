@@ -14,6 +14,8 @@
 - pkg:composer/hexin/library@v10.7
 - pkg:composer/hexin/library@v10.8
 - pkg:composer/hexin/library@v10.9
+- pkg:composer/hexin/library@v11
+- pkg:composer/hexin/library@v12
 - pkg:composer/hexin/library@v2.0.0
 - pkg:composer/hexin/library@v2.0.1
 - pkg:composer/hexin/library@v2.0.2
