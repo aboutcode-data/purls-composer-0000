@@ -223,8 +223,10 @@
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-alpha.196
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-alpha.197
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-alpha.198
+- pkg:composer/laravel-workflow/laravel-workflow@2.0.0-alpha.199
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-alpha.2
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-alpha.20
+- pkg:composer/laravel-workflow/laravel-workflow@2.0.0-alpha.200
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-alpha.21
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-alpha.22
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-alpha.23
