@@ -21,3 +21,4 @@
 - pkg:composer/payfurl/module-payment@1.4.0
 - pkg:composer/payfurl/module-payment@1.4.2
 - pkg:composer/payfurl/module-payment@1.4.3
+- pkg:composer/payfurl/module-payment@1.5.0
