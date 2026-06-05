@@ -34,4 +34,6 @@
 - pkg:composer/oktopost/squid@1.2.0
 - pkg:composer/oktopost/squid@1.2.1
 - pkg:composer/oktopost/squid@2.0.0
+- pkg:composer/oktopost/squid@2.0.2
+- pkg:composer/oktopost/squid@2.1.0
 - pkg:composer/oktopost/squid@v2.0.1
