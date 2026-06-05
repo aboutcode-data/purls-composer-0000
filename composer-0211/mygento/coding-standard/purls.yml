@@ -34,6 +34,7 @@
 - pkg:composer/mygento/coding-standard@2.14.6
 - pkg:composer/mygento/coding-standard@2.14.7
 - pkg:composer/mygento/coding-standard@2.14.8
+- pkg:composer/mygento/coding-standard@2.14.9
 - pkg:composer/mygento/coding-standard@2.2
 - pkg:composer/mygento/coding-standard@2.3
 - pkg:composer/mygento/coding-standard@2.3.1
