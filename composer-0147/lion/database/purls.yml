@@ -57,6 +57,7 @@
 - pkg:composer/lion/database@v12.1.0
 - pkg:composer/lion/database@v12.1.1
 - pkg:composer/lion/database@v12.1.2
+- pkg:composer/lion/database@v12.1.3
 - pkg:composer/lion/database@v2.0
 - pkg:composer/lion/database@v3.0
 - pkg:composer/lion/database@v4.0
