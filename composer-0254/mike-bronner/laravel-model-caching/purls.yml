@@ -171,3 +171,4 @@
 - pkg:composer/mike-bronner/laravel-model-caching@13.1.0
 - pkg:composer/mike-bronner/laravel-model-caching@13.1.1
 - pkg:composer/mike-bronner/laravel-model-caching@13.1.2
+- pkg:composer/mike-bronner/laravel-model-caching@13.1.3
