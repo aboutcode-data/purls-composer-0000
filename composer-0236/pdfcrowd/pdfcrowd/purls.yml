@@ -63,3 +63,4 @@
 - pkg:composer/pdfcrowd/pdfcrowd@6.5.3
 - pkg:composer/pdfcrowd/pdfcrowd@6.5.4
 - pkg:composer/pdfcrowd/pdfcrowd@6.5.5
+- pkg:composer/pdfcrowd/pdfcrowd@6.6.0
