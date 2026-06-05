@@ -1,4 +1,10 @@
 - pkg:composer/meetplume/plume@v0.1.0
+- pkg:composer/meetplume/plume@v0.10.0
+- pkg:composer/meetplume/plume@v0.10.1
+- pkg:composer/meetplume/plume@v0.10.2
+- pkg:composer/meetplume/plume@v0.10.3
+- pkg:composer/meetplume/plume@v0.10.4
+- pkg:composer/meetplume/plume@v0.10.5
 - pkg:composer/meetplume/plume@v0.2.0
 - pkg:composer/meetplume/plume@v0.3.0
 - pkg:composer/meetplume/plume@v0.3.1
@@ -10,3 +16,7 @@
 - pkg:composer/meetplume/plume@v0.6.0
 - pkg:composer/meetplume/plume@v0.7.0
 - pkg:composer/meetplume/plume@v0.7.1
+- pkg:composer/meetplume/plume@v0.8.0
+- pkg:composer/meetplume/plume@v0.9.0
+- pkg:composer/meetplume/plume@v0.9.1
+- pkg:composer/meetplume/plume@v0.9.2
