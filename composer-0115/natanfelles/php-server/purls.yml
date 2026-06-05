@@ -10,6 +10,7 @@
 - pkg:composer/natanfelles/php-server@v2.12
 - pkg:composer/natanfelles/php-server@v2.12.1
 - pkg:composer/natanfelles/php-server@v2.13
+- pkg:composer/natanfelles/php-server@v2.14
 - pkg:composer/natanfelles/php-server@v2.2
 - pkg:composer/natanfelles/php-server@v2.3
 - pkg:composer/natanfelles/php-server@v2.4
