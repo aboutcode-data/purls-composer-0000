@@ -6,3 +6,5 @@
 - pkg:composer/lucinda/db@v2.0.5
 - pkg:composer/lucinda/db@v3.0.0
 - pkg:composer/lucinda/db@v3.0.1
+- pkg:composer/lucinda/db@v4.0.0
+- pkg:composer/lucinda/db@v4.0.1
