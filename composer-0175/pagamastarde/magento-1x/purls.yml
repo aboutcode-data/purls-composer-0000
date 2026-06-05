@@ -1,7 +1,4 @@
 - pkg:composer/pagamastarde/magento-1x@7.2.1
-- pkg:composer/pagamastarde/magento-1x@7.2.6
-- pkg:composer/pagamastarde/magento-1x@7.2.7
-- pkg:composer/pagamastarde/magento-1x@7.2.8
 - pkg:composer/pagamastarde/magento-1x@8.0.0
 - pkg:composer/pagamastarde/magento-1x@8.0.1
 - pkg:composer/pagamastarde/magento-1x@8.0.2
