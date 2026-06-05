@@ -12,3 +12,5 @@
 - pkg:composer/marko/dev-server@0.4.2
 - pkg:composer/marko/dev-server@0.5.0
 - pkg:composer/marko/dev-server@0.6.0
+- pkg:composer/marko/dev-server@0.6.1
+- pkg:composer/marko/dev-server@0.7.0

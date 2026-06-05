@@ -52,6 +52,10 @@
 - pkg:composer/markocupic/chronometry-bundle@3.0.11
 - pkg:composer/markocupic/chronometry-bundle@3.0.12
 - pkg:composer/markocupic/chronometry-bundle@3.0.13
+- pkg:composer/markocupic/chronometry-bundle@3.0.16
+- pkg:composer/markocupic/chronometry-bundle@3.0.17
+- pkg:composer/markocupic/chronometry-bundle@3.0.18
+- pkg:composer/markocupic/chronometry-bundle@3.0.19
 - pkg:composer/markocupic/chronometry-bundle@3.0.2
 - pkg:composer/markocupic/chronometry-bundle@3.0.3
 - pkg:composer/markocupic/chronometry-bundle@3.0.4
