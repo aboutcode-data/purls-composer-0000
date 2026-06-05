@@ -118,3 +118,6 @@
 - pkg:composer/open-csp/flex-form@v2.8.0
 - pkg:composer/open-csp/flex-form@v2.8.1
 - pkg:composer/open-csp/flex-form@v2.8.2
+- pkg:composer/open-csp/flex-form@v2.9.0
+- pkg:composer/open-csp/flex-form@v2.9.1
+- pkg:composer/open-csp/flex-form@v2.9.3
