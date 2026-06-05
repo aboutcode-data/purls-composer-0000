@@ -29,6 +29,7 @@
 - pkg:composer/ose/magento-coding-standard@32.0.1
 - pkg:composer/ose/magento-coding-standard@32.0.2
 - pkg:composer/ose/magento-coding-standard@32.0.3
+- pkg:composer/ose/magento-coding-standard@33.0.0
 - pkg:composer/ose/magento-coding-standard@4
 - pkg:composer/ose/magento-coding-standard@5
 - pkg:composer/ose/magento-coding-standard@6

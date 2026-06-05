@@ -13,3 +13,4 @@
 - pkg:composer/ose/magento2-phpcs@1.2.5
 - pkg:composer/ose/magento2-phpcs@1.3.0
 - pkg:composer/ose/magento2-phpcs@1.4.0
+- pkg:composer/ose/magento2-phpcs@1.5.0
