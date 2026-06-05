@@ -326,3 +326,4 @@
 - pkg:composer/oro/platform@7.0.0
 - pkg:composer/oro/platform@7.0.0-rc
 - pkg:composer/oro/platform@7.0.1
+- pkg:composer/oro/platform@7.0.2
