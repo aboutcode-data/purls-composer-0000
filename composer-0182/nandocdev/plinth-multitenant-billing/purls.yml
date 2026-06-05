@@ -1,2 +1,4 @@
 - pkg:composer/nandocdev/plinth-multitenant-billing@0.1
 - pkg:composer/nandocdev/plinth-multitenant-billing@v0.1.1
+- pkg:composer/nandocdev/plinth-multitenant-billing@v0.2.0
+- pkg:composer/nandocdev/plinth-multitenant-billing@v0.3.0
