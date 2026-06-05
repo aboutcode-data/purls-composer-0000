@@ -1,6 +1,8 @@
 - pkg:composer/meraki/schema@v0.9.0-alpha
 - pkg:composer/meraki/schema@v1.0.0-alpha
 - pkg:composer/meraki/schema@v1.1.0-alpha
+- pkg:composer/meraki/schema@v1.10.0-alpha
+- pkg:composer/meraki/schema@v1.11.0-alpha
 - pkg:composer/meraki/schema@v1.2.0-alpha
 - pkg:composer/meraki/schema@v1.3.0-alpha
 - pkg:composer/meraki/schema@v1.4.0-alpha
