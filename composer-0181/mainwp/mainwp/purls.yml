@@ -39,3 +39,5 @@
 - pkg:composer/mainwp/mainwp@v6.0.5
 - pkg:composer/mainwp/mainwp@v6.0.6
 - pkg:composer/mainwp/mainwp@v6.0.8
+- pkg:composer/mainwp/mainwp@v6.1
+- pkg:composer/mainwp/mainwp@v6.1.1
