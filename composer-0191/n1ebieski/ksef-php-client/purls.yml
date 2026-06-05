@@ -84,3 +84,5 @@
 - pkg:composer/n1ebieski/ksef-php-client@1.2.1
 - pkg:composer/n1ebieski/ksef-php-client@1.3.0
 - pkg:composer/n1ebieski/ksef-php-client@1.4.0
+- pkg:composer/n1ebieski/ksef-php-client@1.5.0
+- pkg:composer/n1ebieski/ksef-php-client@1.5.1
