@@ -6,4 +6,5 @@
 - pkg:composer/norman-huth/nova-basic-package@1.2.1
 - pkg:composer/norman-huth/nova-basic-package@1.2.2
 - pkg:composer/norman-huth/nova-basic-package@1.2.5
-- pkg:composer/norman-huth/nova-basic-package@1.2.6
+- pkg:composer/norman-huth/nova-basic-package@1.2.7
+- pkg:composer/norman-huth/nova-basic-package@v1.2.6
