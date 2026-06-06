@@ -188,3 +188,4 @@
 - pkg:composer/php-mtg/mtg-api-com-mtgjson-interface@9.0.3
 - pkg:composer/php-mtg/mtg-api-com-mtgjson-interface@9.0.4
 - pkg:composer/php-mtg/mtg-api-com-mtgjson-interface@9.0.5
+- pkg:composer/php-mtg/mtg-api-com-mtgjson-interface@9.0.6
