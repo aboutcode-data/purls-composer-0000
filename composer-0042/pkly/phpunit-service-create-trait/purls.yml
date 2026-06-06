@@ -2,3 +2,5 @@
 - pkg:composer/pkly/phpunit-service-create-trait@1.0.1
 - pkg:composer/pkly/phpunit-service-create-trait@1.0.2
 - pkg:composer/pkly/phpunit-service-create-trait@1.0.3
+- pkg:composer/pkly/phpunit-service-create-trait@1.1.0
+- pkg:composer/pkly/phpunit-service-create-trait@1.1.1
