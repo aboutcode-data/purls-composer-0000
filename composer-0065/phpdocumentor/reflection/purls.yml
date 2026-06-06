@@ -53,3 +53,4 @@
 - pkg:composer/phpdocumentor/reflection@6.4.4
 - pkg:composer/phpdocumentor/reflection@6.5.0
 - pkg:composer/phpdocumentor/reflection@6.6.0
+- pkg:composer/phpdocumentor/reflection@7.0.0
