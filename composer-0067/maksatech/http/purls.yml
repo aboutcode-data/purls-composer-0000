@@ -107,3 +107,4 @@
 - pkg:composer/maksatech/http@3.5.5
 - pkg:composer/maksatech/http@3.6.0
 - pkg:composer/maksatech/http@3.7.0
+- pkg:composer/maksatech/http@3.8.0
