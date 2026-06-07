@@ -1,1 +1,2 @@
 - pkg:composer/rconfig/laravel-zabbix@1.0.4
+- pkg:composer/rconfig/laravel-zabbix@1.1.0
