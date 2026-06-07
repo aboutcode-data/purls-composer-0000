@@ -20,6 +20,7 @@
 - pkg:composer/shopsys/http-smoke-testing@v17.0.0
 - pkg:composer/shopsys/http-smoke-testing@v17.0.1
 - pkg:composer/shopsys/http-smoke-testing@v18.0.0
+- pkg:composer/shopsys/http-smoke-testing@v19.0.0
 - pkg:composer/shopsys/http-smoke-testing@v7.0.0
 - pkg:composer/shopsys/http-smoke-testing@v7.0.0-alpha1
 - pkg:composer/shopsys/http-smoke-testing@v7.0.0-alpha2
