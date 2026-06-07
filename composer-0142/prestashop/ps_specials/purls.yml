@@ -1,3 +1,4 @@
 - pkg:composer/prestashop/ps_specials@v1.0.1
 - pkg:composer/prestashop/ps_specials@v1.0.2
 - pkg:composer/prestashop/ps_specials@v1.0.3
+- pkg:composer/prestashop/ps_specials@v2.0.0
