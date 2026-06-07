@@ -4,3 +4,5 @@
 - pkg:composer/ray/auth0-module@2.0.0
 - pkg:composer/ray/auth0-module@3.0.0
 - pkg:composer/ray/auth0-module@3.1.0
+- pkg:composer/ray/auth0-module@4.0.0
+- pkg:composer/ray/auth0-module@5.0.0
