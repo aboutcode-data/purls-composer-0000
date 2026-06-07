@@ -1,3 +1,4 @@
 - pkg:composer/siabit/laravel-auditing-elasticsearch@v1.0
 - pkg:composer/siabit/laravel-auditing-elasticsearch@v1.1
 - pkg:composer/siabit/laravel-auditing-elasticsearch@v1.2
+- pkg:composer/siabit/laravel-auditing-elasticsearch@v1.3.0
