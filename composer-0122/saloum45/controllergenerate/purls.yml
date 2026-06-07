@@ -50,3 +50,5 @@
 - pkg:composer/saloum45/controllergenerate@v3.0.7
 - pkg:composer/saloum45/controllergenerate@v3.0.8
 - pkg:composer/saloum45/controllergenerate@v3.0.9
+- pkg:composer/saloum45/controllergenerate@v3.1.0
+- pkg:composer/saloum45/controllergenerate@v3.1.1
