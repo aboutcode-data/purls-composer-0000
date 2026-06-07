@@ -1,3 +1,4 @@
+- pkg:composer/quorae/grid-bundle@2.0.2
 - pkg:composer/quorae/grid-bundle@v1.0.0
 - pkg:composer/quorae/grid-bundle@v1.0.1
 - pkg:composer/quorae/grid-bundle@v1.0.2
@@ -15,3 +16,4 @@
 - pkg:composer/quorae/grid-bundle@v1.2.0
 - pkg:composer/quorae/grid-bundle@v2.0.0
 - pkg:composer/quorae/grid-bundle@v2.0.1
+- pkg:composer/quorae/grid-bundle@v2.1.0
