@@ -1,1 +1,2 @@
 - pkg:composer/recisio/php-nats-jetstream-client@v1.0.2
+- pkg:composer/recisio/php-nats-jetstream-client@v1.1.0
