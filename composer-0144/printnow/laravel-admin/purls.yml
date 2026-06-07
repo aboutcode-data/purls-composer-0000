@@ -10,4 +10,9 @@
 - pkg:composer/printnow/laravel-admin@2.3.9-beta
 - pkg:composer/printnow/laravel-admin@2.4.0
 - pkg:composer/printnow/laravel-admin@2.4.0-beta
+- pkg:composer/printnow/laravel-admin@2.4.1
 - pkg:composer/printnow/laravel-admin@2.4.1-beta
+- pkg:composer/printnow/laravel-admin@2.4.2-beta
+- pkg:composer/printnow/laravel-admin@v2.4.2
+- pkg:composer/printnow/laravel-admin@v2.4.2-beta.2
+- pkg:composer/printnow/laravel-admin@v2.4.3-rc.1
