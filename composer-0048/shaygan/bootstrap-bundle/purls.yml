@@ -12,6 +12,10 @@
 - pkg:composer/shaygan/bootstrap-bundle@2.5.1
 - pkg:composer/shaygan/bootstrap-bundle@3.0
 - pkg:composer/shaygan/bootstrap-bundle@4.0
+- pkg:composer/shaygan/bootstrap-bundle@4.0.1
+- pkg:composer/shaygan/bootstrap-bundle@4.0.2
+- pkg:composer/shaygan/bootstrap-bundle@4.0.3
+- pkg:composer/shaygan/bootstrap-bundle@5.0.0
 - pkg:composer/shaygan/bootstrap-bundle@v1.5
 - pkg:composer/shaygan/bootstrap-bundle@v2.0.0
 - pkg:composer/shaygan/bootstrap-bundle@v2.0.0-alpha1
