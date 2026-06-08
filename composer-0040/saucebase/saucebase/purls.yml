@@ -119,3 +119,7 @@
 - pkg:composer/saucebase/saucebase@v2.4.4
 - pkg:composer/saucebase/saucebase@v2.4.5
 - pkg:composer/saucebase/saucebase@v2.4.6
+- pkg:composer/saucebase/saucebase@v2.5.0
+- pkg:composer/saucebase/saucebase@v2.5.1
+- pkg:composer/saucebase/saucebase@v2.5.2
+- pkg:composer/saucebase/saucebase@v2.5.3
