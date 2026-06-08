@@ -32,3 +32,4 @@
 - pkg:composer/spiral/roadrunner-grpc@v3.5.0
 - pkg:composer/spiral/roadrunner-grpc@v3.5.1
 - pkg:composer/spiral/roadrunner-grpc@v3.5.2
+- pkg:composer/spiral/roadrunner-grpc@v3.6.0
