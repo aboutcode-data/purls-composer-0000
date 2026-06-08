@@ -34,3 +34,4 @@
 - pkg:composer/stephenjude/filament-jetstream@1.4.0
 - pkg:composer/stephenjude/filament-jetstream@1.4.1
 - pkg:composer/stephenjude/filament-jetstream@1.4.2
+- pkg:composer/stephenjude/filament-jetstream@2.0.0
