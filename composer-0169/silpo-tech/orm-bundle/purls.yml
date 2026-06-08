@@ -1,2 +1,3 @@
 - pkg:composer/silpo-tech/orm-bundle@v1.0.0
 - pkg:composer/silpo-tech/orm-bundle@v1.1.0
+- pkg:composer/silpo-tech/orm-bundle@v1.1.1
