@@ -29,3 +29,4 @@
 - pkg:composer/phpibe/sqlc-php@2.7.1
 - pkg:composer/phpibe/sqlc-php@2.7.5
 - pkg:composer/phpibe/sqlc-php@2.7.6
+- pkg:composer/phpibe/sqlc-php@2.7.7
