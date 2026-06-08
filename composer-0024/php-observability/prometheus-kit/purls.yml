@@ -1,0 +1,2 @@
+- pkg:composer/php-observability/prometheus-kit@v1.1.1
+- pkg:composer/php-observability/prometheus-kit@v2.0.0
