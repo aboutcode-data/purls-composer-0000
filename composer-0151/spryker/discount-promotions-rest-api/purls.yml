@@ -8,3 +8,5 @@
 - pkg:composer/spryker/discount-promotions-rest-api@1.4.2
 - pkg:composer/spryker/discount-promotions-rest-api@1.5.0
 - pkg:composer/spryker/discount-promotions-rest-api@1.6.0
+- pkg:composer/spryker/discount-promotions-rest-api@1.6.1
+- pkg:composer/spryker/discount-promotions-rest-api@1.7.0
