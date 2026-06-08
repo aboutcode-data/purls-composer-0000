@@ -77,3 +77,4 @@
 - pkg:composer/spatie/ssl-certificate@2.6.7
 - pkg:composer/spatie/ssl-certificate@2.6.8
 - pkg:composer/spatie/ssl-certificate@2.6.9
+- pkg:composer/spatie/ssl-certificate@2.7.0
