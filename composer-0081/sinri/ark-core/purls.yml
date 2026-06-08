@@ -47,3 +47,4 @@
 - pkg:composer/sinri/ark-core@2.7.9
 - pkg:composer/sinri/ark-core@3.0.0
 - pkg:composer/sinri/ark-core@3.0.1
+- pkg:composer/sinri/ark-core@3.0.2
