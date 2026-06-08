@@ -38,6 +38,7 @@
 - pkg:composer/stduritemplate/stduritemplate@1.0.6
 - pkg:composer/stduritemplate/stduritemplate@2.0.0
 - pkg:composer/stduritemplate/stduritemplate@2.0.1
+- pkg:composer/stduritemplate/stduritemplate@2.0.10
 - pkg:composer/stduritemplate/stduritemplate@2.0.2
 - pkg:composer/stduritemplate/stduritemplate@2.0.3
 - pkg:composer/stduritemplate/stduritemplate@2.0.4
@@ -45,4 +46,5 @@
 - pkg:composer/stduritemplate/stduritemplate@2.0.6
 - pkg:composer/stduritemplate/stduritemplate@2.0.7
 - pkg:composer/stduritemplate/stduritemplate@2.0.8
+- pkg:composer/stduritemplate/stduritemplate@2.0.9
 - pkg:composer/stduritemplate/stduritemplate@v0.0.45
