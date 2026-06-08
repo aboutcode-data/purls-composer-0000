@@ -1,3 +1,4 @@
 - pkg:composer/stackborg/wp-core-kits@1.0.0
 - pkg:composer/stackborg/wp-core-kits@1.0.1
 - pkg:composer/stackborg/wp-core-kits@1.0.2
+- pkg:composer/stackborg/wp-core-kits@v1.0.3
