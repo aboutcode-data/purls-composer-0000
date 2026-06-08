@@ -110,7 +110,10 @@
 - pkg:composer/sproutcms/cms@v3.4.35
 - pkg:composer/sproutcms/cms@v3.4.36
 - pkg:composer/sproutcms/cms@v3.4.37
+- pkg:composer/sproutcms/cms@v3.4.38
+- pkg:composer/sproutcms/cms@v3.4.39
 - pkg:composer/sproutcms/cms@v3.4.4
+- pkg:composer/sproutcms/cms@v3.4.40
 - pkg:composer/sproutcms/cms@v3.4.5
 - pkg:composer/sproutcms/cms@v3.4.6
 - pkg:composer/sproutcms/cms@v3.4.7
@@ -235,7 +238,10 @@
 - pkg:composer/sproutcms/cms@v4.3.55
 - pkg:composer/sproutcms/cms@v4.3.56
 - pkg:composer/sproutcms/cms@v4.3.57
+- pkg:composer/sproutcms/cms@v4.3.58
+- pkg:composer/sproutcms/cms@v4.3.59
 - pkg:composer/sproutcms/cms@v4.3.6
+- pkg:composer/sproutcms/cms@v4.3.60
 - pkg:composer/sproutcms/cms@v4.3.7
 - pkg:composer/sproutcms/cms@v4.3.8
 - pkg:composer/sproutcms/cms@v4.3.9
@@ -243,6 +249,9 @@
 - pkg:composer/sproutcms/cms@v4.4.1
 - pkg:composer/sproutcms/cms@v4.4.10
 - pkg:composer/sproutcms/cms@v4.4.11
+- pkg:composer/sproutcms/cms@v4.4.12
+- pkg:composer/sproutcms/cms@v4.4.13
+- pkg:composer/sproutcms/cms@v4.4.14
 - pkg:composer/sproutcms/cms@v4.4.2
 - pkg:composer/sproutcms/cms@v4.4.3
 - pkg:composer/sproutcms/cms@v4.4.4
