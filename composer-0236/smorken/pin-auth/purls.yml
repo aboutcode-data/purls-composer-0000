@@ -20,3 +20,4 @@
 - pkg:composer/smorken/pin-auth@v1.6.1
 - pkg:composer/smorken/pin-auth@v1.6.2
 - pkg:composer/smorken/pin-auth@v1.7.0
+- pkg:composer/smorken/pin-auth@v1.7.1
