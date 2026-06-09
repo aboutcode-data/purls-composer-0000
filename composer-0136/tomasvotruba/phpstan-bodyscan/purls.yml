@@ -19,3 +19,4 @@
 - pkg:composer/tomasvotruba/phpstan-bodyscan@0.2.5
 - pkg:composer/tomasvotruba/phpstan-bodyscan@1.0.0
 - pkg:composer/tomasvotruba/phpstan-bodyscan@1.0.1
+- pkg:composer/tomasvotruba/phpstan-bodyscan@1.1.0
