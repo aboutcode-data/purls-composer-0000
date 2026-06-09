@@ -16,3 +16,4 @@
 - pkg:composer/umbrellio/rollback-missing-migrations@3.0.0
 - pkg:composer/umbrellio/rollback-missing-migrations@4.0.0
 - pkg:composer/umbrellio/rollback-missing-migrations@4.0.1
+- pkg:composer/umbrellio/rollback-missing-migrations@5.0.0
