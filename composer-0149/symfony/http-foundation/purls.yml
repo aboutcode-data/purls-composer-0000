@@ -668,6 +668,7 @@
 - pkg:composer/symfony/http-foundation@v6.4.34
 - pkg:composer/symfony/http-foundation@v6.4.35
 - pkg:composer/symfony/http-foundation@v6.4.4
+- pkg:composer/symfony/http-foundation@v6.4.41
 - pkg:composer/symfony/http-foundation@v6.4.7
 - pkg:composer/symfony/http-foundation@v6.4.8
 - pkg:composer/symfony/http-foundation@v7.0.0
@@ -724,6 +725,7 @@
 - pkg:composer/symfony/http-foundation@v7.4.0-BETA2
 - pkg:composer/symfony/http-foundation@v7.4.0-RC1
 - pkg:composer/symfony/http-foundation@v7.4.1
+- pkg:composer/symfony/http-foundation@v7.4.13
 - pkg:composer/symfony/http-foundation@v7.4.3
 - pkg:composer/symfony/http-foundation@v7.4.4
 - pkg:composer/symfony/http-foundation@v7.4.5
@@ -735,10 +737,14 @@
 - pkg:composer/symfony/http-foundation@v8.0.0-BETA2
 - pkg:composer/symfony/http-foundation@v8.0.0-RC1
 - pkg:composer/symfony/http-foundation@v8.0.1
+- pkg:composer/symfony/http-foundation@v8.0.13
 - pkg:composer/symfony/http-foundation@v8.0.3
 - pkg:composer/symfony/http-foundation@v8.0.4
 - pkg:composer/symfony/http-foundation@v8.0.5
 - pkg:composer/symfony/http-foundation@v8.0.6
 - pkg:composer/symfony/http-foundation@v8.0.7
 - pkg:composer/symfony/http-foundation@v8.0.8
+- pkg:composer/symfony/http-foundation@v8.1.0
 - pkg:composer/symfony/http-foundation@v8.1.0-BETA1
+- pkg:composer/symfony/http-foundation@v8.1.0-BETA3
+- pkg:composer/symfony/http-foundation@v8.1.0-RC1
