@@ -17,3 +17,7 @@
 - pkg:composer/traceway/opentelemetry-symfony@v1.6.1
 - pkg:composer/traceway/opentelemetry-symfony@v1.7.0
 - pkg:composer/traceway/opentelemetry-symfony@v1.8.0
+- pkg:composer/traceway/opentelemetry-symfony@v1.9.0
+- pkg:composer/traceway/opentelemetry-symfony@v2.0.0
+- pkg:composer/traceway/opentelemetry-symfony@v2.1.0
+- pkg:composer/traceway/opentelemetry-symfony@v2.2.0
