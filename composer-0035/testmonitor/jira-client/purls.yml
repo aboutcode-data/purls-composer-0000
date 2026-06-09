@@ -8,3 +8,4 @@
 - pkg:composer/testmonitor/jira-client@v2.2.0
 - pkg:composer/testmonitor/jira-client@v2.3.0
 - pkg:composer/testmonitor/jira-client@v3.0.0
+- pkg:composer/testmonitor/jira-client@v4.0.0
