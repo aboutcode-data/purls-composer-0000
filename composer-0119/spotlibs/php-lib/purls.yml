@@ -62,3 +62,4 @@
 - pkg:composer/spotlibs/php-lib@v1.5.2
 - pkg:composer/spotlibs/php-lib@v1.5.3
 - pkg:composer/spotlibs/php-lib@v1.6.0
+- pkg:composer/spotlibs/php-lib@v1.6.1
