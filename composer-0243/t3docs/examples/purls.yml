@@ -23,6 +23,7 @@
 - pkg:composer/t3docs/examples@13.1.1
 - pkg:composer/t3docs/examples@13.2.0
 - pkg:composer/t3docs/examples@14.0.0
+- pkg:composer/t3docs/examples@14.1.0
 - pkg:composer/t3docs/examples@8.7.0
 - pkg:composer/t3docs/examples@9.5.0
 - pkg:composer/t3docs/examples@9.5.1
