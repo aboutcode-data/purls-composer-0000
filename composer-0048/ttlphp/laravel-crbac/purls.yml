@@ -4,3 +4,4 @@
 - pkg:composer/ttlphp/laravel-crbac@v1.2.2-beta
 - pkg:composer/ttlphp/laravel-crbac@v1.2.3-beta
 - pkg:composer/ttlphp/laravel-crbac@v1.2.4-beta
+- pkg:composer/ttlphp/laravel-crbac@v1.2.5-beta
