@@ -409,6 +409,8 @@
 - pkg:composer/tencentcloud/lighthouse@3.0.1504
 - pkg:composer/tencentcloud/lighthouse@3.0.1508
 - pkg:composer/tencentcloud/lighthouse@3.0.1542
+- pkg:composer/tencentcloud/lighthouse@3.0.1593
+- pkg:composer/tencentcloud/lighthouse@3.0.1598
 - pkg:composer/tencentcloud/lighthouse@3.0.248
 - pkg:composer/tencentcloud/lighthouse@3.0.249
 - pkg:composer/tencentcloud/lighthouse@3.0.250
