@@ -1,3 +1,4 @@
+- pkg:composer/strata/data@v0.10.0
 - pkg:composer/strata/data@v0.8.0
 - pkg:composer/strata/data@v0.8.1
 - pkg:composer/strata/data@v0.8.2
