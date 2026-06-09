@@ -25,3 +25,4 @@
 - pkg:composer/twint-ag/sdk@1.7.0
 - pkg:composer/twint-ag/sdk@1.8.0
 - pkg:composer/twint-ag/sdk@1.8.2
+- pkg:composer/twint-ag/sdk@1.8.3
