@@ -1,5 +1,7 @@
 - pkg:composer/togul/laravel-sdk@2.4.0
+- pkg:composer/togul/laravel-sdk@3.0.0
 - pkg:composer/togul/laravel-sdk@v2.0.0
 - pkg:composer/togul/laravel-sdk@v2.1.0
 - pkg:composer/togul/laravel-sdk@v2.2.0
 - pkg:composer/togul/laravel-sdk@v2.3.0
+- pkg:composer/togul/laravel-sdk@v3.0.3
