@@ -62,3 +62,4 @@
 - pkg:composer/twig/extra-bundle@v3.8.0
 - pkg:composer/twig/extra-bundle@v3.9.0
 - pkg:composer/twig/extra-bundle@v3.9.3
+- pkg:composer/twig/extra-bundle@v4.0.0-alpha1
