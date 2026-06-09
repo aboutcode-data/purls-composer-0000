@@ -51,3 +51,11 @@
 - pkg:composer/symfonicat/core@v2.7.0
 - pkg:composer/symfonicat/core@v2.8.0
 - pkg:composer/symfonicat/core@v2.9.0
+- pkg:composer/symfonicat/core@v2.9.1
+- pkg:composer/symfonicat/core@v2.9.3
+- pkg:composer/symfonicat/core@v3.0.0
+- pkg:composer/symfonicat/core@v3.1.0
+- pkg:composer/symfonicat/core@v3.2.0
+- pkg:composer/symfonicat/core@v3.3.0
+- pkg:composer/symfonicat/core@v3.4.0
+- pkg:composer/symfonicat/core@v3.5.0
