@@ -26,6 +26,7 @@
 - pkg:composer/typicms/events@17.0.0
 - pkg:composer/typicms/events@17.0.1
 - pkg:composer/typicms/events@17.0.2
+- pkg:composer/typicms/events@17.0.3
 - pkg:composer/typicms/events@2.5.0
 - pkg:composer/typicms/events@2.5.1
 - pkg:composer/typicms/events@2.5.2
