@@ -9,3 +9,4 @@
 - pkg:composer/technically/dependency-resolver@0.7.0
 - pkg:composer/technically/dependency-resolver@0.8.0
 - pkg:composer/technically/dependency-resolver@1.0.0
+- pkg:composer/technically/dependency-resolver@2.0.0
