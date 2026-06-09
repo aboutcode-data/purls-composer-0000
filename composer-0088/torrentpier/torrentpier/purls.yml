@@ -61,3 +61,5 @@
 - pkg:composer/torrentpier/torrentpier@v3.0.1
 - pkg:composer/torrentpier/torrentpier@v3.0.2
 - pkg:composer/torrentpier/torrentpier@v3.0.3
+- pkg:composer/torrentpier/torrentpier@v3.0.4
+- pkg:composer/torrentpier/torrentpier@v3.0.5
