@@ -8,3 +8,5 @@
 - pkg:composer/tadasei/backend-excel-utils@v1.2.3
 - pkg:composer/tadasei/backend-excel-utils@v1.3.0
 - pkg:composer/tadasei/backend-excel-utils@v1.4.0
+- pkg:composer/tadasei/backend-excel-utils@v2.0.0
+- pkg:composer/tadasei/backend-excel-utils@v2.0.1
