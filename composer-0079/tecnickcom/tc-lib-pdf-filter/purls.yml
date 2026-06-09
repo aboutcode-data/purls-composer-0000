@@ -115,3 +115,7 @@
 - pkg:composer/tecnickcom/tc-lib-pdf-filter@2.1.1
 - pkg:composer/tecnickcom/tc-lib-pdf-filter@2.1.2
 - pkg:composer/tecnickcom/tc-lib-pdf-filter@2.2.0
+- pkg:composer/tecnickcom/tc-lib-pdf-filter@2.3.0
+- pkg:composer/tecnickcom/tc-lib-pdf-filter@2.4.0
+- pkg:composer/tecnickcom/tc-lib-pdf-filter@2.5.0
+- pkg:composer/tecnickcom/tc-lib-pdf-filter@2.6.0
