@@ -12,3 +12,6 @@
 - pkg:composer/sy/template@2.2.7
 - pkg:composer/sy/template@2.2.8
 - pkg:composer/sy/template@2.2.9
+- pkg:composer/sy/template@2.3.0
+- pkg:composer/sy/template@2.3.1
+- pkg:composer/sy/template@3.0.0
