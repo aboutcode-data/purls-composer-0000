@@ -104,3 +104,4 @@
 - pkg:composer/studioespresso/craft-seo-fields@5.4.3
 - pkg:composer/studioespresso/craft-seo-fields@5.4.4
 - pkg:composer/studioespresso/craft-seo-fields@5.4.5
+- pkg:composer/studioespresso/craft-seo-fields@6.0.0-alpha.1
