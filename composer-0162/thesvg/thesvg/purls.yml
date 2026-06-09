@@ -8,3 +8,6 @@
 - pkg:composer/thesvg/thesvg@v2.1.1
 - pkg:composer/thesvg/thesvg@v2.2.0
 - pkg:composer/thesvg/thesvg@v2.3.0
+- pkg:composer/thesvg/thesvg@v3.0.0
+- pkg:composer/thesvg/thesvg@v3.0.11
+- pkg:composer/thesvg/thesvg@v3.1.0
