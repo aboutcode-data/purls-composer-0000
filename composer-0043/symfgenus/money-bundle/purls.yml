@@ -1,7 +1,5 @@
 - pkg:composer/symfgenus/money-bundle@2.4.0
 - pkg:composer/symfgenus/money-bundle@3.1.6
-- pkg:composer/symfgenus/money-bundle@4.1.1
-- pkg:composer/symfgenus/money-bundle@5.0
 - pkg:composer/symfgenus/money-bundle@v1.0.0
 - pkg:composer/symfgenus/money-bundle@v1.1.0
 - pkg:composer/symfgenus/money-bundle@v1.2.0
