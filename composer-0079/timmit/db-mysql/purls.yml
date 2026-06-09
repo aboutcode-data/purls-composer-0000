@@ -26,6 +26,8 @@
 - pkg:composer/timmit/db-mysql@v11.0.0
 - pkg:composer/timmit/db-mysql@v11.0.1
 - pkg:composer/timmit/db-mysql@v11.0.2
+- pkg:composer/timmit/db-mysql@v11.0.3
+- pkg:composer/timmit/db-mysql@v11.1.0
 - pkg:composer/timmit/db-mysql@v2.0.0
 - pkg:composer/timmit/db-mysql@v2.0.1
 - pkg:composer/timmit/db-mysql@v2.0.2
