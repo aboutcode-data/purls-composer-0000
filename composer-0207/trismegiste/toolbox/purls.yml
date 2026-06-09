@@ -12,6 +12,8 @@
 - pkg:composer/trismegiste/toolbox@3.0.1
 - pkg:composer/trismegiste/toolbox@3.1.0
 - pkg:composer/trismegiste/toolbox@3.1.1
+- pkg:composer/trismegiste/toolbox@3.1.2
+- pkg:composer/trismegiste/toolbox@3.2.0
 - pkg:composer/trismegiste/toolbox@v1.0.0
 - pkg:composer/trismegiste/toolbox@v1.0.1
 - pkg:composer/trismegiste/toolbox@v1.1.0
