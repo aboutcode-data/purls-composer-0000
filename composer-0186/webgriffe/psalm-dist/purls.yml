@@ -1,0 +1,10 @@
+- pkg:composer/webgriffe/psalm-dist@6.12.1
+- pkg:composer/webgriffe/psalm-dist@6.13.0
+- pkg:composer/webgriffe/psalm-dist@6.13.1
+- pkg:composer/webgriffe/psalm-dist@6.14.0
+- pkg:composer/webgriffe/psalm-dist@6.14.1
+- pkg:composer/webgriffe/psalm-dist@6.14.3
+- pkg:composer/webgriffe/psalm-dist@6.15.0
+- pkg:composer/webgriffe/psalm-dist@6.15.1
+- pkg:composer/webgriffe/psalm-dist@6.16.0
+- pkg:composer/webgriffe/psalm-dist@6.16.1

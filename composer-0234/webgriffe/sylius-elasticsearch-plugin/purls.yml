@@ -24,3 +24,4 @@
 - pkg:composer/webgriffe/sylius-elasticsearch-plugin@v0.6.0
 - pkg:composer/webgriffe/sylius-elasticsearch-plugin@v1.0.0
 - pkg:composer/webgriffe/sylius-elasticsearch-plugin@v1.0.1
+- pkg:composer/webgriffe/sylius-elasticsearch-plugin@v1.0.2
