@@ -10,6 +10,8 @@
 - pkg:composer/smartassert/results-client@14.0
 - pkg:composer/smartassert/results-client@14.1
 - pkg:composer/smartassert/results-client@15.0
+- pkg:composer/smartassert/results-client@16.0
+- pkg:composer/smartassert/results-client@16.1
 - pkg:composer/smartassert/results-client@2.0
 - pkg:composer/smartassert/results-client@2.1
 - pkg:composer/smartassert/results-client@3.0
