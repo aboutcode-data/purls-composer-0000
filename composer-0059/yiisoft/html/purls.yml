@@ -24,3 +24,5 @@
 - pkg:composer/yiisoft/html@3.8.0
 - pkg:composer/yiisoft/html@3.9.0
 - pkg:composer/yiisoft/html@4.0.0
+- pkg:composer/yiisoft/html@4.1.0
+- pkg:composer/yiisoft/html@4.2.0
