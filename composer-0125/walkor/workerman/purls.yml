@@ -160,3 +160,5 @@
 - pkg:composer/walkor/workerman@v5.1.8
 - pkg:composer/walkor/workerman@v5.1.9
 - pkg:composer/walkor/workerman@v5.2.0
+- pkg:composer/walkor/workerman@v5.2.1
+- pkg:composer/walkor/workerman@v5.2.2
