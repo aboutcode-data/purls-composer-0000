@@ -190,3 +190,7 @@
 - pkg:composer/weblabormx/laravel-front@v3.2.7
 - pkg:composer/weblabormx/laravel-front@v3.2.8
 - pkg:composer/weblabormx/laravel-front@v3.2.9
+- pkg:composer/weblabormx/laravel-front@v3.3
+- pkg:composer/weblabormx/laravel-front@v3.3.1
+- pkg:composer/weblabormx/laravel-front@v3.3.2
+- pkg:composer/weblabormx/laravel-front@v3.3.3
