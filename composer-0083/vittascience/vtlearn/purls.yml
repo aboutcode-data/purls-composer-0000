@@ -47,8 +47,6 @@
 - pkg:composer/vittascience/vtlearn@1.4.02
 - pkg:composer/vittascience/vtlearn@1.4.03
 - pkg:composer/vittascience/vtlearn@1.4.04
-- pkg:composer/vittascience/vtlearn@1.4.08
-- pkg:composer/vittascience/vtlearn@1.4.09
 - pkg:composer/vittascience/vtlearn@1.4.10
 - pkg:composer/vittascience/vtlearn@1.4.11
 - pkg:composer/vittascience/vtlearn@1.4.12
@@ -84,3 +82,4 @@
 - pkg:composer/vittascience/vtlearn@1.4.6
 - pkg:composer/vittascience/vtlearn@1.4.7
 - pkg:composer/vittascience/vtlearn@1.4.8
+- pkg:composer/vittascience/vtlearn@1.4.9
