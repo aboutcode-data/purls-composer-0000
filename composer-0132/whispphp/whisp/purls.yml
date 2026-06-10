@@ -42,3 +42,4 @@
 - pkg:composer/whispphp/whisp@1.8.0
 - pkg:composer/whispphp/whisp@2.0.0
 - pkg:composer/whispphp/whisp@2.0.1
+- pkg:composer/whispphp/whisp@3.0.0
