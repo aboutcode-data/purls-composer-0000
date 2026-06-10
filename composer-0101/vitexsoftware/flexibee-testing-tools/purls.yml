@@ -3,3 +3,4 @@
 - pkg:composer/vitexsoftware/flexibee-testing-tools@0.10.4
 - pkg:composer/vitexsoftware/flexibee-testing-tools@0.12
 - pkg:composer/vitexsoftware/flexibee-testing-tools@0.9
+- pkg:composer/vitexsoftware/flexibee-testing-tools@v1.1.8
