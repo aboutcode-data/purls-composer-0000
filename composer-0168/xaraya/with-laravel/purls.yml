@@ -13,3 +13,4 @@
 - pkg:composer/xaraya/with-laravel@2.8.7
 - pkg:composer/xaraya/with-laravel@2.8.9
 - pkg:composer/xaraya/with-laravel@2.9.0
+- pkg:composer/xaraya/with-laravel@2.9.1

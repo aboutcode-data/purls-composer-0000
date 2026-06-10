@@ -16,3 +16,4 @@
 - pkg:composer/xaraya/with-symfony@2.8.8
 - pkg:composer/xaraya/with-symfony@2.8.9
 - pkg:composer/xaraya/with-symfony@2.9.0
+- pkg:composer/xaraya/with-symfony@2.9.1
