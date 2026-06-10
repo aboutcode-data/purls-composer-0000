@@ -7,3 +7,6 @@
 - pkg:composer/yceruto/formflow-bundle@v0.2.2
 - pkg:composer/yceruto/formflow-bundle@v0.2.3
 - pkg:composer/yceruto/formflow-bundle@v0.3.0
+- pkg:composer/yceruto/formflow-bundle@v0.3.1
+- pkg:composer/yceruto/formflow-bundle@v0.4.0
+- pkg:composer/yceruto/formflow-bundle@v0.4.1
