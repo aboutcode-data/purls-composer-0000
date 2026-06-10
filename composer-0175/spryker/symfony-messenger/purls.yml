@@ -8,3 +8,4 @@
 - pkg:composer/spryker/symfony-messenger@1.5.0
 - pkg:composer/spryker/symfony-messenger@1.6.0
 - pkg:composer/spryker/symfony-messenger@1.7.0
+- pkg:composer/spryker/symfony-messenger@1.8.0
