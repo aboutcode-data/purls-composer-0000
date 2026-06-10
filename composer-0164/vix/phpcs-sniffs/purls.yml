@@ -1,0 +1,9 @@
+- pkg:composer/vix/phpcs-sniffs@v0.1.0
+- pkg:composer/vix/phpcs-sniffs@v0.2.0
+- pkg:composer/vix/phpcs-sniffs@v0.2.1
+- pkg:composer/vix/phpcs-sniffs@v0.2.2
+- pkg:composer/vix/phpcs-sniffs@v0.2.3
+- pkg:composer/vix/phpcs-sniffs@v0.2.4
+- pkg:composer/vix/phpcs-sniffs@v0.2.5
+- pkg:composer/vix/phpcs-sniffs@v0.2.6
+- pkg:composer/vix/phpcs-sniffs@v0.3.0
