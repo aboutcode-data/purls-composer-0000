@@ -29,3 +29,4 @@
 - pkg:composer/workos/workos-php-laravel@v5.0.0
 - pkg:composer/workos/workos-php-laravel@v5.0.1
 - pkg:composer/workos/workos-php-laravel@v6.0.0
+- pkg:composer/workos/workos-php-laravel@v7.0.0
