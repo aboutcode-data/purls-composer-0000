@@ -16,3 +16,5 @@
 - pkg:composer/yuga/framework@v4.3.6
 - pkg:composer/yuga/framework@v4.4.0
 - pkg:composer/yuga/framework@v4.5.0
+- pkg:composer/yuga/framework@v5.0.0
+- pkg:composer/yuga/framework@v5.0.1
