@@ -28,6 +28,7 @@
 - pkg:composer/wamesk/laravel-nova-address-field@4.1.6
 - pkg:composer/wamesk/laravel-nova-address-field@4.1.7
 - pkg:composer/wamesk/laravel-nova-address-field@4.1.8
+- pkg:composer/wamesk/laravel-nova-address-field@4.1.9
 - pkg:composer/wamesk/laravel-nova-address-field@5.0.0
 - pkg:composer/wamesk/laravel-nova-address-field@5.0.1
 - pkg:composer/wamesk/laravel-nova-address-field@5.0.2
