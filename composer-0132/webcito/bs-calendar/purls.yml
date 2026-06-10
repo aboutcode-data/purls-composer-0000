@@ -22,6 +22,8 @@
 - pkg:composer/webcito/bs-calendar@2.0.5
 - pkg:composer/webcito/bs-calendar@2.0.6
 - pkg:composer/webcito/bs-calendar@2.2.1
+- pkg:composer/webcito/bs-calendar@2.3.0
+- pkg:composer/webcito/bs-calendar@2.3.1
 - pkg:composer/webcito/bs-calendar@v2.0.10
 - pkg:composer/webcito/bs-calendar@v2.0.11
 - pkg:composer/webcito/bs-calendar@v2.0.12
