@@ -38,3 +38,5 @@
 - pkg:composer/wundii/data-mapper@1.4.8
 - pkg:composer/wundii/data-mapper@1.4.9
 - pkg:composer/wundii/data-mapper@1.5.0
+- pkg:composer/wundii/data-mapper@1.5.1
+- pkg:composer/wundii/data-mapper@1.5.2
