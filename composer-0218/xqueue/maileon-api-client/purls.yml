@@ -26,6 +26,9 @@
 - pkg:composer/xqueue/maileon-api-client@v1.23.0
 - pkg:composer/xqueue/maileon-api-client@v1.23.1
 - pkg:composer/xqueue/maileon-api-client@v1.23.2
+- pkg:composer/xqueue/maileon-api-client@v1.24.0
+- pkg:composer/xqueue/maileon-api-client@v1.24.1
+- pkg:composer/xqueue/maileon-api-client@v1.25.1
 - pkg:composer/xqueue/maileon-api-client@v1.6.5
 - pkg:composer/xqueue/maileon-api-client@v1.7.0
 - pkg:composer/xqueue/maileon-api-client@v1.8.1
