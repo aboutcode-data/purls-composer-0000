@@ -224,6 +224,7 @@
 - pkg:composer/uxf/storage@3.8.2
 - pkg:composer/uxf/storage@3.80.0
 - pkg:composer/uxf/storage@3.80.2
+- pkg:composer/uxf/storage@3.80.3
 - pkg:composer/uxf/storage@3.9.2
 - pkg:composer/uxf/storage@v0.1.0
 - pkg:composer/uxf/storage@v0.1.1
