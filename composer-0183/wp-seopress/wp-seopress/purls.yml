@@ -37,3 +37,6 @@
 - pkg:composer/wp-seopress/wp-seopress@9.8.3
 - pkg:composer/wp-seopress/wp-seopress@9.8.4
 - pkg:composer/wp-seopress/wp-seopress@9.8.5
+- pkg:composer/wp-seopress/wp-seopress@9.9
+- pkg:composer/wp-seopress/wp-seopress@9.9.1
+- pkg:composer/wp-seopress/wp-seopress@9.9.2
