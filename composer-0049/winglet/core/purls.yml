@@ -29,3 +29,5 @@
 - pkg:composer/winglet/core@v0.7.1
 - pkg:composer/winglet/core@v0.7.2
 - pkg:composer/winglet/core@v0.7.3
+- pkg:composer/winglet/core@v0.8
+- pkg:composer/winglet/core@v0.8.1
