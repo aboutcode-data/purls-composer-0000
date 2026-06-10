@@ -84,6 +84,7 @@
 - pkg:composer/yajra/laravel-datatables-oracle@v13.0
 - pkg:composer/yajra/laravel-datatables-oracle@v13.1.0
 - pkg:composer/yajra/laravel-datatables-oracle@v13.1.1
+- pkg:composer/yajra/laravel-datatables-oracle@v13.1.2
 - pkg:composer/yajra/laravel-datatables-oracle@v2.0.0
 - pkg:composer/yajra/laravel-datatables-oracle@v2.0.1
 - pkg:composer/yajra/laravel-datatables-oracle@v2.0.2
