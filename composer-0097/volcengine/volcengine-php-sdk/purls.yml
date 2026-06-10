@@ -15,6 +15,12 @@
 - pkg:composer/volcengine/volcengine-php-sdk@v1.0.110
 - pkg:composer/volcengine/volcengine-php-sdk@v1.0.111
 - pkg:composer/volcengine/volcengine-php-sdk@v1.0.112
+- pkg:composer/volcengine/volcengine-php-sdk@v1.0.113
+- pkg:composer/volcengine/volcengine-php-sdk@v1.0.114
+- pkg:composer/volcengine/volcengine-php-sdk@v1.0.115
+- pkg:composer/volcengine/volcengine-php-sdk@v1.0.116
+- pkg:composer/volcengine/volcengine-php-sdk@v1.0.117
+- pkg:composer/volcengine/volcengine-php-sdk@v1.0.118
 - pkg:composer/volcengine/volcengine-php-sdk@v1.0.12
 - pkg:composer/volcengine/volcengine-php-sdk@v1.0.13
 - pkg:composer/volcengine/volcengine-php-sdk@v1.0.14
