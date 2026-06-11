@@ -36,13 +36,17 @@
 - pkg:composer/altis/privacy@22.0.0-beta.1
 - pkg:composer/altis/privacy@23.0.0
 - pkg:composer/altis/privacy@23.0.0-beta.1
+- pkg:composer/altis/privacy@23.0.1
 - pkg:composer/altis/privacy@24.0.0
 - pkg:composer/altis/privacy@24.0.0-beta.1
+- pkg:composer/altis/privacy@24.0.1
 - pkg:composer/altis/privacy@25.0.0
 - pkg:composer/altis/privacy@25.0.0-beta.1
+- pkg:composer/altis/privacy@25.0.1
 - pkg:composer/altis/privacy@26.0.0
 - pkg:composer/altis/privacy@26.0.0-beta.1
 - pkg:composer/altis/privacy@26.0.0-beta.2
+- pkg:composer/altis/privacy@26.0.1
 - pkg:composer/altis/privacy@5.1-RC
 - pkg:composer/altis/privacy@6.0.0
 - pkg:composer/altis/privacy@6.0.0-beta1
