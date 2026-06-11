@@ -1,3 +1,4 @@
 - pkg:composer/acelle/aws-whitelabel@1.0.1
 - pkg:composer/acelle/aws-whitelabel@1.0.2
 - pkg:composer/acelle/aws-whitelabel@1.0.3
+- pkg:composer/acelle/aws-whitelabel@2.0.3
