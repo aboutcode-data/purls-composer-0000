@@ -29,3 +29,9 @@
 - pkg:composer/anubarak/craft-seeder@5.0.3
 - pkg:composer/anubarak/craft-seeder@5.0.4
 - pkg:composer/anubarak/craft-seeder@5.0.5
+- pkg:composer/anubarak/craft-seeder@6.0.0-RC1
+- pkg:composer/anubarak/craft-seeder@6.0.0-alpha.1
+- pkg:composer/anubarak/craft-seeder@6.0.0-alpha.2
+- pkg:composer/anubarak/craft-seeder@6.0.0-alpha.3
+- pkg:composer/anubarak/craft-seeder@6.0.0-alpha.4
+- pkg:composer/anubarak/craft-seeder@6.0.0-alpha.5
