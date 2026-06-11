@@ -8,3 +8,5 @@
 - pkg:composer/aeliot/todo-registrar-contracts@2.0.0
 - pkg:composer/aeliot/todo-registrar-contracts@2.1.0
 - pkg:composer/aeliot/todo-registrar-contracts@2.2.0
+- pkg:composer/aeliot/todo-registrar-contracts@2.3.0
+- pkg:composer/aeliot/todo-registrar-contracts@3.0.0
