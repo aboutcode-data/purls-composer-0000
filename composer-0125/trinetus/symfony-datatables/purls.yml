@@ -1,2 +1,4 @@
 - pkg:composer/trinetus/symfony-datatables@0.1.8
 - pkg:composer/trinetus/symfony-datatables@0.1.9
+- pkg:composer/trinetus/symfony-datatables@1.0.0
+- pkg:composer/trinetus/symfony-datatables@1.0.1
