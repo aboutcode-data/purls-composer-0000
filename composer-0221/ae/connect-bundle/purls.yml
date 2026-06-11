@@ -111,5 +111,6 @@
 - pkg:composer/ae/connect-bundle@v2.0.1
 - pkg:composer/ae/connect-bundle@v2.0.2
 - pkg:composer/ae/connect-bundle@v2.0.3
+- pkg:composer/ae/connect-bundle@v2.0.4
 - pkg:composer/ae/connect-bundle@v2.1.2
 - pkg:composer/ae/connect-bundle@v2.1.3
