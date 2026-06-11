@@ -1,3 +1,4 @@
+- pkg:composer/4msar/laravel-deployer@1.0.4
 - pkg:composer/4msar/laravel-deployer@v1.0.0
 - pkg:composer/4msar/laravel-deployer@v1.0.1
 - pkg:composer/4msar/laravel-deployer@v1.0.2
