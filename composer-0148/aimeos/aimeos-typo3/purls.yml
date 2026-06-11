@@ -133,3 +133,4 @@
 - pkg:composer/aimeos/aimeos-typo3@25.10.4
 - pkg:composer/aimeos/aimeos-typo3@25.4.1
 - pkg:composer/aimeos/aimeos-typo3@25.7.1
+- pkg:composer/aimeos/aimeos-typo3@26.7.1
