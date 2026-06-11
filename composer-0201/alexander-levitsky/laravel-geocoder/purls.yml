@@ -1,3 +1,4 @@
+- pkg:composer/alexander-levitsky/laravel-geocoder@v1.0.11
 - pkg:composer/alexander-levitsky/laravel-geocoder@v1.0.4
 - pkg:composer/alexander-levitsky/laravel-geocoder@v1.0.8
 - pkg:composer/alexander-levitsky/laravel-geocoder@v1.0.9
