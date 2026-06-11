@@ -1,3 +1,7 @@
 - pkg:composer/akankov/laravel-compress-html@v0.1.0
 - pkg:composer/akankov/laravel-compress-html@v0.1.1
 - pkg:composer/akankov/laravel-compress-html@v0.2.0
+- pkg:composer/akankov/laravel-compress-html@v0.3.0
+- pkg:composer/akankov/laravel-compress-html@v0.4.0
+- pkg:composer/akankov/laravel-compress-html@v1.0.0
+- pkg:composer/akankov/laravel-compress-html@v2.0.0
