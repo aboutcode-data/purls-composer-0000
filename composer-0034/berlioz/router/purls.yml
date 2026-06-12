@@ -22,3 +22,5 @@
 - pkg:composer/berlioz/router@v2.5.2
 - pkg:composer/berlioz/router@v2.6.0
 - pkg:composer/berlioz/router@v3.0.0
+- pkg:composer/berlioz/router@v3.1.0
+- pkg:composer/berlioz/router@v3.1.1
