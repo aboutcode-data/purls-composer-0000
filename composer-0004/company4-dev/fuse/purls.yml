@@ -1,5 +1,16 @@
 - pkg:composer/company4-dev/fuse@0.10
+- pkg:composer/company4-dev/fuse@0.100
+- pkg:composer/company4-dev/fuse@0.101
+- pkg:composer/company4-dev/fuse@0.102
+- pkg:composer/company4-dev/fuse@0.103
+- pkg:composer/company4-dev/fuse@0.104
+- pkg:composer/company4-dev/fuse@0.105
+- pkg:composer/company4-dev/fuse@0.106
+- pkg:composer/company4-dev/fuse@0.107
+- pkg:composer/company4-dev/fuse@0.108
+- pkg:composer/company4-dev/fuse@0.109
 - pkg:composer/company4-dev/fuse@0.11
+- pkg:composer/company4-dev/fuse@0.110
 - pkg:composer/company4-dev/fuse@0.12
 - pkg:composer/company4-dev/fuse@0.13
 - pkg:composer/company4-dev/fuse@0.14
@@ -15,4 +26,8 @@
 - pkg:composer/company4-dev/fuse@0.7
 - pkg:composer/company4-dev/fuse@0.8
 - pkg:composer/company4-dev/fuse@0.9
+- pkg:composer/company4-dev/fuse@0.97
+- pkg:composer/company4-dev/fuse@0.98
+- pkg:composer/company4-dev/fuse@0.99
+- pkg:composer/company4-dev/fuse@2026.03.1
 - pkg:composer/company4-dev/fuse@2026.3.1
