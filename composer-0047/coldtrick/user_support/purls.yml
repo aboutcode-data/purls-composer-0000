@@ -4,6 +4,7 @@
 - pkg:composer/coldtrick/user_support@v11.2
 - pkg:composer/coldtrick/user_support@v11.3
 - pkg:composer/coldtrick/user_support@v12.0
+- pkg:composer/coldtrick/user_support@v13.0
 - pkg:composer/coldtrick/user_support@v2.0.1
 - pkg:composer/coldtrick/user_support@v3.0
 - pkg:composer/coldtrick/user_support@v3.0.0-beta.1

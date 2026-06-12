@@ -31,6 +31,7 @@
 - pkg:composer/coldtrick/widget_manager@v17.1
 - pkg:composer/coldtrick/widget_manager@v17.1.1
 - pkg:composer/coldtrick/widget_manager@v17.1.2
+- pkg:composer/coldtrick/widget_manager@v18.0
 - pkg:composer/coldtrick/widget_manager@v5.1
 - pkg:composer/coldtrick/widget_manager@v5.2
 - pkg:composer/coldtrick/widget_manager@v6.0
