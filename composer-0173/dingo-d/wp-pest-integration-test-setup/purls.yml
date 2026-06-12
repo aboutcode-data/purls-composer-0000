@@ -8,5 +8,4 @@
 - pkg:composer/dingo-d/wp-pest-integration-test-setup@1.6.0
 - pkg:composer/dingo-d/wp-pest-integration-test-setup@1.6.1
 - pkg:composer/dingo-d/wp-pest-integration-test-setup@1.7.0
-- pkg:composer/dingo-d/wp-pest-integration-test-setup@1.7.0-beta
 - pkg:composer/dingo-d/wp-pest-integration-test-setup@2.0.0-alpha
