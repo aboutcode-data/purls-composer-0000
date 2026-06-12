@@ -11,4 +11,12 @@
 - pkg:composer/cogepfrance/php-utils@2.0.4
 - pkg:composer/cogepfrance/php-utils@2.0.5
 - pkg:composer/cogepfrance/php-utils@2.1.0
+- pkg:composer/cogepfrance/php-utils@3.0.0
+- pkg:composer/cogepfrance/php-utils@3.0.1
+- pkg:composer/cogepfrance/php-utils@3.0.2
+- pkg:composer/cogepfrance/php-utils@3.0.4
+- pkg:composer/cogepfrance/php-utils@3.0.5
+- pkg:composer/cogepfrance/php-utils@3.0.6
+- pkg:composer/cogepfrance/php-utils@3.1.0
+- pkg:composer/cogepfrance/php-utils@3.1.1
 - pkg:composer/cogepfrance/php-utils@v1.0.2
