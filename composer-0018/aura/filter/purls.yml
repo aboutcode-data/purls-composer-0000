@@ -13,3 +13,4 @@
 - pkg:composer/aura/filter@2.2.0
 - pkg:composer/aura/filter@2.3.0
 - pkg:composer/aura/filter@2.3.1
+- pkg:composer/aura/filter@6.0.0-beta1
