@@ -6,3 +6,7 @@
 - pkg:composer/curio/sdclient@v4.2.1
 - pkg:composer/curio/sdclient@v4.3.0
 - pkg:composer/curio/sdclient@v5.0.0
+- pkg:composer/curio/sdclient@v5.1.0
+- pkg:composer/curio/sdclient@v5.1.1
+- pkg:composer/curio/sdclient@v5.1.2
+- pkg:composer/curio/sdclient@v5.1.3
