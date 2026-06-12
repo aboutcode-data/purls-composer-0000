@@ -1,3 +1,4 @@
 - pkg:composer/danielme85/laravel-geoip2@v1.0
 - pkg:composer/danielme85/laravel-geoip2@v1.0.1
 - pkg:composer/danielme85/laravel-geoip2@v1.2.0
+- pkg:composer/danielme85/laravel-geoip2@v2.0.0
