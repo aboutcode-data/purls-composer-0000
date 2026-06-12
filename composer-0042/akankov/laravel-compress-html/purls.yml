@@ -5,3 +5,4 @@
 - pkg:composer/akankov/laravel-compress-html@v0.4.0
 - pkg:composer/akankov/laravel-compress-html@v1.0.0
 - pkg:composer/akankov/laravel-compress-html@v2.0.0
+- pkg:composer/akankov/laravel-compress-html@v2.1.0
