@@ -53,3 +53,4 @@
 - pkg:composer/daycry/doctrine@v4.1.9
 - pkg:composer/daycry/doctrine@v4.2.0
 - pkg:composer/daycry/doctrine@v5.0.0
+- pkg:composer/daycry/doctrine@v5.1.0
