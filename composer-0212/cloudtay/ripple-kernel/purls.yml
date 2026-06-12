@@ -1,2 +1,4 @@
 - pkg:composer/cloudtay/ripple-kernel@v1.0.0
 - pkg:composer/cloudtay/ripple-kernel@v1.0.1
+- pkg:composer/cloudtay/ripple-kernel@v1.0.2
+- pkg:composer/cloudtay/ripple-kernel@v2.0
