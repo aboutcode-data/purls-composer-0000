@@ -14,3 +14,6 @@
 - pkg:composer/celitech-sdk/sdk@1.3.60
 - pkg:composer/celitech-sdk/sdk@1.3.63
 - pkg:composer/celitech-sdk/sdk@1.3.64
+- pkg:composer/celitech-sdk/sdk@2.0.0
+- pkg:composer/celitech-sdk/sdk@2.0.1
+- pkg:composer/celitech-sdk/sdk@2.0.2
