@@ -51,6 +51,7 @@
 - pkg:composer/coldtrick/event_manager@v20.0.3
 - pkg:composer/coldtrick/event_manager@v20.1
 - pkg:composer/coldtrick/event_manager@v20.2
+- pkg:composer/coldtrick/event_manager@v21.0
 - pkg:composer/coldtrick/event_manager@v4.0
 - pkg:composer/coldtrick/event_manager@v4.0.1
 - pkg:composer/coldtrick/event_manager@v5.0

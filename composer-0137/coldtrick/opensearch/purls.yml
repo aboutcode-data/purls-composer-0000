@@ -2,6 +2,7 @@
 - pkg:composer/coldtrick/opensearch@v1.1
 - pkg:composer/coldtrick/opensearch@v1.2
 - pkg:composer/coldtrick/opensearch@v10.0
+- pkg:composer/coldtrick/opensearch@v10.0.1
 - pkg:composer/coldtrick/opensearch@v2.0
 - pkg:composer/coldtrick/opensearch@v2.1
 - pkg:composer/coldtrick/opensearch@v2.1.1

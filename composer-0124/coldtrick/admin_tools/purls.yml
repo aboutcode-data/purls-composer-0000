@@ -1,4 +1,5 @@
 - pkg:composer/coldtrick/admin_tools@v10.0
+- pkg:composer/coldtrick/admin_tools@v11.0
 - pkg:composer/coldtrick/admin_tools@v3.0
 - pkg:composer/coldtrick/admin_tools@v4.0
 - pkg:composer/coldtrick/admin_tools@v5.0
