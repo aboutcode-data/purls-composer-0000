@@ -52,3 +52,4 @@
 - pkg:composer/cesnet/simplesamlphp-module-cesnet@v4.2.5
 - pkg:composer/cesnet/simplesamlphp-module-cesnet@v4.2.6
 - pkg:composer/cesnet/simplesamlphp-module-cesnet@v4.2.7
+- pkg:composer/cesnet/simplesamlphp-module-cesnet@v4.2.8
