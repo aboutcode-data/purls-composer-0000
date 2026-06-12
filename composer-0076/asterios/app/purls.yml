@@ -14,3 +14,6 @@
 - pkg:composer/asterios/app@2.3.0
 - pkg:composer/asterios/app@2.4.0
 - pkg:composer/asterios/app@2.5.0
+- pkg:composer/asterios/app@2.6.0
+- pkg:composer/asterios/app@2.8.1
+- pkg:composer/asterios/app@2.9.0

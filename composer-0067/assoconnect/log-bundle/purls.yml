@@ -22,3 +22,4 @@
 - pkg:composer/assoconnect/log-bundle@v2.3.0
 - pkg:composer/assoconnect/log-bundle@v2.4.0
 - pkg:composer/assoconnect/log-bundle@v2.4.1
+- pkg:composer/assoconnect/log-bundle@v2.4.2
