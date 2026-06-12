@@ -18,3 +18,4 @@
 - pkg:composer/craftcms/commerce-omnipay@4.0.0.1
 - pkg:composer/craftcms/commerce-omnipay@4.1.0
 - pkg:composer/craftcms/commerce-omnipay@4.2.0
+- pkg:composer/craftcms/commerce-omnipay@4.3.0
