@@ -223,3 +223,4 @@
 - pkg:composer/contao/maker-bundle@5.7.3
 - pkg:composer/contao/maker-bundle@5.7.4
 - pkg:composer/contao/maker-bundle@5.7.5
+- pkg:composer/contao/maker-bundle@5.7.6
