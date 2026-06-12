@@ -417,6 +417,7 @@
 - pkg:composer/backpack/crud@4.1.7
 - pkg:composer/backpack/crud@4.1.70
 - pkg:composer/backpack/crud@4.1.71
+- pkg:composer/backpack/crud@4.1.72
 - pkg:composer/backpack/crud@4.1.8
 - pkg:composer/backpack/crud@4.1.9
 - pkg:composer/backpack/crud@5.0.0
@@ -604,6 +605,7 @@
 - pkg:composer/backpack/crud@6.8.11
 - pkg:composer/backpack/crud@6.8.12
 - pkg:composer/backpack/crud@6.8.13
+- pkg:composer/backpack/crud@6.8.14
 - pkg:composer/backpack/crud@6.8.2
 - pkg:composer/backpack/crud@6.8.3
 - pkg:composer/backpack/crud@6.8.4
@@ -671,7 +673,16 @@
 - pkg:composer/backpack/crud@7.0.35
 - pkg:composer/backpack/crud@7.0.36
 - pkg:composer/backpack/crud@7.0.37
+- pkg:composer/backpack/crud@7.0.38
+- pkg:composer/backpack/crud@7.0.39
 - pkg:composer/backpack/crud@7.0.4
+- pkg:composer/backpack/crud@7.0.40
+- pkg:composer/backpack/crud@7.0.41
+- pkg:composer/backpack/crud@7.0.42
+- pkg:composer/backpack/crud@7.0.43
+- pkg:composer/backpack/crud@7.0.44
+- pkg:composer/backpack/crud@7.0.45
+- pkg:composer/backpack/crud@7.0.46
 - pkg:composer/backpack/crud@7.0.5
 - pkg:composer/backpack/crud@7.0.6
 - pkg:composer/backpack/crud@7.0.7
