@@ -40,6 +40,9 @@
 - pkg:composer/automattic/jetpack-constants@v2.0.5
 - pkg:composer/automattic/jetpack-constants@v3.0.0
 - pkg:composer/automattic/jetpack-constants@v3.0.1
+- pkg:composer/automattic/jetpack-constants@v3.0.10
+- pkg:composer/automattic/jetpack-constants@v3.0.11
+- pkg:composer/automattic/jetpack-constants@v3.0.12
 - pkg:composer/automattic/jetpack-constants@v3.0.2
 - pkg:composer/automattic/jetpack-constants@v3.0.3
 - pkg:composer/automattic/jetpack-constants@v3.0.4
