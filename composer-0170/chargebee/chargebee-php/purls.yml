@@ -217,6 +217,8 @@
 - pkg:composer/chargebee/chargebee-php@v4.19.0
 - pkg:composer/chargebee/chargebee-php@v4.2.0
 - pkg:composer/chargebee/chargebee-php@v4.20.0
+- pkg:composer/chargebee/chargebee-php@v4.20.1
+- pkg:composer/chargebee/chargebee-php@v4.21.0
 - pkg:composer/chargebee/chargebee-php@v4.3.0
 - pkg:composer/chargebee/chargebee-php@v4.3.0-beta.1
 - pkg:composer/chargebee/chargebee-php@v4.4.0
