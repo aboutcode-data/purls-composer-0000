@@ -239,7 +239,13 @@
 - pkg:composer/automattic/jetpack-jitm@v4.3.32
 - pkg:composer/automattic/jetpack-jitm@v4.3.33
 - pkg:composer/automattic/jetpack-jitm@v4.3.34
+- pkg:composer/automattic/jetpack-jitm@v4.3.35
+- pkg:composer/automattic/jetpack-jitm@v4.3.36
+- pkg:composer/automattic/jetpack-jitm@v4.3.37
+- pkg:composer/automattic/jetpack-jitm@v4.3.38
+- pkg:composer/automattic/jetpack-jitm@v4.3.39
 - pkg:composer/automattic/jetpack-jitm@v4.3.4
+- pkg:composer/automattic/jetpack-jitm@v4.3.40
 - pkg:composer/automattic/jetpack-jitm@v4.3.5
 - pkg:composer/automattic/jetpack-jitm@v4.3.6
 - pkg:composer/automattic/jetpack-jitm@v4.3.7

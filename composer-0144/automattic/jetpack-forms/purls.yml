@@ -201,6 +201,11 @@
 - pkg:composer/automattic/jetpack-forms@v7.20.0
 - pkg:composer/automattic/jetpack-forms@v7.21.0
 - pkg:composer/automattic/jetpack-forms@v7.21.1
+- pkg:composer/automattic/jetpack-forms@v7.21.2
+- pkg:composer/automattic/jetpack-forms@v7.21.3
+- pkg:composer/automattic/jetpack-forms@v7.22.0
+- pkg:composer/automattic/jetpack-forms@v7.22.1
+- pkg:composer/automattic/jetpack-forms@v7.22.2
 - pkg:composer/automattic/jetpack-forms@v7.3.0
 - pkg:composer/automattic/jetpack-forms@v7.4.0
 - pkg:composer/automattic/jetpack-forms@v7.5.0

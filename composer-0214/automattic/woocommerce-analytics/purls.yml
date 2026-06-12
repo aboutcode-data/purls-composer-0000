@@ -1,4 +1,5 @@
 - pkg:composer/automattic/woocommerce-analytics@0.16.4
+- pkg:composer/automattic/woocommerce-analytics@0.16.5
 - pkg:composer/automattic/woocommerce-analytics@v0.1.0
 - pkg:composer/automattic/woocommerce-analytics@v0.1.1
 - pkg:composer/automattic/woocommerce-analytics@v0.1.10

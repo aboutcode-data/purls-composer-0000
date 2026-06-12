@@ -15,3 +15,6 @@
 - pkg:composer/automattic/jetpack-protect-models@v0.6.0
 - pkg:composer/automattic/jetpack-protect-models@v0.6.1
 - pkg:composer/automattic/jetpack-protect-models@v0.6.2
+- pkg:composer/automattic/jetpack-protect-models@v0.6.3
+- pkg:composer/automattic/jetpack-protect-models@v0.6.4
+- pkg:composer/automattic/jetpack-protect-models@v0.6.5
