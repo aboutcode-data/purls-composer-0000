@@ -9,3 +9,5 @@
 - pkg:composer/dalez/fluent-flarum@v1.2.1
 - pkg:composer/dalez/fluent-flarum@v1.3.0
 - pkg:composer/dalez/fluent-flarum@v1.3.1
+- pkg:composer/dalez/fluent-flarum@v1.3.2
+- pkg:composer/dalez/fluent-flarum@v1.3.3
