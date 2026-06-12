@@ -49,3 +49,4 @@
 - pkg:composer/cyclonedx/cyclonedx-library@v4.0.0
 - pkg:composer/cyclonedx/cyclonedx-library@v4.0.0-rc.1
 - pkg:composer/cyclonedx/cyclonedx-library@v4.0.0-rc.2
+- pkg:composer/cyclonedx/cyclonedx-library@v4.1.0
