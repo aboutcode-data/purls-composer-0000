@@ -38,3 +38,4 @@
 - pkg:composer/cakephp/authorization@3.4.3
 - pkg:composer/cakephp/authorization@3.5.0
 - pkg:composer/cakephp/authorization@3.5.1
+- pkg:composer/cakephp/authorization@3.5.2
