@@ -11,3 +11,7 @@
 - pkg:composer/barlito/utils@v1.4.1
 - pkg:composer/barlito/utils@v1.5
 - pkg:composer/barlito/utils@v1.6
+- pkg:composer/barlito/utils@v1.7.0
+- pkg:composer/barlito/utils@v1.8.0
+- pkg:composer/barlito/utils@v1.9.0
+- pkg:composer/barlito/utils@v2.0.0
