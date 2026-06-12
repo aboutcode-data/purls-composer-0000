@@ -22,4 +22,6 @@
 - pkg:composer/bartacus/platformsh-bundle@3.2.0
 - pkg:composer/bartacus/platformsh-bundle@4.0.0
 - pkg:composer/bartacus/platformsh-bundle@4.0.1
+- pkg:composer/bartacus/platformsh-bundle@4.0.2
 - pkg:composer/bartacus/platformsh-bundle@5.0.0
+- pkg:composer/bartacus/platformsh-bundle@5.0.1
