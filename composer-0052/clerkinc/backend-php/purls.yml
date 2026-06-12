@@ -9,3 +9,4 @@
 - pkg:composer/clerkinc/backend-php@v0.5.2
 - pkg:composer/clerkinc/backend-php@v0.6.0
 - pkg:composer/clerkinc/backend-php@v0.7.0
+- pkg:composer/clerkinc/backend-php@v1.0.0
