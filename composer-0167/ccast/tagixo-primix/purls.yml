@@ -1,1 +1,4 @@
 - pkg:composer/ccast/tagixo-primix@1.0
+- pkg:composer/ccast/tagixo-primix@v1.1.1
+- pkg:composer/ccast/tagixo-primix@v1.1.2
+- pkg:composer/ccast/tagixo-primix@v1.1.3
