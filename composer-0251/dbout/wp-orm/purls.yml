@@ -11,6 +11,7 @@
 - pkg:composer/dbout/wp-orm@4.0.0-alpha.0
 - pkg:composer/dbout/wp-orm@v1.0.0
 - pkg:composer/dbout/wp-orm@v13.0.0
+- pkg:composer/dbout/wp-orm@v13.0.1
 - pkg:composer/dbout/wp-orm@v2.0.0
 - pkg:composer/dbout/wp-orm@v4.0.0
 - pkg:composer/dbout/wp-orm@v4.0.0-alpha.1
