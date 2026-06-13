@@ -30,6 +30,7 @@
 - pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.19
 - pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.2
 - pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.20
+- pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.21
 - pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.3
 - pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.4
 - pkg:composer/dualmedia/symfony-request-dto-bundle@4.0.5
