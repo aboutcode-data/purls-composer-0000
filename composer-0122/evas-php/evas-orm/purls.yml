@@ -1,2 +1,3 @@
 - pkg:composer/evas-php/evas-orm@1.0
 - pkg:composer/evas-php/evas-orm@1.1
+- pkg:composer/evas-php/evas-orm@2.0
