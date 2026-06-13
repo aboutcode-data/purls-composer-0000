@@ -14,3 +14,4 @@
 - pkg:composer/facile-it/php-openid-client@0.3.5
 - pkg:composer/facile-it/php-openid-client@0.4.0
 - pkg:composer/facile-it/php-openid-client@0.4.0-beta1
+- pkg:composer/facile-it/php-openid-client@1.0.0
