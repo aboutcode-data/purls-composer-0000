@@ -17,3 +17,4 @@
 - pkg:composer/dynamic/silverstripe-elemental-accordion@4.0.0-beta1
 - pkg:composer/dynamic/silverstripe-elemental-accordion@5.0.0
 - pkg:composer/dynamic/silverstripe-elemental-accordion@5.1.0
+- pkg:composer/dynamic/silverstripe-elemental-accordion@6.0.0
