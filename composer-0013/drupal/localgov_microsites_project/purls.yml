@@ -19,3 +19,4 @@
 - pkg:composer/drupal/localgov_microsites_project@4.0.3
 - pkg:composer/drupal/localgov_microsites_project@4.1.0
 - pkg:composer/drupal/localgov_microsites_project@4.1.1
+- pkg:composer/drupal/localgov_microsites_project@5.0.0
