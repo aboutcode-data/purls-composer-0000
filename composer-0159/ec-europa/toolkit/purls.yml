@@ -43,6 +43,8 @@
 - pkg:composer/ec-europa/toolkit@10.26.2
 - pkg:composer/ec-europa/toolkit@10.27.0
 - pkg:composer/ec-europa/toolkit@10.28.0
+- pkg:composer/ec-europa/toolkit@10.29.0
+- pkg:composer/ec-europa/toolkit@10.29.1
 - pkg:composer/ec-europa/toolkit@10.3.0
 - pkg:composer/ec-europa/toolkit@10.3.1
 - pkg:composer/ec-europa/toolkit@10.4.0
