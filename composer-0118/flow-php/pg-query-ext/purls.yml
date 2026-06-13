@@ -12,3 +12,4 @@
 - pkg:composer/flow-php/pg-query-ext@0.36.0
 - pkg:composer/flow-php/pg-query-ext@0.37.0
 - pkg:composer/flow-php/pg-query-ext@0.38.0
+- pkg:composer/flow-php/pg-query-ext@0.39.0
