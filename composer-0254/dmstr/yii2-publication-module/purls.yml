@@ -96,3 +96,4 @@
 - pkg:composer/dmstr/yii2-publication-module@1.3.0
 - pkg:composer/dmstr/yii2-publication-module@1.3.0-beta2
 - pkg:composer/dmstr/yii2-publication-module@1.3.0-beta3
+- pkg:composer/dmstr/yii2-publication-module@1.4.0
