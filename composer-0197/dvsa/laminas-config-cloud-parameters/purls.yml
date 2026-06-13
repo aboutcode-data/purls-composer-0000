@@ -3,3 +3,4 @@
 - pkg:composer/dvsa/laminas-config-cloud-parameters@v0.2.0
 - pkg:composer/dvsa/laminas-config-cloud-parameters@v1.0.0
 - pkg:composer/dvsa/laminas-config-cloud-parameters@v2.0.0
+- pkg:composer/dvsa/laminas-config-cloud-parameters@v2.1.0
