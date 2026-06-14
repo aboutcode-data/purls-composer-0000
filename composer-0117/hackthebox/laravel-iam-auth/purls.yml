@@ -6,7 +6,6 @@
 - pkg:composer/hackthebox/laravel-iam-auth@v2.0.1
 - pkg:composer/hackthebox/laravel-iam-auth@v2.0.1-rc.1
 - pkg:composer/hackthebox/laravel-iam-auth@v2.0.2
-- pkg:composer/hackthebox/laravel-iam-auth@v3.0.0-rc.1
 - pkg:composer/hackthebox/laravel-iam-auth@v3.0.0-rc.2
 - pkg:composer/hackthebox/laravel-iam-auth@v3.0.0-rc.3
 - pkg:composer/hackthebox/laravel-iam-auth@v3.0.0-rc.4
