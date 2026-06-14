@@ -10,3 +10,4 @@
 - pkg:composer/gcgov/framework-service-auth-oauth-server@v1.3.2
 - pkg:composer/gcgov/framework-service-auth-oauth-server@v2.0.0
 - pkg:composer/gcgov/framework-service-auth-oauth-server@v2.1.0
+- pkg:composer/gcgov/framework-service-auth-oauth-server@v2.2.0
