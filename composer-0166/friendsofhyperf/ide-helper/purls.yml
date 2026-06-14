@@ -102,6 +102,7 @@
 - pkg:composer/friendsofhyperf/ide-helper@v3.1.57
 - pkg:composer/friendsofhyperf/ide-helper@v3.1.69
 - pkg:composer/friendsofhyperf/ide-helper@v3.1.75
+- pkg:composer/friendsofhyperf/ide-helper@v3.2.0
 - pkg:composer/friendsofhyperf/ide-helper@v3.2.0-alpha.1
 - pkg:composer/friendsofhyperf/ide-helper@v3.2.0-alpha.4
 - pkg:composer/friendsofhyperf/ide-helper@v3.2.0-alpha.5
