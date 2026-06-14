@@ -5,6 +5,9 @@
 - pkg:composer/grafana/foundation-sdk@v0.0.13
 - pkg:composer/grafana/foundation-sdk@v0.0.14
 - pkg:composer/grafana/foundation-sdk@v0.0.15
+- pkg:composer/grafana/foundation-sdk@v0.0.16
+- pkg:composer/grafana/foundation-sdk@v0.0.17
+- pkg:composer/grafana/foundation-sdk@v0.0.18
 - pkg:composer/grafana/foundation-sdk@v0.0.2
 - pkg:composer/grafana/foundation-sdk@v0.0.3
 - pkg:composer/grafana/foundation-sdk@v0.0.4
