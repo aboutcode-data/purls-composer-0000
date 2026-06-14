@@ -7,3 +7,4 @@
 - pkg:composer/forumpay/magento-2-payment-gateway-plugin@2.1.5
 - pkg:composer/forumpay/magento-2-payment-gateway-plugin@2.1.6
 - pkg:composer/forumpay/magento-2-payment-gateway-plugin@2.1.7
+- pkg:composer/forumpay/magento-2-payment-gateway-plugin@2.3.0
