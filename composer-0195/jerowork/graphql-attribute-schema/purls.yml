@@ -15,3 +15,4 @@
 - pkg:composer/jerowork/graphql-attribute-schema@0.6.7
 - pkg:composer/jerowork/graphql-attribute-schema@0.6.8
 - pkg:composer/jerowork/graphql-attribute-schema@0.7.0
+- pkg:composer/jerowork/graphql-attribute-schema@0.8.0
