@@ -343,8 +343,10 @@
 - pkg:composer/hyperf/hyperf@v3.1.68
 - pkg:composer/hyperf/hyperf@v3.1.69
 - pkg:composer/hyperf/hyperf@v3.1.7
+- pkg:composer/hyperf/hyperf@v3.1.70
 - pkg:composer/hyperf/hyperf@v3.1.8
 - pkg:composer/hyperf/hyperf@v3.1.9
+- pkg:composer/hyperf/hyperf@v3.2.0
 - pkg:composer/hyperf/hyperf@v3.2.0-alpha.1
 - pkg:composer/hyperf/hyperf@v3.2.0-alpha.2
 - pkg:composer/hyperf/hyperf@v3.2.0-alpha.3
