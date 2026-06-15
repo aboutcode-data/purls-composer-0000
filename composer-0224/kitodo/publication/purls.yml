@@ -58,3 +58,4 @@
 - pkg:composer/kitodo/publication@v5.2.1
 - pkg:composer/kitodo/publication@v5.2.2
 - pkg:composer/kitodo/publication@v5.3.0
+- pkg:composer/kitodo/publication@v5.4.0
