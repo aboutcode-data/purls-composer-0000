@@ -63,9 +63,11 @@
 - pkg:composer/hyperf/async-queue@v3.1.6
 - pkg:composer/hyperf/async-queue@v3.1.63
 - pkg:composer/hyperf/async-queue@v3.1.64
+- pkg:composer/hyperf/async-queue@v3.1.70
 - pkg:composer/hyperf/async-queue@v3.1.8
 - pkg:composer/hyperf/async-queue@v3.1.8.1
 - pkg:composer/hyperf/async-queue@v3.1.9
+- pkg:composer/hyperf/async-queue@v3.2.0
 - pkg:composer/hyperf/async-queue@v3.2.0-alpha.1
 - pkg:composer/hyperf/async-queue@v3.2.0-alpha.3
 - pkg:composer/hyperf/async-queue@v3.2.0-alpha.4
