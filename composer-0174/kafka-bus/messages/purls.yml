@@ -1,0 +1,4 @@
+- pkg:composer/kafka-bus/messages@v1.0.0
+- pkg:composer/kafka-bus/messages@v1.0.1
+- pkg:composer/kafka-bus/messages@v1.1.0
+- pkg:composer/kafka-bus/messages@v1.1.1
