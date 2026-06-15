@@ -1,5 +1,8 @@
+- pkg:composer/iankibet/redis-sub@1.0.10
+- pkg:composer/iankibet/redis-sub@1.0.11
 - pkg:composer/iankibet/redis-sub@1.0.7
 - pkg:composer/iankibet/redis-sub@1.0.8
+- pkg:composer/iankibet/redis-sub@1.0.9
 - pkg:composer/iankibet/redis-sub@v1.0.0
 - pkg:composer/iankibet/redis-sub@v1.0.1
 - pkg:composer/iankibet/redis-sub@v1.0.2
