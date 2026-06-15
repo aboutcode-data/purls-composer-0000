@@ -23,3 +23,4 @@
 - pkg:composer/intervention/httpauth@4.0.1
 - pkg:composer/intervention/httpauth@5.0.0
 - pkg:composer/intervention/httpauth@5.0.1
+- pkg:composer/intervention/httpauth@5.0.2
