@@ -71,3 +71,4 @@
 - pkg:composer/hyperf/async-queue@v3.2.0-alpha.1
 - pkg:composer/hyperf/async-queue@v3.2.0-alpha.3
 - pkg:composer/hyperf/async-queue@v3.2.0-alpha.4
+- pkg:composer/hyperf/async-queue@v3.2.1
