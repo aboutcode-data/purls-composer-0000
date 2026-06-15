@@ -1,1 +1,2 @@
 - pkg:composer/initphp/fiber-loops@1.0
+- pkg:composer/initphp/fiber-loops@2.0.0
