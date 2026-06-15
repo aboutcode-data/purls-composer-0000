@@ -1,3 +1,4 @@
 - pkg:composer/dotmarn/laravel-error-views@v1.0.0
 - pkg:composer/dotmarn/laravel-error-views@v1.0.1
 - pkg:composer/dotmarn/laravel-error-views@v1.0.2
+- pkg:composer/dotmarn/laravel-error-views@v1.0.3
