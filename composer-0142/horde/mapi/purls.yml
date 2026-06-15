@@ -10,6 +10,7 @@
 - pkg:composer/horde/mapi@1.0.9
 - pkg:composer/horde/mapi@2.0.0alpha1
 - pkg:composer/horde/mapi@2.0.0alpha2
+- pkg:composer/horde/mapi@v2.0.0RC1
 - pkg:composer/horde/mapi@v2.0.0alpha3
 - pkg:composer/horde/mapi@v2.0.0alpha4
 - pkg:composer/horde/mapi@v2.0.0alpha5
