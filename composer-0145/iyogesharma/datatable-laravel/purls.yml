@@ -19,5 +19,5 @@
 - pkg:composer/iyogesharma/datatable-laravel@3.6.4
 - pkg:composer/iyogesharma/datatable-laravel@4.0
 - pkg:composer/iyogesharma/datatable-laravel@4.1
-- pkg:composer/iyogesharma/datatable-laravel@4.2
 - pkg:composer/iyogesharma/datatable-laravel@4.21
+- pkg:composer/iyogesharma/datatable-laravel@4.22
