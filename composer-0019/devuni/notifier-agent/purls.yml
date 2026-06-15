@@ -3,3 +3,6 @@
 - pkg:composer/devuni/notifier-agent@v1.0.2
 - pkg:composer/devuni/notifier-agent@v1.1.0
 - pkg:composer/devuni/notifier-agent@v1.2.0
+- pkg:composer/devuni/notifier-agent@v1.3.0
+- pkg:composer/devuni/notifier-agent@v1.4.0
+- pkg:composer/devuni/notifier-agent@v1.4.1
