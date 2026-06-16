@@ -1,3 +1,5 @@
 - pkg:composer/helsingborg-stad/psr-logger@0.2.2
 - pkg:composer/helsingborg-stad/psr-logger@0.2.3
 - pkg:composer/helsingborg-stad/psr-logger@0.2.4
+- pkg:composer/helsingborg-stad/psr-logger@0.2.6
+- pkg:composer/helsingborg-stad/psr-logger@0.2.9
