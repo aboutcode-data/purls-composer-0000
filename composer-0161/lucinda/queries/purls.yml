@@ -25,3 +25,5 @@
 - pkg:composer/lucinda/queries@v3.1.0
 - pkg:composer/lucinda/queries@v3.1.1
 - pkg:composer/lucinda/queries@v3.1.2
+- pkg:composer/lucinda/queries@v4.0.1
+- pkg:composer/lucinda/queries@v4.0.2
