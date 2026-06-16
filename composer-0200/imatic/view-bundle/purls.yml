@@ -57,3 +57,4 @@
 - pkg:composer/imatic/view-bundle@v5.1.4
 - pkg:composer/imatic/view-bundle@v5.2.0
 - pkg:composer/imatic/view-bundle@v5.2.1
+- pkg:composer/imatic/view-bundle@v6.0.0
