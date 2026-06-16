@@ -19,3 +19,4 @@
 - pkg:composer/lampager/lampager-laravel@v0.5.1
 - pkg:composer/lampager/lampager-laravel@v0.5.2
 - pkg:composer/lampager/lampager-laravel@v0.6.0
+- pkg:composer/lampager/lampager-laravel@v0.6.1
