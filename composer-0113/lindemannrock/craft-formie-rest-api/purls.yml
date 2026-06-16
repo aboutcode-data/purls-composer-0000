@@ -8,9 +8,14 @@
 - pkg:composer/lindemannrock/craft-formie-rest-api@3.0.2
 - pkg:composer/lindemannrock/craft-formie-rest-api@3.0.3
 - pkg:composer/lindemannrock/craft-formie-rest-api@3.1.0
+- pkg:composer/lindemannrock/craft-formie-rest-api@3.10.0
 - pkg:composer/lindemannrock/craft-formie-rest-api@3.2.0
 - pkg:composer/lindemannrock/craft-formie-rest-api@3.2.1
 - pkg:composer/lindemannrock/craft-formie-rest-api@3.2.2
 - pkg:composer/lindemannrock/craft-formie-rest-api@3.3.0
 - pkg:composer/lindemannrock/craft-formie-rest-api@3.4.0
 - pkg:composer/lindemannrock/craft-formie-rest-api@3.5.0
+- pkg:composer/lindemannrock/craft-formie-rest-api@3.6.0
+- pkg:composer/lindemannrock/craft-formie-rest-api@3.7.0
+- pkg:composer/lindemannrock/craft-formie-rest-api@3.8.0
+- pkg:composer/lindemannrock/craft-formie-rest-api@3.9.0
