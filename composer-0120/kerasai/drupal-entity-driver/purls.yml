@@ -1,3 +1,4 @@
 - pkg:composer/kerasai/drupal-entity-driver@1.0.0
 - pkg:composer/kerasai/drupal-entity-driver@1.0.0-alpha
 - pkg:composer/kerasai/drupal-entity-driver@1.0.0-alpha2
+- pkg:composer/kerasai/drupal-entity-driver@1.0.1
