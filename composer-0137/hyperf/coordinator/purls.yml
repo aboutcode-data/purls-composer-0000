@@ -23,8 +23,10 @@
 - pkg:composer/hyperf/coordinator@v3.1.63
 - pkg:composer/hyperf/coordinator@v3.1.7
 - pkg:composer/hyperf/coordinator@v3.1.70
+- pkg:composer/hyperf/coordinator@v3.1.70.1
 - pkg:composer/hyperf/coordinator@v3.2.0
 - pkg:composer/hyperf/coordinator@v3.2.0-alpha.1
 - pkg:composer/hyperf/coordinator@v3.2.0-alpha.3
 - pkg:composer/hyperf/coordinator@v3.2.0-alpha.4
 - pkg:composer/hyperf/coordinator@v3.2.1
+- pkg:composer/hyperf/coordinator@v3.2.1.1
