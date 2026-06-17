@@ -19,3 +19,4 @@
 - pkg:composer/hihaho/phpstan-rules@v3.5.0
 - pkg:composer/hihaho/phpstan-rules@v3.6.0
 - pkg:composer/hihaho/phpstan-rules@v3.6.1
+- pkg:composer/hihaho/phpstan-rules@v3.7.0
