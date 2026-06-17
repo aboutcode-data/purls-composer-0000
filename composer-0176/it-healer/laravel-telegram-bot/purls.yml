@@ -6,3 +6,7 @@
 - pkg:composer/it-healer/laravel-telegram-bot@v1.0.5
 - pkg:composer/it-healer/laravel-telegram-bot@v1.0.6
 - pkg:composer/it-healer/laravel-telegram-bot@v1.0.7
+- pkg:composer/it-healer/laravel-telegram-bot@v1.1.0
+- pkg:composer/it-healer/laravel-telegram-bot@v1.2.0
+- pkg:composer/it-healer/laravel-telegram-bot@v1.3.0
+- pkg:composer/it-healer/laravel-telegram-bot@v1.3.1
