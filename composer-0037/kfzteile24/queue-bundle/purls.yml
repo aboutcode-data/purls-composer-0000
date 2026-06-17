@@ -66,3 +66,4 @@
 - pkg:composer/kfzteile24/queue-bundle@v1.2.1
 - pkg:composer/kfzteile24/queue-bundle@v1.2.2
 - pkg:composer/kfzteile24/queue-bundle@v1.2.3
+- pkg:composer/kfzteile24/queue-bundle@v1.8.0-beta1
