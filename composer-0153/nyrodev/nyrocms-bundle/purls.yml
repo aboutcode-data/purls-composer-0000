@@ -19,3 +19,4 @@
 - pkg:composer/nyrodev/nyrocms-bundle@v6.3
 - pkg:composer/nyrodev/nyrocms-bundle@v7.0
 - pkg:composer/nyrodev/nyrocms-bundle@v7.1
+- pkg:composer/nyrodev/nyrocms-bundle@v7.2
