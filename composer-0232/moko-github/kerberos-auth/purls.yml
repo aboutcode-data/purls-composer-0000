@@ -5,3 +5,4 @@
 - pkg:composer/moko-github/kerberos-auth@v1.0.4
 - pkg:composer/moko-github/kerberos-auth@v2.0.0
 - pkg:composer/moko-github/kerberos-auth@v2.0.1
+- pkg:composer/moko-github/kerberos-auth@v2.0.2
