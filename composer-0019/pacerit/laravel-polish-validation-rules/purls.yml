@@ -31,3 +31,4 @@
 - pkg:composer/pacerit/laravel-polish-validation-rules@6.1.0
 - pkg:composer/pacerit/laravel-polish-validation-rules@7.0.0
 - pkg:composer/pacerit/laravel-polish-validation-rules@8.0.0
+- pkg:composer/pacerit/laravel-polish-validation-rules@9.0.0
