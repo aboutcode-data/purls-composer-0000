@@ -2,3 +2,4 @@
 - pkg:composer/neos/eventstore@1.0.0-beta1
 - pkg:composer/neos/eventstore@1.0.1
 - pkg:composer/neos/eventstore@1.0.2
+- pkg:composer/neos/eventstore@2.0.0
