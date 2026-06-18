@@ -12,6 +12,11 @@
 - pkg:composer/phpibe/sqlc-php@2.0.0
 - pkg:composer/phpibe/sqlc-php@2.1.0
 - pkg:composer/phpibe/sqlc-php@2.1.1
+- pkg:composer/phpibe/sqlc-php@2.10.0
+- pkg:composer/phpibe/sqlc-php@2.10.1
+- pkg:composer/phpibe/sqlc-php@2.11.0
+- pkg:composer/phpibe/sqlc-php@2.11.1
+- pkg:composer/phpibe/sqlc-php@2.11.2
 - pkg:composer/phpibe/sqlc-php@2.4.0
 - pkg:composer/phpibe/sqlc-php@2.4.1
 - pkg:composer/phpibe/sqlc-php@2.4.2
@@ -32,3 +37,13 @@
 - pkg:composer/phpibe/sqlc-php@2.7.7
 - pkg:composer/phpibe/sqlc-php@2.8.0
 - pkg:composer/phpibe/sqlc-php@2.8.3
+- pkg:composer/phpibe/sqlc-php@2.9.0
+- pkg:composer/phpibe/sqlc-php@2.9.1
+- pkg:composer/phpibe/sqlc-php@2.9.2
+- pkg:composer/phpibe/sqlc-php@2.9.3
+- pkg:composer/phpibe/sqlc-php@2.9.4
+- pkg:composer/phpibe/sqlc-php@2.9.5
+- pkg:composer/phpibe/sqlc-php@2.9.6
+- pkg:composer/phpibe/sqlc-php@2.9.7
+- pkg:composer/phpibe/sqlc-php@2.9.8
+- pkg:composer/phpibe/sqlc-php@2.9.9
