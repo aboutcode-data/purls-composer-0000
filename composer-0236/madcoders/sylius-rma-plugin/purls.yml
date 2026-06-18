@@ -1,1 +1,6 @@
 - pkg:composer/madcoders/sylius-rma-plugin@1.0.0
+- pkg:composer/madcoders/sylius-rma-plugin@1.1.0
+- pkg:composer/madcoders/sylius-rma-plugin@1.1.1
+- pkg:composer/madcoders/sylius-rma-plugin@1.2.0
+- pkg:composer/madcoders/sylius-rma-plugin@1.2.1
+- pkg:composer/madcoders/sylius-rma-plugin@1.3.0-rc.1
