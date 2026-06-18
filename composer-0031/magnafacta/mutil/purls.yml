@@ -25,6 +25,7 @@
 - pkg:composer/magnafacta/mutil@1.9.1-p3
 - pkg:composer/magnafacta/mutil@2.0.0
 - pkg:composer/magnafacta/mutil@2.0.1
+- pkg:composer/magnafacta/mutil@v2.0.10
 - pkg:composer/magnafacta/mutil@v2.0.2
 - pkg:composer/magnafacta/mutil@v2.0.3
 - pkg:composer/magnafacta/mutil@v2.0.4
@@ -32,3 +33,4 @@
 - pkg:composer/magnafacta/mutil@v2.0.6
 - pkg:composer/magnafacta/mutil@v2.0.7
 - pkg:composer/magnafacta/mutil@v2.0.8
+- pkg:composer/magnafacta/mutil@v2.0.9
