@@ -1,2 +1,4 @@
 - pkg:composer/meraki/http-router@0.8.0
 - pkg:composer/meraki/http-router@v0.9.0-alpha.1
+- pkg:composer/meraki/http-router@v0.9.0-alpha.2
+- pkg:composer/meraki/http-router@v0.9.0-alpha.3
