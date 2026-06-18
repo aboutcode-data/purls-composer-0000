@@ -1,0 +1,4 @@
+- pkg:composer/phpswag/phpswag@v1.0.0
+- pkg:composer/phpswag/phpswag@v1.0.1
+- pkg:composer/phpswag/phpswag@v1.0.2
+- pkg:composer/phpswag/phpswag@v1.1.0
