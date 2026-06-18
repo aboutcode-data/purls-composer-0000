@@ -4,3 +4,4 @@
 - pkg:composer/mumzworld/laravel-opentelemetry@v1.2.1
 - pkg:composer/mumzworld/laravel-opentelemetry@v1.2.2
 - pkg:composer/mumzworld/laravel-opentelemetry@v1.2.3
+- pkg:composer/mumzworld/laravel-opentelemetry@v1.3.0
