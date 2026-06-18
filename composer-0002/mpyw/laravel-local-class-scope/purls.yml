@@ -7,3 +7,5 @@
 - pkg:composer/mpyw/laravel-local-class-scope@v2.1.1
 - pkg:composer/mpyw/laravel-local-class-scope@v2.1.2
 - pkg:composer/mpyw/laravel-local-class-scope@v2.2.0
+- pkg:composer/mpyw/laravel-local-class-scope@v2.2.1
+- pkg:composer/mpyw/laravel-local-class-scope@v2.3.0

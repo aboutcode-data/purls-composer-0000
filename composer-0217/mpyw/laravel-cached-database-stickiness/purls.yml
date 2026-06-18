@@ -11,3 +11,4 @@
 - pkg:composer/mpyw/laravel-cached-database-stickiness@v2.1.0
 - pkg:composer/mpyw/laravel-cached-database-stickiness@v2.1.1
 - pkg:composer/mpyw/laravel-cached-database-stickiness@v2.2.0
+- pkg:composer/mpyw/laravel-cached-database-stickiness@v2.2.1
