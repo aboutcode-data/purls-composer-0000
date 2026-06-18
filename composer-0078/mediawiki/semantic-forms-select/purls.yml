@@ -7,3 +7,4 @@
 - pkg:composer/mediawiki/semantic-forms-select@3.0.0
 - pkg:composer/mediawiki/semantic-forms-select@4.0.0
 - pkg:composer/mediawiki/semantic-forms-select@4.0.0-beta
+- pkg:composer/mediawiki/semantic-forms-select@5.0.0
