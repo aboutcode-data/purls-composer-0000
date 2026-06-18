@@ -113,3 +113,4 @@
 - pkg:composer/magento2/checkout.com@7.1.0-beta
 - pkg:composer/magento2/checkout.com@7.2.0
 - pkg:composer/magento2/checkout.com@7.3.0
+- pkg:composer/magento2/checkout.com@7.3.1
