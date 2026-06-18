@@ -9,6 +9,9 @@
 - pkg:composer/netresearch/agent-git-workflow@v1.13.1
 - pkg:composer/netresearch/agent-git-workflow@v1.14.0
 - pkg:composer/netresearch/agent-git-workflow@v1.15.0
+- pkg:composer/netresearch/agent-git-workflow@v1.16.0
+- pkg:composer/netresearch/agent-git-workflow@v1.17.0
+- pkg:composer/netresearch/agent-git-workflow@v1.18.0
 - pkg:composer/netresearch/agent-git-workflow@v1.2.0
 - pkg:composer/netresearch/agent-git-workflow@v1.3.0
 - pkg:composer/netresearch/agent-git-workflow@v1.3.1
