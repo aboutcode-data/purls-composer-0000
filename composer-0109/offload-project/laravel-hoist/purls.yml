@@ -2,3 +2,5 @@
 - pkg:composer/offload-project/laravel-hoist@v1.1.0
 - pkg:composer/offload-project/laravel-hoist@v1.2.0
 - pkg:composer/offload-project/laravel-hoist@v1.3.0
+- pkg:composer/offload-project/laravel-hoist@v1.3.1
+- pkg:composer/offload-project/laravel-hoist@v1.4.0
