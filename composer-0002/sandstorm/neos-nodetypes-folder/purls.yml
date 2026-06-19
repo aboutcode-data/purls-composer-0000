@@ -1,1 +1,3 @@
 - pkg:composer/sandstorm/neos-nodetypes-folder@v1.0.0
+- pkg:composer/sandstorm/neos-nodetypes-folder@v1.0.1
+- pkg:composer/sandstorm/neos-nodetypes-folder@v1.0.2
