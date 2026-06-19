@@ -13,6 +13,7 @@
 - pkg:composer/reva2/jsonapi@2.0.0
 - pkg:composer/reva2/jsonapi@2.0.1
 - pkg:composer/reva2/jsonapi@2.1.0
+- pkg:composer/reva2/jsonapi@2.1.1
 - pkg:composer/reva2/jsonapi@3.0.0
 - pkg:composer/reva2/jsonapi@3.0.1
 - pkg:composer/reva2/jsonapi@3.0.2
