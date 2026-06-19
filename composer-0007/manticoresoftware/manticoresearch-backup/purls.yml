@@ -1,5 +1,6 @@
 - pkg:composer/manticoresoftware/manticoresearch-backup@0.128.0
 - pkg:composer/manticoresoftware/manticoresearch-backup@1.10.0
+- pkg:composer/manticoresoftware/manticoresearch-backup@1.10.1
 - pkg:composer/manticoresoftware/manticoresearch-backup@1.7.1
 - pkg:composer/manticoresoftware/manticoresearch-backup@1.7.2
 - pkg:composer/manticoresoftware/manticoresearch-backup@1.7.3
