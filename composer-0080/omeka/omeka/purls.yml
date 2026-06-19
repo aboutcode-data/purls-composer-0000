@@ -12,3 +12,4 @@
 - pkg:composer/omeka/omeka@v3.1.1
 - pkg:composer/omeka/omeka@v3.1.2
 - pkg:composer/omeka/omeka@v3.2
+- pkg:composer/omeka/omeka@v3.2.1
