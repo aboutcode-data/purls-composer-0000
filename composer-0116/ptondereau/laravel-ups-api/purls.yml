@@ -21,3 +21,4 @@
 - pkg:composer/ptondereau/laravel-ups-api@v3.0.0
 - pkg:composer/ptondereau/laravel-ups-api@v4.0.0
 - pkg:composer/ptondereau/laravel-ups-api@v4.1.0
+- pkg:composer/ptondereau/laravel-ups-api@v5.0.0
