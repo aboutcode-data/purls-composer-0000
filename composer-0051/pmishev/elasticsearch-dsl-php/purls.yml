@@ -28,3 +28,4 @@
 - pkg:composer/pmishev/elasticsearch-dsl-php@v6.0.2
 - pkg:composer/pmishev/elasticsearch-dsl-php@v6.0.3
 - pkg:composer/pmishev/elasticsearch-dsl-php@v8.0.0
+- pkg:composer/pmishev/elasticsearch-dsl-php@v9.0.0
