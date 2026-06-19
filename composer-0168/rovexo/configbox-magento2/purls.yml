@@ -28,3 +28,4 @@
 - pkg:composer/rovexo/configbox-magento2@3.3.9
 - pkg:composer/rovexo/configbox-magento2@3.4.0
 - pkg:composer/rovexo/configbox-magento2@3.5.0
+- pkg:composer/rovexo/configbox-magento2@3.5.1
