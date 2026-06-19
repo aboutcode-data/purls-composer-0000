@@ -4,3 +4,4 @@
 - pkg:composer/pie-extensions/protobuf@34.0
 - pkg:composer/pie-extensions/protobuf@34.1
 - pkg:composer/pie-extensions/protobuf@35.0
+- pkg:composer/pie-extensions/protobuf@35.1

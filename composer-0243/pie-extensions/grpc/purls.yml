@@ -2,3 +2,4 @@
 - pkg:composer/pie-extensions/grpc@1.78.1
 - pkg:composer/pie-extensions/grpc@1.80.0
 - pkg:composer/pie-extensions/grpc@1.81.0
+- pkg:composer/pie-extensions/grpc@1.81.1
