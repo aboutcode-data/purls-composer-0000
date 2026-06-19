@@ -1,2 +1,4 @@
 - pkg:composer/remind/matomo-link-handler@v1.0.0
 - pkg:composer/remind/matomo-link-handler@v1.0.1
+- pkg:composer/remind/matomo-link-handler@v2.0.0
+- pkg:composer/remind/matomo-link-handler@v2.0.1
