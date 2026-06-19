@@ -1,2 +1,12 @@
 - pkg:composer/pinoox/pincore@2.0.0-alpha1
+- pkg:composer/pinoox/pincore@3.0
+- pkg:composer/pinoox/pincore@3.0.1
+- pkg:composer/pinoox/pincore@3.0.2
+- pkg:composer/pinoox/pincore@3.0.3
+- pkg:composer/pinoox/pincore@3.0.4
+- pkg:composer/pinoox/pincore@3.0.5
+- pkg:composer/pinoox/pincore@3.0.7
+- pkg:composer/pinoox/pincore@3.1.18
+- pkg:composer/pinoox/pincore@3.1.2
+- pkg:composer/pinoox/pincore@3.1.9
 - pkg:composer/pinoox/pincore@v2.1.0
