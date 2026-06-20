@@ -1,7 +1,12 @@
 - pkg:composer/solifyn/solifyn@v1.0.0
+- pkg:composer/solifyn/solifyn@v1.0.5
 - pkg:composer/solifyn/solifyn@v1.0.6
 - pkg:composer/solifyn/solifyn@v1.0.7
 - pkg:composer/solifyn/solifyn@v1.0.9
 - pkg:composer/solifyn/solifyn@v1.1.0
 - pkg:composer/solifyn/solifyn@v1.1.1
 - pkg:composer/solifyn/solifyn@v1.1.2
+- pkg:composer/solifyn/solifyn@v1.1.3
+- pkg:composer/solifyn/solifyn@v1.1.4
+- pkg:composer/solifyn/solifyn@v1.1.5
+- pkg:composer/solifyn/solifyn@v1.1.6
