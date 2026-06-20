@@ -86,6 +86,7 @@
 - pkg:composer/soanix/cavesman@0.5.16
 - pkg:composer/soanix/cavesman@0.5.17
 - pkg:composer/soanix/cavesman@0.5.18
+- pkg:composer/soanix/cavesman@0.5.19
 - pkg:composer/soanix/cavesman@0.5.2
 - pkg:composer/soanix/cavesman@0.5.2.1
 - pkg:composer/soanix/cavesman@0.5.2.10
@@ -134,6 +135,7 @@
 - pkg:composer/soanix/cavesman@0.5.2.7
 - pkg:composer/soanix/cavesman@0.5.2.8
 - pkg:composer/soanix/cavesman@0.5.2.9
+- pkg:composer/soanix/cavesman@0.5.20
 - pkg:composer/soanix/cavesman@0.5.3.1
 - pkg:composer/soanix/cavesman@0.5.3.10
 - pkg:composer/soanix/cavesman@0.5.3.2
