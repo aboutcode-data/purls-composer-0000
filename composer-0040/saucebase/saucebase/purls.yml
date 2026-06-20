@@ -132,3 +132,4 @@
 - pkg:composer/saucebase/saucebase@v2.7.2
 - pkg:composer/saucebase/saucebase@v2.7.3
 - pkg:composer/saucebase/saucebase@v2.8.0
+- pkg:composer/saucebase/saucebase@v2.8.1
