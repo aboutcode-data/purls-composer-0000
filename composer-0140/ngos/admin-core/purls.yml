@@ -130,6 +130,10 @@
 - pkg:composer/ngos/admin-core@v2.21.0
 - pkg:composer/ngos/admin-core@v2.21.1
 - pkg:composer/ngos/admin-core@v2.22.0
+- pkg:composer/ngos/admin-core@v2.23.0
+- pkg:composer/ngos/admin-core@v2.24.0
+- pkg:composer/ngos/admin-core@v2.25.0
+- pkg:composer/ngos/admin-core@v2.25.1
 - pkg:composer/ngos/admin-core@v2.3.0
 - pkg:composer/ngos/admin-core@v2.4.0
 - pkg:composer/ngos/admin-core@v2.5.0
