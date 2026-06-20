@@ -751,6 +751,7 @@
 - pkg:composer/skeeks/cms@6.4.5.18
 - pkg:composer/skeeks/cms@6.4.5.19
 - pkg:composer/skeeks/cms@6.4.5.2
+- pkg:composer/skeeks/cms@6.4.5.20
 - pkg:composer/skeeks/cms@6.4.5.3
 - pkg:composer/skeeks/cms@6.4.5.4
 - pkg:composer/skeeks/cms@6.4.5.5
@@ -758,3 +759,6 @@
 - pkg:composer/skeeks/cms@6.4.5.7
 - pkg:composer/skeeks/cms@6.4.5.8
 - pkg:composer/skeeks/cms@6.4.5.9
+- pkg:composer/skeeks/cms@6.4.6
+- pkg:composer/skeeks/cms@6.4.6.1
+- pkg:composer/skeeks/cms@6.4.6.2
