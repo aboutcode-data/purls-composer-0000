@@ -1,5 +1,10 @@
+- pkg:composer/siberfx/share@5.0.2
+- pkg:composer/siberfx/share@5.0.3
 - pkg:composer/siberfx/share@5.0.4
 - pkg:composer/siberfx/share@6.0.0
 - pkg:composer/siberfx/share@6.0.1
+- pkg:composer/siberfx/share@6.1.0
+- pkg:composer/siberfx/share@6.2.0
 - pkg:composer/siberfx/share@7.0.0
 - pkg:composer/siberfx/share@7.1.0
+- pkg:composer/siberfx/share@7.2.0
