@@ -54,3 +54,4 @@
 - pkg:composer/neuron-core/maestro@1.3.7
 - pkg:composer/neuron-core/maestro@1.3.8
 - pkg:composer/neuron-core/maestro@1.3.9
+- pkg:composer/neuron-core/maestro@2.0.0
