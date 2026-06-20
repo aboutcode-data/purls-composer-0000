@@ -9,5 +9,7 @@
 - pkg:composer/setono/sylius-abandoned-cart-plugin@v1.3.0
 - pkg:composer/setono/sylius-abandoned-cart-plugin@v1.4.0
 - pkg:composer/setono/sylius-abandoned-cart-plugin@v1.5.0
+- pkg:composer/setono/sylius-abandoned-cart-plugin@v2.0.0
 - pkg:composer/setono/sylius-abandoned-cart-plugin@v2.0.0-alpha
 - pkg:composer/setono/sylius-abandoned-cart-plugin@v2.0.0-alpha.2
+- pkg:composer/setono/sylius-abandoned-cart-plugin@v3.0.0-alpha
