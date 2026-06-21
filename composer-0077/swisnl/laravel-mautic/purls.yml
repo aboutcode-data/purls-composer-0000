@@ -3,3 +3,4 @@
 - pkg:composer/swisnl/laravel-mautic@0.3.0
 - pkg:composer/swisnl/laravel-mautic@0.4.0
 - pkg:composer/swisnl/laravel-mautic@0.4.1
+- pkg:composer/swisnl/laravel-mautic@0.4.2
