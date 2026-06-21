@@ -58,3 +58,4 @@
 - pkg:composer/symfony/ux-dropzone@v2.9.1
 - pkg:composer/symfony/ux-dropzone@v3.0.0
 - pkg:composer/symfony/ux-dropzone@v3.1.0
+- pkg:composer/symfony/ux-dropzone@v3.2.0
