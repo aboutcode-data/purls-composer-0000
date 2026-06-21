@@ -51,3 +51,4 @@
 - pkg:composer/thunder/drupal-testing@2.0.2
 - pkg:composer/thunder/drupal-testing@2.0.3
 - pkg:composer/thunder/drupal-testing@3.0.0
+- pkg:composer/thunder/drupal-testing@3.0.1
