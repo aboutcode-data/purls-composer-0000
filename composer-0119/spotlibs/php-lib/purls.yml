@@ -46,6 +46,8 @@
 - pkg:composer/spotlibs/php-lib@v0.6.2
 - pkg:composer/spotlibs/php-lib@v0.6.3
 - pkg:composer/spotlibs/php-lib@v0.7.0
+- pkg:composer/spotlibs/php-lib@v0.8.0
+- pkg:composer/spotlibs/php-lib@v0.8.1
 - pkg:composer/spotlibs/php-lib@v1.0.0
 - pkg:composer/spotlibs/php-lib@v1.1.0
 - pkg:composer/spotlibs/php-lib@v1.2.0
@@ -63,3 +65,4 @@
 - pkg:composer/spotlibs/php-lib@v1.5.3
 - pkg:composer/spotlibs/php-lib@v1.6.0
 - pkg:composer/spotlibs/php-lib@v1.6.1
+- pkg:composer/spotlibs/php-lib@v1.7.0
