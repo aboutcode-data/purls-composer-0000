@@ -7,3 +7,5 @@
 - pkg:composer/tivins/php-core@1.5.0
 - pkg:composer/tivins/php-core@1.5.2
 - pkg:composer/tivins/php-core@2.0.0
+- pkg:composer/tivins/php-core@2.1.0
+- pkg:composer/tivins/php-core@2.1.1
