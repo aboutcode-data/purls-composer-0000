@@ -452,6 +452,8 @@
 - pkg:composer/tencentcloud/wedata@3.0.1592
 - pkg:composer/tencentcloud/wedata@3.0.1593
 - pkg:composer/tencentcloud/wedata@3.0.1597
+- pkg:composer/tencentcloud/wedata@3.0.1605
+- pkg:composer/tencentcloud/wedata@3.0.1606
 - pkg:composer/tencentcloud/wedata@3.0.662
 - pkg:composer/tencentcloud/wedata@3.0.663
 - pkg:composer/tencentcloud/wedata@3.0.664
