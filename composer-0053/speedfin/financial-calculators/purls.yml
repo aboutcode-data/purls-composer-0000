@@ -59,6 +59,7 @@
 - pkg:composer/speedfin/financial-calculators@1.58
 - pkg:composer/speedfin/financial-calculators@1.59
 - pkg:composer/speedfin/financial-calculators@1.60
+- pkg:composer/speedfin/financial-calculators@1.62
 - pkg:composer/speedfin/financial-calculators@2.0
 - pkg:composer/speedfin/financial-calculators@2.0.1
 - pkg:composer/speedfin/financial-calculators@2.0.2
