@@ -434,6 +434,8 @@
 - pkg:composer/tencentcloud/iotexplorer@3.0.1597
 - pkg:composer/tencentcloud/iotexplorer@3.0.1600
 - pkg:composer/tencentcloud/iotexplorer@3.0.1603
+- pkg:composer/tencentcloud/iotexplorer@3.0.1605
+- pkg:composer/tencentcloud/iotexplorer@3.0.1606
 - pkg:composer/tencentcloud/iotexplorer@3.0.248
 - pkg:composer/tencentcloud/iotexplorer@3.0.249
 - pkg:composer/tencentcloud/iotexplorer@3.0.250
