@@ -35,3 +35,4 @@
 - pkg:composer/swayok/alternative-laravel-cache@6.1.8
 - pkg:composer/swayok/alternative-laravel-cache@6.2.0
 - pkg:composer/swayok/alternative-laravel-cache@6.2.1
+- pkg:composer/swayok/alternative-laravel-cache@6.3
