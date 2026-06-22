@@ -9,3 +9,6 @@
 - pkg:composer/sansanlabs/laravel-userstamps@v6.2.1
 - pkg:composer/sansanlabs/laravel-userstamps@v7.0.0
 - pkg:composer/sansanlabs/laravel-userstamps@v7.1.0
+- pkg:composer/sansanlabs/laravel-userstamps@v8.0.0
+- pkg:composer/sansanlabs/laravel-userstamps@v8.1.0
+- pkg:composer/sansanlabs/laravel-userstamps@v8.2.0
