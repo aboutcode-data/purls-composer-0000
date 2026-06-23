@@ -17,3 +17,5 @@
 - pkg:composer/webrium/console@2.0.2
 - pkg:composer/webrium/console@2.0.3
 - pkg:composer/webrium/console@2.1.0
+- pkg:composer/webrium/console@2.2.0
+- pkg:composer/webrium/console@2.2.1
