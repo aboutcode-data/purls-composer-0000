@@ -98,3 +98,4 @@
 - pkg:composer/amphp/amp@v3.0.2
 - pkg:composer/amphp/amp@v3.1.0
 - pkg:composer/amphp/amp@v3.1.1
+- pkg:composer/amphp/amp@v3.1.2
