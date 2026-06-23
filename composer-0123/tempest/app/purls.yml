@@ -10,3 +10,4 @@
 - pkg:composer/tempest/app@v2.0.0
 - pkg:composer/tempest/app@v2.0.1
 - pkg:composer/tempest/app@v3.0.0
+- pkg:composer/tempest/app@v3.1.0
