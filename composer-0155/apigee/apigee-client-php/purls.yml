@@ -42,9 +42,11 @@
 - pkg:composer/apigee/apigee-client-php@3.0.7
 - pkg:composer/apigee/apigee-client-php@3.0.8
 - pkg:composer/apigee/apigee-client-php@3.0.9
+- pkg:composer/apigee/apigee-client-php@3.1.0
 - pkg:composer/apigee/apigee-client-php@4.0.0
 - pkg:composer/apigee/apigee-client-php@4.0.1
 - pkg:composer/apigee/apigee-client-php@4.0.2
 - pkg:composer/apigee/apigee-client-php@4.0.3
 - pkg:composer/apigee/apigee-client-php@4.0.4
 - pkg:composer/apigee/apigee-client-php@4.0.5
+- pkg:composer/apigee/apigee-client-php@4.1.0
