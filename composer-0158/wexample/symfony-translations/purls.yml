@@ -119,3 +119,4 @@
 - pkg:composer/wexample/symfony-translations@1.0.9
 - pkg:composer/wexample/symfony-translations@2.0.0
 - pkg:composer/wexample/symfony-translations@2.0.1
+- pkg:composer/wexample/symfony-translations@2.0.2
