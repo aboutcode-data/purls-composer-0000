@@ -219,4 +219,6 @@
 - pkg:composer/uxf/content@3.80.0
 - pkg:composer/uxf/content@3.80.2
 - pkg:composer/uxf/content@3.80.3
+- pkg:composer/uxf/content@3.81.0
+- pkg:composer/uxf/content@3.81.1
 - pkg:composer/uxf/content@3.9.2
