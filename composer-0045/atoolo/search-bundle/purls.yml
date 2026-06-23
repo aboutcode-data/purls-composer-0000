@@ -5,6 +5,8 @@
 - pkg:composer/atoolo/search-bundle@1.12.0
 - pkg:composer/atoolo/search-bundle@1.13.0
 - pkg:composer/atoolo/search-bundle@1.14.0
+- pkg:composer/atoolo/search-bundle@1.14.1
+- pkg:composer/atoolo/search-bundle@1.14.2
 - pkg:composer/atoolo/search-bundle@1.15.0
 - pkg:composer/atoolo/search-bundle@1.16.0
 - pkg:composer/atoolo/search-bundle@1.2.0
