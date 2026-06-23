@@ -20,3 +20,6 @@
 - pkg:composer/valkyrja/valkyrja-app@v26.0.0
 - pkg:composer/valkyrja/valkyrja-app@v26.1.0
 - pkg:composer/valkyrja/valkyrja-app@v26.2.0
+- pkg:composer/valkyrja/valkyrja-app@v26.3.0
+- pkg:composer/valkyrja/valkyrja-app@v26.4.0
+- pkg:composer/valkyrja/valkyrja-app@v26.4.1
