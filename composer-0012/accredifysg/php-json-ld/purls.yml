@@ -70,3 +70,4 @@
 - pkg:composer/accredifysg/php-json-ld@v0.9.0
 - pkg:composer/accredifysg/php-json-ld@v1.0.0
 - pkg:composer/accredifysg/php-json-ld@v1.0.1
+- pkg:composer/accredifysg/php-json-ld@v2.0.0
