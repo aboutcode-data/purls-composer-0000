@@ -4,3 +4,7 @@
 - pkg:composer/arman/laravel-builder@v2.0.2
 - pkg:composer/arman/laravel-builder@v3.0.0
 - pkg:composer/arman/laravel-builder@v4.0.0
+- pkg:composer/arman/laravel-builder@v5.0.0
+- pkg:composer/arman/laravel-builder@v5.0.1
+- pkg:composer/arman/laravel-builder@v5.1.0
+- pkg:composer/arman/laravel-builder@v5.1.1
