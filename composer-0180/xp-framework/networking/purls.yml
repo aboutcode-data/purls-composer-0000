@@ -15,6 +15,7 @@
 - pkg:composer/xp-framework/networking@v10.5.0
 - pkg:composer/xp-framework/networking@v10.5.1
 - pkg:composer/xp-framework/networking@v11.0.0
+- pkg:composer/xp-framework/networking@v11.1.0
 - pkg:composer/xp-framework/networking@v6.6.0
 - pkg:composer/xp-framework/networking@v7.0.0
 - pkg:composer/xp-framework/networking@v7.0.1
