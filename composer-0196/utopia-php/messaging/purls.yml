@@ -35,3 +35,5 @@
 - pkg:composer/utopia-php/messaging@0.9.1
 - pkg:composer/utopia-php/messaging@1.0.0
 - pkg:composer/utopia-php/messaging@1.0.1
+- pkg:composer/utopia-php/messaging@1.1.0
+- pkg:composer/utopia-php/messaging@1.2.0
