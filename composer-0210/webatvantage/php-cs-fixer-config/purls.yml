@@ -2,3 +2,4 @@
 - pkg:composer/webatvantage/php-cs-fixer-config@1.0.1
 - pkg:composer/webatvantage/php-cs-fixer-config@1.0.2
 - pkg:composer/webatvantage/php-cs-fixer-config@1.1.0
+- pkg:composer/webatvantage/php-cs-fixer-config@1.2.0
