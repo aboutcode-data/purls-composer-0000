@@ -172,3 +172,4 @@
 - pkg:composer/webeweb/core-library@v9.7.0
 - pkg:composer/webeweb/core-library@v9.8.0
 - pkg:composer/webeweb/core-library@v9.9.0
+- pkg:composer/webeweb/core-library@v9.9.1
