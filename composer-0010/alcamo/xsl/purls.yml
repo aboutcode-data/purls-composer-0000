@@ -74,3 +74,5 @@
 - pkg:composer/alcamo/xsl@0.8.3
 - pkg:composer/alcamo/xsl@0.8.4
 - pkg:composer/alcamo/xsl@0.8.5
+- pkg:composer/alcamo/xsl@0.8.6
+- pkg:composer/alcamo/xsl@0.8.7
