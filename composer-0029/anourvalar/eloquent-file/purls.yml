@@ -132,6 +132,8 @@
 - pkg:composer/anourvalar/eloquent-file@1.44.1
 - pkg:composer/anourvalar/eloquent-file@1.44.2
 - pkg:composer/anourvalar/eloquent-file@1.44.3
+- pkg:composer/anourvalar/eloquent-file@1.44.4
+- pkg:composer/anourvalar/eloquent-file@1.44.5
 - pkg:composer/anourvalar/eloquent-file@1.5.0
 - pkg:composer/anourvalar/eloquent-file@1.6.0
 - pkg:composer/anourvalar/eloquent-file@1.6.1
