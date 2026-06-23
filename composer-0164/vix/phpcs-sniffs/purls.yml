@@ -7,3 +7,4 @@
 - pkg:composer/vix/phpcs-sniffs@v0.2.5
 - pkg:composer/vix/phpcs-sniffs@v0.2.6
 - pkg:composer/vix/phpcs-sniffs@v0.3.0
+- pkg:composer/vix/phpcs-sniffs@v0.4.0
