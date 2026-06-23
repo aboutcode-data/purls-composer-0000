@@ -2,3 +2,4 @@
 - pkg:composer/waaz/u2pay-etransactions-plugin@0.2
 - pkg:composer/waaz/u2pay-etransactions-plugin@0.3
 - pkg:composer/waaz/u2pay-etransactions-plugin@0.4
+- pkg:composer/waaz/u2pay-etransactions-plugin@0.5
