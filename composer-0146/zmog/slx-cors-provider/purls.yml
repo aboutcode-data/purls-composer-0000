@@ -27,3 +27,4 @@
 - pkg:composer/zmog/slx-cors-provider@v1.6.1
 - pkg:composer/zmog/slx-cors-provider@v2.0.0
 - pkg:composer/zmog/slx-cors-provider@v2.0.1
+- pkg:composer/zmog/slx-cors-provider@v2.1.0
