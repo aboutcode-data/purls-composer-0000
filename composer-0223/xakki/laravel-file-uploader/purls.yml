@@ -1,1 +1,5 @@
 - pkg:composer/xakki/laravel-file-uploader@0.2
+- pkg:composer/xakki/laravel-file-uploader@0.3.1
+- pkg:composer/xakki/laravel-file-uploader@0.3.2
+- pkg:composer/xakki/laravel-file-uploader@0.3.3
+- pkg:composer/xakki/laravel-file-uploader@0.3.4
