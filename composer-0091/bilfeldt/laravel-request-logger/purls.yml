@@ -18,3 +18,4 @@
 - pkg:composer/bilfeldt/laravel-request-logger@v3.7.0
 - pkg:composer/bilfeldt/laravel-request-logger@v3.8.0
 - pkg:composer/bilfeldt/laravel-request-logger@v3.9.0
+- pkg:composer/bilfeldt/laravel-request-logger@v3.9.1
