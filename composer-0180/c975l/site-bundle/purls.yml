@@ -167,6 +167,11 @@
 - pkg:composer/c975l/site-bundle@v6.26
 - pkg:composer/c975l/site-bundle@v6.26.1
 - pkg:composer/c975l/site-bundle@v6.26.2
+- pkg:composer/c975l/site-bundle@v6.27
+- pkg:composer/c975l/site-bundle@v6.27.1
+- pkg:composer/c975l/site-bundle@v6.27.2
+- pkg:composer/c975l/site-bundle@v6.27.3
+- pkg:composer/c975l/site-bundle@v6.27.4
 - pkg:composer/c975l/site-bundle@v6.3
 - pkg:composer/c975l/site-bundle@v6.3.1
 - pkg:composer/c975l/site-bundle@v6.3.2
