@@ -8,3 +8,4 @@
 - pkg:composer/codekandis/phpunit@5.0.2
 - pkg:composer/codekandis/phpunit@5.0.3
 - pkg:composer/codekandis/phpunit@5.0.4
+- pkg:composer/codekandis/phpunit@5.0.5
