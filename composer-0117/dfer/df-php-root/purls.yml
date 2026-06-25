@@ -97,3 +97,7 @@
 - pkg:composer/dfer/df-php-root@1.9.6
 - pkg:composer/dfer/df-php-root@1.9.7
 - pkg:composer/dfer/df-php-root@1.9.8
+- pkg:composer/dfer/df-php-root@1.9.9
+- pkg:composer/dfer/df-php-root@2.0.0
+- pkg:composer/dfer/df-php-root@2.0.1
+- pkg:composer/dfer/df-php-root@2.0.2
