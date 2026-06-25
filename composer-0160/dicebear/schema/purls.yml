@@ -29,3 +29,5 @@
 - pkg:composer/dicebear/schema@v1.1.0-rc.1
 - pkg:composer/dicebear/schema@v1.1.0-rc.2
 - pkg:composer/dicebear/schema@v1.2.0
+- pkg:composer/dicebear/schema@v1.3.0
+- pkg:composer/dicebear/schema@v1.3.0-rc.1
