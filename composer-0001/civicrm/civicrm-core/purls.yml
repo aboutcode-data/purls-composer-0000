@@ -407,6 +407,10 @@
 - pkg:composer/civicrm/civicrm-core@6.14.2
 - pkg:composer/civicrm/civicrm-core@6.15.0
 - pkg:composer/civicrm/civicrm-core@6.15.1
+- pkg:composer/civicrm/civicrm-core@6.15.2
+- pkg:composer/civicrm/civicrm-core@6.15.3
+- pkg:composer/civicrm/civicrm-core@6.15.4
+- pkg:composer/civicrm/civicrm-core@6.15.5
 - pkg:composer/civicrm/civicrm-core@6.2.0
 - pkg:composer/civicrm/civicrm-core@6.3.0
 - pkg:composer/civicrm/civicrm-core@6.3.1
