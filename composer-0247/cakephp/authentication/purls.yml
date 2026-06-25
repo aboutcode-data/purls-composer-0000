@@ -37,6 +37,7 @@
 - pkg:composer/cakephp/authentication@2.10.1
 - pkg:composer/cakephp/authentication@2.10.2
 - pkg:composer/cakephp/authentication@2.11.0
+- pkg:composer/cakephp/authentication@2.11.1
 - pkg:composer/cakephp/authentication@2.2.0
 - pkg:composer/cakephp/authentication@2.3.0
 - pkg:composer/cakephp/authentication@2.3.1
