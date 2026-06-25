@@ -1,1 +1,2 @@
 - pkg:composer/craftcms/http-message-signatures@0.1.0
+- pkg:composer/craftcms/http-message-signatures@1.0.0
