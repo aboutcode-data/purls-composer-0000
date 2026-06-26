@@ -2,3 +2,5 @@
 - pkg:composer/etechflow/module-order-email-editor@1.0.2
 - pkg:composer/etechflow/module-order-email-editor@1.1.0
 - pkg:composer/etechflow/module-order-email-editor@1.2.0
+- pkg:composer/etechflow/module-order-email-editor@1.2.4
+- pkg:composer/etechflow/module-order-email-editor@1.2.5
