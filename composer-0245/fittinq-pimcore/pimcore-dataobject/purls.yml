@@ -18,3 +18,4 @@
 - pkg:composer/fittinq-pimcore/pimcore-dataobject@3.0.2
 - pkg:composer/fittinq-pimcore/pimcore-dataobject@4.0.0
 - pkg:composer/fittinq-pimcore/pimcore-dataobject@4.0.1
+- pkg:composer/fittinq-pimcore/pimcore-dataobject@5.0.0

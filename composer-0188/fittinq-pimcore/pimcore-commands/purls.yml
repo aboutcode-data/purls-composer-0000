@@ -2,6 +2,7 @@
 - pkg:composer/fittinq-pimcore/pimcore-commands@1.1.0
 - pkg:composer/fittinq-pimcore/pimcore-commands@1.1.1
 - pkg:composer/fittinq-pimcore/pimcore-commands@1.2.0
+- pkg:composer/fittinq-pimcore/pimcore-commands@10.0.0
 - pkg:composer/fittinq-pimcore/pimcore-commands@2.0.0
 - pkg:composer/fittinq-pimcore/pimcore-commands@3.0.0
 - pkg:composer/fittinq-pimcore/pimcore-commands@3.0.1
