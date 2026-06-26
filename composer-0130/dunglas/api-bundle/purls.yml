@@ -358,6 +358,7 @@
 - pkg:composer/dunglas/api-bundle@v4.3.11
 - pkg:composer/dunglas/api-bundle@v4.3.12
 - pkg:composer/dunglas/api-bundle@v4.3.13
+- pkg:composer/dunglas/api-bundle@v4.3.14
 - pkg:composer/dunglas/api-bundle@v4.3.2
 - pkg:composer/dunglas/api-bundle@v4.3.3
 - pkg:composer/dunglas/api-bundle@v4.3.4
@@ -366,3 +367,4 @@
 - pkg:composer/dunglas/api-bundle@v4.3.7
 - pkg:composer/dunglas/api-bundle@v4.3.8
 - pkg:composer/dunglas/api-bundle@v4.3.9
+- pkg:composer/dunglas/api-bundle@v4.4.0-alpha.1
