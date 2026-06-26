@@ -25,3 +25,5 @@
 - pkg:composer/edzhub/content-sdk-php@v0.3.5
 - pkg:composer/edzhub/content-sdk-php@v0.3.6
 - pkg:composer/edzhub/content-sdk-php@v0.3.7
+- pkg:composer/edzhub/content-sdk-php@v0.3.8
+- pkg:composer/edzhub/content-sdk-php@v0.3.9
