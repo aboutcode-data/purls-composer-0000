@@ -1,5 +1,6 @@
 - pkg:composer/eappointment/mellon@2.06.03
 - pkg:composer/eappointment/mellon@2.06.03-alpha
+- pkg:composer/eappointment/mellon@2.06.04
 - pkg:composer/eappointment/mellon@v1.0.0
 - pkg:composer/eappointment/mellon@v1.0.1
 - pkg:composer/eappointment/mellon@v1.1.0
@@ -18,12 +19,6 @@
 - pkg:composer/eappointment/mellon@v2.06.00
 - pkg:composer/eappointment/mellon@v2.06.01
 - pkg:composer/eappointment/mellon@v2.06.02
-- pkg:composer/eappointment/mellon@v2.07.00
-- pkg:composer/eappointment/mellon@v2.07.01
-- pkg:composer/eappointment/mellon@v2.07.02
-- pkg:composer/eappointment/mellon@v2.07.03
-- pkg:composer/eappointment/mellon@v2.07.04
-- pkg:composer/eappointment/mellon@v2.07.05
 - pkg:composer/eappointment/mellon@v2.1.0
 - pkg:composer/eappointment/mellon@v2.2.0
 - pkg:composer/eappointment/mellon@v2.3.0
