@@ -55,3 +55,5 @@
 - pkg:composer/flytachi/winter-kernel@v3.5.1
 - pkg:composer/flytachi/winter-kernel@v3.5.2
 - pkg:composer/flytachi/winter-kernel@v3.5.3
+- pkg:composer/flytachi/winter-kernel@v3.6.0
+- pkg:composer/flytachi/winter-kernel@v3.6.1
