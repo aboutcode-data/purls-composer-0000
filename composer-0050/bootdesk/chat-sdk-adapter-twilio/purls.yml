@@ -13,4 +13,6 @@
 - pkg:composer/bootdesk/chat-sdk-adapter-twilio@0.4.23
 - pkg:composer/bootdesk/chat-sdk-adapter-twilio@0.4.24
 - pkg:composer/bootdesk/chat-sdk-adapter-twilio@0.4.25
+- pkg:composer/bootdesk/chat-sdk-adapter-twilio@0.4.26
+- pkg:composer/bootdesk/chat-sdk-adapter-twilio@0.4.27
 - pkg:composer/bootdesk/chat-sdk-adapter-twilio@0.4.9
