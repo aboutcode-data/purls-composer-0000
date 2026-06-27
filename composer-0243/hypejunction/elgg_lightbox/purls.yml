@@ -11,3 +11,5 @@
 - pkg:composer/hypejunction/elgg_lightbox@6.0.0
 - pkg:composer/hypejunction/elgg_lightbox@7.0.0
 - pkg:composer/hypejunction/elgg_lightbox@7.0.1
+- pkg:composer/hypejunction/elgg_lightbox@7.0.2
+- pkg:composer/hypejunction/elgg_lightbox@7.0.3
