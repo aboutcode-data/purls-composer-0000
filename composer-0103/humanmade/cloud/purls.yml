@@ -338,6 +338,9 @@
 - pkg:composer/humanmade/cloud@26.0.7
 - pkg:composer/humanmade/cloud@26.0.8
 - pkg:composer/humanmade/cloud@26.0.9
+- pkg:composer/humanmade/cloud@27.0.0
+- pkg:composer/humanmade/cloud@27.0.0-beta.1
+- pkg:composer/humanmade/cloud@27.0.1
 - pkg:composer/humanmade/cloud@3.0.0
 - pkg:composer/humanmade/cloud@3.0.0-beta1
 - pkg:composer/humanmade/cloud@3.0.0-beta2
