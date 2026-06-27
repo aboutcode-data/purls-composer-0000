@@ -7,3 +7,4 @@
 - pkg:composer/ingenerator/oidc-token-verifier@v1.2.0
 - pkg:composer/ingenerator/oidc-token-verifier@v1.3.0
 - pkg:composer/ingenerator/oidc-token-verifier@v1.4.0
+- pkg:composer/ingenerator/oidc-token-verifier@v1.5.0
