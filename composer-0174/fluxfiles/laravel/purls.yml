@@ -19,6 +19,8 @@
 - pkg:composer/fluxfiles/laravel@v0.2.21
 - pkg:composer/fluxfiles/laravel@v0.2.22
 - pkg:composer/fluxfiles/laravel@v0.2.23
+- pkg:composer/fluxfiles/laravel@v0.2.24
+- pkg:composer/fluxfiles/laravel@v0.2.25
 - pkg:composer/fluxfiles/laravel@v0.2.3
 - pkg:composer/fluxfiles/laravel@v0.2.4
 - pkg:composer/fluxfiles/laravel@v0.2.5
