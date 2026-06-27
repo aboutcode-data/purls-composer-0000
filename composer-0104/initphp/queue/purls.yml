@@ -1,3 +1,4 @@
 - pkg:composer/initphp/queue@1.0
 - pkg:composer/initphp/queue@2.0.0
 - pkg:composer/initphp/queue@2.0.1
+- pkg:composer/initphp/queue@2.1.0
