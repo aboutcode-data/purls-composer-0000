@@ -3,6 +3,7 @@
 - pkg:composer/horde/injector@2.0.5
 - pkg:composer/horde/injector@3.0.0alpha1
 - pkg:composer/horde/injector@3.0.0alpha2
+- pkg:composer/horde/injector@v3.0.0
 - pkg:composer/horde/injector@v3.0.0alpha10
 - pkg:composer/horde/injector@v3.0.0alpha11
 - pkg:composer/horde/injector@v3.0.0alpha12
