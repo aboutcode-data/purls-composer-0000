@@ -135,6 +135,9 @@
 - pkg:composer/humanmade/security@26.0.3
 - pkg:composer/humanmade/security@26.0.4
 - pkg:composer/humanmade/security@26.0.5
+- pkg:composer/humanmade/security@27.0.0
+- pkg:composer/humanmade/security@27.0.0-beta.1
+- pkg:composer/humanmade/security@27.0.1
 - pkg:composer/humanmade/security@3.0.0
 - pkg:composer/humanmade/security@3.0.0-beta1
 - pkg:composer/humanmade/security@3.0.0-beta2
