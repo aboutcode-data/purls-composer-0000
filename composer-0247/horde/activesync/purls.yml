@@ -132,6 +132,7 @@
 - pkg:composer/horde/activesync@v3.0.0RC1
 - pkg:composer/horde/activesync@v3.0.0RC2
 - pkg:composer/horde/activesync@v3.0.0RC3
+- pkg:composer/horde/activesync@v3.0.0RC4
 - pkg:composer/horde/activesync@v3.0.0alpha10
 - pkg:composer/horde/activesync@v3.0.0alpha4
 - pkg:composer/horde/activesync@v3.0.0alpha6
