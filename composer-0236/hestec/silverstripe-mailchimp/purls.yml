@@ -1,3 +1,4 @@
+- pkg:composer/hestec/silverstripe-mailchimp@0.4.4
 - pkg:composer/hestec/silverstripe-mailchimp@1.0.0
 - pkg:composer/hestec/silverstripe-mailchimp@1.0.1
 - pkg:composer/hestec/silverstripe-mailchimp@1.0.2
