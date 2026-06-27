@@ -16,3 +16,4 @@
 - pkg:composer/getstream/getstream-php@v7.1.0
 - pkg:composer/getstream/getstream-php@v7.1.1
 - pkg:composer/getstream/getstream-php@v7.2.0
+- pkg:composer/getstream/getstream-php@v7.4.0
