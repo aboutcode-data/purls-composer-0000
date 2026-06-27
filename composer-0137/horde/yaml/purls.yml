@@ -6,6 +6,7 @@
 - pkg:composer/horde/yaml@2.1.0
 - pkg:composer/horde/yaml@3.0.0alpha1
 - pkg:composer/horde/yaml@3.0.0alpha2
+- pkg:composer/horde/yaml@v3.0.0
 - pkg:composer/horde/yaml@v3.0.0RC1
 - pkg:composer/horde/yaml@v3.0.0alpha3
 - pkg:composer/horde/yaml@v3.0.0alpha4

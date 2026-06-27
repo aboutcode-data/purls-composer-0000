@@ -17,5 +17,6 @@
 - pkg:composer/horde/smtp@1.9.5
 - pkg:composer/horde/smtp@2.0.0alpha1
 - pkg:composer/horde/smtp@2.0.0alpha2
+- pkg:composer/horde/smtp@v2.0.0
 - pkg:composer/horde/smtp@v2.0.0alpha3
 - pkg:composer/horde/smtp@v2.0.0beta1
