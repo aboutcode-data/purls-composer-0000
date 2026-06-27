@@ -11,6 +11,7 @@
 - pkg:composer/horde/alarm@2.2.9
 - pkg:composer/horde/alarm@3.0.0alpha1
 - pkg:composer/horde/alarm@3.0.0alpha2
+- pkg:composer/horde/alarm@v3.0.0
 - pkg:composer/horde/alarm@v3.0.0alpha3
 - pkg:composer/horde/alarm@v3.0.0alpha4
 - pkg:composer/horde/alarm@v3.0.0alpha5

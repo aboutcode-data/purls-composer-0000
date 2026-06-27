@@ -10,6 +10,7 @@
 - pkg:composer/horde/cli@2.3.0
 - pkg:composer/horde/cli@3.0.0alpha1
 - pkg:composer/horde/cli@3.0.0alpha2
+- pkg:composer/horde/cli@v3.0.0
 - pkg:composer/horde/cli@v3.0.0alpha3
 - pkg:composer/horde/cli@v3.0.0alpha4
 - pkg:composer/horde/cli@v3.0.0alpha5
