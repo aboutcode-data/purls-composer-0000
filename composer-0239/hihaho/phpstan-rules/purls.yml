@@ -1,3 +1,4 @@
+- pkg:composer/hihaho/phpstan-rules@3.9.0
 - pkg:composer/hihaho/phpstan-rules@v0.1.0
 - pkg:composer/hihaho/phpstan-rules@v1.0.0
 - pkg:composer/hihaho/phpstan-rules@v1.1.0
@@ -12,6 +13,12 @@
 - pkg:composer/hihaho/phpstan-rules@v3.1.0
 - pkg:composer/hihaho/phpstan-rules@v3.1.1
 - pkg:composer/hihaho/phpstan-rules@v3.1.2
+- pkg:composer/hihaho/phpstan-rules@v3.10.0
+- pkg:composer/hihaho/phpstan-rules@v3.11.0
+- pkg:composer/hihaho/phpstan-rules@v3.11.1
+- pkg:composer/hihaho/phpstan-rules@v3.11.2
+- pkg:composer/hihaho/phpstan-rules@v3.12.0
+- pkg:composer/hihaho/phpstan-rules@v3.13.0
 - pkg:composer/hihaho/phpstan-rules@v3.2.0
 - pkg:composer/hihaho/phpstan-rules@v3.3.0
 - pkg:composer/hihaho/phpstan-rules@v3.4.0
@@ -20,3 +27,4 @@
 - pkg:composer/hihaho/phpstan-rules@v3.6.0
 - pkg:composer/hihaho/phpstan-rules@v3.6.1
 - pkg:composer/hihaho/phpstan-rules@v3.7.0
+- pkg:composer/hihaho/phpstan-rules@v3.8.0
