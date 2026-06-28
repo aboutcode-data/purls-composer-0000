@@ -44,6 +44,7 @@
 - pkg:composer/jenssegers/mongodb@5.7.1
 - pkg:composer/jenssegers/mongodb@5.8.0
 - pkg:composer/jenssegers/mongodb@5.8.1
+- pkg:composer/jenssegers/mongodb@5.8.2
 - pkg:composer/jenssegers/mongodb@v1.0.0
 - pkg:composer/jenssegers/mongodb@v1.0.1
 - pkg:composer/jenssegers/mongodb@v1.0.2
