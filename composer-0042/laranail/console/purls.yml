@@ -1,1 +1,2 @@
-- pkg:composer/laranail/console@v0.1.0
+- pkg:composer/laranail/console@v1.0.0
+- pkg:composer/laranail/console@v1.1.0
