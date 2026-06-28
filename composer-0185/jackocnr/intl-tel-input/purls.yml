@@ -417,3 +417,5 @@
 - pkg:composer/jackocnr/intl-tel-input@29.0.3
 - pkg:composer/jackocnr/intl-tel-input@29.0.4
 - pkg:composer/jackocnr/intl-tel-input@29.0.5
+- pkg:composer/jackocnr/intl-tel-input@29.1.0
+- pkg:composer/jackocnr/intl-tel-input@29.1.1
