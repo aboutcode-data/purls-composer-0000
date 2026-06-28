@@ -18,3 +18,4 @@
 - pkg:composer/game-worker/kiri-rpc@v2.5
 - pkg:composer/game-worker/kiri-rpc@v2.6
 - pkg:composer/game-worker/kiri-rpc@v2.7
+- pkg:composer/game-worker/kiri-rpc@v2.8
