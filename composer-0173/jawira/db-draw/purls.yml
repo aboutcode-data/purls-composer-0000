@@ -17,3 +17,4 @@
 - pkg:composer/jawira/db-draw@v1.7.0
 - pkg:composer/jawira/db-draw@v1.8.0
 - pkg:composer/jawira/db-draw@v1.8.1
+- pkg:composer/jawira/db-draw@v2.0.0
