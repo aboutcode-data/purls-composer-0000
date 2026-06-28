@@ -46,7 +46,11 @@
 - pkg:composer/fluxfiles/fluxfiles@v0.2.46
 - pkg:composer/fluxfiles/fluxfiles@v0.2.47
 - pkg:composer/fluxfiles/fluxfiles@v0.2.48
+- pkg:composer/fluxfiles/fluxfiles@v0.2.49
 - pkg:composer/fluxfiles/fluxfiles@v0.2.5
+- pkg:composer/fluxfiles/fluxfiles@v0.2.50
+- pkg:composer/fluxfiles/fluxfiles@v0.2.51
+- pkg:composer/fluxfiles/fluxfiles@v0.2.52
 - pkg:composer/fluxfiles/fluxfiles@v0.2.7
 - pkg:composer/fluxfiles/fluxfiles@v0.2.8
 - pkg:composer/fluxfiles/fluxfiles@v0.2.9
