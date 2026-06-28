@@ -5,3 +5,4 @@
 - pkg:composer/kodus/chrome-logger@1.1.2
 - pkg:composer/kodus/chrome-logger@1.2.0
 - pkg:composer/kodus/chrome-logger@1.3.0
+- pkg:composer/kodus/chrome-logger@2.0.0
