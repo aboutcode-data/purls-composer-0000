@@ -46,3 +46,6 @@
 - pkg:composer/laravel/forge-sdk@v3.8.0
 - pkg:composer/laravel/forge-sdk@v3.9.0
 - pkg:composer/laravel/forge-sdk@v4.0.0
+- pkg:composer/laravel/forge-sdk@v4.0.1
+- pkg:composer/laravel/forge-sdk@v4.0.2
+- pkg:composer/laravel/forge-sdk@v4.1.0
