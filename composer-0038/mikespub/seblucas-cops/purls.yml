@@ -127,6 +127,8 @@
 - pkg:composer/mikespub/seblucas-cops@4.3.5
 - pkg:composer/mikespub/seblucas-cops@4.4.0
 - pkg:composer/mikespub/seblucas-cops@4.4.1
+- pkg:composer/mikespub/seblucas-cops@4.4.10
+- pkg:composer/mikespub/seblucas-cops@4.4.11
 - pkg:composer/mikespub/seblucas-cops@4.4.2
 - pkg:composer/mikespub/seblucas-cops@4.4.3
 - pkg:composer/mikespub/seblucas-cops@4.4.4
@@ -134,3 +136,7 @@
 - pkg:composer/mikespub/seblucas-cops@4.4.6
 - pkg:composer/mikespub/seblucas-cops@4.4.7
 - pkg:composer/mikespub/seblucas-cops@4.4.8
+- pkg:composer/mikespub/seblucas-cops@4.4.9
+- pkg:composer/mikespub/seblucas-cops@4.5.0
+- pkg:composer/mikespub/seblucas-cops@4.5.1
+- pkg:composer/mikespub/seblucas-cops@4.5.2
