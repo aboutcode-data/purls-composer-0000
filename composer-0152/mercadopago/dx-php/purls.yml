@@ -77,6 +77,7 @@
 - pkg:composer/mercadopago/dx-php@3.11.0
 - pkg:composer/mercadopago/dx-php@3.11.1
 - pkg:composer/mercadopago/dx-php@3.11.2
+- pkg:composer/mercadopago/dx-php@3.11.3
 - pkg:composer/mercadopago/dx-php@3.2.0
 - pkg:composer/mercadopago/dx-php@3.3.0
 - pkg:composer/mercadopago/dx-php@3.4.0
