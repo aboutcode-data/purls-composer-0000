@@ -49,6 +49,8 @@
 - pkg:composer/mikecao/flight@v3.17.4
 - pkg:composer/mikecao/flight@v3.18.0
 - pkg:composer/mikecao/flight@v3.18.1
+- pkg:composer/mikecao/flight@v3.18.2
+- pkg:composer/mikecao/flight@v3.18.3
 - pkg:composer/mikecao/flight@v3.2.0
 - pkg:composer/mikecao/flight@v3.3.0
 - pkg:composer/mikecao/flight@v3.4.0
