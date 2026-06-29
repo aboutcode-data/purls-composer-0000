@@ -1,3 +1,4 @@
+- pkg:composer/mcaskill/composer-exclude-files@5.0.0
 - pkg:composer/mcaskill/composer-exclude-files@v1.0.0
 - pkg:composer/mcaskill/composer-exclude-files@v1.1.0
 - pkg:composer/mcaskill/composer-exclude-files@v1.2.0
