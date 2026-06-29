@@ -33,3 +33,4 @@
 - pkg:composer/magmasoftwareengineering/slim-middleware-phpdebugbar@1.3.2
 - pkg:composer/magmasoftwareengineering/slim-middleware-phpdebugbar@1.3.3
 - pkg:composer/magmasoftwareengineering/slim-middleware-phpdebugbar@1.4.0
+- pkg:composer/magmasoftwareengineering/slim-middleware-phpdebugbar@1.5.0
