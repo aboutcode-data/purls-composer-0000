@@ -24,6 +24,7 @@
 - pkg:composer/namirasoft/history@1.4.16
 - pkg:composer/namirasoft/history@1.4.17
 - pkg:composer/namirasoft/history@1.4.18
+- pkg:composer/namirasoft/history@1.4.19
 - pkg:composer/namirasoft/history@1.4.2
 - pkg:composer/namirasoft/history@1.4.3
 - pkg:composer/namirasoft/history@1.4.4
@@ -32,3 +33,4 @@
 - pkg:composer/namirasoft/history@1.4.7
 - pkg:composer/namirasoft/history@1.4.8
 - pkg:composer/namirasoft/history@1.4.9
+- pkg:composer/namirasoft/history@1.5.0

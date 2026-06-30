@@ -39,6 +39,7 @@
 - pkg:composer/namirasoft/payment@1.4.135
 - pkg:composer/namirasoft/payment@1.4.136
 - pkg:composer/namirasoft/payment@1.4.137
+- pkg:composer/namirasoft/payment@1.4.138
 - pkg:composer/namirasoft/payment@1.4.15
 - pkg:composer/namirasoft/payment@1.4.16
 - pkg:composer/namirasoft/payment@1.4.17
@@ -120,3 +121,4 @@
 - pkg:composer/namirasoft/payment@1.4.97
 - pkg:composer/namirasoft/payment@1.4.98
 - pkg:composer/namirasoft/payment@1.4.99
+- pkg:composer/namirasoft/payment@1.5.0
