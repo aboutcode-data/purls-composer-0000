@@ -1,2 +1,3 @@
 - pkg:composer/netlogix/jobqueue-pool@1.0.0
 - pkg:composer/netlogix/jobqueue-pool@1.1.0
+- pkg:composer/netlogix/jobqueue-pool@1.3.0
