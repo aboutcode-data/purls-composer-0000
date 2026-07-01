@@ -1,1 +1,3 @@
 - pkg:composer/rcalicdan/slim-skeleton@1.0.0
+- pkg:composer/rcalicdan/slim-skeleton@2.0.0
+- pkg:composer/rcalicdan/slim-skeleton@2.0.1
