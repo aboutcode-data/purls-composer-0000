@@ -1,6 +1,7 @@
 - pkg:composer/php-feed-io/feed-io@V2.3.0
 - pkg:composer/php-feed-io/feed-io@V2.3.2
 - pkg:composer/php-feed-io/feed-io@V4.9.9
+- pkg:composer/php-feed-io/feed-io@V6.4.0
 - pkg:composer/php-feed-io/feed-io@v1.0.1
 - pkg:composer/php-feed-io/feed-io@v1.1.0
 - pkg:composer/php-feed-io/feed-io@v2.0.0
