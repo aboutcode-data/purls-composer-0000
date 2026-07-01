@@ -43,6 +43,7 @@
 - pkg:composer/pubnub/pubnub@8.0.1
 - pkg:composer/pubnub/pubnub@8.0.2
 - pkg:composer/pubnub/pubnub@9.0.0
+- pkg:composer/pubnub/pubnub@9.0.1
 - pkg:composer/pubnub/pubnub@v3.5.2
 - pkg:composer/pubnub/pubnub@v3.5.3
 - pkg:composer/pubnub/pubnub@v3.5.4
