@@ -5,6 +5,9 @@
 - pkg:composer/nocs/laravel-retriever@v1.0.0
 - pkg:composer/nocs/laravel-retriever@v1.1.0
 - pkg:composer/nocs/laravel-retriever@v1.1.1
+- pkg:composer/nocs/laravel-retriever@v1.1.10
+- pkg:composer/nocs/laravel-retriever@v1.1.11
+- pkg:composer/nocs/laravel-retriever@v1.1.12
 - pkg:composer/nocs/laravel-retriever@v1.1.2
 - pkg:composer/nocs/laravel-retriever@v1.1.3
 - pkg:composer/nocs/laravel-retriever@v1.1.4
