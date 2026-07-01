@@ -1,4 +1,7 @@
 - pkg:composer/ppl/ppl_rights_management@12.4.0
+- pkg:composer/ppl/ppl_rights_management@12.4.1
 - pkg:composer/ppl/ppl_rights_management@13.4.1
+- pkg:composer/ppl/ppl_rights_management@13.4.2
 - pkg:composer/ppl/ppl_rights_management@14.3.0
+- pkg:composer/ppl/ppl_rights_management@14.3.1
 - pkg:composer/ppl/ppl_rights_management@v13.4.0
