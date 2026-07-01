@@ -36,6 +36,8 @@
 - pkg:composer/pensoft/library-plugin@1.1.15
 - pkg:composer/pensoft/library-plugin@1.1.16
 - pkg:composer/pensoft/library-plugin@1.1.17
+- pkg:composer/pensoft/library-plugin@1.1.18
+- pkg:composer/pensoft/library-plugin@1.1.19
 - pkg:composer/pensoft/library-plugin@1.1.2
 - pkg:composer/pensoft/library-plugin@1.1.3
 - pkg:composer/pensoft/library-plugin@1.1.4
