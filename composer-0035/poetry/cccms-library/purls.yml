@@ -34,3 +34,5 @@
 - pkg:composer/poetry/cccms-library@2.2.5
 - pkg:composer/poetry/cccms-library@2.2.6
 - pkg:composer/poetry/cccms-library@2.2.7
+- pkg:composer/poetry/cccms-library@2.2.8
+- pkg:composer/poetry/cccms-library@2.2.9
