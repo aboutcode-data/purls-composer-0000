@@ -1,1 +1,2 @@
 - pkg:composer/phauthentic/phpunit-openapi-assertions@1.0.0
+- pkg:composer/phauthentic/phpunit-openapi-assertions@1.1.0
