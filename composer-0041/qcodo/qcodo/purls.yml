@@ -65,6 +65,9 @@
 - pkg:composer/qcodo/qcodo@0.6.31
 - pkg:composer/qcodo/qcodo@0.6.32
 - pkg:composer/qcodo/qcodo@0.6.33
+- pkg:composer/qcodo/qcodo@0.6.34
+- pkg:composer/qcodo/qcodo@0.6.35
+- pkg:composer/qcodo/qcodo@0.6.36
 - pkg:composer/qcodo/qcodo@0.6.4
 - pkg:composer/qcodo/qcodo@0.6.5
 - pkg:composer/qcodo/qcodo@0.6.6
