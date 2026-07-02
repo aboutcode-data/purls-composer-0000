@@ -70,3 +70,4 @@
 - pkg:composer/socialdept/atp-client@v0.2.2
 - pkg:composer/socialdept/atp-client@v0.2.3
 - pkg:composer/socialdept/atp-client@v0.2.4
+- pkg:composer/socialdept/atp-client@v0.3.0
