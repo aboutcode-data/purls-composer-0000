@@ -208,6 +208,7 @@
 - pkg:composer/openeuropa/oe_whitelabel@1.33.0
 - pkg:composer/openeuropa/oe_whitelabel@1.33.1
 - pkg:composer/openeuropa/oe_whitelabel@1.33.2
+- pkg:composer/openeuropa/oe_whitelabel@1.33.3
 - pkg:composer/openeuropa/oe_whitelabel@1.4.0
 - pkg:composer/openeuropa/oe_whitelabel@1.5.0
 - pkg:composer/openeuropa/oe_whitelabel@1.6.0
