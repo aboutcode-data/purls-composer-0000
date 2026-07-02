@@ -85,5 +85,6 @@
 - pkg:composer/socket-manager/library@v1.24.1
 - pkg:composer/socket-manager/library@v1.24.2
 - pkg:composer/socket-manager/library@v1.24.3
+- pkg:composer/socket-manager/library@v1.24.4
 - pkg:composer/socket-manager/library@v1.8.12
 - pkg:composer/socket-manager/library@v1.9.0
