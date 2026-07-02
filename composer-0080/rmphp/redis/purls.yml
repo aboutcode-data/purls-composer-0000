@@ -1,3 +1,6 @@
 - pkg:composer/rmphp/redis@1.0
 - pkg:composer/rmphp/redis@1.0.1
 - pkg:composer/rmphp/redis@1.1
+- pkg:composer/rmphp/redis@2.0
+- pkg:composer/rmphp/redis@2.0.1
+- pkg:composer/rmphp/redis@2.0.2
