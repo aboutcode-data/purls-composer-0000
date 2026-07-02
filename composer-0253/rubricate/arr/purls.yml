@@ -2,3 +2,5 @@
 - pkg:composer/rubricate/arr@v1.0.0
 - pkg:composer/rubricate/arr@v2.2.0
 - pkg:composer/rubricate/arr@v3.0.0
+- pkg:composer/rubricate/arr@v4.0.0
+- pkg:composer/rubricate/arr@v4.1.0
