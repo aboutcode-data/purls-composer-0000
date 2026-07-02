@@ -37,6 +37,10 @@
 - pkg:composer/rkw/rkw-events@v10.4.42-stable
 - pkg:composer/rkw/rkw-events@v10.4.43-stable
 - pkg:composer/rkw/rkw-events@v10.4.44-stable
+- pkg:composer/rkw/rkw-events@v10.4.45-stable
+- pkg:composer/rkw/rkw-events@v10.4.46-stable
+- pkg:composer/rkw/rkw-events@v10.4.47-stable
+- pkg:composer/rkw/rkw-events@v10.4.48-stable
 - pkg:composer/rkw/rkw-events@v10.4.5-stable
 - pkg:composer/rkw/rkw-events@v10.4.6-stable
 - pkg:composer/rkw/rkw-events@v10.4.7-stable
