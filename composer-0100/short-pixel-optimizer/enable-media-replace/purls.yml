@@ -30,3 +30,5 @@
 - pkg:composer/short-pixel-optimizer/enable-media-replace@v4.1.7
 - pkg:composer/short-pixel-optimizer/enable-media-replace@v4.1.8
 - pkg:composer/short-pixel-optimizer/enable-media-replace@v4.1.9
+- pkg:composer/short-pixel-optimizer/enable-media-replace@v4.2.1
+- pkg:composer/short-pixel-optimizer/enable-media-replace@v4.2.2
