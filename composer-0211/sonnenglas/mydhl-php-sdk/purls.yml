@@ -21,3 +21,5 @@
 - pkg:composer/sonnenglas/mydhl-php-sdk@1.0.0
 - pkg:composer/sonnenglas/mydhl-php-sdk@2.0.0
 - pkg:composer/sonnenglas/mydhl-php-sdk@2.0.1
+- pkg:composer/sonnenglas/mydhl-php-sdk@2.0.2
+- pkg:composer/sonnenglas/mydhl-php-sdk@2.0.3
