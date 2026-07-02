@@ -9,3 +9,5 @@
 - pkg:composer/spryker-eco/punchout-gateway@0.5.1
 - pkg:composer/spryker-eco/punchout-gateway@1.0.0
 - pkg:composer/spryker-eco/punchout-gateway@1.0.1
+- pkg:composer/spryker-eco/punchout-gateway@1.1.0
+- pkg:composer/spryker-eco/punchout-gateway@1.2.0
