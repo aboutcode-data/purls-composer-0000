@@ -3,3 +3,4 @@
 - pkg:composer/seanmorris/ksqlc@0.0.2
 - pkg:composer/seanmorris/ksqlc@0.0.3
 - pkg:composer/seanmorris/ksqlc@0.1.1
+- pkg:composer/seanmorris/ksqlc@0.1.3
