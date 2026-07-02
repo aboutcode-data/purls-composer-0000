@@ -15,3 +15,4 @@
 - pkg:composer/spryker-feature/availability-notification@202512.0
 - pkg:composer/spryker-feature/availability-notification@202602.0
 - pkg:composer/spryker-feature/availability-notification@202604.0
+- pkg:composer/spryker-feature/availability-notification@202606.0
