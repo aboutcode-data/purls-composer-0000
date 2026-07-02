@@ -39,3 +39,4 @@
 - pkg:composer/salaun/laravel-complex-upsert@5.2.4
 - pkg:composer/salaun/laravel-complex-upsert@6.0.0
 - pkg:composer/salaun/laravel-complex-upsert@6.0.1
+- pkg:composer/salaun/laravel-complex-upsert@6.0.2
