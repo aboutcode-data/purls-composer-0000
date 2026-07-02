@@ -23,3 +23,5 @@
 - pkg:composer/oneup/contao-page-teaser@2.2.8
 - pkg:composer/oneup/contao-page-teaser@2.2.9
 - pkg:composer/oneup/contao-page-teaser@3.0.0
+- pkg:composer/oneup/contao-page-teaser@3.0.1
+- pkg:composer/oneup/contao-page-teaser@3.0.2
