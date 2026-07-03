@@ -16,3 +16,4 @@
 - pkg:composer/royvoetman/flysystem-gitlab-storage@v3.0.0
 - pkg:composer/royvoetman/flysystem-gitlab-storage@v3.1.0
 - pkg:composer/royvoetman/flysystem-gitlab-storage@v3.1.1
+- pkg:composer/royvoetman/flysystem-gitlab-storage@v3.1.2
