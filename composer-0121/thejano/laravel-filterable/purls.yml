@@ -13,3 +13,4 @@
 - pkg:composer/thejano/laravel-filterable@1.3.2
 - pkg:composer/thejano/laravel-filterable@1.4.0
 - pkg:composer/thejano/laravel-filterable@1.5.0
+- pkg:composer/thejano/laravel-filterable@2.0.0
