@@ -482,6 +482,8 @@
 - pkg:composer/tencentcloud/vod@3.0.1602
 - pkg:composer/tencentcloud/vod@3.0.1603
 - pkg:composer/tencentcloud/vod@3.0.1605
+- pkg:composer/tencentcloud/vod@3.0.1615
+- pkg:composer/tencentcloud/vod@3.0.1618
 - pkg:composer/tencentcloud/vod@3.0.248
 - pkg:composer/tencentcloud/vod@3.0.249
 - pkg:composer/tencentcloud/vod@3.0.250
