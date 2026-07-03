@@ -16,6 +16,7 @@
 - pkg:composer/swag/language-pack@4.0.0
 - pkg:composer/swag/language-pack@4.1.0
 - pkg:composer/swag/language-pack@4.10.0
+- pkg:composer/swag/language-pack@4.100.0
 - pkg:composer/swag/language-pack@4.11.0
 - pkg:composer/swag/language-pack@4.12.0
 - pkg:composer/swag/language-pack@4.13.0
@@ -102,6 +103,7 @@
 - pkg:composer/swag/language-pack@4.96.0
 - pkg:composer/swag/language-pack@4.97.0
 - pkg:composer/swag/language-pack@4.98.0
+- pkg:composer/swag/language-pack@4.99.0
 - pkg:composer/swag/language-pack@5.0.0
 - pkg:composer/swag/language-pack@5.1.0
 - pkg:composer/swag/language-pack@5.10.0
@@ -157,6 +159,8 @@
 - pkg:composer/swag/language-pack@5.55.0
 - pkg:composer/swag/language-pack@5.56.0
 - pkg:composer/swag/language-pack@5.57.0
+- pkg:composer/swag/language-pack@5.58.0
+- pkg:composer/swag/language-pack@5.59.0
 - pkg:composer/swag/language-pack@5.6.0
 - pkg:composer/swag/language-pack@5.7.0
 - pkg:composer/swag/language-pack@5.8.0
