@@ -16,3 +16,5 @@
 - pkg:composer/sendity/laravel-auth@v0.2.1
 - pkg:composer/sendity/laravel-auth@v0.2.3
 - pkg:composer/sendity/laravel-auth@v0.2.4
+- pkg:composer/sendity/laravel-auth@v0.3.0-beta.1
+- pkg:composer/sendity/laravel-auth@v0.3.0-beta.2
