@@ -66,3 +66,4 @@
 - pkg:composer/tpay/magento2@2.7.0
 - pkg:composer/tpay/magento2@2.7.1
 - pkg:composer/tpay/magento2@2.8.0
+- pkg:composer/tpay/magento2@2.8.1
