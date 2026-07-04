@@ -146,6 +146,7 @@
 - pkg:composer/webmasterapp/graphql-frontend-api@15.0.0
 - pkg:composer/webmasterapp/graphql-frontend-api@15.0.1
 - pkg:composer/webmasterapp/graphql-frontend-api@15.1.0
+- pkg:composer/webmasterapp/graphql-frontend-api@15.2.0
 - pkg:composer/webmasterapp/graphql-frontend-api@2.1.0
 - pkg:composer/webmasterapp/graphql-frontend-api@2.1.1
 - pkg:composer/webmasterapp/graphql-frontend-api@2.1.2
