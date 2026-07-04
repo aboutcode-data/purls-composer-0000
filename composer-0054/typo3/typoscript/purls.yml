@@ -540,3 +540,4 @@
 - pkg:composer/typo3/typoscript@9.1.4
 - pkg:composer/typo3/typoscript@9.1.5
 - pkg:composer/typo3/typoscript@9.1.6
+- pkg:composer/typo3/typoscript@9.2.0-beta1
