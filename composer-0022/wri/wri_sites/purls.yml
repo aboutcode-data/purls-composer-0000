@@ -19,6 +19,8 @@
 - pkg:composer/wri/wri_sites@10.1.8
 - pkg:composer/wri/wri_sites@10.1.9
 - pkg:composer/wri/wri_sites@10.10.0
+- pkg:composer/wri/wri_sites@10.11.0
+- pkg:composer/wri/wri_sites@10.11.1
 - pkg:composer/wri/wri_sites@10.2.0
 - pkg:composer/wri/wri_sites@10.2.1
 - pkg:composer/wri/wri_sites@10.2.10

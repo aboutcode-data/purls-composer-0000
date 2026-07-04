@@ -136,3 +136,7 @@
 - pkg:composer/wpwwhimself/shipyard@v3.6.6
 - pkg:composer/wpwwhimself/shipyard@v3.6.7
 - pkg:composer/wpwwhimself/shipyard@v3.6.8
+- pkg:composer/wpwwhimself/shipyard@v3.6.9
+- pkg:composer/wpwwhimself/shipyard@v3.7.0
+- pkg:composer/wpwwhimself/shipyard@v3.7.1
+- pkg:composer/wpwwhimself/shipyard@v3.7.2
