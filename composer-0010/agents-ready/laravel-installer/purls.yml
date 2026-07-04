@@ -1,0 +1,3 @@
+- pkg:composer/agents-ready/laravel-installer@v0.1.0
+- pkg:composer/agents-ready/laravel-installer@v0.2.0
+- pkg:composer/agents-ready/laravel-installer@v0.2.1
