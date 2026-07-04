@@ -1,3 +1,5 @@
+- pkg:composer/vosiz/va-tools@1.8.6
+- pkg:composer/vosiz/va-tools@1.9.0
 - pkg:composer/vosiz/va-tools@v1.0.0
 - pkg:composer/vosiz/va-tools@v1.0.1
 - pkg:composer/vosiz/va-tools@v1.0.2
@@ -18,3 +20,5 @@
 - pkg:composer/vosiz/va-tools@v1.8.1
 - pkg:composer/vosiz/va-tools@v1.8.2
 - pkg:composer/vosiz/va-tools@v1.8.3
+- pkg:composer/vosiz/va-tools@v1.8.4
+- pkg:composer/vosiz/va-tools@v1.8.5
