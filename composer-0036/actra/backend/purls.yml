@@ -4,6 +4,8 @@
 - pkg:composer/actra/backend@v0.10.0
 - pkg:composer/actra/backend@v0.10.1
 - pkg:composer/actra/backend@v0.10.2
+- pkg:composer/actra/backend@v0.10.3
+- pkg:composer/actra/backend@v0.10.4
 - pkg:composer/actra/backend@v0.2.0
 - pkg:composer/actra/backend@v0.3.0
 - pkg:composer/actra/backend@v0.3.1
