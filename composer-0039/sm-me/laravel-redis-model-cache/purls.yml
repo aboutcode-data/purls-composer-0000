@@ -1,3 +1,4 @@
 - pkg:composer/sm-me/laravel-redis-model-cache@1.1.0
 - pkg:composer/sm-me/laravel-redis-model-cache@v1.0.0
 - pkg:composer/sm-me/laravel-redis-model-cache@v1.1.1
+- pkg:composer/sm-me/laravel-redis-model-cache@v2.0.0
