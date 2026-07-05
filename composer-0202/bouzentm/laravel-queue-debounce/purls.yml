@@ -1,0 +1,4 @@
+- pkg:composer/bouzentm/laravel-queue-debounce@v1.0.0
+- pkg:composer/bouzentm/laravel-queue-debounce@v1.0.1
+- pkg:composer/bouzentm/laravel-queue-debounce@v1.0.2
+- pkg:composer/bouzentm/laravel-queue-debounce@v1.0.3
