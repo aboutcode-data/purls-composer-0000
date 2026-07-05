@@ -10,3 +10,8 @@
 - pkg:composer/andydefer/php-jsonl@v0.5.4
 - pkg:composer/andydefer/php-jsonl@v0.5.5
 - pkg:composer/andydefer/php-jsonl@v0.5.6
+- pkg:composer/andydefer/php-jsonl@v0.6.0
+- pkg:composer/andydefer/php-jsonl@v0.6.1
+- pkg:composer/andydefer/php-jsonl@v0.6.2
+- pkg:composer/andydefer/php-jsonl@v0.7.0
+- pkg:composer/andydefer/php-jsonl@v0.8.0
