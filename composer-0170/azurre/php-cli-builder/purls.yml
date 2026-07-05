@@ -1,2 +1,3 @@
 - pkg:composer/azurre/php-cli-builder@0.1
 - pkg:composer/azurre/php-cli-builder@0.2
+- pkg:composer/azurre/php-cli-builder@0.3
