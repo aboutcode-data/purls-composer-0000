@@ -32,6 +32,7 @@
 - pkg:composer/bitexpert/phpstan-magento@v0.40.0
 - pkg:composer/bitexpert/phpstan-magento@v0.41.0
 - pkg:composer/bitexpert/phpstan-magento@v0.42.0
+- pkg:composer/bitexpert/phpstan-magento@v0.43.0
 - pkg:composer/bitexpert/phpstan-magento@v0.5.0
 - pkg:composer/bitexpert/phpstan-magento@v0.6.0
 - pkg:composer/bitexpert/phpstan-magento@v0.7.0
