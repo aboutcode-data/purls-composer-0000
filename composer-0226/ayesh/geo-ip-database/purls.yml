@@ -369,3 +369,5 @@
 - pkg:composer/ayesh/geo-ip-database@v1.1.20260608
 - pkg:composer/ayesh/geo-ip-database@v1.1.20260615
 - pkg:composer/ayesh/geo-ip-database@v1.1.20260622
+- pkg:composer/ayesh/geo-ip-database@v1.1.20260629
+- pkg:composer/ayesh/geo-ip-database@v1.1.20260701
