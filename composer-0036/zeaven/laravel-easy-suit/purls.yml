@@ -31,3 +31,5 @@
 - pkg:composer/zeaven/laravel-easy-suit@v2.0.4
 - pkg:composer/zeaven/laravel-easy-suit@v3.0.0
 - pkg:composer/zeaven/laravel-easy-suit@v3.0.1
+- pkg:composer/zeaven/laravel-easy-suit@v3.0.2
+- pkg:composer/zeaven/laravel-easy-suit@v3.0.3
