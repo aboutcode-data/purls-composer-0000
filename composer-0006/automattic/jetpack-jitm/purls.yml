@@ -249,6 +249,7 @@
 - pkg:composer/automattic/jetpack-jitm@v4.3.41
 - pkg:composer/automattic/jetpack-jitm@v4.3.42
 - pkg:composer/automattic/jetpack-jitm@v4.3.43
+- pkg:composer/automattic/jetpack-jitm@v4.3.44
 - pkg:composer/automattic/jetpack-jitm@v4.3.5
 - pkg:composer/automattic/jetpack-jitm@v4.3.6
 - pkg:composer/automattic/jetpack-jitm@v4.3.7
