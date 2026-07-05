@@ -15,3 +15,4 @@
 - pkg:composer/antonythorpe/silverstripe-knockout-forms@3.0.0
 - pkg:composer/antonythorpe/silverstripe-knockout-forms@3.0.1
 - pkg:composer/antonythorpe/silverstripe-knockout-forms@4.0.0
+- pkg:composer/antonythorpe/silverstripe-knockout-forms@5.0.0
