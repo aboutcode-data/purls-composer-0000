@@ -20,3 +20,5 @@
 - pkg:composer/anakadote/statamic-recaptcha@2.0
 - pkg:composer/anakadote/statamic-recaptcha@3.0
 - pkg:composer/anakadote/statamic-recaptcha@3.1
+- pkg:composer/anakadote/statamic-recaptcha@3.2
+- pkg:composer/anakadote/statamic-recaptcha@3.2.1
