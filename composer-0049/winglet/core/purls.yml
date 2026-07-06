@@ -6,6 +6,7 @@
 - pkg:composer/winglet/core@v0.1.5
 - pkg:composer/winglet/core@v0.10
 - pkg:composer/winglet/core@v0.10.1
+- pkg:composer/winglet/core@v0.10.2
 - pkg:composer/winglet/core@v0.2
 - pkg:composer/winglet/core@v0.2.1
 - pkg:composer/winglet/core@v0.2.2
