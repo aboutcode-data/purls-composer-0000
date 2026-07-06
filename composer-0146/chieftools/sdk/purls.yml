@@ -35,6 +35,7 @@
 - pkg:composer/chieftools/sdk@v0.110.0
 - pkg:composer/chieftools/sdk@v0.111.0
 - pkg:composer/chieftools/sdk@v0.111.1
+- pkg:composer/chieftools/sdk@v0.112.0
 - pkg:composer/chieftools/sdk@v0.12.0
 - pkg:composer/chieftools/sdk@v0.12.1
 - pkg:composer/chieftools/sdk@v0.12.2
