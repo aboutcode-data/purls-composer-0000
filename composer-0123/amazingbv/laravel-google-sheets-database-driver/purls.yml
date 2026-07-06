@@ -1,1 +1,2 @@
 - pkg:composer/amazingbv/laravel-google-sheets-database-driver@1.0.0
+- pkg:composer/amazingbv/laravel-google-sheets-database-driver@v1.1.0
