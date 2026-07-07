@@ -3,3 +3,5 @@
 - pkg:composer/considbrs-webdev/typesense-search@1.1.1
 - pkg:composer/considbrs-webdev/typesense-search@1.2.0
 - pkg:composer/considbrs-webdev/typesense-search@1.3.0
+- pkg:composer/considbrs-webdev/typesense-search@1.4.0
+- pkg:composer/considbrs-webdev/typesense-search@1.4.1
