@@ -1,4 +1,5 @@
 - pkg:composer/craftcms/yii2-adapter@6.0.0-alpha.1
+- pkg:composer/craftcms/yii2-adapter@6.0.0-alpha.10
 - pkg:composer/craftcms/yii2-adapter@6.0.0-alpha.2
 - pkg:composer/craftcms/yii2-adapter@6.0.0-alpha.3
 - pkg:composer/craftcms/yii2-adapter@6.0.0-alpha.4
