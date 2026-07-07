@@ -68,5 +68,6 @@
 - pkg:composer/cybersource/rest-client-php@0.0.71
 - pkg:composer/cybersource/rest-client-php@0.0.72
 - pkg:composer/cybersource/rest-client-php@0.0.73
+- pkg:composer/cybersource/rest-client-php@0.0.74
 - pkg:composer/cybersource/rest-client-php@0.0.8
 - pkg:composer/cybersource/rest-client-php@0.0.9
