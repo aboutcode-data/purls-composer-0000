@@ -40,3 +40,5 @@
 - pkg:composer/drago-ex/project-auth@v2.0.7
 - pkg:composer/drago-ex/project-auth@v2.0.8
 - pkg:composer/drago-ex/project-auth@v2.1.0
+- pkg:composer/drago-ex/project-auth@v2.1.1
+- pkg:composer/drago-ex/project-auth@v2.1.2
