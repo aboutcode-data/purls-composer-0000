@@ -32,3 +32,4 @@
 - pkg:composer/fawno/fpdf@1.86.7
 - pkg:composer/fawno/fpdf@1.86.8
 - pkg:composer/fawno/fpdf@1.86.9
+- pkg:composer/fawno/fpdf@1.90.0
