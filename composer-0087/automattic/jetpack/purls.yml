@@ -493,6 +493,7 @@
 - pkg:composer/automattic/jetpack@15.9-a.7
 - pkg:composer/automattic/jetpack@15.9-beta
 - pkg:composer/automattic/jetpack@15.9.1
+- pkg:composer/automattic/jetpack@16.0
 - pkg:composer/automattic/jetpack@16.0-a.1
 - pkg:composer/automattic/jetpack@16.0-a.3
 - pkg:composer/automattic/jetpack@16.0-a.5
