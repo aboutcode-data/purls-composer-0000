@@ -6,3 +6,6 @@
 - pkg:composer/dot-env-it/laravel-calendar@v1.0.5
 - pkg:composer/dot-env-it/laravel-calendar@v1.0.6
 - pkg:composer/dot-env-it/laravel-calendar@v1.0.7
+- pkg:composer/dot-env-it/laravel-calendar@v1.0.8
+- pkg:composer/dot-env-it/laravel-calendar@v1.1.0
+- pkg:composer/dot-env-it/laravel-calendar@v1.1.1
