@@ -21,3 +21,7 @@
 - pkg:composer/drupal/wisski_default_data_model@1.7.1
 - pkg:composer/drupal/wisski_default_data_model@1.8.0
 - pkg:composer/drupal/wisski_default_data_model@1.8.1
+- pkg:composer/drupal/wisski_default_data_model@1.8.2
+- pkg:composer/drupal/wisski_default_data_model@1.8.3
+- pkg:composer/drupal/wisski_default_data_model@1.9.0
+- pkg:composer/drupal/wisski_default_data_model@1.9.1
