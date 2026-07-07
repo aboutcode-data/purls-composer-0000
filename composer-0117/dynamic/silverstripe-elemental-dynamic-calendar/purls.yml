@@ -5,3 +5,4 @@
 - pkg:composer/dynamic/silverstripe-elemental-dynamic-calendar@3.2.0
 - pkg:composer/dynamic/silverstripe-elemental-dynamic-calendar@4.0.0
 - pkg:composer/dynamic/silverstripe-elemental-dynamic-calendar@4.0.1
+- pkg:composer/dynamic/silverstripe-elemental-dynamic-calendar@5.0.0
