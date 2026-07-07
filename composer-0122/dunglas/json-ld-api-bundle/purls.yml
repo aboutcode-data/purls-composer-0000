@@ -166,7 +166,6 @@
 - pkg:composer/dunglas/json-ld-api-bundle@v3.1.23
 - pkg:composer/dunglas/json-ld-api-bundle@v3.1.24
 - pkg:composer/dunglas/json-ld-api-bundle@v3.1.25
-- pkg:composer/dunglas/json-ld-api-bundle@v3.1.26
 - pkg:composer/dunglas/json-ld-api-bundle@v3.1.27
 - pkg:composer/dunglas/json-ld-api-bundle@v3.1.28
 - pkg:composer/dunglas/json-ld-api-bundle@v3.1.29
@@ -360,6 +359,7 @@
 - pkg:composer/dunglas/json-ld-api-bundle@v4.3.13
 - pkg:composer/dunglas/json-ld-api-bundle@v4.3.14
 - pkg:composer/dunglas/json-ld-api-bundle@v4.3.15
+- pkg:composer/dunglas/json-ld-api-bundle@v4.3.16
 - pkg:composer/dunglas/json-ld-api-bundle@v4.3.2
 - pkg:composer/dunglas/json-ld-api-bundle@v4.3.3
 - pkg:composer/dunglas/json-ld-api-bundle@v4.3.4
@@ -370,3 +370,4 @@
 - pkg:composer/dunglas/json-ld-api-bundle@v4.3.9
 - pkg:composer/dunglas/json-ld-api-bundle@v4.4.0-alpha.1
 - pkg:composer/dunglas/json-ld-api-bundle@v4.4.0-alpha.2
+- pkg:composer/dunglas/json-ld-api-bundle@v5.0.0-alpha.1
