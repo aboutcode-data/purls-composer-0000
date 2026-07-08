@@ -99,9 +99,11 @@
 - pkg:composer/flarum-lang/turkish@1.45.6
 - pkg:composer/flarum-lang/turkish@1.45.7
 - pkg:composer/flarum-lang/turkish@1.45.8
+- pkg:composer/flarum-lang/turkish@1.45.9
 - pkg:composer/flarum-lang/turkish@1.5.0
 - pkg:composer/flarum-lang/turkish@1.6.0
 - pkg:composer/flarum-lang/turkish@1.7.0
 - pkg:composer/flarum-lang/turkish@1.8.0
 - pkg:composer/flarum-lang/turkish@1.9.0
 - pkg:composer/flarum-lang/turkish@2.0.0
+- pkg:composer/flarum-lang/turkish@2.0.1
