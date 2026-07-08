@@ -16,3 +16,4 @@
 - pkg:composer/flobbos/laravel-translatable-db@1.4.5
 - pkg:composer/flobbos/laravel-translatable-db@1.4.6
 - pkg:composer/flobbos/laravel-translatable-db@1.4.7
+- pkg:composer/flobbos/laravel-translatable-db@2.0.0
