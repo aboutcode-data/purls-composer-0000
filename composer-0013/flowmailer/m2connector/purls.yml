@@ -11,3 +11,5 @@
 - pkg:composer/flowmailer/m2connector@1.0.8
 - pkg:composer/flowmailer/m2connector@2.0.0
 - pkg:composer/flowmailer/m2connector@2.1.0
+- pkg:composer/flowmailer/m2connector@2.1.1
+- pkg:composer/flowmailer/m2connector@2.2.0
