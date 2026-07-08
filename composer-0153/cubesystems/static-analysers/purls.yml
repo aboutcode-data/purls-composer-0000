@@ -12,3 +12,4 @@
 - pkg:composer/cubesystems/static-analysers@3.1.0
 - pkg:composer/cubesystems/static-analysers@4.0.0
 - pkg:composer/cubesystems/static-analysers@5.0.0
+- pkg:composer/cubesystems/static-analysers@6.0.0
