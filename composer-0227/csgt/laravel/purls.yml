@@ -9,6 +9,7 @@
 - pkg:composer/csgt/laravel@v11.1000.4
 - pkg:composer/csgt/laravel@v11.1000.5
 - pkg:composer/csgt/laravel@v12.1000.0
+- pkg:composer/csgt/laravel@v13.1000.10
 - pkg:composer/csgt/laravel@v13.1000.9
 - pkg:composer/csgt/laravel@v4.0.0
 - pkg:composer/csgt/laravel@v4.0.0-BETA3
