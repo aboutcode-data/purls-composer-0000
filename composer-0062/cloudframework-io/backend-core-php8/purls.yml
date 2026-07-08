@@ -129,6 +129,7 @@
 - pkg:composer/cloudframework-io/backend-core-php8@8.4.48
 - pkg:composer/cloudframework-io/backend-core-php8@8.4.49
 - pkg:composer/cloudframework-io/backend-core-php8@8.4.5
+- pkg:composer/cloudframework-io/backend-core-php8@8.4.50
 - pkg:composer/cloudframework-io/backend-core-php8@8.4.6
 - pkg:composer/cloudframework-io/backend-core-php8@8.4.7
 - pkg:composer/cloudframework-io/backend-core-php8@8.4.8
