@@ -111,6 +111,8 @@
 - pkg:composer/getpop/api-endpoints@17.1.2
 - pkg:composer/getpop/api-endpoints@18.0.0
 - pkg:composer/getpop/api-endpoints@18.0.1
+- pkg:composer/getpop/api-endpoints@19.0.0
+- pkg:composer/getpop/api-endpoints@19.0.1
 - pkg:composer/getpop/api-endpoints@2.0.0
 - pkg:composer/getpop/api-endpoints@2.0.1
 - pkg:composer/getpop/api-endpoints@2.1.0
