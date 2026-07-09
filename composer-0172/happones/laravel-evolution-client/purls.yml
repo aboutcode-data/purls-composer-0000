@@ -2,3 +2,6 @@
 - pkg:composer/happones/laravel-evolution-client@v1.12.1
 - pkg:composer/happones/laravel-evolution-client@v1.12.2
 - pkg:composer/happones/laravel-evolution-client@v2.0.0
+- pkg:composer/happones/laravel-evolution-client@v3.0.0
+- pkg:composer/happones/laravel-evolution-client@v3.0.1
+- pkg:composer/happones/laravel-evolution-client@v3.0.2
