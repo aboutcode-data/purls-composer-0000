@@ -4,3 +4,4 @@
 - pkg:composer/horde/javascriptminify_jsmin@v2.0.0
 - pkg:composer/horde/javascriptminify_jsmin@v2.0.0alpha3
 - pkg:composer/horde/javascriptminify_jsmin@v2.0.0alpha4
+- pkg:composer/horde/javascriptminify_jsmin@v2.0.1

@@ -1,5 +1,7 @@
 - pkg:composer/horde/components@1.0.0alpha1
 - pkg:composer/horde/components@v1.0.0RC1
+- pkg:composer/horde/components@v1.0.0RC10
+- pkg:composer/horde/components@v1.0.0RC11
 - pkg:composer/horde/components@v1.0.0RC2
 - pkg:composer/horde/components@v1.0.0RC3
 - pkg:composer/horde/components@v1.0.0RC4
