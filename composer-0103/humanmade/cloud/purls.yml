@@ -298,7 +298,11 @@
 - pkg:composer/humanmade/cloud@24.0.24
 - pkg:composer/humanmade/cloud@24.0.25
 - pkg:composer/humanmade/cloud@24.0.26
+- pkg:composer/humanmade/cloud@24.0.27
+- pkg:composer/humanmade/cloud@24.0.28
+- pkg:composer/humanmade/cloud@24.0.29
 - pkg:composer/humanmade/cloud@24.0.3
+- pkg:composer/humanmade/cloud@24.0.30
 - pkg:composer/humanmade/cloud@24.0.4
 - pkg:composer/humanmade/cloud@24.0.5
 - pkg:composer/humanmade/cloud@24.0.6
@@ -319,6 +323,10 @@
 - pkg:composer/humanmade/cloud@25.0.18
 - pkg:composer/humanmade/cloud@25.0.19
 - pkg:composer/humanmade/cloud@25.0.2
+- pkg:composer/humanmade/cloud@25.0.20
+- pkg:composer/humanmade/cloud@25.0.21
+- pkg:composer/humanmade/cloud@25.0.22
+- pkg:composer/humanmade/cloud@25.0.23
 - pkg:composer/humanmade/cloud@25.0.3
 - pkg:composer/humanmade/cloud@25.0.4
 - pkg:composer/humanmade/cloud@25.0.5
@@ -330,6 +338,9 @@
 - pkg:composer/humanmade/cloud@26.0.0-beta.1
 - pkg:composer/humanmade/cloud@26.0.0-beta.2
 - pkg:composer/humanmade/cloud@26.0.1
+- pkg:composer/humanmade/cloud@26.0.10
+- pkg:composer/humanmade/cloud@26.0.11
+- pkg:composer/humanmade/cloud@26.0.12
 - pkg:composer/humanmade/cloud@26.0.2
 - pkg:composer/humanmade/cloud@26.0.3
 - pkg:composer/humanmade/cloud@26.0.4
@@ -341,6 +352,9 @@
 - pkg:composer/humanmade/cloud@27.0.0
 - pkg:composer/humanmade/cloud@27.0.0-beta.1
 - pkg:composer/humanmade/cloud@27.0.1
+- pkg:composer/humanmade/cloud@27.0.2
+- pkg:composer/humanmade/cloud@27.0.3
+- pkg:composer/humanmade/cloud@27.0.4
 - pkg:composer/humanmade/cloud@3.0.0
 - pkg:composer/humanmade/cloud@3.0.0-beta1
 - pkg:composer/humanmade/cloud@3.0.0-beta2
