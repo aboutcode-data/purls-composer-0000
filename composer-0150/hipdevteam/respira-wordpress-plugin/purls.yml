@@ -1,3 +1,7 @@
+- pkg:composer/hipdevteam/respira-wordpress-plugin@7.5.22
+- pkg:composer/hipdevteam/respira-wordpress-plugin@7.5.26
+- pkg:composer/hipdevteam/respira-wordpress-plugin@7.5.6
+- pkg:composer/hipdevteam/respira-wordpress-plugin@7.5.9
 - pkg:composer/hipdevteam/respira-wordpress-plugin@v7.1.4
 - pkg:composer/hipdevteam/respira-wordpress-plugin@v7.4.13
 - pkg:composer/hipdevteam/respira-wordpress-plugin@v7.4.20
