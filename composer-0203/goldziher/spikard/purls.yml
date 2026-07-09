@@ -61,7 +61,9 @@
 - pkg:composer/goldziher/spikard@v0.15.6-rc.7
 - pkg:composer/goldziher/spikard@v0.15.6-rc.8
 - pkg:composer/goldziher/spikard@v0.15.6-rc.9
+- pkg:composer/goldziher/spikard@v0.16.0
 - pkg:composer/goldziher/spikard@v0.16.0-rc.1
 - pkg:composer/goldziher/spikard@v0.16.0-rc.2
 - pkg:composer/goldziher/spikard@v0.16.0-rc.3
 - pkg:composer/goldziher/spikard@v0.16.0-rc.4
+- pkg:composer/goldziher/spikard@v0.16.1
