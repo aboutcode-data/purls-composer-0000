@@ -70,3 +70,4 @@
 - pkg:composer/keepsuit/laravel-opentelemetry@2.2.1
 - pkg:composer/keepsuit/laravel-opentelemetry@2.2.2
 - pkg:composer/keepsuit/laravel-opentelemetry@2.2.3
+- pkg:composer/keepsuit/laravel-opentelemetry@2.2.4
