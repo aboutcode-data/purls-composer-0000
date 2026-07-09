@@ -7,6 +7,7 @@
 - pkg:composer/horde/sessionhandler@2.3.0
 - pkg:composer/horde/sessionhandler@3.0.0alpha1
 - pkg:composer/horde/sessionhandler@3.0.0alpha2
+- pkg:composer/horde/sessionhandler@v3.0.0
 - pkg:composer/horde/sessionhandler@v3.0.0RC1
 - pkg:composer/horde/sessionhandler@v3.0.0RC2
 - pkg:composer/horde/sessionhandler@v3.0.0alpha3
