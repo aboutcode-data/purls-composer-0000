@@ -163,6 +163,7 @@
 - pkg:composer/embed/embed@v4.4.16
 - pkg:composer/embed/embed@v4.4.17
 - pkg:composer/embed/embed@v4.4.18
+- pkg:composer/embed/embed@v4.4.19
 - pkg:composer/embed/embed@v4.4.2
 - pkg:composer/embed/embed@v4.4.3
 - pkg:composer/embed/embed@v4.4.4
