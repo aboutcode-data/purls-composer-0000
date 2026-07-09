@@ -111,6 +111,8 @@
 - pkg:composer/getpop/users@17.1.2
 - pkg:composer/getpop/users@18.0.0
 - pkg:composer/getpop/users@18.0.1
+- pkg:composer/getpop/users@19.0.0
+- pkg:composer/getpop/users@19.0.1
 - pkg:composer/getpop/users@2.0.1
 - pkg:composer/getpop/users@2.1.0
 - pkg:composer/getpop/users@2.1.1

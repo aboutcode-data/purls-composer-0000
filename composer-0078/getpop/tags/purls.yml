@@ -111,6 +111,8 @@
 - pkg:composer/getpop/tags@17.1.2
 - pkg:composer/getpop/tags@18.0.0
 - pkg:composer/getpop/tags@18.0.1
+- pkg:composer/getpop/tags@19.0.0
+- pkg:composer/getpop/tags@19.0.1
 - pkg:composer/getpop/tags@2.0.1
 - pkg:composer/getpop/tags@2.1.0
 - pkg:composer/getpop/tags@2.1.1
