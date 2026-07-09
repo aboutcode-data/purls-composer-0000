@@ -2,6 +2,8 @@
 - pkg:composer/huseyinfiliz/notificationhub@1.1
 - pkg:composer/huseyinfiliz/notificationhub@1.1.1
 - pkg:composer/huseyinfiliz/notificationhub@1.5
+- pkg:composer/huseyinfiliz/notificationhub@1.6
+- pkg:composer/huseyinfiliz/notificationhub@2.0.0-beta.1
 - pkg:composer/huseyinfiliz/notificationhub@v0.1
 - pkg:composer/huseyinfiliz/notificationhub@v0.2
 - pkg:composer/huseyinfiliz/notificationhub@v0.3
