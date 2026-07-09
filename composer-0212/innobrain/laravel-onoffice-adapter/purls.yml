@@ -65,6 +65,8 @@
 - pkg:composer/innobrain/laravel-onoffice-adapter@v1.16.1
 - pkg:composer/innobrain/laravel-onoffice-adapter@v1.17.0
 - pkg:composer/innobrain/laravel-onoffice-adapter@v1.17.1
+- pkg:composer/innobrain/laravel-onoffice-adapter@v1.18.0
+- pkg:composer/innobrain/laravel-onoffice-adapter@v1.19.0
 - pkg:composer/innobrain/laravel-onoffice-adapter@v1.2.0
 - pkg:composer/innobrain/laravel-onoffice-adapter@v1.2.1
 - pkg:composer/innobrain/laravel-onoffice-adapter@v1.2.2
@@ -73,6 +75,12 @@
 - pkg:composer/innobrain/laravel-onoffice-adapter@v1.2.5
 - pkg:composer/innobrain/laravel-onoffice-adapter@v1.2.6
 - pkg:composer/innobrain/laravel-onoffice-adapter@v1.2.7
+- pkg:composer/innobrain/laravel-onoffice-adapter@v1.20.0
+- pkg:composer/innobrain/laravel-onoffice-adapter@v1.20.1
+- pkg:composer/innobrain/laravel-onoffice-adapter@v1.21.0
+- pkg:composer/innobrain/laravel-onoffice-adapter@v1.22.0
+- pkg:composer/innobrain/laravel-onoffice-adapter@v1.23.0
+- pkg:composer/innobrain/laravel-onoffice-adapter@v1.24.0
 - pkg:composer/innobrain/laravel-onoffice-adapter@v1.3.0
 - pkg:composer/innobrain/laravel-onoffice-adapter@v1.4.0
 - pkg:composer/innobrain/laravel-onoffice-adapter@v1.4.1
