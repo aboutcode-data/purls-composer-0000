@@ -2,3 +2,4 @@
 - pkg:composer/kartinov/gdpr-toolkit@v0.1.2
 - pkg:composer/kartinov/gdpr-toolkit@v1.0.0
 - pkg:composer/kartinov/gdpr-toolkit@v1.0.1
+- pkg:composer/kartinov/gdpr-toolkit@v1.0.3
