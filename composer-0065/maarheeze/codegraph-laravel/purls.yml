@@ -8,3 +8,5 @@
 - pkg:composer/maarheeze/codegraph-laravel@1.5.1
 - pkg:composer/maarheeze/codegraph-laravel@1.5.2
 - pkg:composer/maarheeze/codegraph-laravel@1.5.3
+- pkg:composer/maarheeze/codegraph-laravel@1.5.4
+- pkg:composer/maarheeze/codegraph-laravel@2.0.0
