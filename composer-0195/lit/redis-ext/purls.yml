@@ -11,4 +11,5 @@
 - pkg:composer/lit/redis-ext@0.0.8
 - pkg:composer/lit/redis-ext@0.1.0
 - pkg:composer/lit/redis-ext@0.1.1
+- pkg:composer/lit/redis-ext@0.1.2
 - pkg:composer/lit/redis-ext@v0.0.9
