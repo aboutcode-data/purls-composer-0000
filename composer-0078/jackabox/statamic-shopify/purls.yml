@@ -102,3 +102,4 @@
 - pkg:composer/jackabox/statamic-shopify@v7.5.0
 - pkg:composer/jackabox/statamic-shopify@v7.6.0
 - pkg:composer/jackabox/statamic-shopify@v7.6.1
+- pkg:composer/jackabox/statamic-shopify@v7.7.0
