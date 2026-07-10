@@ -142,7 +142,6 @@
 - pkg:composer/mailoptin/advanceanalytics@0.2.1646255646
 - pkg:composer/mailoptin/advanceanalytics@0.2.1646370710
 - pkg:composer/mailoptin/advanceanalytics@0.2.1646901627
-- pkg:composer/mailoptin/advanceanalytics@0.2.1646907133
 - pkg:composer/mailoptin/advanceanalytics@0.2.1647346579
 - pkg:composer/mailoptin/advanceanalytics@0.2.1648034678
 - pkg:composer/mailoptin/advanceanalytics@0.2.1649938925
@@ -240,3 +239,6 @@
 - pkg:composer/mailoptin/advanceanalytics@0.2.1779207640
 - pkg:composer/mailoptin/advanceanalytics@0.2.1779389544
 - pkg:composer/mailoptin/advanceanalytics@0.2.1781873379
+- pkg:composer/mailoptin/advanceanalytics@0.2.1782901120
+- pkg:composer/mailoptin/advanceanalytics@0.2.1782902590
+- pkg:composer/mailoptin/advanceanalytics@0.2.1782903824
