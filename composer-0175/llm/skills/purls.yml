@@ -13,3 +13,5 @@
 - pkg:composer/llm/skills@1.7.0
 - pkg:composer/llm/skills@1.7.1
 - pkg:composer/llm/skills@1.8.0
+- pkg:composer/llm/skills@1.8.1
+- pkg:composer/llm/skills@1.9.0
