@@ -15,3 +15,5 @@
 - pkg:composer/locastic/api-platform-translation-bundle@v1.3.7
 - pkg:composer/locastic/api-platform-translation-bundle@v1.4
 - pkg:composer/locastic/api-platform-translation-bundle@v1.4.1
+- pkg:composer/locastic/api-platform-translation-bundle@v2.0.0
+- pkg:composer/locastic/api-platform-translation-bundle@v2.0.1
