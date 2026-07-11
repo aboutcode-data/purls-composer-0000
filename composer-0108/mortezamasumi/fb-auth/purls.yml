@@ -34,3 +34,5 @@
 - pkg:composer/mortezamasumi/fb-auth@v4.4.1
 - pkg:composer/mortezamasumi/fb-auth@v4.4.2
 - pkg:composer/mortezamasumi/fb-auth@v4.4.3
+- pkg:composer/mortezamasumi/fb-auth@v5.0.0
+- pkg:composer/mortezamasumi/fb-auth@v5.0.1
