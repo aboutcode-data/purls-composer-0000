@@ -8,3 +8,7 @@
 - pkg:composer/miladtech/laravel-subscriptions@v6.0.8
 - pkg:composer/miladtech/laravel-subscriptions@v7.0.0
 - pkg:composer/miladtech/laravel-subscriptions@v8.0.0
+- pkg:composer/miladtech/laravel-subscriptions@v9.0.0
+- pkg:composer/miladtech/laravel-subscriptions@v9.0.1
+- pkg:composer/miladtech/laravel-subscriptions@v9.0.2
+- pkg:composer/miladtech/laravel-subscriptions@v9.0.3
