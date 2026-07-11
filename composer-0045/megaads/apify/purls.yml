@@ -55,6 +55,7 @@
 - pkg:composer/megaads/apify@1.5.0
 - pkg:composer/megaads/apify@1.5.1
 - pkg:composer/megaads/apify@1.5.10
+- pkg:composer/megaads/apify@1.5.11
 - pkg:composer/megaads/apify@1.5.2
 - pkg:composer/megaads/apify@1.5.3
 - pkg:composer/megaads/apify@1.5.4
