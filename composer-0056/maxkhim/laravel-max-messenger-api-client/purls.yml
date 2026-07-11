@@ -1,2 +1,4 @@
 - pkg:composer/maxkhim/laravel-max-messenger-api-client@0.1
 - pkg:composer/maxkhim/laravel-max-messenger-api-client@0.1.1
+- pkg:composer/maxkhim/laravel-max-messenger-api-client@0.1.2
+- pkg:composer/maxkhim/laravel-max-messenger-api-client@0.1.3
