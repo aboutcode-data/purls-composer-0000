@@ -8,3 +8,4 @@
 - pkg:composer/kirschbaum-development/nova-inline-select@1.0.7
 - pkg:composer/kirschbaum-development/nova-inline-select@2.0.0
 - pkg:composer/kirschbaum-development/nova-inline-select@2.0.1
+- pkg:composer/kirschbaum-development/nova-inline-select@3.0.0
