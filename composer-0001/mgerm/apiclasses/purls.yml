@@ -10,6 +10,9 @@
 - pkg:composer/mgerm/apiclasses@v1.3.0
 - pkg:composer/mgerm/apiclasses@v1.3.1
 - pkg:composer/mgerm/apiclasses@v1.3.2
+- pkg:composer/mgerm/apiclasses@v1.3.3
+- pkg:composer/mgerm/apiclasses@v1.3.4
+- pkg:composer/mgerm/apiclasses@v1.3.5
 - pkg:composer/mgerm/apiclasses@v2.1.1
 - pkg:composer/mgerm/apiclasses@v2.1.7
 - pkg:composer/mgerm/apiclasses@v2.2.2
@@ -22,6 +25,9 @@
 - pkg:composer/mgerm/apiclasses@v2.3.0
 - pkg:composer/mgerm/apiclasses@v2.3.1
 - pkg:composer/mgerm/apiclasses@v2.3.2
+- pkg:composer/mgerm/apiclasses@v2.3.3
+- pkg:composer/mgerm/apiclasses@v2.3.4
+- pkg:composer/mgerm/apiclasses@v2.3.5
 - pkg:composer/mgerm/apiclasses@v3.1.6
 - pkg:composer/mgerm/apiclasses@v3.1.7
 - pkg:composer/mgerm/apiclasses@v3.1.8
@@ -37,3 +43,6 @@
 - pkg:composer/mgerm/apiclasses@v3.2.8
 - pkg:composer/mgerm/apiclasses@v3.3.0
 - pkg:composer/mgerm/apiclasses@v3.3.1
+- pkg:composer/mgerm/apiclasses@v3.3.2
+- pkg:composer/mgerm/apiclasses@v3.3.3
+- pkg:composer/mgerm/apiclasses@v3.3.4
