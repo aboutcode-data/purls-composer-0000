@@ -14,3 +14,4 @@
 - pkg:composer/mollie/mollie-oxid7@1.2.5
 - pkg:composer/mollie/mollie-oxid7@1.2.6
 - pkg:composer/mollie/mollie-oxid7@1.2.7
+- pkg:composer/mollie/mollie-oxid7@2.0.0
