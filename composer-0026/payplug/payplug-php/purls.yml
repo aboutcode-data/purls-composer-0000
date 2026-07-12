@@ -30,5 +30,6 @@
 - pkg:composer/payplug/payplug-php@3.8.0-RC5
 - pkg:composer/payplug/payplug-php@4.0.0
 - pkg:composer/payplug/payplug-php@4.1.0
+- pkg:composer/payplug/payplug-php@4.2.0
 - pkg:composer/payplug/payplug-php@v3.5.7
 - pkg:composer/payplug/payplug-php@v3.7.0
