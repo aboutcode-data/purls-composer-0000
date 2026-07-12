@@ -1,4 +1,11 @@
+- pkg:composer/nyoncode/wire-boost@1.10.0
+- pkg:composer/nyoncode/wire-boost@1.10.1
+- pkg:composer/nyoncode/wire-boost@1.10.2
 - pkg:composer/nyoncode/wire-boost@1.6.0
 - pkg:composer/nyoncode/wire-boost@1.6.1
 - pkg:composer/nyoncode/wire-boost@1.7.0
 - pkg:composer/nyoncode/wire-boost@1.7.1
+- pkg:composer/nyoncode/wire-boost@1.7.2
+- pkg:composer/nyoncode/wire-boost@1.8.0
+- pkg:composer/nyoncode/wire-boost@1.9.0
+- pkg:composer/nyoncode/wire-boost@1.9.1
