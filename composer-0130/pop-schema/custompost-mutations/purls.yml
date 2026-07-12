@@ -112,6 +112,7 @@
 - pkg:composer/pop-schema/custompost-mutations@18.0.0
 - pkg:composer/pop-schema/custompost-mutations@18.0.1
 - pkg:composer/pop-schema/custompost-mutations@19.0.0
+- pkg:composer/pop-schema/custompost-mutations@19.0.1
 - pkg:composer/pop-schema/custompost-mutations@2.0.1
 - pkg:composer/pop-schema/custompost-mutations@2.1.0
 - pkg:composer/pop-schema/custompost-mutations@2.1.1

@@ -113,6 +113,7 @@
 - pkg:composer/pop-schema/directive-commons@18.0.0
 - pkg:composer/pop-schema/directive-commons@18.0.1
 - pkg:composer/pop-schema/directive-commons@19.0.0
+- pkg:composer/pop-schema/directive-commons@19.0.1
 - pkg:composer/pop-schema/directive-commons@2.0.1
 - pkg:composer/pop-schema/directive-commons@2.1.0
 - pkg:composer/pop-schema/directive-commons@2.1.1
