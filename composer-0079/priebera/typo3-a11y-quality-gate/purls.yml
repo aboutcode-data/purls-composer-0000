@@ -7,3 +7,6 @@
 - pkg:composer/priebera/typo3-a11y-quality-gate@1.5.0
 - pkg:composer/priebera/typo3-a11y-quality-gate@v1.0.0
 - pkg:composer/priebera/typo3-a11y-quality-gate@v1.6.0
+- pkg:composer/priebera/typo3-a11y-quality-gate@v1.7.0
+- pkg:composer/priebera/typo3-a11y-quality-gate@v1.7.1
+- pkg:composer/priebera/typo3-a11y-quality-gate@v1.8.0
