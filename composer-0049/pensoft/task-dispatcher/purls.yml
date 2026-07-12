@@ -3,3 +3,5 @@
 - pkg:composer/pensoft/task-dispatcher@v14.0.0
 - pkg:composer/pensoft/task-dispatcher@v15.0.0
 - pkg:composer/pensoft/task-dispatcher@v16.0.0
+- pkg:composer/pensoft/task-dispatcher@v16.0.1
+- pkg:composer/pensoft/task-dispatcher@v16.0.2
