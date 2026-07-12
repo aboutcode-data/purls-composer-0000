@@ -13,3 +13,5 @@
 - pkg:composer/luilliarcec/laravel-username-generator@3.0.0
 - pkg:composer/luilliarcec/laravel-username-generator@4.0.0
 - pkg:composer/luilliarcec/laravel-username-generator@5.0.0
+- pkg:composer/luilliarcec/laravel-username-generator@6.0.0
+- pkg:composer/luilliarcec/laravel-username-generator@6.0.1
