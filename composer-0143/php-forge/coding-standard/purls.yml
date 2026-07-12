@@ -3,3 +3,4 @@
 - pkg:composer/php-forge/coding-standard@0.3.0
 - pkg:composer/php-forge/coding-standard@0.3.1
 - pkg:composer/php-forge/coding-standard@0.3.2
+- pkg:composer/php-forge/coding-standard@0.3.3
