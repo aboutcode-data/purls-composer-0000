@@ -1,3 +1,4 @@
 - pkg:composer/propellocloud/propello-php-sdk@1.0.0
 - pkg:composer/propellocloud/propello-php-sdk@1.0.1
 - pkg:composer/propellocloud/propello-php-sdk@1.1.0
+- pkg:composer/propellocloud/propello-php-sdk@1.1.1
