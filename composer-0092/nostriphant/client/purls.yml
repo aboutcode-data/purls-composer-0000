@@ -10,3 +10,4 @@
 - pkg:composer/nostriphant/client@2.0.1
 - pkg:composer/nostriphant/client@2.0.2
 - pkg:composer/nostriphant/client@2.1.0
+- pkg:composer/nostriphant/client@3.0.0
