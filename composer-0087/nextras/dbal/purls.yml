@@ -44,3 +44,4 @@
 - pkg:composer/nextras/dbal@v5.0.5
 - pkg:composer/nextras/dbal@v5.0.6
 - pkg:composer/nextras/dbal@v5.0.7
+- pkg:composer/nextras/dbal@v6.0.0-alpha1
