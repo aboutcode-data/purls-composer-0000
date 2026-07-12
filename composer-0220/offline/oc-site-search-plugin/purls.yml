@@ -66,6 +66,7 @@
 - pkg:composer/offline/oc-site-search-plugin@v1.7.31
 - pkg:composer/offline/oc-site-search-plugin@v1.7.32
 - pkg:composer/offline/oc-site-search-plugin@v1.7.33
+- pkg:composer/offline/oc-site-search-plugin@v1.7.34
 - pkg:composer/offline/oc-site-search-plugin@v1.7.4
 - pkg:composer/offline/oc-site-search-plugin@v1.7.5
 - pkg:composer/offline/oc-site-search-plugin@v1.7.6

@@ -21,3 +21,4 @@
 - pkg:composer/offline/oc-sentry-plugin@v3.0.3
 - pkg:composer/offline/oc-sentry-plugin@v3.1.0
 - pkg:composer/offline/oc-sentry-plugin@v3.1.1
+- pkg:composer/offline/oc-sentry-plugin@v3.1.2
