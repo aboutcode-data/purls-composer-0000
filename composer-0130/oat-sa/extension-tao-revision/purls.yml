@@ -31,6 +31,7 @@
 - pkg:composer/oat-sa/extension-tao-revision@v11.0.0
 - pkg:composer/oat-sa/extension-tao-revision@v11.0.1
 - pkg:composer/oat-sa/extension-tao-revision@v11.0.2
+- pkg:composer/oat-sa/extension-tao-revision@v11.0.3
 - pkg:composer/oat-sa/extension-tao-revision@v2.0.0
 - pkg:composer/oat-sa/extension-tao-revision@v2.0.1
 - pkg:composer/oat-sa/extension-tao-revision@v2.1.0
