@@ -110,4 +110,9 @@
 - pkg:composer/phpspec/phpspec@8.1.0
 - pkg:composer/phpspec/phpspec@8.2.0
 - pkg:composer/phpspec/phpspec@8.3.0
+- pkg:composer/phpspec/phpspec@8.3.1
 - pkg:composer/phpspec/phpspec@9.0.0-beta
+- pkg:composer/phpspec/phpspec@9.0.0-beta.3
+- pkg:composer/phpspec/phpspec@9.0.0-beta.4
+- pkg:composer/phpspec/phpspec@9.0.0-beta.5
+- pkg:composer/phpspec/phpspec@9.0.0-beta.6
