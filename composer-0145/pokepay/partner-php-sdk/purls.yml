@@ -25,6 +25,7 @@
 - pkg:composer/pokepay/partner-php-sdk@0.4.25
 - pkg:composer/pokepay/partner-php-sdk@0.4.26
 - pkg:composer/pokepay/partner-php-sdk@0.4.27
+- pkg:composer/pokepay/partner-php-sdk@0.4.28
 - pkg:composer/pokepay/partner-php-sdk@0.4.3
 - pkg:composer/pokepay/partner-php-sdk@0.4.4
 - pkg:composer/pokepay/partner-php-sdk@0.4.5
