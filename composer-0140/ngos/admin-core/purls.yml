@@ -418,6 +418,9 @@
 - pkg:composer/ngos/admin-core@v2.84.0
 - pkg:composer/ngos/admin-core@v2.85.0
 - pkg:composer/ngos/admin-core@v2.86.0
+- pkg:composer/ngos/admin-core@v2.86.1
+- pkg:composer/ngos/admin-core@v2.86.2
+- pkg:composer/ngos/admin-core@v2.87.0
 - pkg:composer/ngos/admin-core@v2.9.0
 - pkg:composer/ngos/admin-core@v2.9.1
 - pkg:composer/ngos/admin-core@v2.9.2
@@ -425,3 +428,7 @@
 - pkg:composer/ngos/admin-core@v2.9.4
 - pkg:composer/ngos/admin-core@v2.9.5
 - pkg:composer/ngos/admin-core@v2.9.6
+- pkg:composer/ngos/admin-core@v3.0.0
+- pkg:composer/ngos/admin-core@v3.0.1
+- pkg:composer/ngos/admin-core@v3.0.2
+- pkg:composer/ngos/admin-core@v3.0.3
