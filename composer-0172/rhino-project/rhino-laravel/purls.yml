@@ -6,3 +6,5 @@
 - pkg:composer/rhino-project/rhino-laravel@v4.2.0
 - pkg:composer/rhino-project/rhino-laravel@v4.2.1
 - pkg:composer/rhino-project/rhino-laravel@v4.3.0
+- pkg:composer/rhino-project/rhino-laravel@v4.4.0
+- pkg:composer/rhino-project/rhino-laravel@v4.5.0
