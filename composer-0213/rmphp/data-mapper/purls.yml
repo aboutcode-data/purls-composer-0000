@@ -2,3 +2,4 @@
 - pkg:composer/rmphp/data-mapper@1.1
 - pkg:composer/rmphp/data-mapper@1.2
 - pkg:composer/rmphp/data-mapper@1.2.1
+- pkg:composer/rmphp/data-mapper@1.2.2
