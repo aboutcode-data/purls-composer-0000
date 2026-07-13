@@ -11,3 +11,4 @@
 - pkg:composer/rappasoft/laravel-authentication-log@v6.0.0
 - pkg:composer/rappasoft/laravel-authentication-log@v6.0.1
 - pkg:composer/rappasoft/laravel-authentication-log@v6.1.0
+- pkg:composer/rappasoft/laravel-authentication-log@v6.1.1
