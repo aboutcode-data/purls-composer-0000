@@ -22,4 +22,5 @@
 - pkg:composer/spiral/interceptors@3.16.1
 - pkg:composer/spiral/interceptors@3.16.2
 - pkg:composer/spiral/interceptors@3.17.0
+- pkg:composer/spiral/interceptors@3.17.1
 - pkg:composer/spiral/interceptors@v3.14.0-RC
