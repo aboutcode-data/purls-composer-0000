@@ -26,6 +26,8 @@
 - pkg:composer/survos/data-contracts@2.12.1
 - pkg:composer/survos/data-contracts@2.12.4
 - pkg:composer/survos/data-contracts@2.12.6
+- pkg:composer/survos/data-contracts@2.14.0
+- pkg:composer/survos/data-contracts@2.15.2
 - pkg:composer/survos/data-contracts@2.2.0
 - pkg:composer/survos/data-contracts@2.2.1
 - pkg:composer/survos/data-contracts@2.2.2
