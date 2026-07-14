@@ -1,3 +1,4 @@
 - pkg:composer/spectra-php/laravel-spectra@v1.0.0
 - pkg:composer/spectra-php/laravel-spectra@v1.1.0
 - pkg:composer/spectra-php/laravel-spectra@v1.2.0
+- pkg:composer/spectra-php/laravel-spectra@v1.3.0
