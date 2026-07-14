@@ -28,3 +28,4 @@
 - pkg:composer/simplesamlphp/xml-soap@v2.1.1
 - pkg:composer/simplesamlphp/xml-soap@v2.2.0
 - pkg:composer/simplesamlphp/xml-soap@v2.3.0
+- pkg:composer/simplesamlphp/xml-soap@v3.0.0
