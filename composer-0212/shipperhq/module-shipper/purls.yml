@@ -224,6 +224,7 @@
 - pkg:composer/shipperhq/module-shipper@20.61.4
 - pkg:composer/shipperhq/module-shipper@20.61.5
 - pkg:composer/shipperhq/module-shipper@20.61.6
+- pkg:composer/shipperhq/module-shipper@20.61.7
 - pkg:composer/shipperhq/module-shipper@20.7.0
 - pkg:composer/shipperhq/module-shipper@20.7.1
 - pkg:composer/shipperhq/module-shipper@20.7.2
