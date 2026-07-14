@@ -20,5 +20,9 @@
 - pkg:composer/satag/doctrine-firebird-driver@v3.12.4
 - pkg:composer/satag/doctrine-firebird-driver@v3.12.5
 - pkg:composer/satag/doctrine-firebird-driver@v3.13.0
+- pkg:composer/satag/doctrine-firebird-driver@v3.14.0
+- pkg:composer/satag/doctrine-firebird-driver@v3.15.0
+- pkg:composer/satag/doctrine-firebird-driver@v3.16.0
+- pkg:composer/satag/doctrine-firebird-driver@v3.16.1
 - pkg:composer/satag/doctrine-firebird-driver@v4.4.0
 - pkg:composer/satag/doctrine-firebird-driver@v4.4.1
