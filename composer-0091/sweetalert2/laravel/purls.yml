@@ -27,3 +27,4 @@
 - pkg:composer/sweetalert2/laravel@1.4.0
 - pkg:composer/sweetalert2/laravel@1.4.1
 - pkg:composer/sweetalert2/laravel@1.4.2
+- pkg:composer/sweetalert2/laravel@1.4.3
