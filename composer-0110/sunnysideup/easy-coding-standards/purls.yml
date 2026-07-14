@@ -300,6 +300,8 @@
 - pkg:composer/sunnysideup/easy-coding-standards@26.1.7
 - pkg:composer/sunnysideup/easy-coding-standards@26.1.8
 - pkg:composer/sunnysideup/easy-coding-standards@26.1.9
+- pkg:composer/sunnysideup/easy-coding-standards@26.2.0
+- pkg:composer/sunnysideup/easy-coding-standards@26.2.1
 - pkg:composer/sunnysideup/easy-coding-standards@3.0.0
 - pkg:composer/sunnysideup/easy-coding-standards@3.1.0
 - pkg:composer/sunnysideup/easy-coding-standards@4.0.0
