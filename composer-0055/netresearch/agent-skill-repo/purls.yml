@@ -35,6 +35,7 @@
 - pkg:composer/netresearch/agent-skill-repo@v1.25.0
 - pkg:composer/netresearch/agent-skill-repo@v1.25.1
 - pkg:composer/netresearch/agent-skill-repo@v1.25.2
+- pkg:composer/netresearch/agent-skill-repo@v1.26.0
 - pkg:composer/netresearch/agent-skill-repo@v1.3.0
 - pkg:composer/netresearch/agent-skill-repo@v1.4.0
 - pkg:composer/netresearch/agent-skill-repo@v1.4.1
