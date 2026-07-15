@@ -83,6 +83,7 @@
 - pkg:composer/tualo/papervote@2.2.0
 - pkg:composer/tualo/papervote@2.2.1
 - pkg:composer/tualo/papervote@2.2.10
+- pkg:composer/tualo/papervote@2.2.100
 - pkg:composer/tualo/papervote@2.2.11
 - pkg:composer/tualo/papervote@2.2.12
 - pkg:composer/tualo/papervote@2.2.13
@@ -178,4 +179,5 @@
 - pkg:composer/tualo/papervote@2.2.96
 - pkg:composer/tualo/papervote@2.2.97
 - pkg:composer/tualo/papervote@2.2.98
+- pkg:composer/tualo/papervote@2.2.99
 - pkg:composer/tualo/papervote@v1.0.0
