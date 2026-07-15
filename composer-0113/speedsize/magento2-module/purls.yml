@@ -19,6 +19,7 @@
 - pkg:composer/speedsize/magento2-module@1.4.1
 - pkg:composer/speedsize/magento2-module@1.4.10
 - pkg:composer/speedsize/magento2-module@1.4.11
+- pkg:composer/speedsize/magento2-module@1.4.12
 - pkg:composer/speedsize/magento2-module@1.4.2
 - pkg:composer/speedsize/magento2-module@1.4.3
 - pkg:composer/speedsize/magento2-module@1.4.4
