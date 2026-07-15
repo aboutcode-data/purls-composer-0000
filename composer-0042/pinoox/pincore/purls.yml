@@ -26,6 +26,7 @@
 - pkg:composer/pinoox/pincore@v3.6.13
 - pkg:composer/pinoox/pincore@v3.6.15
 - pkg:composer/pinoox/pincore@v3.6.35
+- pkg:composer/pinoox/pincore@v3.7.11
 - pkg:composer/pinoox/pincore@v3.7.4
 - pkg:composer/pinoox/pincore@v3.7.5
 - pkg:composer/pinoox/pincore@v3.7.6
