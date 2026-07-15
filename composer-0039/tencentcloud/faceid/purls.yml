@@ -415,6 +415,9 @@
 - pkg:composer/tencentcloud/faceid@3.0.1588
 - pkg:composer/tencentcloud/faceid@3.0.1593
 - pkg:composer/tencentcloud/faceid@3.0.1618
+- pkg:composer/tencentcloud/faceid@3.0.1619
+- pkg:composer/tencentcloud/faceid@3.0.1623
+- pkg:composer/tencentcloud/faceid@3.0.1625
 - pkg:composer/tencentcloud/faceid@3.0.248
 - pkg:composer/tencentcloud/faceid@3.0.249
 - pkg:composer/tencentcloud/faceid@3.0.250
