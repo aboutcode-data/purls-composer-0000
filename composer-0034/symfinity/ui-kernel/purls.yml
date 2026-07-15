@@ -6,3 +6,6 @@
 - pkg:composer/symfinity/ui-kernel@v0.2.2
 - pkg:composer/symfinity/ui-kernel@v0.2.3
 - pkg:composer/symfinity/ui-kernel@v0.2.4
+- pkg:composer/symfinity/ui-kernel@v0.2.5
+- pkg:composer/symfinity/ui-kernel@v0.3.0
+- pkg:composer/symfinity/ui-kernel@v0.3.1
