@@ -9,3 +9,4 @@
 - pkg:composer/type-lang/phpdoc@1.0.0-beta8
 - pkg:composer/type-lang/phpdoc@1.0.0-beta9
 - pkg:composer/type-lang/phpdoc@1.0.1
+- pkg:composer/type-lang/phpdoc@2.0.0-beta1
