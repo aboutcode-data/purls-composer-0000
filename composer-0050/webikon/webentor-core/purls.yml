@@ -9,6 +9,8 @@
 - pkg:composer/webikon/webentor-core@0.15.1
 - pkg:composer/webikon/webentor-core@0.15.2
 - pkg:composer/webikon/webentor-core@0.15.3
+- pkg:composer/webikon/webentor-core@0.15.4
+- pkg:composer/webikon/webentor-core@0.15.5
 - pkg:composer/webikon/webentor-core@0.9.12
 - pkg:composer/webikon/webentor-core@0.9.13
 - pkg:composer/webikon/webentor-core@0.9.14
