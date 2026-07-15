@@ -24,3 +24,5 @@
 - pkg:composer/traceway/opentelemetry-symfony@v2.2.1
 - pkg:composer/traceway/opentelemetry-symfony@v3.0.0
 - pkg:composer/traceway/opentelemetry-symfony@v3.0.1
+- pkg:composer/traceway/opentelemetry-symfony@v3.0.2
+- pkg:composer/traceway/opentelemetry-symfony@v3.1.0
