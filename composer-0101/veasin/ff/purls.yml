@@ -41,6 +41,7 @@
 - pkg:composer/veasin/ff@0.1.9
 - pkg:composer/veasin/ff@0.2.0
 - pkg:composer/veasin/ff@0.2.1
+- pkg:composer/veasin/ff@0.2.10
 - pkg:composer/veasin/ff@0.2.2
 - pkg:composer/veasin/ff@0.2.3
 - pkg:composer/veasin/ff@0.2.4
@@ -48,3 +49,11 @@
 - pkg:composer/veasin/ff@0.2.6
 - pkg:composer/veasin/ff@0.2.7
 - pkg:composer/veasin/ff@0.2.8
+- pkg:composer/veasin/ff@0.2.9
+- pkg:composer/veasin/ff@0.3.0
+- pkg:composer/veasin/ff@0.3.1
+- pkg:composer/veasin/ff@0.3.2
+- pkg:composer/veasin/ff@0.3.3
+- pkg:composer/veasin/ff@0.3.4
+- pkg:composer/veasin/ff@0.3.5
+- pkg:composer/veasin/ff@0.3.6
