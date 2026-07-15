@@ -12,3 +12,4 @@
 - pkg:composer/vardumper/dom-orm@v1.4.2
 - pkg:composer/vardumper/dom-orm@v1.4.3
 - pkg:composer/vardumper/dom-orm@v1.4.4
+- pkg:composer/vardumper/dom-orm@v1.4.5
