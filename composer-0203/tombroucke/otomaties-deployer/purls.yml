@@ -47,3 +47,4 @@
 - pkg:composer/tombroucke/otomaties-deployer@2.0.6
 - pkg:composer/tombroucke/otomaties-deployer@2.0.7
 - pkg:composer/tombroucke/otomaties-deployer@3.0.0
+- pkg:composer/tombroucke/otomaties-deployer@3.1.0
