@@ -77,6 +77,10 @@
 - pkg:composer/tarfin-labs/event-machine@9.11.1
 - pkg:composer/tarfin-labs/event-machine@9.12.0
 - pkg:composer/tarfin-labs/event-machine@9.13.0
+- pkg:composer/tarfin-labs/event-machine@9.14.0
+- pkg:composer/tarfin-labs/event-machine@9.14.1
+- pkg:composer/tarfin-labs/event-machine@9.15.0
+- pkg:composer/tarfin-labs/event-machine@9.15.1
 - pkg:composer/tarfin-labs/event-machine@9.2.0
 - pkg:composer/tarfin-labs/event-machine@9.3.0
 - pkg:composer/tarfin-labs/event-machine@9.3.1
