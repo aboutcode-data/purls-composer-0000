@@ -59,7 +59,10 @@
 - pkg:composer/vssl/render@6.8.16
 - pkg:composer/vssl/render@6.8.17
 - pkg:composer/vssl/render@6.8.18
+- pkg:composer/vssl/render@6.8.19
 - pkg:composer/vssl/render@6.8.2
+- pkg:composer/vssl/render@6.8.20
+- pkg:composer/vssl/render@6.8.21
 - pkg:composer/vssl/render@6.8.3
 - pkg:composer/vssl/render@6.8.4
 - pkg:composer/vssl/render@6.8.5
