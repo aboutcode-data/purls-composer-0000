@@ -1,4 +1,11 @@
 - pkg:composer/aisdk/google@v0.1.0
 - pkg:composer/aisdk/google@v0.2.0
 - pkg:composer/aisdk/google@v0.2.0-beta
+- pkg:composer/aisdk/google@v0.2.1
 - pkg:composer/aisdk/google@v0.2.1-beta
+- pkg:composer/aisdk/google@v0.3.0
+- pkg:composer/aisdk/google@v0.4.0
+- pkg:composer/aisdk/google@v0.5.0
+- pkg:composer/aisdk/google@v0.6.0
+- pkg:composer/aisdk/google@v0.7.0
+- pkg:composer/aisdk/google@v0.8.0
