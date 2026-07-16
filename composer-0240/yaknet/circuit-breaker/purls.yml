@@ -4,3 +4,4 @@
 - pkg:composer/yaknet/circuit-breaker@v1.1.2
 - pkg:composer/yaknet/circuit-breaker@v1.1.3
 - pkg:composer/yaknet/circuit-breaker@v1.1.4
+- pkg:composer/yaknet/circuit-breaker@v1.1.5
