@@ -9,3 +9,4 @@
 - pkg:composer/agrekom/send-order-to-google-analytics-module@1.0.7
 - pkg:composer/agrekom/send-order-to-google-analytics-module@1.0.8
 - pkg:composer/agrekom/send-order-to-google-analytics-module@1.0.9
+- pkg:composer/agrekom/send-order-to-google-analytics-module@v1.0.11
