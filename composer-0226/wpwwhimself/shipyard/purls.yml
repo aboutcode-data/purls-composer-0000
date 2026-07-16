@@ -114,6 +114,9 @@
 - pkg:composer/wpwwhimself/shipyard@v3.1.0
 - pkg:composer/wpwwhimself/shipyard@v3.1.1
 - pkg:composer/wpwwhimself/shipyard@v3.1.2
+- pkg:composer/wpwwhimself/shipyard@v3.10.0
+- pkg:composer/wpwwhimself/shipyard@v3.10.1
+- pkg:composer/wpwwhimself/shipyard@v3.10.2
 - pkg:composer/wpwwhimself/shipyard@v3.2.0
 - pkg:composer/wpwwhimself/shipyard@v3.2.1
 - pkg:composer/wpwwhimself/shipyard@v3.3.0
@@ -140,3 +143,5 @@
 - pkg:composer/wpwwhimself/shipyard@v3.7.0
 - pkg:composer/wpwwhimself/shipyard@v3.7.1
 - pkg:composer/wpwwhimself/shipyard@v3.7.2
+- pkg:composer/wpwwhimself/shipyard@v3.8.0
+- pkg:composer/wpwwhimself/shipyard@v3.9.0
