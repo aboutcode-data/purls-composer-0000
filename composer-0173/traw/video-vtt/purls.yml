@@ -19,6 +19,7 @@
 - pkg:composer/traw/video-vtt@2.3.1
 - pkg:composer/traw/video-vtt@2.3.2
 - pkg:composer/traw/video-vtt@2.3.3
+- pkg:composer/traw/video-vtt@2.3.4
 - pkg:composer/traw/video-vtt@2.4.0
 - pkg:composer/traw/video-vtt@2.4.1
 - pkg:composer/traw/video-vtt@2.5.0
@@ -40,3 +41,4 @@
 - pkg:composer/traw/video-vtt@2.8.5
 - pkg:composer/traw/video-vtt@2.8.6
 - pkg:composer/traw/video-vtt@2.8.7
+- pkg:composer/traw/video-vtt@2.8.8
