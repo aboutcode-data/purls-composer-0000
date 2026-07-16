@@ -68,3 +68,5 @@
 - pkg:composer/alibabacloud/cloudfw-20171207@8.0.0
 - pkg:composer/alibabacloud/cloudfw-20171207@8.1.0
 - pkg:composer/alibabacloud/cloudfw-20171207@8.2.0
+- pkg:composer/alibabacloud/cloudfw-20171207@8.2.1
+- pkg:composer/alibabacloud/cloudfw-20171207@8.3.0
