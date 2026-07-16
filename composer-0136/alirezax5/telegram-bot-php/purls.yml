@@ -24,3 +24,4 @@
 - pkg:composer/alirezax5/telegram-bot-php@2.5.13
 - pkg:composer/alirezax5/telegram-bot-php@3.0.0
 - pkg:composer/alirezax5/telegram-bot-php@3.0.1
+- pkg:composer/alirezax5/telegram-bot-php@3.1.1
