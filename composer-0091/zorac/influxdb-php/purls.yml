@@ -5,3 +5,4 @@
 - pkg:composer/zorac/influxdb-php@1.15.2.1
 - pkg:composer/zorac/influxdb-php@1.16.0
 - pkg:composer/zorac/influxdb-php@1.16.1
+- pkg:composer/zorac/influxdb-php@1.16.2
