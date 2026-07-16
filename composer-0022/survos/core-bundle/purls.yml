@@ -964,6 +964,7 @@
 - pkg:composer/survos/core-bundle@2.10.8
 - pkg:composer/survos/core-bundle@2.10.9
 - pkg:composer/survos/core-bundle@2.12.9
+- pkg:composer/survos/core-bundle@2.15.14
 - pkg:composer/survos/core-bundle@2.2.0
 - pkg:composer/survos/core-bundle@2.2.1
 - pkg:composer/survos/core-bundle@2.2.2
