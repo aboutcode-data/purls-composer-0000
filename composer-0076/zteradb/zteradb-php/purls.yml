@@ -1,3 +1,4 @@
+- pkg:composer/zteradb/zteradb-php@2.0.1
 - pkg:composer/zteradb/zteradb-php@v1.0.0
 - pkg:composer/zteradb/zteradb-php@v1.1.0
 - pkg:composer/zteradb/zteradb-php@v2.0.0
