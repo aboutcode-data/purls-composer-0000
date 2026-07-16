@@ -27,3 +27,4 @@
 - pkg:composer/yauhenko/rest-bundle@0.8.3
 - pkg:composer/yauhenko/rest-bundle@0.9.0
 - pkg:composer/yauhenko/rest-bundle@0.9.1
+- pkg:composer/yauhenko/rest-bundle@1.0.0
