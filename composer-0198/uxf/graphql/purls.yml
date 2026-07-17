@@ -97,3 +97,4 @@
 - pkg:composer/uxf/graphql@3.81.4
 - pkg:composer/uxf/graphql@3.81.5
 - pkg:composer/uxf/graphql@3.81.8
+- pkg:composer/uxf/graphql@3.82.0
