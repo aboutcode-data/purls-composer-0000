@@ -11,3 +11,5 @@
 - pkg:composer/automattic/jetpack-agents-manager@v0.5.3
 - pkg:composer/automattic/jetpack-agents-manager@v0.6.0
 - pkg:composer/automattic/jetpack-agents-manager@v0.7.0
+- pkg:composer/automattic/jetpack-agents-manager@v0.8.0
+- pkg:composer/automattic/jetpack-agents-manager@v0.8.1
