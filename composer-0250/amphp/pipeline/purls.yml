@@ -13,3 +13,4 @@
 - pkg:composer/amphp/pipeline@v1.2.3
 - pkg:composer/amphp/pipeline@v1.2.4
 - pkg:composer/amphp/pipeline@v1.2.5
+- pkg:composer/amphp/pipeline@v1.2.6
