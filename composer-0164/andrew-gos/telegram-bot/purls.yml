@@ -30,3 +30,4 @@
 - pkg:composer/andrew-gos/telegram-bot@4.7.1
 - pkg:composer/andrew-gos/telegram-bot@4.7.2
 - pkg:composer/andrew-gos/telegram-bot@4.7.3
+- pkg:composer/andrew-gos/telegram-bot@v4.8.0
