@@ -1,3 +1,5 @@
+- pkg:composer/alxgarshin/fraym@v0.10.0
+- pkg:composer/alxgarshin/fraym@v0.10.1
 - pkg:composer/alxgarshin/fraym@v0.8.0
 - pkg:composer/alxgarshin/fraym@v0.8.1
 - pkg:composer/alxgarshin/fraym@v0.8.2
@@ -71,3 +73,4 @@
 - pkg:composer/alxgarshin/fraym@v0.9.960
 - pkg:composer/alxgarshin/fraym@v0.9.961
 - pkg:composer/alxgarshin/fraym@v0.9.962
+- pkg:composer/alxgarshin/fraym@v0.9.97
