@@ -107,6 +107,7 @@
 - pkg:composer/typicms/core@12.0.5
 - pkg:composer/typicms/core@13.0.0
 - pkg:composer/typicms/core@13.0.1
+- pkg:composer/typicms/core@13.0.10
 - pkg:composer/typicms/core@13.0.2
 - pkg:composer/typicms/core@13.0.3
 - pkg:composer/typicms/core@13.0.4
@@ -137,6 +138,7 @@
 - pkg:composer/typicms/core@14.0.26
 - pkg:composer/typicms/core@14.0.27
 - pkg:composer/typicms/core@14.0.28
+- pkg:composer/typicms/core@14.0.29
 - pkg:composer/typicms/core@14.0.3
 - pkg:composer/typicms/core@14.0.4
 - pkg:composer/typicms/core@14.0.5
@@ -166,6 +168,7 @@
 - pkg:composer/typicms/core@15.0.28
 - pkg:composer/typicms/core@15.0.29
 - pkg:composer/typicms/core@15.0.3
+- pkg:composer/typicms/core@15.0.30
 - pkg:composer/typicms/core@15.0.4
 - pkg:composer/typicms/core@15.0.5
 - pkg:composer/typicms/core@15.0.6
@@ -208,6 +211,7 @@
 - pkg:composer/typicms/core@16.1.6
 - pkg:composer/typicms/core@16.1.7
 - pkg:composer/typicms/core@16.1.8
+- pkg:composer/typicms/core@16.1.9
 - pkg:composer/typicms/core@17.0.0
 - pkg:composer/typicms/core@17.0.1
 - pkg:composer/typicms/core@17.0.10
@@ -236,6 +240,8 @@
 - pkg:composer/typicms/core@17.0.33
 - pkg:composer/typicms/core@17.0.34
 - pkg:composer/typicms/core@17.0.35
+- pkg:composer/typicms/core@17.0.37
+- pkg:composer/typicms/core@17.0.38
 - pkg:composer/typicms/core@17.0.4
 - pkg:composer/typicms/core@17.0.5
 - pkg:composer/typicms/core@17.0.6
