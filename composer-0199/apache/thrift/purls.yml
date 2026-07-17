@@ -19,3 +19,4 @@
 - pkg:composer/apache/thrift@v0.21.0
 - pkg:composer/apache/thrift@v0.22.0
 - pkg:composer/apache/thrift@v0.23.0
+- pkg:composer/apache/thrift@v0.24.0
