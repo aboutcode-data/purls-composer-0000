@@ -42,6 +42,10 @@
 - pkg:composer/catlabinteractive/neuron@v3.0.11
 - pkg:composer/catlabinteractive/neuron@v3.0.12
 - pkg:composer/catlabinteractive/neuron@v3.0.13
+- pkg:composer/catlabinteractive/neuron@v3.0.14
+- pkg:composer/catlabinteractive/neuron@v3.0.15
+- pkg:composer/catlabinteractive/neuron@v3.0.16
+- pkg:composer/catlabinteractive/neuron@v3.0.17
 - pkg:composer/catlabinteractive/neuron@v3.0.2
 - pkg:composer/catlabinteractive/neuron@v3.0.3
 - pkg:composer/catlabinteractive/neuron@v3.0.4
@@ -50,3 +54,10 @@
 - pkg:composer/catlabinteractive/neuron@v3.0.7
 - pkg:composer/catlabinteractive/neuron@v3.0.8
 - pkg:composer/catlabinteractive/neuron@v3.0.9
+- pkg:composer/catlabinteractive/neuron@v3.1.0
+- pkg:composer/catlabinteractive/neuron@v3.1.1
+- pkg:composer/catlabinteractive/neuron@v3.1.2
+- pkg:composer/catlabinteractive/neuron@v3.1.3
+- pkg:composer/catlabinteractive/neuron@v3.1.4
+- pkg:composer/catlabinteractive/neuron@v3.1.5
+- pkg:composer/catlabinteractive/neuron@v3.1.6
