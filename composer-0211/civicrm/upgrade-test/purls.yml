@@ -10,3 +10,4 @@
 - pkg:composer/civicrm/upgrade-test@0.9
 - pkg:composer/civicrm/upgrade-test@v26.03.0
 - pkg:composer/civicrm/upgrade-test@v26.07.0
+- pkg:composer/civicrm/upgrade-test@v26.07.1
