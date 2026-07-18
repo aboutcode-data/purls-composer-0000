@@ -14,4 +14,8 @@
 - pkg:composer/complyforce/api@1.8.4-RC22462
 - pkg:composer/complyforce/api@1.8.5
 - pkg:composer/complyforce/api@1.8.5-RC22832
+- pkg:composer/complyforce/api@1.8.6
 - pkg:composer/complyforce/api@1.8.6-RC23125
+- pkg:composer/complyforce/api@1.8.6-RC23181
+- pkg:composer/complyforce/api@1.9.0
+- pkg:composer/complyforce/api@1.9.0-RC23244
