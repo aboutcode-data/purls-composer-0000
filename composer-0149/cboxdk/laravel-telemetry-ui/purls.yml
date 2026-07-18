@@ -8,3 +8,5 @@
 - pkg:composer/cboxdk/laravel-telemetry-ui@v0.3.0
 - pkg:composer/cboxdk/laravel-telemetry-ui@v0.4.0
 - pkg:composer/cboxdk/laravel-telemetry-ui@v1.0.0
+- pkg:composer/cboxdk/laravel-telemetry-ui@v1.1.0
+- pkg:composer/cboxdk/laravel-telemetry-ui@v1.2.0

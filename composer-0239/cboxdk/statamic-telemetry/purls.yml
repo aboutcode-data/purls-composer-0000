@@ -7,3 +7,7 @@
 - pkg:composer/cboxdk/statamic-telemetry@v0.1.0-alpha.7
 - pkg:composer/cboxdk/statamic-telemetry@v0.1.0-alpha.8
 - pkg:composer/cboxdk/statamic-telemetry@v0.2.0
+- pkg:composer/cboxdk/statamic-telemetry@v0.2.1
+- pkg:composer/cboxdk/statamic-telemetry@v0.2.2
+- pkg:composer/cboxdk/statamic-telemetry@v1.0.0
+- pkg:composer/cboxdk/statamic-telemetry@v1.1.0
