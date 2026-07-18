@@ -1,1 +1,4 @@
 - pkg:composer/bennito254/routeros-client@v0.0.1
+- pkg:composer/bennito254/routeros-client@v1.0.0
+- pkg:composer/bennito254/routeros-client@v1.0.1
+- pkg:composer/bennito254/routeros-client@v1.0.2
