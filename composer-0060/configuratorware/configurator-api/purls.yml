@@ -512,6 +512,7 @@
 - pkg:composer/configuratorware/configurator-api@1.57.1
 - pkg:composer/configuratorware/configurator-api@1.57.2
 - pkg:composer/configuratorware/configurator-api@1.57.3
+- pkg:composer/configuratorware/configurator-api@1.57.4
 - pkg:composer/configuratorware/configurator-api@1.6.0
 - pkg:composer/configuratorware/configurator-api@1.6.1
 - pkg:composer/configuratorware/configurator-api@1.6.2
