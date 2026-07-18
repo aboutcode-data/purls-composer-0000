@@ -46,3 +46,4 @@
 - pkg:composer/buckaroo/woocommerce@v4.8.0
 - pkg:composer/buckaroo/woocommerce@v4.8.1
 - pkg:composer/buckaroo/woocommerce@v4.8.2
+- pkg:composer/buckaroo/woocommerce@v4.9.0
