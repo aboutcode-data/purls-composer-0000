@@ -72,6 +72,7 @@
 - pkg:composer/creativestyle/magesuite-google-structured-data@v3.1.7
 - pkg:composer/creativestyle/magesuite-google-structured-data@v3.1.8
 - pkg:composer/creativestyle/magesuite-google-structured-data@v3.1.9
+- pkg:composer/creativestyle/magesuite-google-structured-data@v3.10.0
 - pkg:composer/creativestyle/magesuite-google-structured-data@v3.2.0
 - pkg:composer/creativestyle/magesuite-google-structured-data@v3.2.1
 - pkg:composer/creativestyle/magesuite-google-structured-data@v3.2.2
@@ -123,3 +124,4 @@
 - pkg:composer/creativestyle/magesuite-google-structured-data@v3.9.1
 - pkg:composer/creativestyle/magesuite-google-structured-data@v3.9.2
 - pkg:composer/creativestyle/magesuite-google-structured-data@v3.9.3
+- pkg:composer/creativestyle/magesuite-google-structured-data@v3.9.4
