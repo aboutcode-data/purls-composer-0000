@@ -15,5 +15,6 @@
 - pkg:composer/craftpulse/craft-timeloop@4.0.2
 - pkg:composer/craftpulse/craft-timeloop@4.1.0
 - pkg:composer/craftpulse/craft-timeloop@4.1.1
+- pkg:composer/craftpulse/craft-timeloop@5.0.0
 - pkg:composer/craftpulse/craft-timeloop@5.0.0-beta.2
 - pkg:composer/craftpulse/craft-timeloop@5.0.0-beta.3
