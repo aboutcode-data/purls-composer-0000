@@ -796,6 +796,8 @@
 - pkg:composer/cecil/cecil@8.114.1
 - pkg:composer/cecil/cecil@8.114.2
 - pkg:composer/cecil/cecil@8.115.0
+- pkg:composer/cecil/cecil@8.116.0
+- pkg:composer/cecil/cecil@8.116.1
 - pkg:composer/cecil/cecil@8.12.0
 - pkg:composer/cecil/cecil@8.12.1
 - pkg:composer/cecil/cecil@8.12.2
