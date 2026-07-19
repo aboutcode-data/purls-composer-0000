@@ -39,3 +39,4 @@
 - pkg:composer/dmstr/yii2-usuario-keycloak@5.0.0-rc8
 - pkg:composer/dmstr/yii2-usuario-keycloak@5.0.0-rc9
 - pkg:composer/dmstr/yii2-usuario-keycloak@5.0.1
+- pkg:composer/dmstr/yii2-usuario-keycloak@5.1.0
