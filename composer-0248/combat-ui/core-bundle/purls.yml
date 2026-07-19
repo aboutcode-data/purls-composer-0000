@@ -2,4 +2,5 @@
 - pkg:composer/combat-ui/core-bundle@0.6.1.2
 - pkg:composer/combat-ui/core-bundle@0.6.2
 - pkg:composer/combat-ui/core-bundle@0.6.3
+- pkg:composer/combat-ui/core-bundle@0.6.4
 - pkg:composer/combat-ui/core-bundle@v0.6.0
