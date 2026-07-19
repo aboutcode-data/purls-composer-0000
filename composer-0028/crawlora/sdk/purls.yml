@@ -1,2 +1,4 @@
 - pkg:composer/crawlora/sdk@v1.18.0-beta.1
 - pkg:composer/crawlora/sdk@v1.19.0-beta.1
+- pkg:composer/crawlora/sdk@v1.20.0-beta.1
+- pkg:composer/crawlora/sdk@v1.22.0-beta.1
