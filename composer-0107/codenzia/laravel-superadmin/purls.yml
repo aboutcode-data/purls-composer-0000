@@ -11,3 +11,5 @@
 - pkg:composer/codenzia/laravel-superadmin@v0.5.1
 - pkg:composer/codenzia/laravel-superadmin@v0.5.2
 - pkg:composer/codenzia/laravel-superadmin@v0.6.0
+- pkg:composer/codenzia/laravel-superadmin@v0.6.1
+- pkg:composer/codenzia/laravel-superadmin@v0.6.2
