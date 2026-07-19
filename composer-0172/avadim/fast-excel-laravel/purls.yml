@@ -17,3 +17,4 @@
 - pkg:composer/avadim/fast-excel-laravel@v2.7.0
 - pkg:composer/avadim/fast-excel-laravel@v2.8.0
 - pkg:composer/avadim/fast-excel-laravel@v2.9.0
+- pkg:composer/avadim/fast-excel-laravel@v3.0.0
