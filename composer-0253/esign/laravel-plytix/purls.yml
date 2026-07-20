@@ -11,3 +11,4 @@
 - pkg:composer/esign/laravel-plytix@3.0.0-alpha4
 - pkg:composer/esign/laravel-plytix@3.0.0-alpha5
 - pkg:composer/esign/laravel-plytix@3.0.0-alpha6
+- pkg:composer/esign/laravel-plytix@3.1.0
