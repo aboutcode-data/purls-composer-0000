@@ -14,3 +14,4 @@
 - pkg:composer/fidum/nova-package-bundler-command@1.6.0
 - pkg:composer/fidum/nova-package-bundler-command@1.7.0
 - pkg:composer/fidum/nova-package-bundler-command@1.8.0
+- pkg:composer/fidum/nova-package-bundler-command@1.8.1
