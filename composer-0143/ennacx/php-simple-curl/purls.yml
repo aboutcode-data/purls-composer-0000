@@ -3,3 +3,6 @@
 - pkg:composer/ennacx/php-simple-curl@v1.0.2
 - pkg:composer/ennacx/php-simple-curl@v2.0.0-beta1
 - pkg:composer/ennacx/php-simple-curl@v2.0.0-beta2
+- pkg:composer/ennacx/php-simple-curl@v2.0.0-beta3
+- pkg:composer/ennacx/php-simple-curl@v2.0.0-beta4
+- pkg:composer/ennacx/php-simple-curl@v2.0.0-beta5

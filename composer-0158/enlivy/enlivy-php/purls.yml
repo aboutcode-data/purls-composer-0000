@@ -6,3 +6,5 @@
 - pkg:composer/enlivy/enlivy-php@0.1.0
 - pkg:composer/enlivy/enlivy-php@0.2.0
 - pkg:composer/enlivy/enlivy-php@1.0.0
+- pkg:composer/enlivy/enlivy-php@1.1.0
+- pkg:composer/enlivy/enlivy-php@2.0.0
