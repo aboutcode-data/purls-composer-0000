@@ -1,0 +1,2 @@
+- pkg:composer/fabpot/amphp-sqlite3@v0.1
+- pkg:composer/fabpot/amphp-sqlite3@v0.2
