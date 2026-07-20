@@ -3,3 +3,5 @@
 - pkg:composer/elementworks/jwt-tokens@1.0.2
 - pkg:composer/elementworks/jwt-tokens@1.0.3
 - pkg:composer/elementworks/jwt-tokens@1.0.4
+- pkg:composer/elementworks/jwt-tokens@2.0.0
+- pkg:composer/elementworks/jwt-tokens@2.0.1
