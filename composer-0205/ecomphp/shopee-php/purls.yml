@@ -33,3 +33,6 @@
 - pkg:composer/ecomphp/shopee-php@v1.5.0
 - pkg:composer/ecomphp/shopee-php@v1.5.1
 - pkg:composer/ecomphp/shopee-php@v1.6.0
+- pkg:composer/ecomphp/shopee-php@v1.7.0
+- pkg:composer/ecomphp/shopee-php@v1.7.1
+- pkg:composer/ecomphp/shopee-php@v1.8.0
