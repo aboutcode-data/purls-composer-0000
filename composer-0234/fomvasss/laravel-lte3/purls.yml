@@ -18,6 +18,10 @@
 - pkg:composer/fomvasss/laravel-lte3@1.106.0
 - pkg:composer/fomvasss/laravel-lte3@1.106.1
 - pkg:composer/fomvasss/laravel-lte3@1.106.2
+- pkg:composer/fomvasss/laravel-lte3@1.107.0
+- pkg:composer/fomvasss/laravel-lte3@1.108.0
+- pkg:composer/fomvasss/laravel-lte3@1.109.0
+- pkg:composer/fomvasss/laravel-lte3@1.109.1
 - pkg:composer/fomvasss/laravel-lte3@1.11.0
 - pkg:composer/fomvasss/laravel-lte3@1.12.0
 - pkg:composer/fomvasss/laravel-lte3@1.13.0
