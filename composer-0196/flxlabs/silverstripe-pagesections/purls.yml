@@ -9,7 +9,10 @@
 - pkg:composer/flxlabs/silverstripe-pagesections@1.0.0
 - pkg:composer/flxlabs/silverstripe-pagesections@1.0.1
 - pkg:composer/flxlabs/silverstripe-pagesections@1.1.0
+- pkg:composer/flxlabs/silverstripe-pagesections@1.1.1
 - pkg:composer/flxlabs/silverstripe-pagesections@2.0.0-beta
+- pkg:composer/flxlabs/silverstripe-pagesections@2.0.10-beta
+- pkg:composer/flxlabs/silverstripe-pagesections@2.0.11-beta
 - pkg:composer/flxlabs/silverstripe-pagesections@2.0.2-beta
 - pkg:composer/flxlabs/silverstripe-pagesections@2.0.3-beta
 - pkg:composer/flxlabs/silverstripe-pagesections@2.0.4-beta
