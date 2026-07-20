@@ -234,3 +234,4 @@
 - pkg:composer/elgg/elgg@7.0.0-rc.1
 - pkg:composer/elgg/elgg@7.0.1
 - pkg:composer/elgg/elgg@7.0.2
+- pkg:composer/elgg/elgg@7.0.3
