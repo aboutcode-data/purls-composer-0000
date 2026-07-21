@@ -216,10 +216,12 @@
 - pkg:composer/humanmade/cms@25.0.6
 - pkg:composer/humanmade/cms@25.0.7
 - pkg:composer/humanmade/cms@25.0.8
+- pkg:composer/humanmade/cms@25.0.9
 - pkg:composer/humanmade/cms@26.0.0
 - pkg:composer/humanmade/cms@26.0.0-beta.1
 - pkg:composer/humanmade/cms@26.0.0-beta.2
 - pkg:composer/humanmade/cms@26.0.1
+- pkg:composer/humanmade/cms@26.0.10
 - pkg:composer/humanmade/cms@26.0.2
 - pkg:composer/humanmade/cms@26.0.3
 - pkg:composer/humanmade/cms@26.0.4
@@ -231,6 +233,8 @@
 - pkg:composer/humanmade/cms@27.0.0
 - pkg:composer/humanmade/cms@27.0.0-beta.1
 - pkg:composer/humanmade/cms@27.0.1
+- pkg:composer/humanmade/cms@27.0.2
+- pkg:composer/humanmade/cms@27.0.3
 - pkg:composer/humanmade/cms@3.0.0
 - pkg:composer/humanmade/cms@3.0.0-beta1
 - pkg:composer/humanmade/cms@3.0.0-beta2
