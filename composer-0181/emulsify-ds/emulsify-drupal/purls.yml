@@ -42,6 +42,7 @@
 - pkg:composer/emulsify-ds/emulsify-drupal@6.2.0
 - pkg:composer/emulsify-ds/emulsify-drupal@7.0.0
 - pkg:composer/emulsify-ds/emulsify-drupal@7.1.0
+- pkg:composer/emulsify-ds/emulsify-drupal@7.1.1
 - pkg:composer/emulsify-ds/emulsify-drupal@v1.0.0-alpha.4
 - pkg:composer/emulsify-ds/emulsify-drupal@v1.0.0-alpha.5
 - pkg:composer/emulsify-ds/emulsify-drupal@v1.0.0-alpha.6
