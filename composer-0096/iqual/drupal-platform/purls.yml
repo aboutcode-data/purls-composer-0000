@@ -26,3 +26,4 @@
 - pkg:composer/iqual/drupal-platform@v2.0.0-beta8
 - pkg:composer/iqual/drupal-platform@v2.0.1
 - pkg:composer/iqual/drupal-platform@v2.1.0
+- pkg:composer/iqual/drupal-platform@v2.2.0
