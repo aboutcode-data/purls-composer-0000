@@ -40,3 +40,7 @@
 - pkg:composer/dskripchenko/laravel-admin@v1.6.0
 - pkg:composer/dskripchenko/laravel-admin@v1.7.0
 - pkg:composer/dskripchenko/laravel-admin@v1.7.1
+- pkg:composer/dskripchenko/laravel-admin@v1.7.2
+- pkg:composer/dskripchenko/laravel-admin@v1.8.0
+- pkg:composer/dskripchenko/laravel-admin@v1.8.1
+- pkg:composer/dskripchenko/laravel-admin@v1.8.2
