@@ -17,3 +17,4 @@
 - pkg:composer/jbzoo/composer-diff@7.0.2
 - pkg:composer/jbzoo/composer-diff@7.0.3
 - pkg:composer/jbzoo/composer-diff@7.1.0
+- pkg:composer/jbzoo/composer-diff@8.0.0

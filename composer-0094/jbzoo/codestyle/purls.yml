@@ -79,3 +79,4 @@
 - pkg:composer/jbzoo/codestyle@7.1.5
 - pkg:composer/jbzoo/codestyle@7.1.6
 - pkg:composer/jbzoo/codestyle@7.2.0
+- pkg:composer/jbzoo/codestyle@8.0.0
