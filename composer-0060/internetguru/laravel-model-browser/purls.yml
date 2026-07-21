@@ -99,3 +99,4 @@
 - pkg:composer/internetguru/laravel-model-browser@v5.2.1
 - pkg:composer/internetguru/laravel-model-browser@v5.3.0
 - pkg:composer/internetguru/laravel-model-browser@v5.3.1
+- pkg:composer/internetguru/laravel-model-browser@v5.3.2
