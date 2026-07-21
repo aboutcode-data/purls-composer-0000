@@ -3,6 +3,7 @@
 - pkg:composer/guzzlehttp/uri-template@v0.2.0
 - pkg:composer/guzzlehttp/uri-template@v1.0.0
 - pkg:composer/guzzlehttp/uri-template@v1.0.1
+- pkg:composer/guzzlehttp/uri-template@v1.0.10
 - pkg:composer/guzzlehttp/uri-template@v1.0.2
 - pkg:composer/guzzlehttp/uri-template@v1.0.3
 - pkg:composer/guzzlehttp/uri-template@v1.0.4
@@ -11,3 +12,4 @@
 - pkg:composer/guzzlehttp/uri-template@v1.0.7
 - pkg:composer/guzzlehttp/uri-template@v1.0.8
 - pkg:composer/guzzlehttp/uri-template@v1.0.9
+- pkg:composer/guzzlehttp/uri-template@v2.0.0
