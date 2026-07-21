@@ -1,6 +1,12 @@
 - pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.0
 - pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.1
 - pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.10
+- pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.100
+- pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.101
+- pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.102
+- pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.103
+- pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.104
+- pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.105
 - pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.11
 - pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.12
 - pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.13
@@ -97,3 +103,4 @@
 - pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.96
 - pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.97
 - pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.98
+- pkg:composer/hans-peter-ording/sleeper-api-symfony-bundle@0.9.99
