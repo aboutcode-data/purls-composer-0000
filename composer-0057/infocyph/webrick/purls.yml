@@ -4,3 +4,7 @@
 - pkg:composer/infocyph/webrick@2.0
 - pkg:composer/infocyph/webrick@2.01
 - pkg:composer/infocyph/webrick@2.01.1
+- pkg:composer/infocyph/webrick@2.01.2
+- pkg:composer/infocyph/webrick@2.01.3
+- pkg:composer/infocyph/webrick@2.02
+- pkg:composer/infocyph/webrick@2.02.1
