@@ -1,3 +1,5 @@
 - pkg:composer/keboola/php-api-client-base@1.0.0
 - pkg:composer/keboola/php-api-client-base@1.0.1
 - pkg:composer/keboola/php-api-client-base@1.1.0
+- pkg:composer/keboola/php-api-client-base@1.1.1
+- pkg:composer/keboola/php-api-client-base@1.1.2

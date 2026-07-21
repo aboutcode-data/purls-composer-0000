@@ -14,3 +14,5 @@
 - pkg:composer/keboola/sandboxes-service-api-client@1.7.0
 - pkg:composer/keboola/sandboxes-service-api-client@1.8.0
 - pkg:composer/keboola/sandboxes-service-api-client@2.0.0
+- pkg:composer/keboola/sandboxes-service-api-client@2.1.0
+- pkg:composer/keboola/sandboxes-service-api-client@2.1.1
