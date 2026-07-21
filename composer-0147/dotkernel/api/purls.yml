@@ -21,5 +21,6 @@
 - pkg:composer/dotkernel/api@6.0.0
 - pkg:composer/dotkernel/api@6.1.0
 - pkg:composer/dotkernel/api@7.0.0
+- pkg:composer/dotkernel/api@7.1.0
 - pkg:composer/dotkernel/api@v1.0.0
 - pkg:composer/dotkernel/api@v1.0.1
