@@ -9,3 +9,5 @@
 - pkg:composer/inpost/magento2-module-inpost-pay-hyva-checkout@v2.6.0
 - pkg:composer/inpost/magento2-module-inpost-pay-hyva-checkout@v2.6.1
 - pkg:composer/inpost/magento2-module-inpost-pay-hyva-checkout@v2.6.2
+- pkg:composer/inpost/magento2-module-inpost-pay-hyva-checkout@v2.7.0
+- pkg:composer/inpost/magento2-module-inpost-pay-hyva-checkout@v2.7.1
