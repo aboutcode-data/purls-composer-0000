@@ -92,6 +92,7 @@
 - pkg:composer/google/cloud-container@v2.0.0
 - pkg:composer/google/cloud-container@v2.0.0-RC1
 - pkg:composer/google/cloud-container@v2.1.0
+- pkg:composer/google/cloud-container@v2.10.0
 - pkg:composer/google/cloud-container@v2.2.0
 - pkg:composer/google/cloud-container@v2.2.1
 - pkg:composer/google/cloud-container@v2.3.0
