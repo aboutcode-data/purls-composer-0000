@@ -47,3 +47,4 @@
 - pkg:composer/geoip2/geoip2@v3.1.0
 - pkg:composer/geoip2/geoip2@v3.2.0
 - pkg:composer/geoip2/geoip2@v3.3.0
+- pkg:composer/geoip2/geoip2@v3.4.0
