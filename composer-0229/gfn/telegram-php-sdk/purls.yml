@@ -3,3 +3,5 @@
 - pkg:composer/gfn/telegram-php-sdk@1.2.0
 - pkg:composer/gfn/telegram-php-sdk@1.3.0
 - pkg:composer/gfn/telegram-php-sdk@1.4.0
+- pkg:composer/gfn/telegram-php-sdk@1.5.0
+- pkg:composer/gfn/telegram-php-sdk@1.5.1
