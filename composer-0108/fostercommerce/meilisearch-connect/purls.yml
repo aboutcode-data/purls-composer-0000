@@ -11,3 +11,5 @@
 - pkg:composer/fostercommerce/meilisearch-connect@2.0.0
 - pkg:composer/fostercommerce/meilisearch-connect@2.1.0
 - pkg:composer/fostercommerce/meilisearch-connect@2.1.1
+- pkg:composer/fostercommerce/meilisearch-connect@2.2.0
+- pkg:composer/fostercommerce/meilisearch-connect@2.2.1
