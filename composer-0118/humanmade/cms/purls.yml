@@ -187,6 +187,7 @@
 - pkg:composer/humanmade/cms@23.0.1
 - pkg:composer/humanmade/cms@23.0.10
 - pkg:composer/humanmade/cms@23.0.11
+- pkg:composer/humanmade/cms@23.0.12
 - pkg:composer/humanmade/cms@23.0.2
 - pkg:composer/humanmade/cms@23.0.3
 - pkg:composer/humanmade/cms@23.0.4
@@ -198,6 +199,7 @@
 - pkg:composer/humanmade/cms@24.0.0
 - pkg:composer/humanmade/cms@24.0.0-beta.1
 - pkg:composer/humanmade/cms@24.0.1
+- pkg:composer/humanmade/cms@24.0.10
 - pkg:composer/humanmade/cms@24.0.2
 - pkg:composer/humanmade/cms@24.0.3
 - pkg:composer/humanmade/cms@24.0.4
