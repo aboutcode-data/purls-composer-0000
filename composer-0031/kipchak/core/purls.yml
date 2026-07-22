@@ -70,3 +70,6 @@
 - pkg:composer/kipchak/core@2.7
 - pkg:composer/kipchak/core@2.8
 - pkg:composer/kipchak/core@2.9
+- pkg:composer/kipchak/core@3.0
+- pkg:composer/kipchak/core@3.1
+- pkg:composer/kipchak/core@3.2
