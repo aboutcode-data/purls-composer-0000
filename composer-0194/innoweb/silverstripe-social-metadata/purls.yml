@@ -66,6 +66,7 @@
 - pkg:composer/innoweb/silverstripe-social-metadata@8.5.5
 - pkg:composer/innoweb/silverstripe-social-metadata@8.5.6
 - pkg:composer/innoweb/silverstripe-social-metadata@8.5.7
+- pkg:composer/innoweb/silverstripe-social-metadata@8.5.8
 - pkg:composer/innoweb/silverstripe-social-metadata@9.0.0
 - pkg:composer/innoweb/silverstripe-social-metadata@9.0.1
 - pkg:composer/innoweb/silverstripe-social-metadata@9.0.2
