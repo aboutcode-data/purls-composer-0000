@@ -77,6 +77,9 @@
 - pkg:composer/lindemannrock/craft-search-manager@5.51.0
 - pkg:composer/lindemannrock/craft-search-manager@5.51.1
 - pkg:composer/lindemannrock/craft-search-manager@5.52.0
+- pkg:composer/lindemannrock/craft-search-manager@5.53.0
+- pkg:composer/lindemannrock/craft-search-manager@5.53.1
+- pkg:composer/lindemannrock/craft-search-manager@5.53.2
 - pkg:composer/lindemannrock/craft-search-manager@5.6.0
 - pkg:composer/lindemannrock/craft-search-manager@5.7.0
 - pkg:composer/lindemannrock/craft-search-manager@5.8.0
