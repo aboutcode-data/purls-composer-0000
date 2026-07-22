@@ -70,3 +70,5 @@
 - pkg:composer/klaviyo/magento2-extension@4.4.3
 - pkg:composer/klaviyo/magento2-extension@4.4.4
 - pkg:composer/klaviyo/magento2-extension@5.0.0
+- pkg:composer/klaviyo/magento2-extension@5.0.1
+- pkg:composer/klaviyo/magento2-extension@5.1.0
