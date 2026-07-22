@@ -11,6 +11,7 @@
 - pkg:composer/finetuned/modx-cli@v0.10.0-beta
 - pkg:composer/finetuned/modx-cli@v0.10.3-beta
 - pkg:composer/finetuned/modx-cli@v0.10.4-beta
+- pkg:composer/finetuned/modx-cli@v0.10.5-beta
 - pkg:composer/finetuned/modx-cli@v0.2.0-alpha
 - pkg:composer/finetuned/modx-cli@v0.3.0-alpha
 - pkg:composer/finetuned/modx-cli@v0.4.0-alpha
