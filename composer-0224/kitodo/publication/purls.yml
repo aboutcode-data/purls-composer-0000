@@ -37,6 +37,7 @@
 - pkg:composer/kitodo/publication@v3.1.9
 - pkg:composer/kitodo/publication@v3.2.0
 - pkg:composer/kitodo/publication@v3.2.1
+- pkg:composer/kitodo/publication@v3.2.2
 - pkg:composer/kitodo/publication@v4.0.0-beta
 - pkg:composer/kitodo/publication@v5.0.0
 - pkg:composer/kitodo/publication@v5.0.0-beta
