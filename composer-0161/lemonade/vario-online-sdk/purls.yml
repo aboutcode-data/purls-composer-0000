@@ -23,3 +23,5 @@
 - pkg:composer/lemonade/vario-online-sdk@v1.9.3
 - pkg:composer/lemonade/vario-online-sdk@v1.9.4
 - pkg:composer/lemonade/vario-online-sdk@v2.0.1
+- pkg:composer/lemonade/vario-online-sdk@v3.0.0
+- pkg:composer/lemonade/vario-online-sdk@v3.0.1
