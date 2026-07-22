@@ -18,3 +18,4 @@
 - pkg:composer/lionelhenne/laravel-cockpit-cms@v1.5.6
 - pkg:composer/lionelhenne/laravel-cockpit-cms@v1.5.7
 - pkg:composer/lionelhenne/laravel-cockpit-cms@v1.5.8
+- pkg:composer/lionelhenne/laravel-cockpit-cms@v2.0.0
