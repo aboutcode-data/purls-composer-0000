@@ -1,0 +1,2 @@
+- pkg:composer/knplabs/phpstan-rules@v0.0.1
+- pkg:composer/knplabs/phpstan-rules@v0.1.0
