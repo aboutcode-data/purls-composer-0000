@@ -1,1 +1,2 @@
-- pkg:composer/kommandhub/paystack-sw@1.0.0
+- pkg:composer/kommandhub/paystack-sw@0.9.0-beta.1
+- pkg:composer/kommandhub/paystack-sw@0.9.0-beta.2
