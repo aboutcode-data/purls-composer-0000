@@ -90,3 +90,4 @@
 - pkg:composer/microsoft/microsoft-graph-beta@v3.1.0
 - pkg:composer/microsoft/microsoft-graph-beta@v3.2.0
 - pkg:composer/microsoft/microsoft-graph-beta@v3.3.0
+- pkg:composer/microsoft/microsoft-graph-beta@v3.4.0
