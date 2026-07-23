@@ -17,6 +17,9 @@
 - pkg:composer/mediawiki/maps@12.1.7
 - pkg:composer/mediawiki/maps@13.0.0
 - pkg:composer/mediawiki/maps@13.0.1
+- pkg:composer/mediawiki/maps@13.0.2
+- pkg:composer/mediawiki/maps@13.1.0
+- pkg:composer/mediawiki/maps@14.0.0
 - pkg:composer/mediawiki/maps@3.0
 - pkg:composer/mediawiki/maps@3.0-RC2
 - pkg:composer/mediawiki/maps@3.0.1
