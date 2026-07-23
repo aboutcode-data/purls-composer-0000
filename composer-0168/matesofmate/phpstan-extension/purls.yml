@@ -3,3 +3,4 @@
 - pkg:composer/matesofmate/phpstan-extension@0.3.0
 - pkg:composer/matesofmate/phpstan-extension@0.3.1
 - pkg:composer/matesofmate/phpstan-extension@0.3.2
+- pkg:composer/matesofmate/phpstan-extension@0.4.0
