@@ -10,3 +10,4 @@
 - pkg:composer/innis/nostr-client@v0.5.1
 - pkg:composer/innis/nostr-client@v0.5.3
 - pkg:composer/innis/nostr-client@v0.5.4
+- pkg:composer/innis/nostr-client@v0.5.5
