@@ -31,3 +31,4 @@
 - pkg:composer/lwplugins/lw-cookie@v1.6.7
 - pkg:composer/lwplugins/lw-cookie@v1.6.8
 - pkg:composer/lwplugins/lw-cookie@v1.6.9
+- pkg:composer/lwplugins/lw-cookie@v1.7.0
