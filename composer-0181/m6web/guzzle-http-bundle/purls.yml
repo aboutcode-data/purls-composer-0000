@@ -54,3 +54,4 @@
 - pkg:composer/m6web/guzzle-http-bundle@v5.1.0
 - pkg:composer/m6web/guzzle-http-bundle@v5.1.1
 - pkg:composer/m6web/guzzle-http-bundle@v6.0.0
+- pkg:composer/m6web/guzzle-http-bundle@v7.0.0
