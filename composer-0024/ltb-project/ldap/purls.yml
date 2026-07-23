@@ -15,3 +15,4 @@
 - pkg:composer/ltb-project/ldap@v0.6.2
 - pkg:composer/ltb-project/ldap@v0.6.3
 - pkg:composer/ltb-project/ldap@v0.6.4
+- pkg:composer/ltb-project/ldap@v0.7.0
