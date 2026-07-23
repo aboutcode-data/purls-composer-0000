@@ -6,7 +6,6 @@
 - pkg:composer/isas/php-sdk@v1.0.5
 - pkg:composer/isas/php-sdk@v1.0.6
 - pkg:composer/isas/php-sdk@v1.0.7
-- pkg:composer/isas/php-sdk@v1.0.8
 - pkg:composer/isas/php-sdk@v1.1.0
 - pkg:composer/isas/php-sdk@v1.1.1
 - pkg:composer/isas/php-sdk@v1.1.2
