@@ -76,3 +76,4 @@
 - pkg:composer/mediawiki/semantic-media-wiki@6.0.1
 - pkg:composer/mediawiki/semantic-media-wiki@7.0.0
 - pkg:composer/mediawiki/semantic-media-wiki@7.1.0
+- pkg:composer/mediawiki/semantic-media-wiki@7.2.0
