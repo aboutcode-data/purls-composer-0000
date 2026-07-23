@@ -24,3 +24,4 @@
 - pkg:composer/magefan/module-geoip@2.3.3
 - pkg:composer/magefan/module-geoip@2.3.4
 - pkg:composer/magefan/module-geoip@2.3.5
+- pkg:composer/magefan/module-geoip@2.3.6
