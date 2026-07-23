@@ -36,6 +36,8 @@
 - pkg:composer/loupe/loupe@0.13.2
 - pkg:composer/loupe/loupe@0.13.20
 - pkg:composer/loupe/loupe@0.13.21
+- pkg:composer/loupe/loupe@0.13.22
+- pkg:composer/loupe/loupe@0.13.23
 - pkg:composer/loupe/loupe@0.13.3
 - pkg:composer/loupe/loupe@0.13.4
 - pkg:composer/loupe/loupe@0.13.5
