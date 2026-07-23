@@ -121,6 +121,7 @@
 - pkg:composer/mcguffin/acf-wp-objects@0.8.1
 - pkg:composer/mcguffin/acf-wp-objects@0.8.10
 - pkg:composer/mcguffin/acf-wp-objects@0.8.11
+- pkg:composer/mcguffin/acf-wp-objects@0.8.12
 - pkg:composer/mcguffin/acf-wp-objects@0.8.2
 - pkg:composer/mcguffin/acf-wp-objects@0.8.3
 - pkg:composer/mcguffin/acf-wp-objects@0.8.4
