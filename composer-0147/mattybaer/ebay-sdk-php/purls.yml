@@ -37,3 +37,4 @@
 - pkg:composer/mattybaer/ebay-sdk-php@v19.0.0
 - pkg:composer/mattybaer/ebay-sdk-php@v19.1.0
 - pkg:composer/mattybaer/ebay-sdk-php@v19.1.1
+- pkg:composer/mattybaer/ebay-sdk-php@v19.1.2
