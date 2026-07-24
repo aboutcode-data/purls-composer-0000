@@ -1,4 +1,5 @@
 - pkg:composer/nexendrie/site-generator@0.1.0
+- pkg:composer/nexendrie/site-generator@0.10.0
 - pkg:composer/nexendrie/site-generator@0.2.0
 - pkg:composer/nexendrie/site-generator@0.3.0
 - pkg:composer/nexendrie/site-generator@0.4.0
