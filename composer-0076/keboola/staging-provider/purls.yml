@@ -8,6 +8,7 @@
 - pkg:composer/keboola/staging-provider@12.2.0
 - pkg:composer/keboola/staging-provider@12.2.1
 - pkg:composer/keboola/staging-provider@12.2.2
+- pkg:composer/keboola/staging-provider@12.3.0
 - pkg:composer/keboola/staging-provider@2.0.0
 - pkg:composer/keboola/staging-provider@2.1.0
 - pkg:composer/keboola/staging-provider@2.2.0
