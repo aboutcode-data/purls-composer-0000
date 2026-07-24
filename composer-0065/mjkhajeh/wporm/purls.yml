@@ -90,6 +90,9 @@
 - pkg:composer/mjkhajeh/wporm@v3.24.0.0
 - pkg:composer/mjkhajeh/wporm@v3.25.0.0
 - pkg:composer/mjkhajeh/wporm@v3.26.0.0
+- pkg:composer/mjkhajeh/wporm@v3.26.0.1
+- pkg:composer/mjkhajeh/wporm@v3.27.0.0
+- pkg:composer/mjkhajeh/wporm@v3.28.0.0
 - pkg:composer/mjkhajeh/wporm@v3.3.0.0
 - pkg:composer/mjkhajeh/wporm@v3.4.0.0
 - pkg:composer/mjkhajeh/wporm@v3.5.0.0
