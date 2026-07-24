@@ -353,8 +353,17 @@
 - pkg:composer/modernman00/shared-lib@v1.8.43
 - pkg:composer/modernman00/shared-lib@v1.8.44
 - pkg:composer/modernman00/shared-lib@v1.8.45
+- pkg:composer/modernman00/shared-lib@v1.8.46
+- pkg:composer/modernman00/shared-lib@v1.8.47
+- pkg:composer/modernman00/shared-lib@v1.8.48
+- pkg:composer/modernman00/shared-lib@v1.8.49
 - pkg:composer/modernman00/shared-lib@v1.8.5
+- pkg:composer/modernman00/shared-lib@v1.8.50
+- pkg:composer/modernman00/shared-lib@v1.8.51
+- pkg:composer/modernman00/shared-lib@v1.8.52
+- pkg:composer/modernman00/shared-lib@v1.8.53
 - pkg:composer/modernman00/shared-lib@v1.8.6
 - pkg:composer/modernman00/shared-lib@v1.8.7
 - pkg:composer/modernman00/shared-lib@v1.8.8
 - pkg:composer/modernman00/shared-lib@v1.8.9
+- pkg:composer/modernman00/shared-lib@v1.9.0
