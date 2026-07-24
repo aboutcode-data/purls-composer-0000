@@ -72,6 +72,13 @@
 - pkg:composer/leazycms/web@v1.48
 - pkg:composer/leazycms/web@v1.49
 - pkg:composer/leazycms/web@v1.5
+- pkg:composer/leazycms/web@v1.50
+- pkg:composer/leazycms/web@v1.51
+- pkg:composer/leazycms/web@v1.52
+- pkg:composer/leazycms/web@v1.53
+- pkg:composer/leazycms/web@v1.54
+- pkg:composer/leazycms/web@v1.55
+- pkg:composer/leazycms/web@v1.56
 - pkg:composer/leazycms/web@v1.6
 - pkg:composer/leazycms/web@v1.7
 - pkg:composer/leazycms/web@v1.8
