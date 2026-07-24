@@ -39,6 +39,7 @@
 - pkg:composer/namu/wirechat@v0.5.7
 - pkg:composer/namu/wirechat@v0.5.8
 - pkg:composer/namu/wirechat@v0.5.9
+- pkg:composer/namu/wirechat@v0.6.0
 - pkg:composer/namu/wirechat@v0.6.0-alpha1
 - pkg:composer/namu/wirechat@v0.6.0-alpha10
 - pkg:composer/namu/wirechat@v0.6.0-alpha11
@@ -50,3 +51,5 @@
 - pkg:composer/namu/wirechat@v0.6.0-alpha7
 - pkg:composer/namu/wirechat@v0.6.0-alpha8
 - pkg:composer/namu/wirechat@v0.6.0-alpha9
+- pkg:composer/namu/wirechat@v0.6.0-beta1
+- pkg:composer/namu/wirechat@v0.6.0-beta2
