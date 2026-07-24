@@ -11,6 +11,7 @@
 - pkg:composer/modx/revolution@v2.8.6-pl
 - pkg:composer/modx/revolution@v2.8.7-pl
 - pkg:composer/modx/revolution@v2.8.8-pl
+- pkg:composer/modx/revolution@v2.8.9-pl
 - pkg:composer/modx/revolution@v3.0.0-alpha1
 - pkg:composer/modx/revolution@v3.0.0-alpha2
 - pkg:composer/modx/revolution@v3.0.0-alpha3
@@ -31,3 +32,4 @@
 - pkg:composer/modx/revolution@v3.2.0-pl
 - pkg:composer/modx/revolution@v3.2.1-pl
 - pkg:composer/modx/revolution@v3.2.2-pl
+- pkg:composer/modx/revolution@v3.2.3-pl
