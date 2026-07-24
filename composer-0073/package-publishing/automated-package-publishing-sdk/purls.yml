@@ -4,3 +4,4 @@
 - pkg:composer/package-publishing/automated-package-publishing-sdk@1.0.25
 - pkg:composer/package-publishing/automated-package-publishing-sdk@1.0.26
 - pkg:composer/package-publishing/automated-package-publishing-sdk@1.0.30
+- pkg:composer/package-publishing/automated-package-publishing-sdk@1.0.31
