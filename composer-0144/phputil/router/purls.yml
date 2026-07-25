@@ -22,3 +22,4 @@
 - pkg:composer/phputil/router@v0.3.4
 - pkg:composer/phputil/router@v0.3.5
 - pkg:composer/phputil/router@v0.3.6
+- pkg:composer/phputil/router@v0.4.0
