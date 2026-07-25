@@ -16,3 +16,4 @@
 - pkg:composer/pdfgeneratorapi/php-client@7.0.25
 - pkg:composer/pdfgeneratorapi/php-client@8.0.25
 - pkg:composer/pdfgeneratorapi/php-client@8.0.26
+- pkg:composer/pdfgeneratorapi/php-client@8.0.28
