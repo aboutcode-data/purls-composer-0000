@@ -69,6 +69,7 @@
 - pkg:composer/putyourlightson/craft-sprig@2.15.1
 - pkg:composer/putyourlightson/craft-sprig@2.15.2
 - pkg:composer/putyourlightson/craft-sprig@2.15.3
+- pkg:composer/putyourlightson/craft-sprig@2.15.4
 - pkg:composer/putyourlightson/craft-sprig@2.2.0
 - pkg:composer/putyourlightson/craft-sprig@2.2.1
 - pkg:composer/putyourlightson/craft-sprig@2.3.0
@@ -105,3 +106,4 @@
 - pkg:composer/putyourlightson/craft-sprig@3.7.0
 - pkg:composer/putyourlightson/craft-sprig@3.7.1
 - pkg:composer/putyourlightson/craft-sprig@3.7.2
+- pkg:composer/putyourlightson/craft-sprig@3.7.3
