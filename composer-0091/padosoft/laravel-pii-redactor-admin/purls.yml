@@ -1,3 +1,4 @@
 - pkg:composer/padosoft/laravel-pii-redactor-admin@v1.0.0
 - pkg:composer/padosoft/laravel-pii-redactor-admin@v1.0.1
 - pkg:composer/padosoft/laravel-pii-redactor-admin@v1.0.2
+- pkg:composer/padosoft/laravel-pii-redactor-admin@v1.1.0
