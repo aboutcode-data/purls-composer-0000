@@ -35,6 +35,7 @@
 - pkg:composer/php-stubs/woocommerce-stubs@v10.8.1
 - pkg:composer/php-stubs/woocommerce-stubs@v10.9.1
 - pkg:composer/php-stubs/woocommerce-stubs@v10.9.2
+- pkg:composer/php-stubs/woocommerce-stubs@v10.9.4
 - pkg:composer/php-stubs/woocommerce-stubs@v3.5.0
 - pkg:composer/php-stubs/woocommerce-stubs@v3.5.1
 - pkg:composer/php-stubs/woocommerce-stubs@v3.5.2
