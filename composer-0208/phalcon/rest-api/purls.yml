@@ -1,0 +1,6 @@
+- pkg:composer/phalcon/rest-api@v1.0.0
+- pkg:composer/phalcon/rest-api@v1.1.0
+- pkg:composer/phalcon/rest-api@v1.1.1
+- pkg:composer/phalcon/rest-api@v2.0.0
+- pkg:composer/phalcon/rest-api@v5.0.0
+- pkg:composer/phalcon/rest-api@v5.1.0
