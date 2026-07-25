@@ -72,3 +72,4 @@
 - pkg:composer/popo/generator@6.4.4
 - pkg:composer/popo/generator@6.4.5
 - pkg:composer/popo/generator@6.5.0
+- pkg:composer/popo/generator@v7.0.0
