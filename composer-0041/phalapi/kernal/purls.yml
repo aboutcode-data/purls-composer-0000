@@ -51,6 +51,8 @@
 - pkg:composer/phalapi/kernal@2.21.6
 - pkg:composer/phalapi/kernal@2.22.0
 - pkg:composer/phalapi/kernal@2.23.0
+- pkg:composer/phalapi/kernal@2.23.1
+- pkg:composer/phalapi/kernal@2.23.2
 - pkg:composer/phalapi/kernal@2.3.0
 - pkg:composer/phalapi/kernal@2.3.1
 - pkg:composer/phalapi/kernal@2.4.0
