@@ -25,6 +25,8 @@
 - pkg:composer/sjbr/sr-feuser-register@v12.5.0
 - pkg:composer/sjbr/sr-feuser-register@v12.5.1
 - pkg:composer/sjbr/sr-feuser-register@v13.4.0
+- pkg:composer/sjbr/sr-feuser-register@v13.4.1
+- pkg:composer/sjbr/sr-feuser-register@v14.3.0
 - pkg:composer/sjbr/sr-feuser-register@v7.0.0
 - pkg:composer/sjbr/sr-feuser-register@v7.0.2
 - pkg:composer/sjbr/sr-feuser-register@v7.0.3
