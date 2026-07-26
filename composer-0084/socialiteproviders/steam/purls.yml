@@ -4,6 +4,8 @@
 - pkg:composer/socialiteproviders/steam@4.2.0
 - pkg:composer/socialiteproviders/steam@4.3.0
 - pkg:composer/socialiteproviders/steam@4.3.1
+- pkg:composer/socialiteproviders/steam@4.4.0
+- pkg:composer/socialiteproviders/steam@4.4.1
 - pkg:composer/socialiteproviders/steam@v1.0.0
 - pkg:composer/socialiteproviders/steam@v1.0.1
 - pkg:composer/socialiteproviders/steam@v1.1
