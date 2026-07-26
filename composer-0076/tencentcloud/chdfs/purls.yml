@@ -397,6 +397,8 @@
 - pkg:composer/tencentcloud/chdfs@3.0.1510
 - pkg:composer/tencentcloud/chdfs@3.0.1542
 - pkg:composer/tencentcloud/chdfs@3.0.1589
+- pkg:composer/tencentcloud/chdfs@3.0.1628
+- pkg:composer/tencentcloud/chdfs@3.0.1631
 - pkg:composer/tencentcloud/chdfs@3.0.248
 - pkg:composer/tencentcloud/chdfs@3.0.249
 - pkg:composer/tencentcloud/chdfs@3.0.250
