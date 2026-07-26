@@ -1,2 +1,3 @@
 - pkg:composer/segakgd/mongo_repository@1.0.0
 - pkg:composer/segakgd/mongo_repository@1.0.1
+- pkg:composer/segakgd/mongo_repository@1.0.2
