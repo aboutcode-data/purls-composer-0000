@@ -117,6 +117,7 @@
 - pkg:composer/tecnickcom/tc-lib-pdf-parser@3.13.2
 - pkg:composer/tecnickcom/tc-lib-pdf-parser@3.13.3
 - pkg:composer/tecnickcom/tc-lib-pdf-parser@3.13.4
+- pkg:composer/tecnickcom/tc-lib-pdf-parser@3.14.0
 - pkg:composer/tecnickcom/tc-lib-pdf-parser@3.2.0
 - pkg:composer/tecnickcom/tc-lib-pdf-parser@3.3.0
 - pkg:composer/tecnickcom/tc-lib-pdf-parser@3.4.0
