@@ -13,3 +13,4 @@
 - pkg:composer/strictphp/http-clients@v0.3.3
 - pkg:composer/strictphp/http-clients@v0.3.4
 - pkg:composer/strictphp/http-clients@v0.3.5
+- pkg:composer/strictphp/http-clients@v0.3.7
