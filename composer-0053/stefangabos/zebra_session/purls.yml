@@ -11,3 +11,5 @@
 - pkg:composer/stefangabos/zebra_session@3.1.0
 - pkg:composer/stefangabos/zebra_session@4.0.0
 - pkg:composer/stefangabos/zebra_session@4.1.0
+- pkg:composer/stefangabos/zebra_session@4.2.0
+- pkg:composer/stefangabos/zebra_session@4.2.1
