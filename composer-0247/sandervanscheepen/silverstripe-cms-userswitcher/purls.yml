@@ -1,4 +1,6 @@
 - pkg:composer/sandervanscheepen/silverstripe-cms-userswitcher@1.1.0
+- pkg:composer/sandervanscheepen/silverstripe-cms-userswitcher@2.0.0
+- pkg:composer/sandervanscheepen/silverstripe-cms-userswitcher@3.0.0
 - pkg:composer/sandervanscheepen/silverstripe-cms-userswitcher@v1.1.1
 - pkg:composer/sandervanscheepen/silverstripe-cms-userswitcher@v1.1.2
 - pkg:composer/sandervanscheepen/silverstripe-cms-userswitcher@v1.1.3
