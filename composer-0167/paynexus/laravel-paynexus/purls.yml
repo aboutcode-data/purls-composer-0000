@@ -16,3 +16,4 @@
 - pkg:composer/paynexus/laravel-paynexus@v1.1.5
 - pkg:composer/paynexus/laravel-paynexus@v1.1.6
 - pkg:composer/paynexus/laravel-paynexus@v1.1.7
+- pkg:composer/paynexus/laravel-paynexus@v2.0.1
