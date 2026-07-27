@@ -25,3 +25,5 @@
 - pkg:composer/tmi/translation-bundle@v2.1.0
 - pkg:composer/tmi/translation-bundle@v2.1.1
 - pkg:composer/tmi/translation-bundle@v2.2.0
+- pkg:composer/tmi/translation-bundle@v3.0.0
+- pkg:composer/tmi/translation-bundle@v3.0.1
