@@ -30,3 +30,4 @@
 - pkg:composer/wp-coding-standards/wpcs@3.2.0
 - pkg:composer/wp-coding-standards/wpcs@3.3.0
 - pkg:composer/wp-coding-standards/wpcs@3.4.0
+- pkg:composer/wp-coding-standards/wpcs@3.4.1
