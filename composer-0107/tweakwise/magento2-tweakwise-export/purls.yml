@@ -107,3 +107,4 @@
 - pkg:composer/tweakwise/magento2-tweakwise-export@v7.8.1
 - pkg:composer/tweakwise/magento2-tweakwise-export@v7.8.2
 - pkg:composer/tweakwise/magento2-tweakwise-export@v7.8.3
+- pkg:composer/tweakwise/magento2-tweakwise-export@v8.0.0
