@@ -21,3 +21,5 @@
 - pkg:composer/voltcms/useraccess@1.7.0
 - pkg:composer/voltcms/useraccess@1.8.0
 - pkg:composer/voltcms/useraccess@1.8.1
+- pkg:composer/voltcms/useraccess@2.0.0
+- pkg:composer/voltcms/useraccess@2.0.1
