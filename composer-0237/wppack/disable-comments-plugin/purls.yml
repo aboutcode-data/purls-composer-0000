@@ -1,1 +1,2 @@
 - pkg:composer/wppack/disable-comments-plugin@v1.0.0
+- pkg:composer/wppack/disable-comments-plugin@v1.1.0
