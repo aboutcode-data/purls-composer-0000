@@ -1,2 +1,3 @@
 - pkg:composer/wptechnix/wp-background-jobs@v1.0.0
 - pkg:composer/wptechnix/wp-background-jobs@v1.0.1
+- pkg:composer/wptechnix/wp-background-jobs@v2.0.0
