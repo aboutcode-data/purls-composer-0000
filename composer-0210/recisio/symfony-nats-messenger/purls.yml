@@ -1,3 +1,4 @@
 - pkg:composer/recisio/symfony-nats-messenger@v4.0.1
 - pkg:composer/recisio/symfony-nats-messenger@v5.0.0
 - pkg:composer/recisio/symfony-nats-messenger@v5.0.1
+- pkg:composer/recisio/symfony-nats-messenger@v5.0.2
