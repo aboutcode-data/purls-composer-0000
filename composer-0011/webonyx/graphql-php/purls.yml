@@ -178,6 +178,8 @@
 - pkg:composer/webonyx/graphql-php@v15.33.0
 - pkg:composer/webonyx/graphql-php@v15.33.1
 - pkg:composer/webonyx/graphql-php@v15.34.0
+- pkg:composer/webonyx/graphql-php@v15.34.1
+- pkg:composer/webonyx/graphql-php@v15.35.0
 - pkg:composer/webonyx/graphql-php@v15.4.0
 - pkg:composer/webonyx/graphql-php@v15.5.0
 - pkg:composer/webonyx/graphql-php@v15.5.1
