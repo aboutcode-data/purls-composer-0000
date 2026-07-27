@@ -70,3 +70,4 @@
 - pkg:composer/vssl/render@6.8.7
 - pkg:composer/vssl/render@6.8.8
 - pkg:composer/vssl/render@6.8.9
+- pkg:composer/vssl/render@6.9.0
