@@ -9,6 +9,7 @@
 - pkg:composer/arout/rhapsody-app@v1.10.6
 - pkg:composer/arout/rhapsody-app@v1.10.7
 - pkg:composer/arout/rhapsody-app@v1.10.8
+- pkg:composer/arout/rhapsody-app@v1.11.0
 - pkg:composer/arout/rhapsody-app@v1.5.2
 - pkg:composer/arout/rhapsody-app@v1.5.3
 - pkg:composer/arout/rhapsody-app@v1.6.0
@@ -30,3 +31,4 @@
 - pkg:composer/arout/rhapsody-app@v1.9.0
 - pkg:composer/arout/rhapsody-app@v1.9.1
 - pkg:composer/arout/rhapsody-app@v1.9.2
+- pkg:composer/arout/rhapsody-app@v2.0.0
