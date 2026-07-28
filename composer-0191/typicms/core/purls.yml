@@ -242,6 +242,7 @@
 - pkg:composer/typicms/core@17.0.35
 - pkg:composer/typicms/core@17.0.37
 - pkg:composer/typicms/core@17.0.38
+- pkg:composer/typicms/core@17.0.39
 - pkg:composer/typicms/core@17.0.4
 - pkg:composer/typicms/core@17.0.5
 - pkg:composer/typicms/core@17.0.6
