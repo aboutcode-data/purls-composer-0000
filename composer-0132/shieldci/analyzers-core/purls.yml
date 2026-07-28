@@ -27,3 +27,4 @@
 - pkg:composer/shieldci/analyzers-core@v1.6.0
 - pkg:composer/shieldci/analyzers-core@v2.0.0
 - pkg:composer/shieldci/analyzers-core@v2.1.0
+- pkg:composer/shieldci/analyzers-core@v2.1.1
