@@ -4,3 +4,6 @@
 - pkg:composer/toropyga/session@v2.0.3
 - pkg:composer/toropyga/session@v2.1.0
 - pkg:composer/toropyga/session@v2.2.0
+- pkg:composer/toropyga/session@v2.2.1
+- pkg:composer/toropyga/session@v2.2.2
+- pkg:composer/toropyga/session@v2.2.3
