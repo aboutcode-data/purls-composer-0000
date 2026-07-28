@@ -19,3 +19,5 @@
 - pkg:composer/simp/pindrop@v2.0.9
 - pkg:composer/simp/pindrop@v3.0.1
 - pkg:composer/simp/pindrop@v4.0.0
+- pkg:composer/simp/pindrop@v4.0.1
+- pkg:composer/simp/pindrop@v4.0.2
