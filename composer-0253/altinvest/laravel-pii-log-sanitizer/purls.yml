@@ -1,3 +1,4 @@
 - pkg:composer/altinvest/laravel-pii-log-sanitizer@v2.0.0
 - pkg:composer/altinvest/laravel-pii-log-sanitizer@v2.0.1
 - pkg:composer/altinvest/laravel-pii-log-sanitizer@v2.0.2
+- pkg:composer/altinvest/laravel-pii-log-sanitizer@v2.0.3
