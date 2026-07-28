@@ -10,3 +10,6 @@
 - pkg:composer/avadim/fast-excel-templator@v2.2.0
 - pkg:composer/avadim/fast-excel-templator@v2.3.0
 - pkg:composer/avadim/fast-excel-templator@v2.4.0
+- pkg:composer/avadim/fast-excel-templator@v3.0.0
+- pkg:composer/avadim/fast-excel-templator@v3.0.1
+- pkg:composer/avadim/fast-excel-templator@v3.1.0
