@@ -16,3 +16,5 @@
 - pkg:composer/toropyga/flog@v3.0.5
 - pkg:composer/toropyga/flog@v3.0.6
 - pkg:composer/toropyga/flog@v3.0.7
+- pkg:composer/toropyga/flog@v4.0.0
+- pkg:composer/toropyga/flog@v4.0.1

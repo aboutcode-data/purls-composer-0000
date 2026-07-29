@@ -7,3 +7,6 @@
 - pkg:composer/toropyga/session@v2.2.1
 - pkg:composer/toropyga/session@v2.2.2
 - pkg:composer/toropyga/session@v2.2.3
+- pkg:composer/toropyga/session@v3.0.0
+- pkg:composer/toropyga/session@v3.0.1
+- pkg:composer/toropyga/session@v3.0.2
