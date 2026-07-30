@@ -71,6 +71,8 @@
 - pkg:composer/bezhansalleh/filament-shield@4.0.4
 - pkg:composer/bezhansalleh/filament-shield@4.1.0
 - pkg:composer/bezhansalleh/filament-shield@4.2.0
+- pkg:composer/bezhansalleh/filament-shield@4.3.0
+- pkg:composer/bezhansalleh/filament-shield@4.3.1
 - pkg:composer/bezhansalleh/filament-shield@v1.0.0
 - pkg:composer/bezhansalleh/filament-shield@v1.0.1
 - pkg:composer/bezhansalleh/filament-shield@v1.0.2
