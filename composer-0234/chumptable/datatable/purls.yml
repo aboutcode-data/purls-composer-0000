@@ -1,1 +1,4 @@
 - pkg:composer/chumptable/datatable@1.0.0
+- pkg:composer/chumptable/datatable@v2.0.0
+- pkg:composer/chumptable/datatable@v2.0.1
+- pkg:composer/chumptable/datatable@v2.0.2
