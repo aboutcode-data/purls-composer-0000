@@ -46,3 +46,4 @@
 - pkg:composer/businessprocess/payhub-sdk@v2.1.0
 - pkg:composer/businessprocess/payhub-sdk@v2.1.1
 - pkg:composer/businessprocess/payhub-sdk@v2.1.2
+- pkg:composer/businessprocess/payhub-sdk@v2.1.3
