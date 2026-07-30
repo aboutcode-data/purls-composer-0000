@@ -1,2 +1,4 @@
 - pkg:composer/cloud-castle/idempotency@v0.1.0
 - pkg:composer/cloud-castle/idempotency@v0.1.1
+- pkg:composer/cloud-castle/idempotency@v1.0.0
+- pkg:composer/cloud-castle/idempotency@v1.0.1

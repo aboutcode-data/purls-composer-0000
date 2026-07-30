@@ -1,1 +1,6 @@
 - pkg:composer/cloud-castle/validator@v0.1.0
+- pkg:composer/cloud-castle/validator@v0.1.1
+- pkg:composer/cloud-castle/validator@v1.0.0
+- pkg:composer/cloud-castle/validator@v1.1.0
+- pkg:composer/cloud-castle/validator@v1.1.1
+- pkg:composer/cloud-castle/validator@v1.1.2
