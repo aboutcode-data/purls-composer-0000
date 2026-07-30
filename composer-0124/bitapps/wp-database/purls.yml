@@ -11,3 +11,4 @@
 - pkg:composer/bitapps/wp-database@1.8
 - pkg:composer/bitapps/wp-database@1.9
 - pkg:composer/bitapps/wp-database@2.0.0
+- pkg:composer/bitapps/wp-database@2.0.1
