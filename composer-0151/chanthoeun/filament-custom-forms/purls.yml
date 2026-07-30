@@ -27,6 +27,7 @@
 - pkg:composer/chanthoeun/filament-custom-forms@v1.3.1
 - pkg:composer/chanthoeun/filament-custom-forms@v1.3.10
 - pkg:composer/chanthoeun/filament-custom-forms@v1.3.11
+- pkg:composer/chanthoeun/filament-custom-forms@v1.3.12
 - pkg:composer/chanthoeun/filament-custom-forms@v1.3.2
 - pkg:composer/chanthoeun/filament-custom-forms@v1.3.3
 - pkg:composer/chanthoeun/filament-custom-forms@v1.3.4
@@ -35,3 +36,7 @@
 - pkg:composer/chanthoeun/filament-custom-forms@v1.3.7
 - pkg:composer/chanthoeun/filament-custom-forms@v1.3.8
 - pkg:composer/chanthoeun/filament-custom-forms@v1.3.9
+- pkg:composer/chanthoeun/filament-custom-forms@v1.4.0
+- pkg:composer/chanthoeun/filament-custom-forms@v1.4.1
+- pkg:composer/chanthoeun/filament-custom-forms@v1.5.0
+- pkg:composer/chanthoeun/filament-custom-forms@v1.5.1
