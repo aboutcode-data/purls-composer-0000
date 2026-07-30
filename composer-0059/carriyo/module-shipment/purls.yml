@@ -19,4 +19,5 @@
 - pkg:composer/carriyo/module-shipment@2.0.0
 - pkg:composer/carriyo/module-shipment@2.0.0-beta2
 - pkg:composer/carriyo/module-shipment@2.0.0-beta3
+- pkg:composer/carriyo/module-shipment@2.0.1
 - pkg:composer/carriyo/module-shipment@v2.0.0-beta1
