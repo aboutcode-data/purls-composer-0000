@@ -39,6 +39,8 @@
 - pkg:composer/brunoconte3/dev-utils@2.15.0
 - pkg:composer/brunoconte3/dev-utils@2.15.1
 - pkg:composer/brunoconte3/dev-utils@2.15.2
+- pkg:composer/brunoconte3/dev-utils@2.16.0
+- pkg:composer/brunoconte3/dev-utils@2.16.1
 - pkg:composer/brunoconte3/dev-utils@2.2.0
 - pkg:composer/brunoconte3/dev-utils@2.3.0
 - pkg:composer/brunoconte3/dev-utils@2.4.0
@@ -57,4 +59,3 @@
 - pkg:composer/brunoconte3/dev-utils@2.7.0
 - pkg:composer/brunoconte3/dev-utils@2.8.0
 - pkg:composer/brunoconte3/dev-utils@2.9.0
-- pkg:composer/brunoconte3/dev-utils@2607001
