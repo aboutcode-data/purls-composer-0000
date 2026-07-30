@@ -1,3 +1,6 @@
 - pkg:composer/captns/statamic-altcha@0.1
 - pkg:composer/captns/statamic-altcha@0.1-alpha
 - pkg:composer/captns/statamic-altcha@0.2
+- pkg:composer/captns/statamic-altcha@0.3.0
+- pkg:composer/captns/statamic-altcha@0.3.2
+- pkg:composer/captns/statamic-altcha@v0.4.0
