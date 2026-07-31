@@ -3,3 +3,6 @@
 - pkg:composer/coysh-digital/craft-manager-connector@1.4.0
 - pkg:composer/coysh-digital/craft-manager-connector@1.4.1
 - pkg:composer/coysh-digital/craft-manager-connector@1.5.0
+- pkg:composer/coysh-digital/craft-manager-connector@1.7.0
+- pkg:composer/coysh-digital/craft-manager-connector@1.7.1
+- pkg:composer/coysh-digital/craft-manager-connector@1.8.0
