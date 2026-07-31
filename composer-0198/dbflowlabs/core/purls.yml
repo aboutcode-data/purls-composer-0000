@@ -7,3 +7,5 @@
 - pkg:composer/dbflowlabs/core@0.9.0-beta.1
 - pkg:composer/dbflowlabs/core@1.0.0
 - pkg:composer/dbflowlabs/core@1.0.0-rc.1
+- pkg:composer/dbflowlabs/core@1.1.0
+- pkg:composer/dbflowlabs/core@1.1.1

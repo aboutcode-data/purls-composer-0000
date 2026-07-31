@@ -2,3 +2,4 @@
 - pkg:composer/dbdiff/dbdiff@v2.0.0
 - pkg:composer/dbdiff/dbdiff@v3.0.0-rc.1
 - pkg:composer/dbdiff/dbdiff@v3.0.0-rc.2
+- pkg:composer/dbdiff/dbdiff@v3.0.0-rc.3
