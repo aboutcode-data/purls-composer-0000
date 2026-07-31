@@ -64,6 +64,10 @@
 - pkg:composer/control-ui-kit/control-ui-kit@1.10.8
 - pkg:composer/control-ui-kit/control-ui-kit@1.10.9
 - pkg:composer/control-ui-kit/control-ui-kit@1.11.0
+- pkg:composer/control-ui-kit/control-ui-kit@1.11.1
+- pkg:composer/control-ui-kit/control-ui-kit@1.11.2
+- pkg:composer/control-ui-kit/control-ui-kit@1.11.3
+- pkg:composer/control-ui-kit/control-ui-kit@1.11.4
 - pkg:composer/control-ui-kit/control-ui-kit@1.2.0
 - pkg:composer/control-ui-kit/control-ui-kit@1.2.1
 - pkg:composer/control-ui-kit/control-ui-kit@1.2.2
