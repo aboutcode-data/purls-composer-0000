@@ -17,3 +17,4 @@
 - pkg:composer/avto-dev/app-version-laravel@v3.6.0
 - pkg:composer/avto-dev/app-version-laravel@v3.7.0
 - pkg:composer/avto-dev/app-version-laravel@v3.8.0
+- pkg:composer/avto-dev/app-version-laravel@v3.9.0
