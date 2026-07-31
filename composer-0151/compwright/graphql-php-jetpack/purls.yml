@@ -7,3 +7,4 @@
 - pkg:composer/compwright/graphql-php-jetpack@v2.2.0
 - pkg:composer/compwright/graphql-php-jetpack@v2.2.1
 - pkg:composer/compwright/graphql-php-jetpack@v2.3.0
+- pkg:composer/compwright/graphql-php-jetpack@v3.0.0
