@@ -28,3 +28,4 @@
 - pkg:composer/cwm/broadworks-connector@4.0.0
 - pkg:composer/cwm/broadworks-connector@4.1.0
 - pkg:composer/cwm/broadworks-connector@4.1.1
+- pkg:composer/cwm/broadworks-connector@5.0.0
