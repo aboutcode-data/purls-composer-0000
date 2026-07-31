@@ -1,8 +1,1 @@
-- pkg:composer/devanoxltd/laravel-permission@v1.0.0
-- pkg:composer/devanoxltd/laravel-permission@v1.1.0
-- pkg:composer/devanoxltd/laravel-permission@v1.2.0
-- pkg:composer/devanoxltd/laravel-permission@v1.3.0
-- pkg:composer/devanoxltd/laravel-permission@v1.4.0
-- pkg:composer/devanoxltd/laravel-permission@v2.0.0
-- pkg:composer/devanoxltd/laravel-permission@v3.0.0
-- pkg:composer/devanoxltd/laravel-permission@v4.0.0
+- pkg:composer/devanoxltd/laravel-permission@8.3.0
