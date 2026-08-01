@@ -7,3 +7,4 @@
 - pkg:composer/ennacx/php-simple-curl@v2.0.0-beta4
 - pkg:composer/ennacx/php-simple-curl@v2.0.0-beta5
 - pkg:composer/ennacx/php-simple-curl@v2.0.0-rc1
+- pkg:composer/ennacx/php-simple-curl@v2.0.0-rc2
