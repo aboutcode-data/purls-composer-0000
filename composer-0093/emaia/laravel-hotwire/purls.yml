@@ -67,6 +67,9 @@
 - pkg:composer/emaia/laravel-hotwire@0.55.0
 - pkg:composer/emaia/laravel-hotwire@0.56.0
 - pkg:composer/emaia/laravel-hotwire@0.56.1
+- pkg:composer/emaia/laravel-hotwire@0.57.0
+- pkg:composer/emaia/laravel-hotwire@0.58.0
+- pkg:composer/emaia/laravel-hotwire@0.59.0
 - pkg:composer/emaia/laravel-hotwire@0.6.0
 - pkg:composer/emaia/laravel-hotwire@0.6.1
 - pkg:composer/emaia/laravel-hotwire@0.6.2
