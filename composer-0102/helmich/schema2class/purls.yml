@@ -31,3 +31,4 @@
 - pkg:composer/helmich/schema2class@v3.3.9
 - pkg:composer/helmich/schema2class@v4.0.0-beta1
 - pkg:composer/helmich/schema2class@v4.0.0-beta2
+- pkg:composer/helmich/schema2class@v4.0.0-beta3
