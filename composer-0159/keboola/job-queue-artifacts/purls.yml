@@ -1,2 +1,3 @@
 - pkg:composer/keboola/job-queue-artifacts@4.0.2
 - pkg:composer/keboola/job-queue-artifacts@4.0.3
+- pkg:composer/keboola/job-queue-artifacts@4.1.0
