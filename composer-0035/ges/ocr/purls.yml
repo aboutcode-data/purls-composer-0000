@@ -16,6 +16,7 @@
 - pkg:composer/ges/ocr@0.3.7
 - pkg:composer/ges/ocr@0.3.8
 - pkg:composer/ges/ocr@0.3.9
+- pkg:composer/ges/ocr@0.4.0
 - pkg:composer/ges/ocr@v0.1.1
 - pkg:composer/ges/ocr@v0.1.2
 - pkg:composer/ges/ocr@v0.1.3
