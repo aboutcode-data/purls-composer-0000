@@ -62,6 +62,9 @@
 - pkg:composer/fluxfiles/fluxfiles@v0.2.61
 - pkg:composer/fluxfiles/fluxfiles@v0.2.62
 - pkg:composer/fluxfiles/fluxfiles@v0.2.63
+- pkg:composer/fluxfiles/fluxfiles@v0.2.64
+- pkg:composer/fluxfiles/fluxfiles@v0.2.65
+- pkg:composer/fluxfiles/fluxfiles@v0.2.66
 - pkg:composer/fluxfiles/fluxfiles@v0.2.7
 - pkg:composer/fluxfiles/fluxfiles@v0.2.8
 - pkg:composer/fluxfiles/fluxfiles@v0.2.9
