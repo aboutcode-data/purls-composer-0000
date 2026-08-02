@@ -32,3 +32,4 @@
 - pkg:composer/fivefilters/readability.php@v3.3.3
 - pkg:composer/fivefilters/readability.php@v4.0.0
 - pkg:composer/fivefilters/readability.php@v4.0.0-beta.1
+- pkg:composer/fivefilters/readability.php@v4.1.0
