@@ -39,3 +39,4 @@
 - pkg:composer/fusio/cli@v4.3.0
 - pkg:composer/fusio/cli@v4.4.0
 - pkg:composer/fusio/cli@v4.4.1
+- pkg:composer/fusio/cli@v4.4.2
