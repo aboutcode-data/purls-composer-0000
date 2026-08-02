@@ -25,3 +25,4 @@
 - pkg:composer/kdyby/autowired@v3.0.2
 - pkg:composer/kdyby/autowired@v3.1.0
 - pkg:composer/kdyby/autowired@v3.2.0
+- pkg:composer/kdyby/autowired@v3.2.2
