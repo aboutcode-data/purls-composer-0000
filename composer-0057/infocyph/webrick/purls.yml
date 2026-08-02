@@ -8,3 +8,8 @@
 - pkg:composer/infocyph/webrick@2.01.3
 - pkg:composer/infocyph/webrick@2.02
 - pkg:composer/infocyph/webrick@2.02.1
+- pkg:composer/infocyph/webrick@3.0
+- pkg:composer/infocyph/webrick@3.0.1
+- pkg:composer/infocyph/webrick@3.2
+- pkg:composer/infocyph/webrick@3.2.1
+- pkg:composer/infocyph/webrick@3.2.2
