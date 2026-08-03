@@ -39,3 +39,4 @@
 - pkg:composer/iperamuna/laravel-hypercacheio@v1.8.9
 - pkg:composer/iperamuna/laravel-hypercacheio@v2.0.0
 - pkg:composer/iperamuna/laravel-hypercacheio@v2.1.0
+- pkg:composer/iperamuna/laravel-hypercacheio@v2.1.1
