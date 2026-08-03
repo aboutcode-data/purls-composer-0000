@@ -11,3 +11,4 @@
 - pkg:composer/kylin987/webman-thinkorm-redis-cache@v1.2.4
 - pkg:composer/kylin987/webman-thinkorm-redis-cache@v1.2.5
 - pkg:composer/kylin987/webman-thinkorm-redis-cache@v1.2.6
+- pkg:composer/kylin987/webman-thinkorm-redis-cache@v2.0.0
