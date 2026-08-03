@@ -14,4 +14,5 @@
 - pkg:composer/hyperia/yii2-secure-headers@2.2
 - pkg:composer/hyperia/yii2-secure-headers@2.3
 - pkg:composer/hyperia/yii2-secure-headers@2.5
+- pkg:composer/hyperia/yii2-secure-headers@2.6
 - pkg:composer/hyperia/yii2-secure-headers@3.0
