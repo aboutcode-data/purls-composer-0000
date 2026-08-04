@@ -6,3 +6,5 @@
 - pkg:composer/lucasacoutinho/ext-clickhouse-pdo@v1.0.5
 - pkg:composer/lucasacoutinho/ext-clickhouse-pdo@v1.0.6
 - pkg:composer/lucasacoutinho/ext-clickhouse-pdo@v1.0.7
+- pkg:composer/lucasacoutinho/ext-clickhouse-pdo@v1.1.0
+- pkg:composer/lucasacoutinho/ext-clickhouse-pdo@v1.2.0
