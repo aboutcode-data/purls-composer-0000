@@ -106,4 +106,7 @@
 - pkg:composer/leazycms/web@v1.81
 - pkg:composer/leazycms/web@v1.82
 - pkg:composer/leazycms/web@v1.83
+- pkg:composer/leazycms/web@v1.84
+- pkg:composer/leazycms/web@v1.85
+- pkg:composer/leazycms/web@v1.86
 - pkg:composer/leazycms/web@v1.9
