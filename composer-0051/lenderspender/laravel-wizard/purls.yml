@@ -13,3 +13,4 @@
 - pkg:composer/lenderspender/laravel-wizard@3.2.0
 - pkg:composer/lenderspender/laravel-wizard@3.3.0
 - pkg:composer/lenderspender/laravel-wizard@3.4.0
+- pkg:composer/lenderspender/laravel-wizard@4.0.0
