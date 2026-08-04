@@ -6,7 +6,10 @@
 - pkg:composer/level51/silverstripe-data-object-actions@0.4.2
 - pkg:composer/level51/silverstripe-data-object-actions@0.4.3
 - pkg:composer/level51/silverstripe-data-object-actions@0.4.4
+- pkg:composer/level51/silverstripe-data-object-actions@0.4.5
 - pkg:composer/level51/silverstripe-data-object-actions@1.0.0
 - pkg:composer/level51/silverstripe-data-object-actions@1.0.1
+- pkg:composer/level51/silverstripe-data-object-actions@1.0.2
 - pkg:composer/level51/silverstripe-data-object-actions@2.0.0
 - pkg:composer/level51/silverstripe-data-object-actions@2.0.1
+- pkg:composer/level51/silverstripe-data-object-actions@2.0.2
