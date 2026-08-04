@@ -1,4 +1,6 @@
 - pkg:composer/jildertmiedema/laravel-tactician@V0.6.0
+- pkg:composer/jildertmiedema/laravel-tactician@V0.8.0
+- pkg:composer/jildertmiedema/laravel-tactician@V0.8.1
 - pkg:composer/jildertmiedema/laravel-tactician@v0.1.0
 - pkg:composer/jildertmiedema/laravel-tactician@v0.1.1
 - pkg:composer/jildertmiedema/laravel-tactician@v0.2.0
