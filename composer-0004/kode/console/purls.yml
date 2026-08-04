@@ -1,3 +1,4 @@
+- pkg:composer/kode/console@4.0.0
 - pkg:composer/kode/console@v1.0.0
 - pkg:composer/kode/console@v1.1.0
 - pkg:composer/kode/console@v2.1.0

@@ -1,2 +1,3 @@
 - pkg:composer/kode/runtime@1.1.0
 - pkg:composer/kode/runtime@1.2.0
+- pkg:composer/kode/runtime@3.0.0
