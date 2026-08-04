@@ -1,3 +1,11 @@
+- pkg:composer/macropay-solutions/php-framework@1.0.0-RC-10
+- pkg:composer/macropay-solutions/php-framework@1.0.0-RC-11
+- pkg:composer/macropay-solutions/php-framework@1.0.0-RC-12
+- pkg:composer/macropay-solutions/php-framework@1.0.0-RC-13
+- pkg:composer/macropay-solutions/php-framework@1.0.0-RC-14
+- pkg:composer/macropay-solutions/php-framework@1.0.0-RC-15
+- pkg:composer/macropay-solutions/php-framework@1.0.0-RC-16
+- pkg:composer/macropay-solutions/php-framework@1.0.0-RC-17
 - pkg:composer/macropay-solutions/php-framework@1.0.0-RC-4
 - pkg:composer/macropay-solutions/php-framework@1.0.0-RC-5
 - pkg:composer/macropay-solutions/php-framework@1.0.0-RC-6
