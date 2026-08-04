@@ -97,3 +97,4 @@
 - pkg:composer/inertiajs/inertia-laravel@v3.1.1
 - pkg:composer/inertiajs/inertia-laravel@v3.2.0
 - pkg:composer/inertiajs/inertia-laravel@v3.2.1
+- pkg:composer/inertiajs/inertia-laravel@v3.3.0
