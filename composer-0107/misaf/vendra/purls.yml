@@ -12,8 +12,11 @@
 - pkg:composer/misaf/vendra@v0.0.6
 - pkg:composer/misaf/vendra@v0.0.7
 - pkg:composer/misaf/vendra@v1.0.0
+- pkg:composer/misaf/vendra@v1.10.0
 - pkg:composer/misaf/vendra@v1.2.0
 - pkg:composer/misaf/vendra@v1.2.1
 - pkg:composer/misaf/vendra@v1.6.0
 - pkg:composer/misaf/vendra@v1.7.0
 - pkg:composer/misaf/vendra@v1.7.1
+- pkg:composer/misaf/vendra@v1.8.0
+- pkg:composer/misaf/vendra@v1.9.0
