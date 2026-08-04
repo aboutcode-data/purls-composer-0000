@@ -60,6 +60,7 @@
 - pkg:composer/mediawiki/page-forms@5.9.1
 - pkg:composer/mediawiki/page-forms@6.0
 - pkg:composer/mediawiki/page-forms@6.0.1
+- pkg:composer/mediawiki/page-forms@6.0.10
 - pkg:composer/mediawiki/page-forms@6.0.2
 - pkg:composer/mediawiki/page-forms@6.0.3
 - pkg:composer/mediawiki/page-forms@6.0.4
