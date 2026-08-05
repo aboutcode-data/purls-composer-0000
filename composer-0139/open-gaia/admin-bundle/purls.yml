@@ -22,3 +22,5 @@
 - pkg:composer/open-gaia/admin-bundle@v1.3.0
 - pkg:composer/open-gaia/admin-bundle@v1.3.1
 - pkg:composer/open-gaia/admin-bundle@v2.0.0
+- pkg:composer/open-gaia/admin-bundle@v2.0.1
+- pkg:composer/open-gaia/admin-bundle@v2.0.2
