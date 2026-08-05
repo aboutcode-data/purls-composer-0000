@@ -17,6 +17,7 @@
 - pkg:composer/pimcore/studio-backend-bundle@v2025.4.6
 - pkg:composer/pimcore/studio-backend-bundle@v2025.4.7
 - pkg:composer/pimcore/studio-backend-bundle@v2025.4.8
+- pkg:composer/pimcore/studio-backend-bundle@v2025.4.9
 - pkg:composer/pimcore/studio-backend-bundle@v2026.1.0
 - pkg:composer/pimcore/studio-backend-bundle@v2026.1.1
 - pkg:composer/pimcore/studio-backend-bundle@v2026.1.2
@@ -27,3 +28,5 @@
 - pkg:composer/pimcore/studio-backend-bundle@v2026.2.0
 - pkg:composer/pimcore/studio-backend-bundle@v2026.2.0-RC1
 - pkg:composer/pimcore/studio-backend-bundle@v2026.2.1
+- pkg:composer/pimcore/studio-backend-bundle@v2026.2.2
+- pkg:composer/pimcore/studio-backend-bundle@v2026.2.3
