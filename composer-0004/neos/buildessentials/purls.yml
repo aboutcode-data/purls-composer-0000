@@ -87,3 +87,4 @@
 - pkg:composer/neos/buildessentials@9.0.0-beta1
 - pkg:composer/neos/buildessentials@9.0.0-beta10
 - pkg:composer/neos/buildessentials@9.0.0-beta11
+- pkg:composer/neos/buildessentials@9.1.2
