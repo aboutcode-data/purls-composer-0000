@@ -433,3 +433,4 @@
 - pkg:composer/ngos/admin-core@v3.0.2
 - pkg:composer/ngos/admin-core@v3.0.3
 - pkg:composer/ngos/admin-core@v3.1.0
+- pkg:composer/ngos/admin-core@v4.0.0
