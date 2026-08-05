@@ -40,6 +40,7 @@
 - pkg:composer/moderntribe/tribe-libs@4.2.1
 - pkg:composer/moderntribe/tribe-libs@4.2.2
 - pkg:composer/moderntribe/tribe-libs@4.2.3
+- pkg:composer/moderntribe/tribe-libs@5.0.0
 - pkg:composer/moderntribe/tribe-libs@v1.0.0
 - pkg:composer/moderntribe/tribe-libs@v2.0.0
 - pkg:composer/moderntribe/tribe-libs@v2.1.0
