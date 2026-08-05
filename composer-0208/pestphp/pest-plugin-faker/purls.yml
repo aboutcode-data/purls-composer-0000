@@ -7,3 +7,4 @@
 - pkg:composer/pestphp/pest-plugin-faker@v2.0.0
 - pkg:composer/pestphp/pest-plugin-faker@v3.0.0
 - pkg:composer/pestphp/pest-plugin-faker@v4.0.0
+- pkg:composer/pestphp/pest-plugin-faker@v5.0.0
