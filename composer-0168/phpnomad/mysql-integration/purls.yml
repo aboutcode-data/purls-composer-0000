@@ -13,3 +13,4 @@
 - pkg:composer/phpnomad/mysql-integration@1.2.1
 - pkg:composer/phpnomad/mysql-integration@1.2.2
 - pkg:composer/phpnomad/mysql-integration@1.2.3
+- pkg:composer/phpnomad/mysql-integration@1.2.4
