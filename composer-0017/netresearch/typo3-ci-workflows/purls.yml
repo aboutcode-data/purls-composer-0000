@@ -7,3 +7,6 @@
 - pkg:composer/netresearch/typo3-ci-workflows@v1.3.0
 - pkg:composer/netresearch/typo3-ci-workflows@v1.3.1
 - pkg:composer/netresearch/typo3-ci-workflows@v1.3.2
+- pkg:composer/netresearch/typo3-ci-workflows@v1.3.3
+- pkg:composer/netresearch/typo3-ci-workflows@v1.3.4
+- pkg:composer/netresearch/typo3-ci-workflows@v1.4.0
