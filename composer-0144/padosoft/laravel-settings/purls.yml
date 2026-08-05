@@ -56,3 +56,4 @@
 - pkg:composer/padosoft/laravel-settings@6.5.0
 - pkg:composer/padosoft/laravel-settings@6.5.1
 - pkg:composer/padosoft/laravel-settings@6.5.2
+- pkg:composer/padosoft/laravel-settings@7.0.0
