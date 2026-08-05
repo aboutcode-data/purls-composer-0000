@@ -7,3 +7,5 @@
 - pkg:composer/nswdpc/silverstripe-grid-helpers@v0.2.0-rc4
 - pkg:composer/nswdpc/silverstripe-grid-helpers@v1.0.0
 - pkg:composer/nswdpc/silverstripe-grid-helpers@v1.0.0-rc1
+- pkg:composer/nswdpc/silverstripe-grid-helpers@v1.1.0
+- pkg:composer/nswdpc/silverstripe-grid-helpers@v2.0.0
