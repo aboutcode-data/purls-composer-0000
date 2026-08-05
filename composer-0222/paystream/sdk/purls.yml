@@ -1,2 +1,4 @@
 - pkg:composer/paystream/sdk@v1.0.0
 - pkg:composer/paystream/sdk@v1.1.0
+- pkg:composer/paystream/sdk@v2.0.0
+- pkg:composer/paystream/sdk@v2.0.1
