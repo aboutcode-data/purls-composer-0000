@@ -12,3 +12,4 @@
 - pkg:composer/rdx/laravel-aggregate-relationships@1.7
 - pkg:composer/rdx/laravel-aggregate-relationships@1.8
 - pkg:composer/rdx/laravel-aggregate-relationships@1.9
+- pkg:composer/rdx/laravel-aggregate-relationships@2.0
