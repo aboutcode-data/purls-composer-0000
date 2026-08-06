@@ -15,3 +15,5 @@
 - pkg:composer/otago/silverstripe-tiptap@6.4.1
 - pkg:composer/otago/silverstripe-tiptap@6.5
 - pkg:composer/otago/silverstripe-tiptap@6.5.1
+- pkg:composer/otago/silverstripe-tiptap@6.5.2
+- pkg:composer/otago/silverstripe-tiptap@6.5.3
