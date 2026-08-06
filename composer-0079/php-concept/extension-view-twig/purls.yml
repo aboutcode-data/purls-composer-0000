@@ -1,3 +1,4 @@
 - pkg:composer/php-concept/extension-view-twig@1.0.0
 - pkg:composer/php-concept/extension-view-twig@v1.0.1
 - pkg:composer/php-concept/extension-view-twig@v1.0.2
+- pkg:composer/php-concept/extension-view-twig@v1.0.3
