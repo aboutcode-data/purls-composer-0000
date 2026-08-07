@@ -27,3 +27,5 @@
 - pkg:composer/polysource/adapter-flysystem@v0.9.0
 - pkg:composer/polysource/adapter-flysystem@v0.9.1
 - pkg:composer/polysource/adapter-flysystem@v1.0.0
+- pkg:composer/polysource/adapter-flysystem@v1.1.0
+- pkg:composer/polysource/adapter-flysystem@v1.1.1
