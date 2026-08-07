@@ -3,6 +3,8 @@
 - pkg:composer/polysource/workflow-bridge@v0.1.2
 - pkg:composer/polysource/workflow-bridge@v0.1.3
 - pkg:composer/polysource/workflow-bridge@v0.1.4
+- pkg:composer/polysource/workflow-bridge@v0.10.0
+- pkg:composer/polysource/workflow-bridge@v0.11.0
 - pkg:composer/polysource/workflow-bridge@v0.2.0
 - pkg:composer/polysource/workflow-bridge@v0.3.0
 - pkg:composer/polysource/workflow-bridge@v0.4.0
@@ -24,3 +26,4 @@
 - pkg:composer/polysource/workflow-bridge@v0.8.2
 - pkg:composer/polysource/workflow-bridge@v0.9.0
 - pkg:composer/polysource/workflow-bridge@v0.9.1
+- pkg:composer/polysource/workflow-bridge@v1.0.0
