@@ -11,3 +11,4 @@
 - pkg:composer/roave/behat-psr11extension@2.6.0
 - pkg:composer/roave/behat-psr11extension@2.7.0
 - pkg:composer/roave/behat-psr11extension@2.8.0
+- pkg:composer/roave/behat-psr11extension@2.9.0
