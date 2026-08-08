@@ -26,4 +26,5 @@
 - pkg:composer/thelia/selection-module@2.0.5
 - pkg:composer/thelia/selection-module@2.0.6
 - pkg:composer/thelia/selection-module@2.0.7
+- pkg:composer/thelia/selection-module@3.0.0
 - pkg:composer/thelia/selection-module@v1.1.12
