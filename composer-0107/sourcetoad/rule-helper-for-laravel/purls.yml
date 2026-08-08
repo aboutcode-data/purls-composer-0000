@@ -22,3 +22,5 @@
 - pkg:composer/sourcetoad/rule-helper-for-laravel@v6.1.0
 - pkg:composer/sourcetoad/rule-helper-for-laravel@v6.2.0
 - pkg:composer/sourcetoad/rule-helper-for-laravel@v6.3.0
+- pkg:composer/sourcetoad/rule-helper-for-laravel@v6.4.0
+- pkg:composer/sourcetoad/rule-helper-for-laravel@v7.0.0
