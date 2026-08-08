@@ -3,3 +3,4 @@
 - pkg:composer/trust-medical/laravel-chatwork-api@v1.0.2
 - pkg:composer/trust-medical/laravel-chatwork-api@v1.1.0
 - pkg:composer/trust-medical/laravel-chatwork-api@v1.2.0
+- pkg:composer/trust-medical/laravel-chatwork-api@v2.0.0
