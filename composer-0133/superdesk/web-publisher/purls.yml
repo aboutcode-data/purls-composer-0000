@@ -33,3 +33,4 @@
 - pkg:composer/superdesk/web-publisher@v2.5.0
 - pkg:composer/superdesk/web-publisher@v2.5.1
 - pkg:composer/superdesk/web-publisher@v2.5.2
+- pkg:composer/superdesk/web-publisher@v2.5.3
