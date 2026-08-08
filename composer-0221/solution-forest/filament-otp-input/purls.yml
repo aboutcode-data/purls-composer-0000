@@ -1,3 +1,5 @@
+- pkg:composer/solution-forest/filament-otp-input@2.0.3
+- pkg:composer/solution-forest/filament-otp-input@2.0.4
 - pkg:composer/solution-forest/filament-otp-input@v1.0.0
 - pkg:composer/solution-forest/filament-otp-input@v1.0.1
 - pkg:composer/solution-forest/filament-otp-input@v1.0.2
