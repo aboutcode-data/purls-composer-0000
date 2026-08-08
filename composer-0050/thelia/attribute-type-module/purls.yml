@@ -13,3 +13,4 @@
 - pkg:composer/thelia/attribute-type-module@1.3.4
 - pkg:composer/thelia/attribute-type-module@2.0.1
 - pkg:composer/thelia/attribute-type-module@2.0.2
+- pkg:composer/thelia/attribute-type-module@3.0.0
