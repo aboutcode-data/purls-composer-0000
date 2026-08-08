@@ -121,6 +121,7 @@
 - pkg:composer/phpspec/phpspec@9.0.0-beta.16
 - pkg:composer/phpspec/phpspec@9.0.0-beta.17
 - pkg:composer/phpspec/phpspec@9.0.0-beta.18
+- pkg:composer/phpspec/phpspec@9.0.0-beta.20
 - pkg:composer/phpspec/phpspec@9.0.0-beta.3
 - pkg:composer/phpspec/phpspec@9.0.0-beta.4
 - pkg:composer/phpspec/phpspec@9.0.0-beta.5
