@@ -210,6 +210,7 @@
 - pkg:composer/survos/import-bundle@2.11.3
 - pkg:composer/survos/import-bundle@2.12.2
 - pkg:composer/survos/import-bundle@2.17.1
+- pkg:composer/survos/import-bundle@2.18.18
 - pkg:composer/survos/import-bundle@2.2.0
 - pkg:composer/survos/import-bundle@2.2.1
 - pkg:composer/survos/import-bundle@2.2.2
