@@ -8,3 +8,4 @@
 - pkg:composer/trinetus/livewire-datatables@v0.8
 - pkg:composer/trinetus/livewire-datatables@v0.9
 - pkg:composer/trinetus/livewire-datatables@v1.0.0
+- pkg:composer/trinetus/livewire-datatables@v1.0.2
