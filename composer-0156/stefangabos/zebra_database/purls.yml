@@ -30,3 +30,4 @@
 - pkg:composer/stefangabos/zebra_database@2.9.7
 - pkg:composer/stefangabos/zebra_database@2.9.8
 - pkg:composer/stefangabos/zebra_database@2.9.9
+- pkg:composer/stefangabos/zebra_database@3.0.0
