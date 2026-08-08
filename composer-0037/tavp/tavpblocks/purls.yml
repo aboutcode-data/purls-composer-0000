@@ -1,1 +1,3 @@
-- pkg:composer/tavp/tavpblocks@v1.0.0
+- pkg:composer/tavp/tavpblocks@v0.0.0
+- pkg:composer/tavp/tavpblocks@v0.0.1
+- pkg:composer/tavp/tavpblocks@v0.0.2
