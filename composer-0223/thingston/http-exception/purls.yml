@@ -563,7 +563,12 @@
 - pkg:composer/thingston/http-exception@v1.1.603
 - pkg:composer/thingston/http-exception@v1.1.604
 - pkg:composer/thingston/http-exception@v1.1.605
+- pkg:composer/thingston/http-exception@v1.1.606
+- pkg:composer/thingston/http-exception@v1.1.607
+- pkg:composer/thingston/http-exception@v1.1.608
+- pkg:composer/thingston/http-exception@v1.1.609
 - pkg:composer/thingston/http-exception@v1.1.61
+- pkg:composer/thingston/http-exception@v1.1.610
 - pkg:composer/thingston/http-exception@v1.1.62
 - pkg:composer/thingston/http-exception@v1.1.63
 - pkg:composer/thingston/http-exception@v1.1.64
