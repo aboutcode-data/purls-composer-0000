@@ -327,6 +327,7 @@
 - pkg:composer/symfony/lock@v7.4.0-RC1
 - pkg:composer/symfony/lock@v7.4.1
 - pkg:composer/symfony/lock@v7.4.14
+- pkg:composer/symfony/lock@v7.4.16
 - pkg:composer/symfony/lock@v7.4.2
 - pkg:composer/symfony/lock@v7.4.3
 - pkg:composer/symfony/lock@v7.4.4
@@ -349,3 +350,4 @@
 - pkg:composer/symfony/lock@v8.1.0-BETA1
 - pkg:composer/symfony/lock@v8.1.0-BETA3
 - pkg:composer/symfony/lock@v8.1.1
+- pkg:composer/symfony/lock@v8.1.4

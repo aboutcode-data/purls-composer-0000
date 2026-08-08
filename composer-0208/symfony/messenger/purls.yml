@@ -255,6 +255,7 @@
 - pkg:composer/symfony/messenger@v6.4.39
 - pkg:composer/symfony/messenger@v6.4.4
 - pkg:composer/symfony/messenger@v6.4.42
+- pkg:composer/symfony/messenger@v6.4.43
 - pkg:composer/symfony/messenger@v6.4.6
 - pkg:composer/symfony/messenger@v6.4.7
 - pkg:composer/symfony/messenger@v6.4.8
@@ -312,6 +313,7 @@
 - pkg:composer/symfony/messenger@v7.4.11
 - pkg:composer/symfony/messenger@v7.4.12
 - pkg:composer/symfony/messenger@v7.4.14
+- pkg:composer/symfony/messenger@v7.4.15
 - pkg:composer/symfony/messenger@v7.4.3
 - pkg:composer/symfony/messenger@v7.4.4
 - pkg:composer/symfony/messenger@v7.4.6
@@ -326,6 +328,7 @@
 - pkg:composer/symfony/messenger@v8.0.11
 - pkg:composer/symfony/messenger@v8.0.12
 - pkg:composer/symfony/messenger@v8.0.14
+- pkg:composer/symfony/messenger@v8.0.15
 - pkg:composer/symfony/messenger@v8.0.3
 - pkg:composer/symfony/messenger@v8.0.4
 - pkg:composer/symfony/messenger@v8.0.6
@@ -337,3 +340,5 @@
 - pkg:composer/symfony/messenger@v8.1.0-BETA2
 - pkg:composer/symfony/messenger@v8.1.0-BETA3
 - pkg:composer/symfony/messenger@v8.1.1
+- pkg:composer/symfony/messenger@v8.1.2
+- pkg:composer/symfony/messenger@v8.1.4
