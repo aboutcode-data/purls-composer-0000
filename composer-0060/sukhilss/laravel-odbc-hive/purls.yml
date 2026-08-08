@@ -2,3 +2,4 @@
 - pkg:composer/sukhilss/laravel-odbc-hive@v6.0.2
 - pkg:composer/sukhilss/laravel-odbc-hive@v6.0.3
 - pkg:composer/sukhilss/laravel-odbc-hive@v6.0.4
+- pkg:composer/sukhilss/laravel-odbc-hive@v7.0.0
