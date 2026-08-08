@@ -56,3 +56,4 @@
 - pkg:composer/symfony-tools/docs-builder@v0.6
 - pkg:composer/symfony-tools/docs-builder@v0.7
 - pkg:composer/symfony-tools/docs-builder@v0.9
+- pkg:composer/symfony-tools/docs-builder@v1.0.0
