@@ -7,3 +7,4 @@
 - pkg:composer/spatie/pest-plugin-test-time@2.1.0
 - pkg:composer/spatie/pest-plugin-test-time@2.2.0
 - pkg:composer/spatie/pest-plugin-test-time@2.2.1
+- pkg:composer/spatie/pest-plugin-test-time@2.3.0
