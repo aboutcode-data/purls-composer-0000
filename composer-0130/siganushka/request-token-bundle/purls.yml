@@ -4,3 +4,4 @@
 - pkg:composer/siganushka/request-token-bundle@0.6.0
 - pkg:composer/siganushka/request-token-bundle@1.0.0
 - pkg:composer/siganushka/request-token-bundle@1.1.0
+- pkg:composer/siganushka/request-token-bundle@v1.2.0
