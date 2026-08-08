@@ -79,3 +79,5 @@
 - pkg:composer/singlequote/laravel-api-resource@2.2.7
 - pkg:composer/singlequote/laravel-api-resource@2.2.8
 - pkg:composer/singlequote/laravel-api-resource@2.2.9
+- pkg:composer/singlequote/laravel-api-resource@2.3.0
+- pkg:composer/singlequote/laravel-api-resource@2.4.0
