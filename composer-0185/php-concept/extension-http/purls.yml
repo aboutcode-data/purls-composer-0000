@@ -1,1 +1,2 @@
 - pkg:composer/php-concept/extension-http@1.0.0
+- pkg:composer/php-concept/extension-http@v1.0.1
