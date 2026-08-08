@@ -6,3 +6,6 @@
 - pkg:composer/spora-ai/spora-plugin-tavily@v0.3.0
 - pkg:composer/spora-ai/spora-plugin-tavily@v0.3.1
 - pkg:composer/spora-ai/spora-plugin-tavily@v0.3.2
+- pkg:composer/spora-ai/spora-plugin-tavily@v0.3.3
+- pkg:composer/spora-ai/spora-plugin-tavily@v0.3.4
+- pkg:composer/spora-ai/spora-plugin-tavily@v0.3.5
