@@ -1,4 +1,5 @@
 - pkg:composer/wallacemartinss/filament-onboarding@v1.0.0
+- pkg:composer/wallacemartinss/filament-onboarding@v1.1.0
 - pkg:composer/wallacemartinss/filament-onboarding@v2.1.0
 - pkg:composer/wallacemartinss/filament-onboarding@v2.2.0
 - pkg:composer/wallacemartinss/filament-onboarding@v2.2.1
@@ -7,3 +8,4 @@
 - pkg:composer/wallacemartinss/filament-onboarding@v2.3.1
 - pkg:composer/wallacemartinss/filament-onboarding@v2.4.0
 - pkg:composer/wallacemartinss/filament-onboarding@v2.4.1
+- pkg:composer/wallacemartinss/filament-onboarding@v2.5.0
