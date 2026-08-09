@@ -7,3 +7,4 @@
 - pkg:composer/unitpay/php-sdk@2.0.6
 - pkg:composer/unitpay/php-sdk@2.1.0
 - pkg:composer/unitpay/php-sdk@3.0.0
+- pkg:composer/unitpay/php-sdk@4.0.0
