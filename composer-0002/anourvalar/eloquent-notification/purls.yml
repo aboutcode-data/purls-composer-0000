@@ -27,3 +27,6 @@
 - pkg:composer/anourvalar/eloquent-notification@1.6.7
 - pkg:composer/anourvalar/eloquent-notification@1.6.8
 - pkg:composer/anourvalar/eloquent-notification@1.6.9
+- pkg:composer/anourvalar/eloquent-notification@1.7.0
+- pkg:composer/anourvalar/eloquent-notification@1.7.1
+- pkg:composer/anourvalar/eloquent-notification@1.7.2
