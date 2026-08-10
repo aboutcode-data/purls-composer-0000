@@ -122,6 +122,7 @@
 - pkg:composer/windwalker/utilities@4.1.7
 - pkg:composer/windwalker/utilities@4.1.7-beta3
 - pkg:composer/windwalker/utilities@4.1.7-beta4
+- pkg:composer/windwalker/utilities@4.1.8
 - pkg:composer/windwalker/utilities@4.2.0
 - pkg:composer/windwalker/utilities@4.2.0-beta1
 - pkg:composer/windwalker/utilities@4.2.1

@@ -8,6 +8,9 @@
 - pkg:composer/winglet/core@v0.10.1
 - pkg:composer/winglet/core@v0.10.2
 - pkg:composer/winglet/core@v0.11
+- pkg:composer/winglet/core@v0.12
+- pkg:composer/winglet/core@v0.12.1
+- pkg:composer/winglet/core@v0.12.2
 - pkg:composer/winglet/core@v0.2
 - pkg:composer/winglet/core@v0.2.1
 - pkg:composer/winglet/core@v0.2.2
