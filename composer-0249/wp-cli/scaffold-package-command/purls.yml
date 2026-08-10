@@ -16,3 +16,4 @@
 - pkg:composer/wp-cli/scaffold-package-command@v2.2.3
 - pkg:composer/wp-cli/scaffold-package-command@v2.2.4
 - pkg:composer/wp-cli/scaffold-package-command@v2.2.5
+- pkg:composer/wp-cli/scaffold-package-command@v3.0.0
