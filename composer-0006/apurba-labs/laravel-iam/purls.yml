@@ -7,3 +7,6 @@
 - pkg:composer/apurba-labs/laravel-iam@v0.4.1
 - pkg:composer/apurba-labs/laravel-iam@v0.5.0
 - pkg:composer/apurba-labs/laravel-iam@v0.5.1
+- pkg:composer/apurba-labs/laravel-iam@v1.0.0
+- pkg:composer/apurba-labs/laravel-iam@v1.0.1
+- pkg:composer/apurba-labs/laravel-iam@v1.0.2
