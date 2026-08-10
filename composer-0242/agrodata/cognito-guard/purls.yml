@@ -30,7 +30,12 @@
 - pkg:composer/agrodata/cognito-guard@1.35
 - pkg:composer/agrodata/cognito-guard@1.36
 - pkg:composer/agrodata/cognito-guard@1.37
+- pkg:composer/agrodata/cognito-guard@1.38
+- pkg:composer/agrodata/cognito-guard@1.39
 - pkg:composer/agrodata/cognito-guard@1.4
+- pkg:composer/agrodata/cognito-guard@1.40
+- pkg:composer/agrodata/cognito-guard@1.41
+- pkg:composer/agrodata/cognito-guard@1.42
 - pkg:composer/agrodata/cognito-guard@1.5
 - pkg:composer/agrodata/cognito-guard@1.6
 - pkg:composer/agrodata/cognito-guard@1.7
