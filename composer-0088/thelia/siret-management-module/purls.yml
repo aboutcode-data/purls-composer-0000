@@ -16,3 +16,4 @@
 - pkg:composer/thelia/siret-management-module@1.1.0
 - pkg:composer/thelia/siret-management-module@1.2.0
 - pkg:composer/thelia/siret-management-module@2.0.0
+- pkg:composer/thelia/siret-management-module@2.0.2
