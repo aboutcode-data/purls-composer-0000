@@ -1,3 +1,4 @@
 - pkg:composer/andersundsehr/metrics_exporter@1.0.0
 - pkg:composer/andersundsehr/metrics_exporter@2.0.0
 - pkg:composer/andersundsehr/metrics_exporter@2.0.1
+- pkg:composer/andersundsehr/metrics_exporter@2.1.0
