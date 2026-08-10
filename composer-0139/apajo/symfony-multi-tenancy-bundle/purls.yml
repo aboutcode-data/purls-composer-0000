@@ -45,3 +45,6 @@
 - pkg:composer/apajo/symfony-multi-tenancy-bundle@0.6.7
 - pkg:composer/apajo/symfony-multi-tenancy-bundle@0.6.8
 - pkg:composer/apajo/symfony-multi-tenancy-bundle@0.6.9
+- pkg:composer/apajo/symfony-multi-tenancy-bundle@0.7.0
+- pkg:composer/apajo/symfony-multi-tenancy-bundle@0.7.1
+- pkg:composer/apajo/symfony-multi-tenancy-bundle@0.7.2
