@@ -6,6 +6,8 @@
 - pkg:composer/artisanpack-ui/visual-editor@1.5.2
 - pkg:composer/artisanpack-ui/visual-editor@1.5.3
 - pkg:composer/artisanpack-ui/visual-editor@1.5.4
+- pkg:composer/artisanpack-ui/visual-editor@1.5.5
+- pkg:composer/artisanpack-ui/visual-editor@1.6.0
 - pkg:composer/artisanpack-ui/visual-editor@v1.0.0
 - pkg:composer/artisanpack-ui/visual-editor@v1.0.0-beta1
 - pkg:composer/artisanpack-ui/visual-editor@v1.1.0
