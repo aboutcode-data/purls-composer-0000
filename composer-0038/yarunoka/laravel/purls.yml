@@ -3,3 +3,4 @@
 - pkg:composer/yarunoka/laravel@0.4.1
 - pkg:composer/yarunoka/laravel@0.5.0
 - pkg:composer/yarunoka/laravel@0.6.0
+- pkg:composer/yarunoka/laravel@1.0.0
