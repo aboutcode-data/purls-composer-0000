@@ -100,6 +100,7 @@
 - pkg:composer/automattic/jetpack-autoloader@v5.0.2
 - pkg:composer/automattic/jetpack-autoloader@v5.0.20
 - pkg:composer/automattic/jetpack-autoloader@v5.0.21
+- pkg:composer/automattic/jetpack-autoloader@v5.0.22
 - pkg:composer/automattic/jetpack-autoloader@v5.0.3
 - pkg:composer/automattic/jetpack-autoloader@v5.0.4
 - pkg:composer/automattic/jetpack-autoloader@v5.0.5
