@@ -1,3 +1,5 @@
 - pkg:composer/arm092/laravel-translation@3.0.0
 - pkg:composer/arm092/laravel-translation@3.0.1
 - pkg:composer/arm092/laravel-translation@4.0.1
+- pkg:composer/arm092/laravel-translation@4.0.2
+- pkg:composer/arm092/laravel-translation@4.1.1
