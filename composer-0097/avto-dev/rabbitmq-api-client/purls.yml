@@ -2,6 +2,7 @@
 - pkg:composer/avto-dev/rabbitmq-api-client@v1.0.1
 - pkg:composer/avto-dev/rabbitmq-api-client@v2.0.0
 - pkg:composer/avto-dev/rabbitmq-api-client@v2.1.0
+- pkg:composer/avto-dev/rabbitmq-api-client@v2.10.0
 - pkg:composer/avto-dev/rabbitmq-api-client@v2.2.0
 - pkg:composer/avto-dev/rabbitmq-api-client@v2.3.0
 - pkg:composer/avto-dev/rabbitmq-api-client@v2.4.0

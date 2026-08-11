@@ -5,6 +5,7 @@
 - pkg:composer/avto-dev/cloud-payments-laravel@v1.0.0
 - pkg:composer/avto-dev/cloud-payments-laravel@v1.0.1
 - pkg:composer/avto-dev/cloud-payments-laravel@v1.1.0
+- pkg:composer/avto-dev/cloud-payments-laravel@v1.10.0
 - pkg:composer/avto-dev/cloud-payments-laravel@v1.2.0
 - pkg:composer/avto-dev/cloud-payments-laravel@v1.3.0
 - pkg:composer/avto-dev/cloud-payments-laravel@v1.4.0
