@@ -33,3 +33,5 @@
 - pkg:composer/blockstudio/blockstudio@v7.6.3
 - pkg:composer/blockstudio/blockstudio@v7.6.4
 - pkg:composer/blockstudio/blockstudio@v7.6.5
+- pkg:composer/blockstudio/blockstudio@v7.6.6
+- pkg:composer/blockstudio/blockstudio@v7.6.7
