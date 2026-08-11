@@ -4,3 +4,6 @@
 - pkg:composer/conductor/azure-blob-filesystem-support@1.0.0
 - pkg:composer/conductor/azure-blob-filesystem-support@1.0.1
 - pkg:composer/conductor/azure-blob-filesystem-support@3.0.0
+- pkg:composer/conductor/azure-blob-filesystem-support@4.1.0
+- pkg:composer/conductor/azure-blob-filesystem-support@4.1.1
+- pkg:composer/conductor/azure-blob-filesystem-support@4.1.2
