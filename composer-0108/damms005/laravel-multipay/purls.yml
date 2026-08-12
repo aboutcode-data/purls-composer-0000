@@ -170,3 +170,6 @@
 - pkg:composer/damms005/laravel-multipay@v7.3.0
 - pkg:composer/damms005/laravel-multipay@v7.4.0
 - pkg:composer/damms005/laravel-multipay@v8.0.0
+- pkg:composer/damms005/laravel-multipay@v8.1.0
+- pkg:composer/damms005/laravel-multipay@v8.1.1
+- pkg:composer/damms005/laravel-multipay@v8.1.2
