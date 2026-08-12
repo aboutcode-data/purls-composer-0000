@@ -84,3 +84,4 @@
 - pkg:composer/centrex/laravel-accounting@v3.8.7
 - pkg:composer/centrex/laravel-accounting@v3.8.8
 - pkg:composer/centrex/laravel-accounting@v3.8.9
+- pkg:composer/centrex/laravel-accounting@v3.9.0
