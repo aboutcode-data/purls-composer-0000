@@ -37,3 +37,4 @@
 - pkg:composer/craftcms/element-api@4.0.0
 - pkg:composer/craftcms/element-api@4.1.0
 - pkg:composer/craftcms/element-api@4.2.0
+- pkg:composer/craftcms/element-api@4.3.0
