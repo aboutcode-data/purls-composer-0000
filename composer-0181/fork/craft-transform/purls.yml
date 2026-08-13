@@ -9,3 +9,4 @@
 - pkg:composer/fork/craft-transform@4.0.1
 - pkg:composer/fork/craft-transform@4.0.2
 - pkg:composer/fork/craft-transform@4.0.3
+- pkg:composer/fork/craft-transform@5.0.0
