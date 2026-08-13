@@ -8,3 +8,4 @@
 - pkg:composer/coyote6/laravel-base@v0.2.5
 - pkg:composer/coyote6/laravel-base@v0.2.6
 - pkg:composer/coyote6/laravel-base@v0.2.7
+- pkg:composer/coyote6/laravel-base@v0.3.0
