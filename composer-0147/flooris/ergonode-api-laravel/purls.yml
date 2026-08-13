@@ -32,5 +32,6 @@
 - pkg:composer/flooris/ergonode-api-laravel@1.0.0
 - pkg:composer/flooris/ergonode-api-laravel@1.1.0
 - pkg:composer/flooris/ergonode-api-laravel@1.1.1
+- pkg:composer/flooris/ergonode-api-laravel@1.1.2
 - pkg:composer/flooris/ergonode-api-laravel@v0.3.3
 - pkg:composer/flooris/ergonode-api-laravel@v0.6.1
