@@ -11,3 +11,4 @@
 - pkg:composer/ewertondaniel/bitfinex-php-sdk@v0.2.5
 - pkg:composer/ewertondaniel/bitfinex-php-sdk@v0.2.6
 - pkg:composer/ewertondaniel/bitfinex-php-sdk@v0.2.7
+- pkg:composer/ewertondaniel/bitfinex-php-sdk@v0.3.0
