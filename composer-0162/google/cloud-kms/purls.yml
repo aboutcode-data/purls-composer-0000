@@ -82,6 +82,7 @@
 - pkg:composer/google/cloud-kms@v2.1.6
 - pkg:composer/google/cloud-kms@v2.10.0
 - pkg:composer/google/cloud-kms@v2.11.0
+- pkg:composer/google/cloud-kms@v2.12.0
 - pkg:composer/google/cloud-kms@v2.2.0
 - pkg:composer/google/cloud-kms@v2.3.0
 - pkg:composer/google/cloud-kms@v2.3.1
