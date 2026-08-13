@@ -13,3 +13,5 @@
 - pkg:composer/enlivy/enlivy-php@2.3.0
 - pkg:composer/enlivy/enlivy-php@2.3.1
 - pkg:composer/enlivy/enlivy-php@2.4.0
+- pkg:composer/enlivy/enlivy-php@2.5.0
+- pkg:composer/enlivy/enlivy-php@2.6.0
