@@ -15,6 +15,7 @@
 - pkg:composer/helsingborg-stad/modularity-json-render@4.0.0
 - pkg:composer/helsingborg-stad/modularity-json-render@4.0.1
 - pkg:composer/helsingborg-stad/modularity-json-render@4.0.10
+- pkg:composer/helsingborg-stad/modularity-json-render@4.0.12
 - pkg:composer/helsingborg-stad/modularity-json-render@4.0.2
 - pkg:composer/helsingborg-stad/modularity-json-render@4.0.3
 - pkg:composer/helsingborg-stad/modularity-json-render@4.0.4
