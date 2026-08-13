@@ -27,3 +27,5 @@
 - pkg:composer/extcode/cart-books@v4.0.4
 - pkg:composer/extcode/cart-books@v4.1.0
 - pkg:composer/extcode/cart-books@v5.0.0
+- pkg:composer/extcode/cart-books@v6.0.0
+- pkg:composer/extcode/cart-books@v7.0.0
