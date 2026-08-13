@@ -92,3 +92,6 @@
 - pkg:composer/gocardless/gocardless-pro-php@8.0.1
 - pkg:composer/gocardless/gocardless-pro-php@8.0.2
 - pkg:composer/gocardless/gocardless-pro-php@8.0.3
+- pkg:composer/gocardless/gocardless-pro-php@8.0.4
+- pkg:composer/gocardless/gocardless-pro-php@8.0.5
+- pkg:composer/gocardless/gocardless-pro-php@8.0.6
