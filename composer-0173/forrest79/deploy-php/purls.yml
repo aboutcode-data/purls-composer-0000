@@ -34,3 +34,4 @@
 - pkg:composer/forrest79/deploy-php@v1.4.0
 - pkg:composer/forrest79/deploy-php@v1.5.0
 - pkg:composer/forrest79/deploy-php@v1.5.1
+- pkg:composer/forrest79/deploy-php@v1.6.1
