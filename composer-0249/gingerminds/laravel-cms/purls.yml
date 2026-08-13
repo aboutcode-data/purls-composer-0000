@@ -1,1 +1,8 @@
 - pkg:composer/gingerminds/laravel-cms@2.6.0
+- pkg:composer/gingerminds/laravel-cms@2.6.1
+- pkg:composer/gingerminds/laravel-cms@2.6.2
+- pkg:composer/gingerminds/laravel-cms@2.6.3
+- pkg:composer/gingerminds/laravel-cms@2.7.0
+- pkg:composer/gingerminds/laravel-cms@2.8.0
+- pkg:composer/gingerminds/laravel-cms@2.8.1
+- pkg:composer/gingerminds/laravel-cms@2.8.2
