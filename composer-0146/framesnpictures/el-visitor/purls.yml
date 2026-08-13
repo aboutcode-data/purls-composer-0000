@@ -1,5 +1,1 @@
-- pkg:composer/framesnpictures/el-visitor@v0.1
-- pkg:composer/framesnpictures/el-visitor@v0.2
-- pkg:composer/framesnpictures/el-visitor@v0.3
-- pkg:composer/framesnpictures/el-visitor@v0.4
-- pkg:composer/framesnpictures/el-visitor@v0.5
+- pkg:composer/framesnpictures/el-visitor@v1.0
