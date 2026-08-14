@@ -1,6 +1,7 @@
 - pkg:composer/complyforce/api@1.10.0
 - pkg:composer/complyforce/api@1.10.1
 - pkg:composer/complyforce/api@1.10.1-RC23682
+- pkg:composer/complyforce/api@1.10.2-RC23701
 - pkg:composer/complyforce/api@1.5.0
 - pkg:composer/complyforce/api@1.5.0-RC20677
 - pkg:composer/complyforce/api@1.6.0-RC21065
