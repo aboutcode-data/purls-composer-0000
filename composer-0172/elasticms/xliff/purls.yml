@@ -191,3 +191,5 @@
 - pkg:composer/elasticms/xliff@7.2.0
 - pkg:composer/elasticms/xliff@7.3.0
 - pkg:composer/elasticms/xliff@7.3.2
+- pkg:composer/elasticms/xliff@7.3.3
+- pkg:composer/elasticms/xliff@7.3.4
