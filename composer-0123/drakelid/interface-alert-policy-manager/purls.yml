@@ -36,3 +36,10 @@
 - pkg:composer/drakelid/interface-alert-policy-manager@v1.6.7
 - pkg:composer/drakelid/interface-alert-policy-manager@v1.6.8
 - pkg:composer/drakelid/interface-alert-policy-manager@v1.6.9
+- pkg:composer/drakelid/interface-alert-policy-manager@v1.7.0
+- pkg:composer/drakelid/interface-alert-policy-manager@v1.7.1
+- pkg:composer/drakelid/interface-alert-policy-manager@v1.7.2
+- pkg:composer/drakelid/interface-alert-policy-manager@v1.7.3
+- pkg:composer/drakelid/interface-alert-policy-manager@v1.7.4
+- pkg:composer/drakelid/interface-alert-policy-manager@v1.7.5
+- pkg:composer/drakelid/interface-alert-policy-manager@v1.7.6
