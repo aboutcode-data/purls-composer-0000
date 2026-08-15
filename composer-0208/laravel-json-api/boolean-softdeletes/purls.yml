@@ -4,3 +4,4 @@
 - pkg:composer/laravel-json-api/boolean-softdeletes@v2.0.0
 - pkg:composer/laravel-json-api/boolean-softdeletes@v3.0.0
 - pkg:composer/laravel-json-api/boolean-softdeletes@v3.1.0
+- pkg:composer/laravel-json-api/boolean-softdeletes@v4.0.0
