@@ -9,3 +9,5 @@
 - pkg:composer/leafs/form@v3.0
 - pkg:composer/leafs/form@v3.1
 - pkg:composer/leafs/form@v3.2
+- pkg:composer/leafs/form@v5.0
+- pkg:composer/leafs/form@v5.0.1

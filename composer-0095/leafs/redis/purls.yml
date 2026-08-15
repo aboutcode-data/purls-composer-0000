@@ -3,3 +3,4 @@
 - pkg:composer/leafs/redis@v4.0
 - pkg:composer/leafs/redis@v4.0-beta
 - pkg:composer/leafs/redis@v4.1
+- pkg:composer/leafs/redis@v5.0
