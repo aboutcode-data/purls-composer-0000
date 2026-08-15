@@ -30,6 +30,8 @@
 - pkg:composer/illuminate/reflection@v12.62.0
 - pkg:composer/illuminate/reflection@v12.63.0
 - pkg:composer/illuminate/reflection@v12.64.0
+- pkg:composer/illuminate/reflection@v12.65.0
+- pkg:composer/illuminate/reflection@v12.66.0
 - pkg:composer/illuminate/reflection@v13.0.0
 - pkg:composer/illuminate/reflection@v13.1.0
 - pkg:composer/illuminate/reflection@v13.1.1
@@ -52,6 +54,8 @@
 - pkg:composer/illuminate/reflection@v13.21.1
 - pkg:composer/illuminate/reflection@v13.22.0
 - pkg:composer/illuminate/reflection@v13.23.0
+- pkg:composer/illuminate/reflection@v13.24.0
+- pkg:composer/illuminate/reflection@v13.25.0
 - pkg:composer/illuminate/reflection@v13.3.0
 - pkg:composer/illuminate/reflection@v13.4.0
 - pkg:composer/illuminate/reflection@v13.5.0
