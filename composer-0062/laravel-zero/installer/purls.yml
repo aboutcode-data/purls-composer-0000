@@ -19,6 +19,7 @@
 - pkg:composer/laravel-zero/installer@v2.0.5
 - pkg:composer/laravel-zero/installer@v2.1.0
 - pkg:composer/laravel-zero/installer@v2.10.0
+- pkg:composer/laravel-zero/installer@v2.11.0
 - pkg:composer/laravel-zero/installer@v2.2.0
 - pkg:composer/laravel-zero/installer@v2.3.0
 - pkg:composer/laravel-zero/installer@v2.4.0
