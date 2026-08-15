@@ -4,3 +4,4 @@
 - pkg:composer/internal-services/service-sdk@v0.3.0
 - pkg:composer/internal-services/service-sdk@v0.3.1
 - pkg:composer/internal-services/service-sdk@v0.4.0
+- pkg:composer/internal-services/service-sdk@v0.4.1
