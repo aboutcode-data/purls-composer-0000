@@ -23,3 +23,5 @@
 - pkg:composer/islandora/crayfish@3.0.0
 - pkg:composer/islandora/crayfish@4.0.0
 - pkg:composer/islandora/crayfish@4.1.0
+- pkg:composer/islandora/crayfish@5.0.0
+- pkg:composer/islandora/crayfish@5.0.1
