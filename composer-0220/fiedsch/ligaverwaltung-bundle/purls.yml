@@ -92,9 +92,13 @@
 - pkg:composer/fiedsch/ligaverwaltung-bundle@2.3.8
 - pkg:composer/fiedsch/ligaverwaltung-bundle@5.0.0
 - pkg:composer/fiedsch/ligaverwaltung-bundle@5.0.1
+- pkg:composer/fiedsch/ligaverwaltung-bundle@5.0.10
+- pkg:composer/fiedsch/ligaverwaltung-bundle@5.0.11
 - pkg:composer/fiedsch/ligaverwaltung-bundle@5.0.2
 - pkg:composer/fiedsch/ligaverwaltung-bundle@5.0.3
 - pkg:composer/fiedsch/ligaverwaltung-bundle@5.0.4
 - pkg:composer/fiedsch/ligaverwaltung-bundle@5.0.5
 - pkg:composer/fiedsch/ligaverwaltung-bundle@5.0.6
 - pkg:composer/fiedsch/ligaverwaltung-bundle@5.0.7
+- pkg:composer/fiedsch/ligaverwaltung-bundle@5.0.8
+- pkg:composer/fiedsch/ligaverwaltung-bundle@5.0.9
