@@ -13,3 +13,6 @@
 - pkg:composer/lava83/laravel-ddd@v0.5.7
 - pkg:composer/lava83/laravel-ddd@v0.5.8
 - pkg:composer/lava83/laravel-ddd@v0.5.9
+- pkg:composer/lava83/laravel-ddd@v0.6.0
+- pkg:composer/lava83/laravel-ddd@v0.6.1
+- pkg:composer/lava83/laravel-ddd@v0.6.2
