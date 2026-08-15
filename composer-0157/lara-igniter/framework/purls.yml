@@ -216,6 +216,16 @@
 - pkg:composer/lara-igniter/framework@v1.63.0
 - pkg:composer/lara-igniter/framework@v1.63.1
 - pkg:composer/lara-igniter/framework@v1.64.0
+- pkg:composer/lara-igniter/framework@v1.64.1
+- pkg:composer/lara-igniter/framework@v1.64.2
+- pkg:composer/lara-igniter/framework@v1.65.0
+- pkg:composer/lara-igniter/framework@v1.65.1
+- pkg:composer/lara-igniter/framework@v1.65.2
+- pkg:composer/lara-igniter/framework@v1.65.3
+- pkg:composer/lara-igniter/framework@v1.65.4
+- pkg:composer/lara-igniter/framework@v1.65.5
+- pkg:composer/lara-igniter/framework@v1.65.6
+- pkg:composer/lara-igniter/framework@v1.66.0
 - pkg:composer/lara-igniter/framework@v1.7.0
 - pkg:composer/lara-igniter/framework@v1.8.0
 - pkg:composer/lara-igniter/framework@v1.9.0
