@@ -1,1 +1,2 @@
 - pkg:composer/ghostwriter/phpunit-assertions@0.1.0
+- pkg:composer/ghostwriter/phpunit-assertions@0.1.1
