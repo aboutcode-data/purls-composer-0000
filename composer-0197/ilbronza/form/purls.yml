@@ -1,3 +1,4 @@
 - pkg:composer/ilbronza/form@0.1
 - pkg:composer/ilbronza/form@0.2
 - pkg:composer/ilbronza/form@1.0
+- pkg:composer/ilbronza/form@v2.5.1
