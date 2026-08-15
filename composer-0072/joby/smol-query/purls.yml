@@ -2,3 +2,5 @@
 - pkg:composer/joby/smol-query@v1.1.0
 - pkg:composer/joby/smol-query@v1.2.0
 - pkg:composer/joby/smol-query@v1.3.0
+- pkg:composer/joby/smol-query@v1.4.0
+- pkg:composer/joby/smol-query@v1.5.0
