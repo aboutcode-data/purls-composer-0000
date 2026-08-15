@@ -9,3 +9,4 @@
 - pkg:composer/jonathanjfshaw/phpunitbehat@0.09
 - pkg:composer/jonathanjfshaw/phpunitbehat@0.20
 - pkg:composer/jonathanjfshaw/phpunitbehat@0.21
+- pkg:composer/jonathanjfshaw/phpunitbehat@0.22
