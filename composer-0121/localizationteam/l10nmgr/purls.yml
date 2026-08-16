@@ -8,3 +8,5 @@
 - pkg:composer/localizationteam/l10nmgr@12.0.2
 - pkg:composer/localizationteam/l10nmgr@12.1.0
 - pkg:composer/localizationteam/l10nmgr@12.2.0
+- pkg:composer/localizationteam/l10nmgr@12.3.0
+- pkg:composer/localizationteam/l10nmgr@13.0.0
