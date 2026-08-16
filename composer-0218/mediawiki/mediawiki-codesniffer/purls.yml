@@ -63,4 +63,6 @@
 - pkg:composer/mediawiki/mediawiki-codesniffer@v49.0.0
 - pkg:composer/mediawiki/mediawiki-codesniffer@v50.0.0
 - pkg:composer/mediawiki/mediawiki-codesniffer@v51.0.0
+- pkg:composer/mediawiki/mediawiki-codesniffer@v51.0.1
 - pkg:composer/mediawiki/mediawiki-codesniffer@v52.0.0
+- pkg:composer/mediawiki/mediawiki-codesniffer@v52.0.1
