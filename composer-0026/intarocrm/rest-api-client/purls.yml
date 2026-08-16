@@ -111,6 +111,8 @@
 - pkg:composer/intarocrm/rest-api-client@v6.15.29
 - pkg:composer/intarocrm/rest-api-client@v6.15.3
 - pkg:composer/intarocrm/rest-api-client@v6.15.30
+- pkg:composer/intarocrm/rest-api-client@v6.15.31
+- pkg:composer/intarocrm/rest-api-client@v6.15.32
 - pkg:composer/intarocrm/rest-api-client@v6.15.4
 - pkg:composer/intarocrm/rest-api-client@v6.15.5
 - pkg:composer/intarocrm/rest-api-client@v6.15.6
