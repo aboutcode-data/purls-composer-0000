@@ -31,6 +31,8 @@
 - pkg:composer/oat-sa/extension-tao-testcenter@v10.7.7
 - pkg:composer/oat-sa/extension-tao-testcenter@v10.7.8
 - pkg:composer/oat-sa/extension-tao-testcenter@v10.7.9
+- pkg:composer/oat-sa/extension-tao-testcenter@v10.8.0
+- pkg:composer/oat-sa/extension-tao-testcenter@v10.8.1
 - pkg:composer/oat-sa/extension-tao-testcenter@v2.0.0
 - pkg:composer/oat-sa/extension-tao-testcenter@v2.0.1
 - pkg:composer/oat-sa/extension-tao-testcenter@v2.0.3
