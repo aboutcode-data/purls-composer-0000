@@ -79,6 +79,7 @@
 - pkg:composer/michaelmeneses/moodle-stubs@v4.5.12
 - pkg:composer/michaelmeneses/moodle-stubs@v4.5.12.1
 - pkg:composer/michaelmeneses/moodle-stubs@v4.5.12.2
+- pkg:composer/michaelmeneses/moodle-stubs@v4.5.13
 - pkg:composer/michaelmeneses/moodle-stubs@v4.5.2
 - pkg:composer/michaelmeneses/moodle-stubs@v4.5.3
 - pkg:composer/michaelmeneses/moodle-stubs@v4.5.4
@@ -98,6 +99,7 @@
 - pkg:composer/michaelmeneses/moodle-stubs@v5.0.8
 - pkg:composer/michaelmeneses/moodle-stubs@v5.0.8.1
 - pkg:composer/michaelmeneses/moodle-stubs@v5.0.8.2
+- pkg:composer/michaelmeneses/moodle-stubs@v5.0.9
 - pkg:composer/michaelmeneses/moodle-stubs@v5.1.0
 - pkg:composer/michaelmeneses/moodle-stubs@v5.1.1
 - pkg:composer/michaelmeneses/moodle-stubs@v5.1.2
@@ -106,7 +108,9 @@
 - pkg:composer/michaelmeneses/moodle-stubs@v5.1.5
 - pkg:composer/michaelmeneses/moodle-stubs@v5.1.5.1
 - pkg:composer/michaelmeneses/moodle-stubs@v5.1.5.2
+- pkg:composer/michaelmeneses/moodle-stubs@v5.1.6
 - pkg:composer/michaelmeneses/moodle-stubs@v5.2.0
 - pkg:composer/michaelmeneses/moodle-stubs@v5.2.1
 - pkg:composer/michaelmeneses/moodle-stubs@v5.2.1.1
 - pkg:composer/michaelmeneses/moodle-stubs@v5.2.1.2
+- pkg:composer/michaelmeneses/moodle-stubs@v5.2.2
