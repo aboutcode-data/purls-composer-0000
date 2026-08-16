@@ -15,3 +15,4 @@
 - pkg:composer/infocyph/webrick@3.2.2
 - pkg:composer/infocyph/webrick@3.3
 - pkg:composer/infocyph/webrick@4.0
+- pkg:composer/infocyph/webrick@4.0.1
