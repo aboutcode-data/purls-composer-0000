@@ -25,7 +25,13 @@
 - pkg:composer/modelslab/octane-coroutine@v0.8.16
 - pkg:composer/modelslab/octane-coroutine@v0.8.17
 - pkg:composer/modelslab/octane-coroutine@v0.8.18
+- pkg:composer/modelslab/octane-coroutine@v0.8.19
 - pkg:composer/modelslab/octane-coroutine@v0.8.2
+- pkg:composer/modelslab/octane-coroutine@v0.8.20
+- pkg:composer/modelslab/octane-coroutine@v0.8.21
+- pkg:composer/modelslab/octane-coroutine@v0.8.22
+- pkg:composer/modelslab/octane-coroutine@v0.8.23
+- pkg:composer/modelslab/octane-coroutine@v0.8.24
 - pkg:composer/modelslab/octane-coroutine@v0.8.3
 - pkg:composer/modelslab/octane-coroutine@v0.8.4
 - pkg:composer/modelslab/octane-coroutine@v0.8.5
