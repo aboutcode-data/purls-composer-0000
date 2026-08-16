@@ -49,3 +49,6 @@
 - pkg:composer/melisplatform/melis-commerce@v5.3.4
 - pkg:composer/melisplatform/melis-commerce@v5.3.5
 - pkg:composer/melisplatform/melis-commerce@v5.3.6
+- pkg:composer/melisplatform/melis-commerce@v6.0.0
+- pkg:composer/melisplatform/melis-commerce@v6.0.1
+- pkg:composer/melisplatform/melis-commerce@v6.0.2
