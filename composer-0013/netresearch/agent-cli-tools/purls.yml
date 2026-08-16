@@ -22,3 +22,5 @@
 - pkg:composer/netresearch/agent-cli-tools@v1.8.2
 - pkg:composer/netresearch/agent-cli-tools@v1.8.3
 - pkg:composer/netresearch/agent-cli-tools@v1.8.4
+- pkg:composer/netresearch/agent-cli-tools@v1.9.0
+- pkg:composer/netresearch/agent-cli-tools@v1.9.1
