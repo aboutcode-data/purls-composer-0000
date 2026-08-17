@@ -2,3 +2,6 @@
 - pkg:composer/langsys/langsys-php@v1.0.1
 - pkg:composer/langsys/langsys-php@v1.0.2
 - pkg:composer/langsys/langsys-php@v1.1.0
+- pkg:composer/langsys/langsys-php@v1.2.0
+- pkg:composer/langsys/langsys-php@v1.3.0
+- pkg:composer/langsys/langsys-php@v1.3.1
