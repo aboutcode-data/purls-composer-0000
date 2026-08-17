@@ -112,3 +112,4 @@
 - pkg:composer/kiener/mollie-payments-plugin@v5.1.0
 - pkg:composer/kiener/mollie-payments-plugin@v5.2.0
 - pkg:composer/kiener/mollie-payments-plugin@v5.3.0
+- pkg:composer/kiener/mollie-payments-plugin@v5.4.0
