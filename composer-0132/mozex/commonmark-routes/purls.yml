@@ -8,3 +8,4 @@
 - pkg:composer/mozex/commonmark-routes@1.6.0
 - pkg:composer/mozex/commonmark-routes@1.6.1
 - pkg:composer/mozex/commonmark-routes@1.7.0
+- pkg:composer/mozex/commonmark-routes@2.0.0
