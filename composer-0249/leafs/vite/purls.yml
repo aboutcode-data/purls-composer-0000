@@ -2,3 +2,4 @@
 - pkg:composer/leafs/vite@v0.2.0
 - pkg:composer/leafs/vite@v0.3.0
 - pkg:composer/leafs/vite@v5.0
+- pkg:composer/leafs/vite@v5.0.1
