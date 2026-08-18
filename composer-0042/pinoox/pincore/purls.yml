@@ -11,6 +11,7 @@
 - pkg:composer/pinoox/pincore@3.1.9
 - pkg:composer/pinoox/pincore@3.8.4
 - pkg:composer/pinoox/pincore@v2.1.0
+- pkg:composer/pinoox/pincore@v3.10.0
 - pkg:composer/pinoox/pincore@v3.2.0
 - pkg:composer/pinoox/pincore@v3.3.1
 - pkg:composer/pinoox/pincore@v3.3.2
@@ -48,3 +49,4 @@
 - pkg:composer/pinoox/pincore@v3.8.7
 - pkg:composer/pinoox/pincore@v3.8.8
 - pkg:composer/pinoox/pincore@v3.8.9
+- pkg:composer/pinoox/pincore@v3.9.4
