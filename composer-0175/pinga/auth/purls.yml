@@ -9,3 +9,4 @@
 - pkg:composer/pinga/auth@v0.3.2
 - pkg:composer/pinga/auth@v0.3.3
 - pkg:composer/pinga/auth@v0.3.4
+- pkg:composer/pinga/auth@v1.0.0
