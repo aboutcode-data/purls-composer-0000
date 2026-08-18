@@ -1,2 +1,4 @@
 - pkg:composer/platine-php/container@v1.0.0
+- pkg:composer/platine-php/container@v1.0.1
 - pkg:composer/platine-php/container@v2.0.0
+- pkg:composer/platine-php/container@v2.0.1
