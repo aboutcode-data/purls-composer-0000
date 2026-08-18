@@ -11,3 +11,5 @@
 - pkg:composer/pocketarc/ai-workflow@3.1.0
 - pkg:composer/pocketarc/ai-workflow@3.2.0
 - pkg:composer/pocketarc/ai-workflow@4.0.0
+- pkg:composer/pocketarc/ai-workflow@5.0.0
+- pkg:composer/pocketarc/ai-workflow@5.0.1
