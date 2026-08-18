@@ -93,6 +93,7 @@
 - pkg:composer/opengis/laravel-geoserver@v13.6.0
 - pkg:composer/opengis/laravel-geoserver@v13.7.0
 - pkg:composer/opengis/laravel-geoserver@v13.8.0
+- pkg:composer/opengis/laravel-geoserver@v13.9.0
 - pkg:composer/opengis/laravel-geoserver@v4.0.0
 - pkg:composer/opengis/laravel-geoserver@v4.0.0-BETA3
 - pkg:composer/opengis/laravel-geoserver@v4.0.0-BETA4
