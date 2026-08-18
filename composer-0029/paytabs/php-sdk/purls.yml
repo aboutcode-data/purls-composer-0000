@@ -4,3 +4,6 @@
 - pkg:composer/paytabs/php-sdk@3.2.1
 - pkg:composer/paytabs/php-sdk@3.2.2
 - pkg:composer/paytabs/php-sdk@3.2.3
+- pkg:composer/paytabs/php-sdk@3.2.4
+- pkg:composer/paytabs/php-sdk@3.2.5
+- pkg:composer/paytabs/php-sdk@3.2.6
