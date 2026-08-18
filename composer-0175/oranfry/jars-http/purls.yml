@@ -8,4 +8,6 @@
 - pkg:composer/oranfry/jars-http@1.4.0
 - pkg:composer/oranfry/jars-http@1.5.0
 - pkg:composer/oranfry/jars-http@1.6.0
+- pkg:composer/oranfry/jars-http@1.7.0
+- pkg:composer/oranfry/jars-http@1.7.1
 - pkg:composer/oranfry/jars-http@2.0.0
