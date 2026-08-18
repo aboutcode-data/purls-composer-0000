@@ -41,3 +41,4 @@
 - pkg:composer/maatwebsite/laravel-nova-excel@1.3.7
 - pkg:composer/maatwebsite/laravel-nova-excel@1.3.8
 - pkg:composer/maatwebsite/laravel-nova-excel@1.3.9
+- pkg:composer/maatwebsite/laravel-nova-excel@2.0.0
