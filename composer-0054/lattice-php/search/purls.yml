@@ -5,3 +5,6 @@
 - pkg:composer/lattice-php/search@0.53.1
 - pkg:composer/lattice-php/search@0.54.0
 - pkg:composer/lattice-php/search@0.55.0
+- pkg:composer/lattice-php/search@0.56.0
+- pkg:composer/lattice-php/search@0.56.1
+- pkg:composer/lattice-php/search@0.56.2
