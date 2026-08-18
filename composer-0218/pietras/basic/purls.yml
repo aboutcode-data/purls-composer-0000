@@ -15,3 +15,6 @@
 - pkg:composer/pietras/basic@1.6.3
 - pkg:composer/pietras/basic@1.7.0
 - pkg:composer/pietras/basic@1.8.0
+- pkg:composer/pietras/basic@1.8.1
+- pkg:composer/pietras/basic@1.9.0
+- pkg:composer/pietras/basic@2.0.0
