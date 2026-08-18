@@ -71,3 +71,4 @@
 - pkg:composer/php-extended/php-http-client-redirecter@9.0.6
 - pkg:composer/php-extended/php-http-client-redirecter@9.0.7
 - pkg:composer/php-extended/php-http-client-redirecter@9.0.8
+- pkg:composer/php-extended/php-http-client-redirecter@9.0.9
