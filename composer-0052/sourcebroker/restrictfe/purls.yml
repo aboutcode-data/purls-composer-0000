@@ -8,6 +8,7 @@
 - pkg:composer/sourcebroker/restrictfe@11.1.0
 - pkg:composer/sourcebroker/restrictfe@12.0.0
 - pkg:composer/sourcebroker/restrictfe@12.0.1
+- pkg:composer/sourcebroker/restrictfe@12.1.0
 - pkg:composer/sourcebroker/restrictfe@4.1.1
 - pkg:composer/sourcebroker/restrictfe@5.0.0
 - pkg:composer/sourcebroker/restrictfe@5.0.1
