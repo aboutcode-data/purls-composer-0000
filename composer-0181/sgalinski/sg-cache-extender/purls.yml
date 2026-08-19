@@ -36,3 +36,6 @@
 - pkg:composer/sgalinski/sg-cache-extender@7.0.7
 - pkg:composer/sgalinski/sg-cache-extender@7.0.8
 - pkg:composer/sgalinski/sg-cache-extender@7.0.9
+- pkg:composer/sgalinski/sg-cache-extender@8.0.0
+- pkg:composer/sgalinski/sg-cache-extender@8.0.1
+- pkg:composer/sgalinski/sg-cache-extender@8.0.2
