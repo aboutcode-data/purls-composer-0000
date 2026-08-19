@@ -35,3 +35,5 @@
 - pkg:composer/qubus/expressive@v3.4.4
 - pkg:composer/qubus/expressive@v3.4.5
 - pkg:composer/qubus/expressive@v3.4.6
+- pkg:composer/qubus/expressive@v3.5.0
+- pkg:composer/qubus/expressive@v3.5.1
