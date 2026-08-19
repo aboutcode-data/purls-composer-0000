@@ -47,6 +47,7 @@
 - pkg:composer/sapient/module-worldpay@2.4.6-p80125
 - pkg:composer/sapient/module-worldpay@2.4.6-p90225
 - pkg:composer/sapient/module-worldpay@2.4.6-rc0523
+- pkg:composer/sapient/module-worldpay@2.4.7-p100626
 - pkg:composer/sapient/module-worldpay@2.4.7-p10924
 - pkg:composer/sapient/module-worldpay@2.4.7-p21124
 - pkg:composer/sapient/module-worldpay@2.4.7-p31224
@@ -64,5 +65,7 @@
 - pkg:composer/sapient/module-worldpay@2.4.8-p20925
 - pkg:composer/sapient/module-worldpay@2.4.8-p30126
 - pkg:composer/sapient/module-worldpay@2.4.8-p40426
+- pkg:composer/sapient/module-worldpay@2.4.8-p50626
+- pkg:composer/sapient/module-worldpay@2.4.9-alpha0626
 - pkg:composer/sapient/module-worldpay@2.4.9-beta10426
 - pkg:composer/sapient/module-worldpay@v2.3.4-rc0620
