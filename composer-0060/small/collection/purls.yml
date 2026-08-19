@@ -35,3 +35,5 @@
 - pkg:composer/small/collection@3.2.0
 - pkg:composer/small/collection@3.2.1
 - pkg:composer/small/collection@3.2.2
+- pkg:composer/small/collection@3.2.3
+- pkg:composer/small/collection@4.0.0
