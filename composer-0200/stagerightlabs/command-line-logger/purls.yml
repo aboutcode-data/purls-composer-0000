@@ -1,2 +1,4 @@
 - pkg:composer/stagerightlabs/command-line-logger@v1.0.0
 - pkg:composer/stagerightlabs/command-line-logger@v1.0.1
+- pkg:composer/stagerightlabs/command-line-logger@v1.1.0
+- pkg:composer/stagerightlabs/command-line-logger@v1.1.1
