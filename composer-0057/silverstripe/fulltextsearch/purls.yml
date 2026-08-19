@@ -74,3 +74,4 @@
 - pkg:composer/silverstripe/fulltextsearch@4.0.3
 - pkg:composer/silverstripe/fulltextsearch@4.0.4
 - pkg:composer/silverstripe/fulltextsearch@4.0.5
+- pkg:composer/silverstripe/fulltextsearch@5.0.0
