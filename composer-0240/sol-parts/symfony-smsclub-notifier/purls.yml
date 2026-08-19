@@ -1,1 +1,3 @@
 - pkg:composer/sol-parts/symfony-smsclub-notifier@7.3.1
+- pkg:composer/sol-parts/symfony-smsclub-notifier@7.3.2
+- pkg:composer/sol-parts/symfony-smsclub-notifier@7.3.3
