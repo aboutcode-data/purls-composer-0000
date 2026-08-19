@@ -200,6 +200,7 @@
 - pkg:composer/satriotol/fastcrud@13.3.5
 - pkg:composer/satriotol/fastcrud@13.3.6
 - pkg:composer/satriotol/fastcrud@13.4.10
+- pkg:composer/satriotol/fastcrud@13.4.11
 - pkg:composer/satriotol/fastcrud@13.4.7
 - pkg:composer/satriotol/fastcrud@13.4.8
 - pkg:composer/satriotol/fastcrud@13.4.9
