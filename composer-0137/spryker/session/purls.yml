@@ -39,6 +39,7 @@
 - pkg:composer/spryker/session@4.19.3
 - pkg:composer/spryker/session@4.19.4
 - pkg:composer/spryker/session@4.2.0
+- pkg:composer/spryker/session@4.20.0
 - pkg:composer/spryker/session@4.3.0
 - pkg:composer/spryker/session@4.4.0
 - pkg:composer/spryker/session@4.5.0
