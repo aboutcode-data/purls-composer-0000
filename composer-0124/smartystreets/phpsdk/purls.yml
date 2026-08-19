@@ -132,3 +132,4 @@
 - pkg:composer/smartystreets/phpsdk@8.0.0
 - pkg:composer/smartystreets/phpsdk@8.1.0
 - pkg:composer/smartystreets/phpsdk@8.2.0
+- pkg:composer/smartystreets/phpsdk@9.0.0
