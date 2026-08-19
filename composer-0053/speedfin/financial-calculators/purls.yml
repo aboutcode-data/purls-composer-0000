@@ -80,4 +80,6 @@
 - pkg:composer/speedfin/financial-calculators@2.1.7
 - pkg:composer/speedfin/financial-calculators@2.2.0
 - pkg:composer/speedfin/financial-calculators@2.2.1
+- pkg:composer/speedfin/financial-calculators@2.2.2
+- pkg:composer/speedfin/financial-calculators@2.2.3
 - pkg:composer/speedfin/financial-calculators@3.1.5
