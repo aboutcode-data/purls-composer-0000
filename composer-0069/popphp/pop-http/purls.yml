@@ -81,3 +81,4 @@
 - pkg:composer/popphp/pop-http@5.3.6
 - pkg:composer/popphp/pop-http@5.3.7
 - pkg:composer/popphp/pop-http@5.3.8
+- pkg:composer/popphp/pop-http@6.0.0

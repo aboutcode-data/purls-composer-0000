@@ -21,3 +21,4 @@
 - pkg:composer/popphp/pop-auth@4.0.1
 - pkg:composer/popphp/pop-auth@4.0.2
 - pkg:composer/popphp/pop-auth@4.0.3
+- pkg:composer/popphp/pop-auth@5.0.0
