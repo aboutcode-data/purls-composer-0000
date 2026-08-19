@@ -27,3 +27,4 @@
 - pkg:composer/puntodev/paypal@v5
 - pkg:composer/puntodev/paypal@v6.0.0
 - pkg:composer/puntodev/paypal@v6.0.1
+- pkg:composer/puntodev/paypal@v6.0.2
