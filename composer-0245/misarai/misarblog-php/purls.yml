@@ -1,1 +1,4 @@
 - pkg:composer/misarai/misarblog-php@v1.1.0
+- pkg:composer/misarai/misarblog-php@v5.0.0
+- pkg:composer/misarai/misarblog-php@v5.0.2
+- pkg:composer/misarai/misarblog-php@v5.0.3
