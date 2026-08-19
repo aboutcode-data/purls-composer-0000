@@ -40,3 +40,8 @@
 - pkg:composer/sohophp/schema-org@v4.0.2
 - pkg:composer/sohophp/schema-org@v4.1.0
 - pkg:composer/sohophp/schema-org@v4.1.2
+- pkg:composer/sohophp/schema-org@v5.0.0
+- pkg:composer/sohophp/schema-org@v5.0.1
+- pkg:composer/sohophp/schema-org@v5.0.2
+- pkg:composer/sohophp/schema-org@v5.0.3
+- pkg:composer/sohophp/schema-org@v5.0.4
