@@ -100,3 +100,4 @@
 - pkg:composer/portiny/doctrine@8.5.0
 - pkg:composer/portiny/doctrine@8.5.1
 - pkg:composer/portiny/doctrine@8.5.2
+- pkg:composer/portiny/doctrine@8.5.3
