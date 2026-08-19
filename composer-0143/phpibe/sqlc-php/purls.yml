@@ -45,6 +45,7 @@
 - pkg:composer/phpibe/sqlc-php@2.19.22
 - pkg:composer/phpibe/sqlc-php@2.19.23
 - pkg:composer/phpibe/sqlc-php@2.19.24
+- pkg:composer/phpibe/sqlc-php@2.19.25
 - pkg:composer/phpibe/sqlc-php@2.19.3
 - pkg:composer/phpibe/sqlc-php@2.19.4
 - pkg:composer/phpibe/sqlc-php@2.19.6
