@@ -48,6 +48,7 @@
 - pkg:composer/paragonie/sodium_compat@v1.23.0
 - pkg:composer/paragonie/sodium_compat@v1.24.0
 - pkg:composer/paragonie/sodium_compat@v1.24.1
+- pkg:composer/paragonie/sodium_compat@v1.24.2
 - pkg:composer/paragonie/sodium_compat@v1.3.0
 - pkg:composer/paragonie/sodium_compat@v1.3.1
 - pkg:composer/paragonie/sodium_compat@v1.4.0
@@ -81,3 +82,4 @@
 - pkg:composer/paragonie/sodium_compat@v2.4.0
 - pkg:composer/paragonie/sodium_compat@v2.5.0
 - pkg:composer/paragonie/sodium_compat@v2.5.1
+- pkg:composer/paragonie/sodium_compat@v2.5.2
