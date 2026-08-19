@@ -8,3 +8,4 @@
 - pkg:composer/rawphp/laravel-capabilities-ai@v0.4.1
 - pkg:composer/rawphp/laravel-capabilities-ai@v0.4.2
 - pkg:composer/rawphp/laravel-capabilities-ai@v0.5.0
+- pkg:composer/rawphp/laravel-capabilities-ai@v0.5.1
