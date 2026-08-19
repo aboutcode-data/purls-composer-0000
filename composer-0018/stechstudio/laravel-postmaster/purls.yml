@@ -32,6 +32,8 @@
 - pkg:composer/stechstudio/laravel-postmaster@v2.22.2
 - pkg:composer/stechstudio/laravel-postmaster@v2.22.3
 - pkg:composer/stechstudio/laravel-postmaster@v2.23.0
+- pkg:composer/stechstudio/laravel-postmaster@v2.24.0
+- pkg:composer/stechstudio/laravel-postmaster@v2.25.0
 - pkg:composer/stechstudio/laravel-postmaster@v2.3
 - pkg:composer/stechstudio/laravel-postmaster@v2.4
 - pkg:composer/stechstudio/laravel-postmaster@v2.5
