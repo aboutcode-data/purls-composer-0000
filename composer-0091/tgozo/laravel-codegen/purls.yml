@@ -9,3 +9,5 @@
 - pkg:composer/tgozo/laravel-codegen@1.0.7%40beta
 - pkg:composer/tgozo/laravel-codegen@1.0.8
 - pkg:composer/tgozo/laravel-codegen@1.0.9
+- pkg:composer/tgozo/laravel-codegen@v1.1.0
+- pkg:composer/tgozo/laravel-codegen@v1.1.1
