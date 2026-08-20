@@ -5,3 +5,5 @@
 - pkg:composer/quioteframework/propulsion@v3.0.0
 - pkg:composer/quioteframework/propulsion@v3.0.0-RC1
 - pkg:composer/quioteframework/propulsion@v3.0.0-RC2
+- pkg:composer/quioteframework/propulsion@v3.1.0
+- pkg:composer/quioteframework/propulsion@v3.1.0-RC1
