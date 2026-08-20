@@ -7,3 +7,4 @@
 - pkg:composer/thelia/tabs-module@2.4.5
 - pkg:composer/thelia/tabs-module@3.0.0
 - pkg:composer/thelia/tabs-module@4.0.0
+- pkg:composer/thelia/tabs-module@5.0.0

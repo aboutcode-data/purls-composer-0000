@@ -35,3 +35,4 @@
 - pkg:composer/thelia/tnt-search-module@3.2.4
 - pkg:composer/thelia/tnt-search-module@3.2.5
 - pkg:composer/thelia/tnt-search-module@3.2.6
+- pkg:composer/thelia/tnt-search-module@4.0.0
