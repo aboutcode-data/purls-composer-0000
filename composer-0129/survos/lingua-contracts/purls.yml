@@ -153,6 +153,8 @@
 - pkg:composer/survos/lingua-contracts@2.2.3
 - pkg:composer/survos/lingua-contracts@2.2.4
 - pkg:composer/survos/lingua-contracts@2.2.5
+- pkg:composer/survos/lingua-contracts@2.24.16
+- pkg:composer/survos/lingua-contracts@2.24.8
 - pkg:composer/survos/lingua-contracts@2.3.0
 - pkg:composer/survos/lingua-contracts@2.4.0
 - pkg:composer/survos/lingua-contracts@2.4.1
