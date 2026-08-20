@@ -30,6 +30,9 @@
 - pkg:composer/tallesttree/topicalboost-drupal@2.0.20
 - pkg:composer/tallesttree/topicalboost-drupal@2.0.21
 - pkg:composer/tallesttree/topicalboost-drupal@2.0.22
+- pkg:composer/tallesttree/topicalboost-drupal@2.0.23
+- pkg:composer/tallesttree/topicalboost-drupal@2.0.24
+- pkg:composer/tallesttree/topicalboost-drupal@2.0.25
 - pkg:composer/tallesttree/topicalboost-drupal@2.0.3
 - pkg:composer/tallesttree/topicalboost-drupal@2.0.4
 - pkg:composer/tallesttree/topicalboost-drupal@2.0.5
