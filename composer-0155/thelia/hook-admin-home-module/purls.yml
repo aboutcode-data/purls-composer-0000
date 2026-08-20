@@ -27,4 +27,5 @@
 - pkg:composer/thelia/hook-admin-home-module@2.5.5
 - pkg:composer/thelia/hook-admin-home-module@2.6.0
 - pkg:composer/thelia/hook-admin-home-module@2.6.1
+- pkg:composer/thelia/hook-admin-home-module@2.6.2
 - pkg:composer/thelia/hook-admin-home-module@3.0.0
