@@ -898,12 +898,15 @@
 - pkg:composer/survos/wiki-bundle@2.10.9
 - pkg:composer/survos/wiki-bundle@2.15.2
 - pkg:composer/survos/wiki-bundle@2.18.18
+- pkg:composer/survos/wiki-bundle@2.19.5
+- pkg:composer/survos/wiki-bundle@2.19.6
 - pkg:composer/survos/wiki-bundle@2.2.0
 - pkg:composer/survos/wiki-bundle@2.2.1
 - pkg:composer/survos/wiki-bundle@2.2.2
 - pkg:composer/survos/wiki-bundle@2.2.3
 - pkg:composer/survos/wiki-bundle@2.2.4
 - pkg:composer/survos/wiki-bundle@2.2.5
+- pkg:composer/survos/wiki-bundle@2.20.0
 - pkg:composer/survos/wiki-bundle@2.3.0
 - pkg:composer/survos/wiki-bundle@2.4.0
 - pkg:composer/survos/wiki-bundle@2.4.1
