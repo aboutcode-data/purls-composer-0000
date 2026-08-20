@@ -16,3 +16,4 @@
 - pkg:composer/shiros/luna-curl@v3.1.0
 - pkg:composer/shiros/luna-curl@v3.2.0
 - pkg:composer/shiros/luna-curl@v3.2.1
+- pkg:composer/shiros/luna-curl@v4.0.0
