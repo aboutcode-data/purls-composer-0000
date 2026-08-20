@@ -31,4 +31,11 @@
 - pkg:composer/thelia/backoffice-default-twig-template@0.4.7
 - pkg:composer/thelia/backoffice-default-twig-template@0.4.8
 - pkg:composer/thelia/backoffice-default-twig-template@0.4.9
+- pkg:composer/thelia/backoffice-default-twig-template@1.0.0-beta10
 - pkg:composer/thelia/backoffice-default-twig-template@1.0.0-beta3
+- pkg:composer/thelia/backoffice-default-twig-template@1.0.0-beta4
+- pkg:composer/thelia/backoffice-default-twig-template@1.0.0-beta5
+- pkg:composer/thelia/backoffice-default-twig-template@1.0.0-beta6
+- pkg:composer/thelia/backoffice-default-twig-template@1.0.0-beta7
+- pkg:composer/thelia/backoffice-default-twig-template@1.0.0-beta8
+- pkg:composer/thelia/backoffice-default-twig-template@1.0.0-beta9
