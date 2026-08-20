@@ -36,6 +36,8 @@
 - pkg:composer/teamtnt/laravel-scout-tntsearch-driver@v15.0.0
 - pkg:composer/teamtnt/laravel-scout-tntsearch-driver@v16.0.0
 - pkg:composer/teamtnt/laravel-scout-tntsearch-driver@v16.1.0
+- pkg:composer/teamtnt/laravel-scout-tntsearch-driver@v16.1.1
+- pkg:composer/teamtnt/laravel-scout-tntsearch-driver@v16.2.0
 - pkg:composer/teamtnt/laravel-scout-tntsearch-driver@v2.0.0
 - pkg:composer/teamtnt/laravel-scout-tntsearch-driver@v2.0.1
 - pkg:composer/teamtnt/laravel-scout-tntsearch-driver@v2.0.2
