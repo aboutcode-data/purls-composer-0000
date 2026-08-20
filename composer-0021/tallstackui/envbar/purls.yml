@@ -12,3 +12,5 @@
 - pkg:composer/tallstackui/envbar@v1.0.1
 - pkg:composer/tallstackui/envbar@v1.2.0
 - pkg:composer/tallstackui/envbar@v1.3.0
+- pkg:composer/tallstackui/envbar@v2.0.0
+- pkg:composer/tallstackui/envbar@v2.0.1
