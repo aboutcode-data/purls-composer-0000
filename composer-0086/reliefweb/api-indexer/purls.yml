@@ -52,3 +52,4 @@
 - pkg:composer/reliefweb/api-indexer@v3.1.1
 - pkg:composer/reliefweb/api-indexer@v3.2.0
 - pkg:composer/reliefweb/api-indexer@v4.0.0
+- pkg:composer/reliefweb/api-indexer@v4.1.0
