@@ -22,3 +22,4 @@
 - pkg:composer/valkey-io/valkey-glide-php@v1.1.2-rc3
 - pkg:composer/valkey-io/valkey-glide-php@v1.1.2-rc4
 - pkg:composer/valkey-io/valkey-glide-php@v1.1.2-rc5
+- pkg:composer/valkey-io/valkey-glide-php@v1.2.0-rc1
