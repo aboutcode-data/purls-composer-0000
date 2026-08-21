@@ -2,3 +2,4 @@
 - pkg:composer/weline/module-queue@v2.3.9
 - pkg:composer/weline/module-queue@v2.4.0
 - pkg:composer/weline/module-queue@v2.4.1
+- pkg:composer/weline/module-queue@v2.4.2
