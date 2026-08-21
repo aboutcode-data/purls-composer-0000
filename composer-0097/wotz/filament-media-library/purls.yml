@@ -54,3 +54,6 @@
 - pkg:composer/wotz/filament-media-library@v4.2.0
 - pkg:composer/wotz/filament-media-library@v4.3.0
 - pkg:composer/wotz/filament-media-library@v4.4.0
+- pkg:composer/wotz/filament-media-library@v4.5.0
+- pkg:composer/wotz/filament-media-library@v4.6.0
+- pkg:composer/wotz/filament-media-library@v4.6.1
