@@ -1,5 +1,6 @@
 - pkg:composer/thelia/email-default-template@1.0.0-beta3
 - pkg:composer/thelia/email-default-template@1.0.0-beta4
+- pkg:composer/thelia/email-default-template@1.0.0-beta5
 - pkg:composer/thelia/email-default-template@2.0.0-beta1
 - pkg:composer/thelia/email-default-template@2.0.12
 - pkg:composer/thelia/email-default-template@2.0.2
