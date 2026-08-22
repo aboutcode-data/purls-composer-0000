@@ -14,3 +14,4 @@
 - pkg:composer/8fold/php-xml-builder@1.4.0
 - pkg:composer/8fold/php-xml-builder@1.5.0
 - pkg:composer/8fold/php-xml-builder@2.0.0
+- pkg:composer/8fold/php-xml-builder@3.0.0
