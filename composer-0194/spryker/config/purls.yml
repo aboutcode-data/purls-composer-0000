@@ -24,3 +24,4 @@
 - pkg:composer/spryker/config@3.5.2
 - pkg:composer/spryker/config@3.6.0
 - pkg:composer/spryker/config@3.7.0
+- pkg:composer/spryker/config@3.7.1
