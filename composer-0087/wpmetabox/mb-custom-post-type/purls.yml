@@ -35,6 +35,7 @@
 - pkg:composer/wpmetabox/mb-custom-post-type@2.11.5
 - pkg:composer/wpmetabox/mb-custom-post-type@2.12.0
 - pkg:composer/wpmetabox/mb-custom-post-type@2.12.1
+- pkg:composer/wpmetabox/mb-custom-post-type@2.12.2
 - pkg:composer/wpmetabox/mb-custom-post-type@2.2.0
 - pkg:composer/wpmetabox/mb-custom-post-type@2.2.1
 - pkg:composer/wpmetabox/mb-custom-post-type@2.2.2
