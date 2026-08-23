@@ -7,3 +7,4 @@
 - pkg:composer/becklyn/ddd-file-store@3.0.2
 - pkg:composer/becklyn/ddd-file-store@4.0.0
 - pkg:composer/becklyn/ddd-file-store@5.0.0
+- pkg:composer/becklyn/ddd-file-store@5.1.0
