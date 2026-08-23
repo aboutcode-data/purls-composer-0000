@@ -16,3 +16,4 @@
 - pkg:composer/adt/mailer@v3.1.5
 - pkg:composer/adt/mailer@v3.2
 - pkg:composer/adt/mailer@v3.2.1
+- pkg:composer/adt/mailer@v3.3
