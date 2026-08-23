@@ -63,6 +63,7 @@
 - pkg:composer/cloude/framework@v2.16.1
 - pkg:composer/cloude/framework@v2.17.0
 - pkg:composer/cloude/framework@v2.17.1
+- pkg:composer/cloude/framework@v2.17.2
 - pkg:composer/cloude/framework@v2.2.0
 - pkg:composer/cloude/framework@v2.3.0
 - pkg:composer/cloude/framework@v2.4.0
