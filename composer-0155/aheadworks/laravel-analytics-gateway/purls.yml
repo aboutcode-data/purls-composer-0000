@@ -6,6 +6,7 @@
 - pkg:composer/aheadworks/laravel-analytics-gateway@0.1.13-beta
 - pkg:composer/aheadworks/laravel-analytics-gateway@0.1.14-beta
 - pkg:composer/aheadworks/laravel-analytics-gateway@0.1.15-beta
+- pkg:composer/aheadworks/laravel-analytics-gateway@0.1.16-beta
 - pkg:composer/aheadworks/laravel-analytics-gateway@0.1.2-beta
 - pkg:composer/aheadworks/laravel-analytics-gateway@0.1.3-beta
 - pkg:composer/aheadworks/laravel-analytics-gateway@0.1.4-beta
