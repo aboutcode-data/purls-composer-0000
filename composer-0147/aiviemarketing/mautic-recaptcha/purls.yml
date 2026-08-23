@@ -6,3 +6,6 @@
 - pkg:composer/aiviemarketing/mautic-recaptcha@7.0.3
 - pkg:composer/aiviemarketing/mautic-recaptcha@v7.1.0
 - pkg:composer/aiviemarketing/mautic-recaptcha@v7.1.1
+- pkg:composer/aiviemarketing/mautic-recaptcha@v7.2.0
+- pkg:composer/aiviemarketing/mautic-recaptcha@v7.2.1
+- pkg:composer/aiviemarketing/mautic-recaptcha@v7.2.2
