@@ -20,3 +20,4 @@
 - pkg:composer/avadim/fast-excel-laravel@v3.0.0
 - pkg:composer/avadim/fast-excel-laravel@v4.0.0
 - pkg:composer/avadim/fast-excel-laravel@v4.1.0
+- pkg:composer/avadim/fast-excel-laravel@v4.2.0
