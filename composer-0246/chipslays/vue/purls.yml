@@ -1,5 +1,6 @@
 - pkg:composer/chipslays/vue@1.0.0
 - pkg:composer/chipslays/vue@1.0.1
+- pkg:composer/chipslays/vue@13.0.0
 - pkg:composer/chipslays/vue@2.0.0
 - pkg:composer/chipslays/vue@2.0.1
 - pkg:composer/chipslays/vue@2.0.10
