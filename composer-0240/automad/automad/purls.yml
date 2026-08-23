@@ -99,6 +99,9 @@
 - pkg:composer/automad/automad@2.0.0-beta.5
 - pkg:composer/automad/automad@2.0.0-beta.50
 - pkg:composer/automad/automad@2.0.0-beta.51
+- pkg:composer/automad/automad@2.0.0-beta.52
+- pkg:composer/automad/automad@2.0.0-beta.53
+- pkg:composer/automad/automad@2.0.0-beta.54
 - pkg:composer/automad/automad@2.0.0-beta.6
 - pkg:composer/automad/automad@2.0.0-beta.7
 - pkg:composer/automad/automad@2.0.0-beta.8
