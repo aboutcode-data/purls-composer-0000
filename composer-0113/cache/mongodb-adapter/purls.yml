@@ -5,3 +5,8 @@
 - pkg:composer/cache/mongodb-adapter@1.1.0
 - pkg:composer/cache/mongodb-adapter@1.2.0
 - pkg:composer/cache/mongodb-adapter@1.3.0
+- pkg:composer/cache/mongodb-adapter@2.0.0
+- pkg:composer/cache/mongodb-adapter@2.0.1
+- pkg:composer/cache/mongodb-adapter@2.0.2
+- pkg:composer/cache/mongodb-adapter@2.0.3
+- pkg:composer/cache/mongodb-adapter@3.0.0
