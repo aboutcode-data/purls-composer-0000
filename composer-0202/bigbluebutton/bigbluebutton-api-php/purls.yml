@@ -20,4 +20,5 @@
 - pkg:composer/bigbluebutton/bigbluebutton-api-php@2.2.0
 - pkg:composer/bigbluebutton/bigbluebutton-api-php@2.3.0
 - pkg:composer/bigbluebutton/bigbluebutton-api-php@2.3.1
+- pkg:composer/bigbluebutton/bigbluebutton-api-php@3.0.0
 - pkg:composer/bigbluebutton/bigbluebutton-api-php@v1.0
