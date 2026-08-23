@@ -71,3 +71,4 @@
 - pkg:composer/amphp/dns@v2.2.0
 - pkg:composer/amphp/dns@v2.3.0
 - pkg:composer/amphp/dns@v2.4.0
+- pkg:composer/amphp/dns@v2.4.1
