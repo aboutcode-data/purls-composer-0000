@@ -5,3 +5,4 @@
 - pkg:composer/arkitecht/laravel-nullable@3.0
 - pkg:composer/arkitecht/laravel-nullable@5.0
 - pkg:composer/arkitecht/laravel-nullable@5.1
+- pkg:composer/arkitecht/laravel-nullable@6.0
