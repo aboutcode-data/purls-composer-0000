@@ -2,6 +2,7 @@
 - pkg:composer/aimfornan/nan@v0.0.2
 - pkg:composer/aimfornan/nan@v0.0.3
 - pkg:composer/aimfornan/nan@v0.1.0
+- pkg:composer/aimfornan/nan@v0.10.0
 - pkg:composer/aimfornan/nan@v0.2.0
 - pkg:composer/aimfornan/nan@v0.3.3
 - pkg:composer/aimfornan/nan@v0.4.0
@@ -32,3 +33,4 @@
 - pkg:composer/aimfornan/nan@v0.8.3
 - pkg:composer/aimfornan/nan@v0.8.4
 - pkg:composer/aimfornan/nan@v0.8.5
+- pkg:composer/aimfornan/nan@v0.9.0
