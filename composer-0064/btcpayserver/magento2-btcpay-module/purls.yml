@@ -4,6 +4,7 @@
 - pkg:composer/btcpayserver/magento2-btcpay-module@2.0.1
 - pkg:composer/btcpayserver/magento2-btcpay-module@2.0.10
 - pkg:composer/btcpayserver/magento2-btcpay-module@2.0.11
+- pkg:composer/btcpayserver/magento2-btcpay-module@2.0.12
 - pkg:composer/btcpayserver/magento2-btcpay-module@2.0.2
 - pkg:composer/btcpayserver/magento2-btcpay-module@2.0.3
 - pkg:composer/btcpayserver/magento2-btcpay-module@2.0.4

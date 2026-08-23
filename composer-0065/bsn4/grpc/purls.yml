@@ -20,3 +20,4 @@
 - pkg:composer/bsn4/grpc@v0.2.8
 - pkg:composer/bsn4/grpc@v0.2.9
 - pkg:composer/bsn4/grpc@v0.3.0
+- pkg:composer/bsn4/grpc@v0.4.0
