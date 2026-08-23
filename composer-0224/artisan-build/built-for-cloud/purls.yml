@@ -6,3 +6,6 @@
 - pkg:composer/artisan-build/built-for-cloud@v0.2.0
 - pkg:composer/artisan-build/built-for-cloud@v0.2.1
 - pkg:composer/artisan-build/built-for-cloud@v0.3.0
+- pkg:composer/artisan-build/built-for-cloud@v0.3.1
+- pkg:composer/artisan-build/built-for-cloud@v0.3.2
+- pkg:composer/artisan-build/built-for-cloud@v0.3.3
