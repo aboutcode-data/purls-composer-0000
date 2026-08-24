@@ -7,3 +7,5 @@
 - pkg:composer/afsakar/filament-leaflet-map-picker@v2.0.0
 - pkg:composer/afsakar/filament-leaflet-map-picker@v2.0.0-beta
 - pkg:composer/afsakar/filament-leaflet-map-picker@v3.0.0
+- pkg:composer/afsakar/filament-leaflet-map-picker@v3.0.1
+- pkg:composer/afsakar/filament-leaflet-map-picker@v3.0.2
