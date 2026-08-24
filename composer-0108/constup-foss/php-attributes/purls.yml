@@ -11,3 +11,4 @@
 - pkg:composer/constup-foss/php-attributes@3.3.0
 - pkg:composer/constup-foss/php-attributes@3.4.0
 - pkg:composer/constup-foss/php-attributes@3.5.0
+- pkg:composer/constup-foss/php-attributes@3.5.1
