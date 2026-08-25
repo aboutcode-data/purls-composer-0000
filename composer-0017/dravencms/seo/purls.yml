@@ -7,6 +7,9 @@
 - pkg:composer/dravencms/seo@2.0.7
 - pkg:composer/dravencms/seo@2.0.8
 - pkg:composer/dravencms/seo@2.0.9
+- pkg:composer/dravencms/seo@2.1.0
+- pkg:composer/dravencms/seo@3.0.0
+- pkg:composer/dravencms/seo@3.0.1
 - pkg:composer/dravencms/seo@v1.0
 - pkg:composer/dravencms/seo@v1.0.1
 - pkg:composer/dravencms/seo@v1.0.2
