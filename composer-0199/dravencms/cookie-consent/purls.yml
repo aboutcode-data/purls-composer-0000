@@ -6,3 +6,5 @@
 - pkg:composer/dravencms/cookie-consent@1.0.6
 - pkg:composer/dravencms/cookie-consent@1.1
 - pkg:composer/dravencms/cookie-consent@1.2
+- pkg:composer/dravencms/cookie-consent@1.3.0
+- pkg:composer/dravencms/cookie-consent@1.3.1
