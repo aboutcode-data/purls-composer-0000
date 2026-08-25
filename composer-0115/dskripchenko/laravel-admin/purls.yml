@@ -104,6 +104,11 @@
 - pkg:composer/dskripchenko/laravel-admin@v1.28.0
 - pkg:composer/dskripchenko/laravel-admin@v1.29.0
 - pkg:composer/dskripchenko/laravel-admin@v1.3.0
+- pkg:composer/dskripchenko/laravel-admin@v1.30.0
+- pkg:composer/dskripchenko/laravel-admin@v1.31.0
+- pkg:composer/dskripchenko/laravel-admin@v1.31.1
+- pkg:composer/dskripchenko/laravel-admin@v1.31.2
+- pkg:composer/dskripchenko/laravel-admin@v1.31.3
 - pkg:composer/dskripchenko/laravel-admin@v1.4.0
 - pkg:composer/dskripchenko/laravel-admin@v1.5.0
 - pkg:composer/dskripchenko/laravel-admin@v1.5.1
