@@ -200,6 +200,10 @@
 - pkg:composer/eolymp/php-sdk@0.15.49
 - pkg:composer/eolymp/php-sdk@0.15.5
 - pkg:composer/eolymp/php-sdk@0.15.50
+- pkg:composer/eolymp/php-sdk@0.15.52
+- pkg:composer/eolymp/php-sdk@0.15.53
+- pkg:composer/eolymp/php-sdk@0.15.54
+- pkg:composer/eolymp/php-sdk@0.15.55
 - pkg:composer/eolymp/php-sdk@0.15.6
 - pkg:composer/eolymp/php-sdk@0.15.7
 - pkg:composer/eolymp/php-sdk@0.15.8
