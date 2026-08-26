@@ -89,6 +89,7 @@
 - pkg:composer/emaia/laravel-hotwire@0.66.0
 - pkg:composer/emaia/laravel-hotwire@0.67.0
 - pkg:composer/emaia/laravel-hotwire@0.68.0
+- pkg:composer/emaia/laravel-hotwire@0.69.0
 - pkg:composer/emaia/laravel-hotwire@0.7.0
 - pkg:composer/emaia/laravel-hotwire@0.7.1
 - pkg:composer/emaia/laravel-hotwire@0.7.2
@@ -96,6 +97,11 @@
 - pkg:composer/emaia/laravel-hotwire@0.7.4
 - pkg:composer/emaia/laravel-hotwire@0.7.5
 - pkg:composer/emaia/laravel-hotwire@0.7.6
+- pkg:composer/emaia/laravel-hotwire@0.70.0
+- pkg:composer/emaia/laravel-hotwire@0.71.0
+- pkg:composer/emaia/laravel-hotwire@0.72.0
+- pkg:composer/emaia/laravel-hotwire@0.73.0
+- pkg:composer/emaia/laravel-hotwire@0.73.1
 - pkg:composer/emaia/laravel-hotwire@0.8.0
 - pkg:composer/emaia/laravel-hotwire@0.9.0
 - pkg:composer/emaia/laravel-hotwire@0.9.1
