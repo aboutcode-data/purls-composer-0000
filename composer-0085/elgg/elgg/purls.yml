@@ -231,9 +231,11 @@
 - pkg:composer/elgg/elgg@6.3.5
 - pkg:composer/elgg/elgg@6.3.6
 - pkg:composer/elgg/elgg@6.3.7
+- pkg:composer/elgg/elgg@6.3.8
 - pkg:composer/elgg/elgg@7.0.0
 - pkg:composer/elgg/elgg@7.0.0-rc.1
 - pkg:composer/elgg/elgg@7.0.1
 - pkg:composer/elgg/elgg@7.0.2
 - pkg:composer/elgg/elgg@7.0.3
 - pkg:composer/elgg/elgg@7.0.4
+- pkg:composer/elgg/elgg@7.0.5
