@@ -62,3 +62,6 @@
 - pkg:composer/glushkovds/phpclickhouse-laravel@v2.6.1
 - pkg:composer/glushkovds/phpclickhouse-laravel@v2.7.0
 - pkg:composer/glushkovds/phpclickhouse-laravel@v2.7.1
+- pkg:composer/glushkovds/phpclickhouse-laravel@v2.7.2
+- pkg:composer/glushkovds/phpclickhouse-laravel@v2.7.3
+- pkg:composer/glushkovds/phpclickhouse-laravel@v2.8.0
