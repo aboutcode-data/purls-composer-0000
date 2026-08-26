@@ -56,6 +56,7 @@
 - pkg:composer/floor12/yii2-module-pages@3.4.0
 - pkg:composer/floor12/yii2-module-pages@4.0.0
 - pkg:composer/floor12/yii2-module-pages@4.0.1
+- pkg:composer/floor12/yii2-module-pages@4.1.0
 - pkg:composer/floor12/yii2-module-pages@v0.1.0
 - pkg:composer/floor12/yii2-module-pages@v0.1.1
 - pkg:composer/floor12/yii2-module-pages@v1.0.0
