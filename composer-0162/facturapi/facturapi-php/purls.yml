@@ -40,4 +40,5 @@
 - pkg:composer/facturapi/facturapi-php@4.5.0
 - pkg:composer/facturapi/facturapi-php@4.6.0
 - pkg:composer/facturapi/facturapi-php@4.7.0
+- pkg:composer/facturapi/facturapi-php@4.7.1
 - pkg:composer/facturapi/facturapi-php@v3.4.0
