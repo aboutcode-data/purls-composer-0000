@@ -1,2 +1,5 @@
 - pkg:composer/gaconnector/server-side-tracking@v0.1.0
 - pkg:composer/gaconnector/server-side-tracking@v1.0.0
+- pkg:composer/gaconnector/server-side-tracking@v1.0.1
+- pkg:composer/gaconnector/server-side-tracking@v1.0.2
+- pkg:composer/gaconnector/server-side-tracking@v2.0.0
