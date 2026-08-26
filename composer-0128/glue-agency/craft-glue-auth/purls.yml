@@ -8,6 +8,8 @@
 - pkg:composer/glue-agency/craft-glue-auth@3.0.7
 - pkg:composer/glue-agency/craft-glue-auth@3.0.8
 - pkg:composer/glue-agency/craft-glue-auth@3.0.9
+- pkg:composer/glue-agency/craft-glue-auth@3.1.0
+- pkg:composer/glue-agency/craft-glue-auth@3.1.1
 - pkg:composer/glue-agency/craft-glue-auth@4.0.0
 - pkg:composer/glue-agency/craft-glue-auth@4.0.1
 - pkg:composer/glue-agency/craft-glue-auth@4.0.10
@@ -20,7 +22,11 @@
 - pkg:composer/glue-agency/craft-glue-auth@4.0.7
 - pkg:composer/glue-agency/craft-glue-auth@4.0.8
 - pkg:composer/glue-agency/craft-glue-auth@4.0.9
+- pkg:composer/glue-agency/craft-glue-auth@4.1.0
+- pkg:composer/glue-agency/craft-glue-auth@4.1.1
 - pkg:composer/glue-agency/craft-glue-auth@5.0.0
 - pkg:composer/glue-agency/craft-glue-auth@5.0.1
 - pkg:composer/glue-agency/craft-glue-auth@5.0.2
 - pkg:composer/glue-agency/craft-glue-auth@5.0.3
+- pkg:composer/glue-agency/craft-glue-auth@5.1.0
+- pkg:composer/glue-agency/craft-glue-auth@5.1.1
