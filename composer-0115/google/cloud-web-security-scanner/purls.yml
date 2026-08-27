@@ -52,3 +52,4 @@
 - pkg:composer/google/cloud-web-security-scanner@v1.1.2
 - pkg:composer/google/cloud-web-security-scanner@v1.2.0
 - pkg:composer/google/cloud-web-security-scanner@v1.3.0
+- pkg:composer/google/cloud-web-security-scanner@v1.3.1
