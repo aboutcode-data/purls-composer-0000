@@ -8,6 +8,9 @@
 - pkg:composer/groupone/marketplace@2.0.6-beta.4
 - pkg:composer/groupone/marketplace@2.0.6-beta.5
 - pkg:composer/groupone/marketplace@2.0.7
+- pkg:composer/groupone/marketplace@2.0.8
+- pkg:composer/groupone/marketplace@2.0.8-beta.1
+- pkg:composer/groupone/marketplace@2.0.8-beta.2
 - pkg:composer/groupone/marketplace@v1.0.3
 - pkg:composer/groupone/marketplace@v1.0.4
 - pkg:composer/groupone/marketplace@v1.0.5
