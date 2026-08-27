@@ -1,4 +1,5 @@
 - pkg:composer/danog/php-rtc-mdns@1.1.0
+- pkg:composer/danog/php-rtc-mdns@1.1.1
 - pkg:composer/danog/php-rtc-mdns@v1.0.0
 - pkg:composer/danog/php-rtc-mdns@v1.0.1000
 - pkg:composer/danog/php-rtc-mdns@v1.0.1001
