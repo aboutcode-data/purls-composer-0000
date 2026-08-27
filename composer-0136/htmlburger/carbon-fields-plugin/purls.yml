@@ -44,6 +44,8 @@
 - pkg:composer/htmlburger/carbon-fields-plugin@v3.5.3
 - pkg:composer/htmlburger/carbon-fields-plugin@v3.6.0
 - pkg:composer/htmlburger/carbon-fields-plugin@v3.6.1
+- pkg:composer/htmlburger/carbon-fields-plugin@v3.6.10
+- pkg:composer/htmlburger/carbon-fields-plugin@v3.6.11
 - pkg:composer/htmlburger/carbon-fields-plugin@v3.6.2
 - pkg:composer/htmlburger/carbon-fields-plugin@v3.6.3
 - pkg:composer/htmlburger/carbon-fields-plugin@v3.6.5
