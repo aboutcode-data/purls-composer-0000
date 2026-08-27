@@ -30,6 +30,7 @@
 - pkg:composer/gustav-php/starter@36
 - pkg:composer/gustav-php/starter@37
 - pkg:composer/gustav-php/starter@38
+- pkg:composer/gustav-php/starter@39
 - pkg:composer/gustav-php/starter@4
 - pkg:composer/gustav-php/starter@5
 - pkg:composer/gustav-php/starter@6
