@@ -31,3 +31,8 @@
 - pkg:composer/elpandape/filament-warden@v1.7.0
 - pkg:composer/elpandape/filament-warden@v1.8.0
 - pkg:composer/elpandape/filament-warden@v1.9.0
+- pkg:composer/elpandape/filament-warden@v2.0.0
+- pkg:composer/elpandape/filament-warden@v2.0.1
+- pkg:composer/elpandape/filament-warden@v2.0.2
+- pkg:composer/elpandape/filament-warden@v2.0.3
+- pkg:composer/elpandape/filament-warden@v2.1.0
