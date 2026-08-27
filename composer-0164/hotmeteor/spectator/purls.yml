@@ -64,3 +64,5 @@
 - pkg:composer/hotmeteor/spectator@v3.0.0
 - pkg:composer/hotmeteor/spectator@v3.0.1
 - pkg:composer/hotmeteor/spectator@v3.0.2
+- pkg:composer/hotmeteor/spectator@v3.0.3
+- pkg:composer/hotmeteor/spectator@v3.0.4
