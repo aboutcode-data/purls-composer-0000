@@ -21,3 +21,5 @@
 - pkg:composer/hampel/synergy-wholesale-laravel@1.7.0
 - pkg:composer/hampel/synergy-wholesale-laravel@1.8.0
 - pkg:composer/hampel/synergy-wholesale-laravel@1.9.0
+- pkg:composer/hampel/synergy-wholesale-laravel@2.0.0
+- pkg:composer/hampel/synergy-wholesale-laravel@2.0.1

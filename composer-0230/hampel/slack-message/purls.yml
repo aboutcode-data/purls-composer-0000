@@ -3,3 +3,6 @@
 - pkg:composer/hampel/slack-message@1.0.2
 - pkg:composer/hampel/slack-message@1.0.3
 - pkg:composer/hampel/slack-message@1.1.0
+- pkg:composer/hampel/slack-message@2.0.0
+- pkg:composer/hampel/slack-message@2.1.0
+- pkg:composer/hampel/slack-message@2.2.0
