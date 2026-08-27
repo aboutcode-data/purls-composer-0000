@@ -83,3 +83,4 @@
 - pkg:composer/driftingly/rector-laravel@2.4.0
 - pkg:composer/driftingly/rector-laravel@2.5.0
 - pkg:composer/driftingly/rector-laravel@2.6.0
+- pkg:composer/driftingly/rector-laravel@2.6.1
