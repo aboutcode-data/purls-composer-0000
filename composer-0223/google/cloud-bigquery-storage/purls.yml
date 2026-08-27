@@ -53,3 +53,4 @@
 - pkg:composer/google/cloud-bigquery-storage@v2.3.0
 - pkg:composer/google/cloud-bigquery-storage@v2.3.1
 - pkg:composer/google/cloud-bigquery-storage@v2.4.0
+- pkg:composer/google/cloud-bigquery-storage@v2.5.0
