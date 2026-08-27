@@ -115,6 +115,7 @@
 - pkg:composer/humanmade/security@24.0.0
 - pkg:composer/humanmade/security@24.0.0-beta.1
 - pkg:composer/humanmade/security@24.0.1
+- pkg:composer/humanmade/security@24.0.10
 - pkg:composer/humanmade/security@24.0.2
 - pkg:composer/humanmade/security@24.0.3
 - pkg:composer/humanmade/security@24.0.4
@@ -133,6 +134,7 @@
 - pkg:composer/humanmade/security@25.0.6
 - pkg:composer/humanmade/security@25.0.7
 - pkg:composer/humanmade/security@25.0.8
+- pkg:composer/humanmade/security@25.0.9
 - pkg:composer/humanmade/security@26.0.0
 - pkg:composer/humanmade/security@26.0.0-beta.1
 - pkg:composer/humanmade/security@26.0.0-beta.2
@@ -143,10 +145,12 @@
 - pkg:composer/humanmade/security@26.0.5
 - pkg:composer/humanmade/security@26.0.6
 - pkg:composer/humanmade/security@26.0.7
+- pkg:composer/humanmade/security@26.0.8
 - pkg:composer/humanmade/security@27.0.0
 - pkg:composer/humanmade/security@27.0.0-beta.1
 - pkg:composer/humanmade/security@27.0.1
 - pkg:composer/humanmade/security@27.0.2
+- pkg:composer/humanmade/security@27.0.3
 - pkg:composer/humanmade/security@3.0.0
 - pkg:composer/humanmade/security@3.0.0-beta1
 - pkg:composer/humanmade/security@3.0.0-beta2
