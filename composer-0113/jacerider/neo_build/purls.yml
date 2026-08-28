@@ -59,6 +59,10 @@
 - pkg:composer/jacerider/neo_build@1.0.61
 - pkg:composer/jacerider/neo_build@1.0.62
 - pkg:composer/jacerider/neo_build@1.0.63
+- pkg:composer/jacerider/neo_build@1.0.64
+- pkg:composer/jacerider/neo_build@1.0.65
 - pkg:composer/jacerider/neo_build@1.0.7
 - pkg:composer/jacerider/neo_build@1.0.8
 - pkg:composer/jacerider/neo_build@1.0.9
+- pkg:composer/jacerider/neo_build@1.1.0
+- pkg:composer/jacerider/neo_build@1.1.1
