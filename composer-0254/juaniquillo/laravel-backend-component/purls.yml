@@ -10,3 +10,5 @@
 - pkg:composer/juaniquillo/laravel-backend-component@v0.5.4
 - pkg:composer/juaniquillo/laravel-backend-component@v0.5.5
 - pkg:composer/juaniquillo/laravel-backend-component@v0.6.0
+- pkg:composer/juaniquillo/laravel-backend-component@v0.7.0
+- pkg:composer/juaniquillo/laravel-backend-component@v0.8.0
