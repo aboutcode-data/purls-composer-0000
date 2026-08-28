@@ -316,6 +316,8 @@
 - pkg:composer/illuminate/macroable@v12.64.0
 - pkg:composer/illuminate/macroable@v12.65.0
 - pkg:composer/illuminate/macroable@v12.66.0
+- pkg:composer/illuminate/macroable@v12.67.0
+- pkg:composer/illuminate/macroable@v12.68.0
 - pkg:composer/illuminate/macroable@v12.7.0
 - pkg:composer/illuminate/macroable@v12.7.1
 - pkg:composer/illuminate/macroable@v12.7.2
@@ -348,6 +350,10 @@
 - pkg:composer/illuminate/macroable@v13.23.0
 - pkg:composer/illuminate/macroable@v13.24.0
 - pkg:composer/illuminate/macroable@v13.25.0
+- pkg:composer/illuminate/macroable@v13.26.0
+- pkg:composer/illuminate/macroable@v13.26.1
+- pkg:composer/illuminate/macroable@v13.27.0
+- pkg:composer/illuminate/macroable@v13.29.0
 - pkg:composer/illuminate/macroable@v13.3.0
 - pkg:composer/illuminate/macroable@v13.4.0
 - pkg:composer/illuminate/macroable@v13.5.0

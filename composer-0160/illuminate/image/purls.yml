@@ -4,3 +4,7 @@
 - pkg:composer/illuminate/image@v13.23.0
 - pkg:composer/illuminate/image@v13.24.0
 - pkg:composer/illuminate/image@v13.25.0
+- pkg:composer/illuminate/image@v13.26.0
+- pkg:composer/illuminate/image@v13.26.1
+- pkg:composer/illuminate/image@v13.27.0
+- pkg:composer/illuminate/image@v13.29.0
