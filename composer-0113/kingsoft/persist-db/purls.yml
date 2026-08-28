@@ -27,6 +27,8 @@
 - pkg:composer/kingsoft/persist-db@2.13.4
 - pkg:composer/kingsoft/persist-db@2.13.5
 - pkg:composer/kingsoft/persist-db@2.13.6
+- pkg:composer/kingsoft/persist-db@2.14.0
+- pkg:composer/kingsoft/persist-db@2.14.1
 - pkg:composer/kingsoft/persist-db@2.5.0
 - pkg:composer/kingsoft/persist-db@2.6.1
 - pkg:composer/kingsoft/persist-db@2.6.2
