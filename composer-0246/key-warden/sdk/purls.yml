@@ -1,1 +1,4 @@
 - pkg:composer/key-warden/sdk@v1.0.0
+- pkg:composer/key-warden/sdk@v1.2.1
+- pkg:composer/key-warden/sdk@v1.2.2
+- pkg:composer/key-warden/sdk@v1.3.0
