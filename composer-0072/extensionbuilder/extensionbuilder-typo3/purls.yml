@@ -1,3 +1,4 @@
+- pkg:composer/extensionbuilder/extensionbuilder-typo3@0.14.254
 - pkg:composer/extensionbuilder/extensionbuilder-typo3@0.5.149
 - pkg:composer/extensionbuilder/extensionbuilder-typo3@0.5.150
 - pkg:composer/extensionbuilder/extensionbuilder-typo3@0.5.151
