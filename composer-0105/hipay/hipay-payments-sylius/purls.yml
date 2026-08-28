@@ -1,3 +1,4 @@
 - pkg:composer/hipay/hipay-payments-sylius@v1.0.0
 - pkg:composer/hipay/hipay-payments-sylius@v1.0.1
 - pkg:composer/hipay/hipay-payments-sylius@v1.1.0
+- pkg:composer/hipay/hipay-payments-sylius@v1.1.1
