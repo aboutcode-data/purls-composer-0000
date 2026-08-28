@@ -9,6 +9,9 @@
 - pkg:composer/kachnitel/admin-bundle@0.1.0
 - pkg:composer/kachnitel/admin-bundle@0.10.0
 - pkg:composer/kachnitel/admin-bundle@0.11.0
+- pkg:composer/kachnitel/admin-bundle@0.12.0
+- pkg:composer/kachnitel/admin-bundle@0.13.0
+- pkg:composer/kachnitel/admin-bundle@0.13.1
 - pkg:composer/kachnitel/admin-bundle@0.2.0
 - pkg:composer/kachnitel/admin-bundle@0.3.0
 - pkg:composer/kachnitel/admin-bundle@0.3.1
