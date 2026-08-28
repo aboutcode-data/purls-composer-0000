@@ -14,3 +14,4 @@
 - pkg:composer/inspirecz/phpstan-ruleset@v3.0.2
 - pkg:composer/inspirecz/phpstan-ruleset@v3.1.0
 - pkg:composer/inspirecz/phpstan-ruleset@v3.1.1
+- pkg:composer/inspirecz/phpstan-ruleset@v3.1.2
