@@ -70,3 +70,5 @@
 - pkg:composer/infocyph/intermix@8.1
 - pkg:composer/infocyph/intermix@9.0
 - pkg:composer/infocyph/intermix@9.1
+- pkg:composer/infocyph/intermix@9.1.1
+- pkg:composer/infocyph/intermix@9.2
