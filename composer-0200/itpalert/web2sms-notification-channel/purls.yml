@@ -4,3 +4,4 @@
 - pkg:composer/itpalert/web2sms-notification-channel@1.2.2
 - pkg:composer/itpalert/web2sms-notification-channel@1.2.3
 - pkg:composer/itpalert/web2sms-notification-channel@2.0.0
+- pkg:composer/itpalert/web2sms-notification-channel@3.0.0
