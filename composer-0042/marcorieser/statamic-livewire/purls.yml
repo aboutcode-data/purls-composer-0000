@@ -58,4 +58,5 @@
 - pkg:composer/marcorieser/statamic-livewire@v5.2.1
 - pkg:composer/marcorieser/statamic-livewire@v5.3.0
 - pkg:composer/marcorieser/statamic-livewire@v5.3.1
+- pkg:composer/marcorieser/statamic-livewire@v5.3.2
 - pkg:composer/marcorieser/statamic-livewire@v6.0.0-beta.1
