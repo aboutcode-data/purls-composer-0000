@@ -1,3 +1,4 @@
 - pkg:composer/marque/bloodhound@v2.0.0
 - pkg:composer/marque/bloodhound@v2.0.1
 - pkg:composer/marque/bloodhound@v3.0.0
+- pkg:composer/marque/bloodhound@v4.0.0
