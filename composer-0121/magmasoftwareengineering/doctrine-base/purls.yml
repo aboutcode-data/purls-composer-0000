@@ -12,3 +12,5 @@
 - pkg:composer/magmasoftwareengineering/doctrine-base@3.1.5
 - pkg:composer/magmasoftwareengineering/doctrine-base@3.1.6
 - pkg:composer/magmasoftwareengineering/doctrine-base@3.1.7
+- pkg:composer/magmasoftwareengineering/doctrine-base@3.2.0
+- pkg:composer/magmasoftwareengineering/doctrine-base@3.2.1
