@@ -160,3 +160,4 @@
 - pkg:composer/librenms/librenms@26.6.1
 - pkg:composer/librenms/librenms@26.7.0
 - pkg:composer/librenms/librenms@26.8.0
+- pkg:composer/librenms/librenms@26.8.1
