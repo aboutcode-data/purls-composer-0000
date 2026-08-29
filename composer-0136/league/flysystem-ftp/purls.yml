@@ -45,4 +45,5 @@
 - pkg:composer/league/flysystem-ftp@3.29.0
 - pkg:composer/league/flysystem-ftp@3.3.0
 - pkg:composer/league/flysystem-ftp@3.31.0
+- pkg:composer/league/flysystem-ftp@3.35.3
 - pkg:composer/league/flysystem-ftp@3.4.0
