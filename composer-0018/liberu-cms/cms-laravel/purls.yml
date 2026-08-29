@@ -1,1 +1,2 @@
-- pkg:composer/liberu-cms/cms-laravel@v13.0.0
+- pkg:composer/liberu-cms/cms-laravel@v14.0.0
+- pkg:composer/liberu-cms/cms-laravel@v15.0.0
