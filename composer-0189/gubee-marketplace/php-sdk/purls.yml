@@ -4,6 +4,7 @@
 - pkg:composer/gubee-marketplace/php-sdk@1.0.11
 - pkg:composer/gubee-marketplace/php-sdk@1.0.12
 - pkg:composer/gubee-marketplace/php-sdk@1.0.13
+- pkg:composer/gubee-marketplace/php-sdk@1.0.14
 - pkg:composer/gubee-marketplace/php-sdk@1.0.2
 - pkg:composer/gubee-marketplace/php-sdk@1.0.3
 - pkg:composer/gubee-marketplace/php-sdk@1.0.4
@@ -12,3 +13,4 @@
 - pkg:composer/gubee-marketplace/php-sdk@1.0.7
 - pkg:composer/gubee-marketplace/php-sdk@1.0.8
 - pkg:composer/gubee-marketplace/php-sdk@1.0.9
+- pkg:composer/gubee-marketplace/php-sdk@2.0.0
