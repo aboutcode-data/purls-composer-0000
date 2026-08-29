@@ -12,3 +12,5 @@
 - pkg:composer/marekmiklusek/database-backup@v1.2.4
 - pkg:composer/marekmiklusek/database-backup@v1.2.5
 - pkg:composer/marekmiklusek/database-backup@v1.2.6
+- pkg:composer/marekmiklusek/database-backup@v2.0.0
+- pkg:composer/marekmiklusek/database-backup@v2.0.1
