@@ -457,6 +457,7 @@
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-rc.5
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-rc.50
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-rc.51
+- pkg:composer/laravel-workflow/laravel-workflow@2.0.0-rc.52
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-rc.6
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-rc.7
 - pkg:composer/laravel-workflow/laravel-workflow@2.0.0-rc.8
