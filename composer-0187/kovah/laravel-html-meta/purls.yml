@@ -14,3 +14,4 @@
 - pkg:composer/kovah/laravel-html-meta@v4.3.0
 - pkg:composer/kovah/laravel-html-meta@v5.0.0
 - pkg:composer/kovah/laravel-html-meta@v5.0.1
+- pkg:composer/kovah/laravel-html-meta@v5.0.2
