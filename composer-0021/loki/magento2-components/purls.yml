@@ -120,3 +120,4 @@
 - pkg:composer/loki/magento2-components@2.6.1
 - pkg:composer/loki/magento2-components@2.7.0
 - pkg:composer/loki/magento2-components@2.7.1
+- pkg:composer/loki/magento2-components@2.7.2
