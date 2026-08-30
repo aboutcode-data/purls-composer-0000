@@ -28,3 +28,4 @@
 - pkg:composer/mpp/universign-bundle@v4.0.4
 - pkg:composer/mpp/universign-bundle@v5.0.0
 - pkg:composer/mpp/universign-bundle@v5.0.1
+- pkg:composer/mpp/universign-bundle@v5.0.2
