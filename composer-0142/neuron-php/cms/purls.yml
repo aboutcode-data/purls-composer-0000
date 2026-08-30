@@ -91,4 +91,6 @@
 - pkg:composer/neuron-php/cms@0.8.83
 - pkg:composer/neuron-php/cms@0.8.84
 - pkg:composer/neuron-php/cms@0.8.85
+- pkg:composer/neuron-php/cms@0.8.86
+- pkg:composer/neuron-php/cms@0.8.87
 - pkg:composer/neuron-php/cms@0.8.9
