@@ -14,3 +14,4 @@
 - pkg:composer/northwestern-sysdev/lodash-php@v2.0.0
 - pkg:composer/northwestern-sysdev/lodash-php@v3.0.0
 - pkg:composer/northwestern-sysdev/lodash-php@v4.0.0
+- pkg:composer/northwestern-sysdev/lodash-php@v4.0.1
