@@ -17,3 +17,7 @@
 - pkg:composer/payplug/unified-plugin-core@1.0.0-rc1
 - pkg:composer/payplug/unified-plugin-core@1.0.0-rc2
 - pkg:composer/payplug/unified-plugin-core@1.0.0-rc3
+- pkg:composer/payplug/unified-plugin-core@1.0.1
+- pkg:composer/payplug/unified-plugin-core@1.0.1-rc0
+- pkg:composer/payplug/unified-plugin-core@1.1.0
+- pkg:composer/payplug/unified-plugin-core@1.1.0-rc0
