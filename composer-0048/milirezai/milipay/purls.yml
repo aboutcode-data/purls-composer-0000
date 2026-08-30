@@ -18,3 +18,6 @@
 - pkg:composer/milirezai/milipay@v3.1.0
 - pkg:composer/milirezai/milipay@v3.1.1
 - pkg:composer/milirezai/milipay@v3.1.2
+- pkg:composer/milirezai/milipay@v4.0.0
+- pkg:composer/milirezai/milipay@v4.0.1
+- pkg:composer/milirezai/milipay@v4.0.2
