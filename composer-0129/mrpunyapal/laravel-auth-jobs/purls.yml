@@ -6,3 +6,4 @@
 - pkg:composer/mrpunyapal/laravel-auth-jobs@1.2.0
 - pkg:composer/mrpunyapal/laravel-auth-jobs@1.3.0
 - pkg:composer/mrpunyapal/laravel-auth-jobs@1.4.0
+- pkg:composer/mrpunyapal/laravel-auth-jobs@2.0.0
