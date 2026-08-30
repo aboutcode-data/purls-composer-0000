@@ -57,3 +57,4 @@
 - pkg:composer/model/router@v0.2.7
 - pkg:composer/model/router@v0.2.8
 - pkg:composer/model/router@v0.2.9
+- pkg:composer/model/router@v0.3.0
