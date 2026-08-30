@@ -11,6 +11,8 @@
 - pkg:composer/linkrobins/birdseye@v1.6.0
 - pkg:composer/linkrobins/birdseye@v1.6.1
 - pkg:composer/linkrobins/birdseye@v1.6.2
+- pkg:composer/linkrobins/birdseye@v1.7.0
+- pkg:composer/linkrobins/birdseye@v1.7.1
 - pkg:composer/linkrobins/birdseye@v2.0.0
 - pkg:composer/linkrobins/birdseye@v2.0.1
 - pkg:composer/linkrobins/birdseye@v2.1.0
@@ -18,3 +20,4 @@
 - pkg:composer/linkrobins/birdseye@v2.1.2
 - pkg:composer/linkrobins/birdseye@v2.2.0
 - pkg:composer/linkrobins/birdseye@v2.3.0
+- pkg:composer/linkrobins/birdseye@v2.3.1
