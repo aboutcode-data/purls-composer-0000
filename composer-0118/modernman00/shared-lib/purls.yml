@@ -380,6 +380,8 @@
 - pkg:composer/modernman00/shared-lib@v1.9.19
 - pkg:composer/modernman00/shared-lib@v1.9.2
 - pkg:composer/modernman00/shared-lib@v1.9.20
+- pkg:composer/modernman00/shared-lib@v1.9.21
+- pkg:composer/modernman00/shared-lib@v1.9.22
 - pkg:composer/modernman00/shared-lib@v1.9.3
 - pkg:composer/modernman00/shared-lib@v1.9.4
 - pkg:composer/modernman00/shared-lib@v1.9.5
