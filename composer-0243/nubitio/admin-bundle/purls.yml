@@ -40,3 +40,4 @@
 - pkg:composer/nubitio/admin-bundle@v0.9.0
 - pkg:composer/nubitio/admin-bundle@v1.0.0
 - pkg:composer/nubitio/admin-bundle@v1.0.0-rc.1
+- pkg:composer/nubitio/admin-bundle@v1.0.1
