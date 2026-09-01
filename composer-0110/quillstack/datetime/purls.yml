@@ -1,1 +1,7 @@
+- pkg:composer/quillstack/datetime@0.6.0
 - pkg:composer/quillstack/datetime@v0.0.1
+- pkg:composer/quillstack/datetime@v0.1.0
+- pkg:composer/quillstack/datetime@v0.2.0
+- pkg:composer/quillstack/datetime@v0.3.0
+- pkg:composer/quillstack/datetime@v0.4.0
+- pkg:composer/quillstack/datetime@v0.5.0
