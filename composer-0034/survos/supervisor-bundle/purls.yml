@@ -1,3 +1,5 @@
 - pkg:composer/survos/supervisor-bundle@2.10.20
 - pkg:composer/survos/supervisor-bundle@2.24.16
 - pkg:composer/survos/supervisor-bundle@2.24.24
+- pkg:composer/survos/supervisor-bundle@2.24.27
+- pkg:composer/survos/supervisor-bundle@2.26.9
