@@ -2,3 +2,4 @@
 - pkg:composer/rubenmartindev/prestashop-module-installer@v1.1.0
 - pkg:composer/rubenmartindev/prestashop-module-installer@v2.0.0
 - pkg:composer/rubenmartindev/prestashop-module-installer@v2.0.2
+- pkg:composer/rubenmartindev/prestashop-module-installer@v2.0.3
