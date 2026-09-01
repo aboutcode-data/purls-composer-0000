@@ -23,3 +23,8 @@
 - pkg:composer/stolt/llms-txt-php@v3.3.0
 - pkg:composer/stolt/llms-txt-php@v3.4.0
 - pkg:composer/stolt/llms-txt-php@v3.5.0
+- pkg:composer/stolt/llms-txt-php@v4.0.0
+- pkg:composer/stolt/llms-txt-php@v4.0.1
+- pkg:composer/stolt/llms-txt-php@v4.1.0
+- pkg:composer/stolt/llms-txt-php@v4.2.0
+- pkg:composer/stolt/llms-txt-php@v4.2.1
