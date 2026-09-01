@@ -1,3 +1,5 @@
 - pkg:composer/projectsend/v1-migration-tool@v1.0.0
 - pkg:composer/projectsend/v1-migration-tool@v1.0.1
 - pkg:composer/projectsend/v1-migration-tool@v1.0.2
+- pkg:composer/projectsend/v1-migration-tool@v1.0.3
+- pkg:composer/projectsend/v1-migration-tool@v1.0.4
