@@ -15,3 +15,4 @@
 - pkg:composer/popphp/pop-filter@4.0.3
 - pkg:composer/popphp/pop-filter@4.0.4
 - pkg:composer/popphp/pop-filter@5.0.0
+- pkg:composer/popphp/pop-filter@5.0.1
