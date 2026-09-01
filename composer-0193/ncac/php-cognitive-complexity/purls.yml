@@ -1,3 +1,4 @@
 - pkg:composer/ncac/php-cognitive-complexity@v1.0.0
 - pkg:composer/ncac/php-cognitive-complexity@v1.1.0
 - pkg:composer/ncac/php-cognitive-complexity@v1.2.0
+- pkg:composer/ncac/php-cognitive-complexity@v2.0.0
