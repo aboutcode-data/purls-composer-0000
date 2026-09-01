@@ -38,7 +38,12 @@
 - pkg:composer/roxyapi/sdk@0.1.43
 - pkg:composer/roxyapi/sdk@0.1.44
 - pkg:composer/roxyapi/sdk@0.1.45
+- pkg:composer/roxyapi/sdk@0.1.46
+- pkg:composer/roxyapi/sdk@0.1.47
+- pkg:composer/roxyapi/sdk@0.1.48
+- pkg:composer/roxyapi/sdk@0.1.49
 - pkg:composer/roxyapi/sdk@0.1.5
+- pkg:composer/roxyapi/sdk@0.1.50
 - pkg:composer/roxyapi/sdk@0.1.6
 - pkg:composer/roxyapi/sdk@0.1.7
 - pkg:composer/roxyapi/sdk@0.1.8
