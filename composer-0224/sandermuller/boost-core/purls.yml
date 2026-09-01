@@ -78,3 +78,4 @@
 - pkg:composer/sandermuller/boost-core@1.6.0
 - pkg:composer/sandermuller/boost-core@1.6.1
 - pkg:composer/sandermuller/boost-core@1.7.0
+- pkg:composer/sandermuller/boost-core@1.8.1
