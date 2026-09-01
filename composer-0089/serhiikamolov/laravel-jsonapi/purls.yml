@@ -42,3 +42,4 @@
 - pkg:composer/serhiikamolov/laravel-jsonapi@v4.1.1
 - pkg:composer/serhiikamolov/laravel-jsonapi@v4.2
 - pkg:composer/serhiikamolov/laravel-jsonapi@v4.2.1
+- pkg:composer/serhiikamolov/laravel-jsonapi@v4.4.0
