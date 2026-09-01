@@ -124,3 +124,5 @@
 - pkg:composer/milpa/app-runtime@v0.94.0
 - pkg:composer/milpa/app-runtime@v0.94.1
 - pkg:composer/milpa/app-runtime@v0.95.0
+- pkg:composer/milpa/app-runtime@v0.96.0
+- pkg:composer/milpa/app-runtime@v0.97.0
