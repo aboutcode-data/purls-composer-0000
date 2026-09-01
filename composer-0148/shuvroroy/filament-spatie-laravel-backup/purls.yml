@@ -30,3 +30,6 @@
 - pkg:composer/shuvroroy/filament-spatie-laravel-backup@v3.2.0
 - pkg:composer/shuvroroy/filament-spatie-laravel-backup@v3.3.0
 - pkg:composer/shuvroroy/filament-spatie-laravel-backup@v3.4.0
+- pkg:composer/shuvroroy/filament-spatie-laravel-backup@v4.0.0
+- pkg:composer/shuvroroy/filament-spatie-laravel-backup@v4.0.1
+- pkg:composer/shuvroroy/filament-spatie-laravel-backup@v4.0.2
