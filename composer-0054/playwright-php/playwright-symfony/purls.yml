@@ -1,1 +1,2 @@
+- pkg:composer/playwright-php/playwright-symfony@v0.10.0
 - pkg:composer/playwright-php/playwright-symfony@v0.9.0
