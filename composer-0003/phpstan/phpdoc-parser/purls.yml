@@ -107,3 +107,5 @@
 - pkg:composer/phpstan/phpdoc-parser@2.3.1
 - pkg:composer/phpstan/phpdoc-parser@2.3.2
 - pkg:composer/phpstan/phpdoc-parser@2.3.3
+- pkg:composer/phpstan/phpdoc-parser@2.3.4
+- pkg:composer/phpstan/phpdoc-parser@2.3.5
