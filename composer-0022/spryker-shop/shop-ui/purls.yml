@@ -210,3 +210,4 @@
 - pkg:composer/spryker-shop/shop-ui@1.99.0
 - pkg:composer/spryker-shop/shop-ui@2.0.0
 - pkg:composer/spryker-shop/shop-ui@2.0.1
+- pkg:composer/spryker-shop/shop-ui@2.0.2
