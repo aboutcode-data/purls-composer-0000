@@ -1,3 +1,4 @@
 - pkg:composer/ranetrace/ranetrace-laravel@v1.0.0
 - pkg:composer/ranetrace/ranetrace-laravel@v1.1.0
 - pkg:composer/ranetrace/ranetrace-laravel@v1.1.1
+- pkg:composer/ranetrace/ranetrace-laravel@v1.1.2
