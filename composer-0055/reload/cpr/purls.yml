@@ -88,6 +88,7 @@
 - pkg:composer/reload/cpr@v0.0.178
 - pkg:composer/reload/cpr@v0.0.179
 - pkg:composer/reload/cpr@v0.0.18
+- pkg:composer/reload/cpr@v0.0.180
 - pkg:composer/reload/cpr@v0.0.19
 - pkg:composer/reload/cpr@v0.0.2
 - pkg:composer/reload/cpr@v0.0.20
