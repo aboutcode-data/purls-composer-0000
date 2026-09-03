@@ -162,6 +162,7 @@
 - pkg:composer/unusualify/modularity@v12.1.5
 - pkg:composer/unusualify/modularity@v12.1.6
 - pkg:composer/unusualify/modularity@v12.1.7
+- pkg:composer/unusualify/modularity@v12.10.0
 - pkg:composer/unusualify/modularity@v12.2.0
 - pkg:composer/unusualify/modularity@v12.3.0
 - pkg:composer/unusualify/modularity@v12.4.0
@@ -173,3 +174,4 @@
 - pkg:composer/unusualify/modularity@v12.7.2
 - pkg:composer/unusualify/modularity@v12.8.0
 - pkg:composer/unusualify/modularity@v12.8.1
+- pkg:composer/unusualify/modularity@v12.9.0
