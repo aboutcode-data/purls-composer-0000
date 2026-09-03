@@ -48,3 +48,4 @@
 - pkg:composer/shelfwood/php-pms-clients@v5.7.1
 - pkg:composer/shelfwood/php-pms-clients@v5.8.0
 - pkg:composer/shelfwood/php-pms-clients@v5.8.1
+- pkg:composer/shelfwood/php-pms-clients@v5.9.0
