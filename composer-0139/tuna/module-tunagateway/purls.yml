@@ -9,3 +9,4 @@
 - pkg:composer/tuna/module-tunagateway@2.0
 - pkg:composer/tuna/module-tunagateway@2.1
 - pkg:composer/tuna/module-tunagateway@2.5
+- pkg:composer/tuna/module-tunagateway@2.8
