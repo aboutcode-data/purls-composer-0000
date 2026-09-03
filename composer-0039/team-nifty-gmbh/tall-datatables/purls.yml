@@ -204,6 +204,9 @@
 - pkg:composer/team-nifty-gmbh/tall-datatables@v2.6.10
 - pkg:composer/team-nifty-gmbh/tall-datatables@v2.6.11
 - pkg:composer/team-nifty-gmbh/tall-datatables@v2.6.12
+- pkg:composer/team-nifty-gmbh/tall-datatables@v2.6.13
+- pkg:composer/team-nifty-gmbh/tall-datatables@v2.6.14
+- pkg:composer/team-nifty-gmbh/tall-datatables@v2.6.15
 - pkg:composer/team-nifty-gmbh/tall-datatables@v2.6.2
 - pkg:composer/team-nifty-gmbh/tall-datatables@v2.6.3
 - pkg:composer/team-nifty-gmbh/tall-datatables@v2.6.4
