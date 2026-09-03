@@ -589,6 +589,7 @@
 - pkg:composer/symfony/config@v6.4.4
 - pkg:composer/symfony/config@v6.4.42
 - pkg:composer/symfony/config@v6.4.43
+- pkg:composer/symfony/config@v6.4.44
 - pkg:composer/symfony/config@v6.4.6
 - pkg:composer/symfony/config@v6.4.7
 - pkg:composer/symfony/config@v6.4.8
@@ -633,6 +634,7 @@
 - pkg:composer/symfony/config@v7.4.14
 - pkg:composer/symfony/config@v7.4.15
 - pkg:composer/symfony/config@v7.4.16
+- pkg:composer/symfony/config@v7.4.17
 - pkg:composer/symfony/config@v7.4.3
 - pkg:composer/symfony/config@v7.4.4
 - pkg:composer/symfony/config@v7.4.6
@@ -658,3 +660,4 @@
 - pkg:composer/symfony/config@v8.1.1
 - pkg:composer/symfony/config@v8.1.2
 - pkg:composer/symfony/config@v8.1.4
+- pkg:composer/symfony/config@v8.1.5
