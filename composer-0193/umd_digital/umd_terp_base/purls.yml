@@ -19,6 +19,8 @@
 - pkg:composer/umd_digital/umd_terp_base@11.1.5
 - pkg:composer/umd_digital/umd_terp_base@11.1.6
 - pkg:composer/umd_digital/umd_terp_base@11.1.7
+- pkg:composer/umd_digital/umd_terp_base@11.1.8
+- pkg:composer/umd_digital/umd_terp_base@11.1.9
 - pkg:composer/umd_digital/umd_terp_base@8.1.0
 - pkg:composer/umd_digital/umd_terp_base@8.1.1
 - pkg:composer/umd_digital/umd_terp_base@8.1.10
