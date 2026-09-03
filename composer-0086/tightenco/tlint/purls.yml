@@ -86,3 +86,4 @@
 - pkg:composer/tightenco/tlint@v9.5.0
 - pkg:composer/tightenco/tlint@v9.6.0
 - pkg:composer/tightenco/tlint@v9.6.1
+- pkg:composer/tightenco/tlint@v9.7.0
