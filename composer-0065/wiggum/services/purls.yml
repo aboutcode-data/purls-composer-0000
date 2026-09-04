@@ -50,3 +50,4 @@
 - pkg:composer/wiggum/services@v1.6.9
 - pkg:composer/wiggum/services@v1.8
 - pkg:composer/wiggum/services@v1.9
+- pkg:composer/wiggum/services@v2.0
