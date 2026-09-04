@@ -376,6 +376,8 @@
 - pkg:composer/wikimedia/parsoid@v0.24.0-a18
 - pkg:composer/wikimedia/parsoid@v0.24.0-a19
 - pkg:composer/wikimedia/parsoid@v0.24.0-a2
+- pkg:composer/wikimedia/parsoid@v0.24.0-a20
+- pkg:composer/wikimedia/parsoid@v0.24.0-a21
 - pkg:composer/wikimedia/parsoid@v0.24.0-a3
 - pkg:composer/wikimedia/parsoid@v0.24.0-a4
 - pkg:composer/wikimedia/parsoid@v0.24.0-a5
