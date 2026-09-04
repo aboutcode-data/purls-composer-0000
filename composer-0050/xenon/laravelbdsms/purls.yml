@@ -29,6 +29,11 @@
 - pkg:composer/xenon/laravelbdsms@V1.0.67.0
 - pkg:composer/xenon/laravelbdsms@V1.0.67.1
 - pkg:composer/xenon/laravelbdsms@V1.0.67.2
+- pkg:composer/xenon/laravelbdsms@V2.0.0.0
+- pkg:composer/xenon/laravelbdsms@V2.0.0.0-beta
+- pkg:composer/xenon/laravelbdsms@V2.0.1.0
+- pkg:composer/xenon/laravelbdsms@V2.0.1.0-beta
+- pkg:composer/xenon/laravelbdsms@V2.0.2.0
 - pkg:composer/xenon/laravelbdsms@v1.0.0
 - pkg:composer/xenon/laravelbdsms@v1.0.1
 - pkg:composer/xenon/laravelbdsms@v1.0.12
