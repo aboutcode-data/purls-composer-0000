@@ -42,3 +42,4 @@
 - pkg:composer/yourpayments/php-api-client@v1.7.7
 - pkg:composer/yourpayments/php-api-client@v1.7.8
 - pkg:composer/yourpayments/php-api-client@v1.7.9
+- pkg:composer/yourpayments/php-api-client@v1.8.2
