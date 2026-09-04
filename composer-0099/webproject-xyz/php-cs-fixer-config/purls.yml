@@ -2,3 +2,4 @@
 - pkg:composer/webproject-xyz/php-cs-fixer-config@1.0.1
 - pkg:composer/webproject-xyz/php-cs-fixer-config@1.1.0
 - pkg:composer/webproject-xyz/php-cs-fixer-config@1.1.1
+- pkg:composer/webproject-xyz/php-cs-fixer-config@1.1.2
