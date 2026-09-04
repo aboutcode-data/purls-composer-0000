@@ -39,3 +39,4 @@
 - pkg:composer/spryker/gui-table@3.3.0
 - pkg:composer/spryker/gui-table@3.4.0
 - pkg:composer/spryker/gui-table@4.0.0
+- pkg:composer/spryker/gui-table@4.1.0
