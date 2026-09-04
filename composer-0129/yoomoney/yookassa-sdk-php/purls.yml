@@ -31,6 +31,7 @@
 - pkg:composer/yoomoney/yookassa-sdk-php@2.14.0
 - pkg:composer/yoomoney/yookassa-sdk-php@2.14.1
 - pkg:composer/yoomoney/yookassa-sdk-php@2.14.2
+- pkg:composer/yoomoney/yookassa-sdk-php@2.14.3
 - pkg:composer/yoomoney/yookassa-sdk-php@2.2.0
 - pkg:composer/yoomoney/yookassa-sdk-php@2.2.1
 - pkg:composer/yoomoney/yookassa-sdk-php@2.2.2
