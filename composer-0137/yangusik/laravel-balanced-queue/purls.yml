@@ -9,3 +9,5 @@
 - pkg:composer/yangusik/laravel-balanced-queue@v1.2.0
 - pkg:composer/yangusik/laravel-balanced-queue@v1.3.0
 - pkg:composer/yangusik/laravel-balanced-queue@v1.3.1
+- pkg:composer/yangusik/laravel-balanced-queue@v1.3.2
+- pkg:composer/yangusik/laravel-balanced-queue@v1.3.3
