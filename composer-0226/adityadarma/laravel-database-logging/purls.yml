@@ -63,3 +63,4 @@
 - pkg:composer/adityadarma/laravel-database-logging@2.6.0
 - pkg:composer/adityadarma/laravel-database-logging@2.7.0
 - pkg:composer/adityadarma/laravel-database-logging@2.8.0
+- pkg:composer/adityadarma/laravel-database-logging@v2.9.2
