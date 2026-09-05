@@ -23,3 +23,4 @@
 - pkg:composer/andmemasin/yii2-emails-validator@2.0.1
 - pkg:composer/andmemasin/yii2-emails-validator@2.0.2
 - pkg:composer/andmemasin/yii2-emails-validator@2.0.3
+- pkg:composer/andmemasin/yii2-emails-validator@2.1.0
