@@ -8,3 +8,5 @@
 - pkg:composer/voku/agent-kanban@0.3.3
 - pkg:composer/voku/agent-kanban@0.3.4
 - pkg:composer/voku/agent-kanban@0.4.0
+- pkg:composer/voku/agent-kanban@0.4.1
+- pkg:composer/voku/agent-kanban@0.4.2
