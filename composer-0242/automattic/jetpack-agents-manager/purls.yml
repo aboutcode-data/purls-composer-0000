@@ -1,4 +1,6 @@
 - pkg:composer/automattic/jetpack-agents-manager@v0.1.0
+- pkg:composer/automattic/jetpack-agents-manager@v0.10.0
+- pkg:composer/automattic/jetpack-agents-manager@v0.11.0
 - pkg:composer/automattic/jetpack-agents-manager@v0.2.0
 - pkg:composer/automattic/jetpack-agents-manager@v0.2.1
 - pkg:composer/automattic/jetpack-agents-manager@v0.3.0
