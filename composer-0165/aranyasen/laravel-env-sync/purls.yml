@@ -7,3 +7,5 @@
 - pkg:composer/aranyasen/laravel-env-sync@v2.0.0
 - pkg:composer/aranyasen/laravel-env-sync@v2.0.1
 - pkg:composer/aranyasen/laravel-env-sync@v2.0.2
+- pkg:composer/aranyasen/laravel-env-sync@v3.0.0
+- pkg:composer/aranyasen/laravel-env-sync@v3.0.1
