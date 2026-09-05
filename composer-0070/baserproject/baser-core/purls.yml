@@ -44,3 +44,4 @@
 - pkg:composer/baserproject/baser-core@5.2.8
 - pkg:composer/baserproject/baser-core@5.2.9
 - pkg:composer/baserproject/baser-core@5.3.0
+- pkg:composer/baserproject/baser-core@5.4.0
