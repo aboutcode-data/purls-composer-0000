@@ -85,6 +85,7 @@
 - pkg:composer/anthonyedmonds/govuk-laravel@5.4.0
 - pkg:composer/anthonyedmonds/govuk-laravel@5.5.0
 - pkg:composer/anthonyedmonds/govuk-laravel@5.5.1
+- pkg:composer/anthonyedmonds/govuk-laravel@5.6.0
 - pkg:composer/anthonyedmonds/govuk-laravel@6.0.0
 - pkg:composer/anthonyedmonds/govuk-laravel@6.1.0
 - pkg:composer/anthonyedmonds/govuk-laravel@6.1.1
@@ -118,3 +119,5 @@
 - pkg:composer/anthonyedmonds/govuk-laravel@8.3.0
 - pkg:composer/anthonyedmonds/govuk-laravel@8.3.1
 - pkg:composer/anthonyedmonds/govuk-laravel@8.3.2
+- pkg:composer/anthonyedmonds/govuk-laravel@8.4.0
+- pkg:composer/anthonyedmonds/govuk-laravel@8.5.0
