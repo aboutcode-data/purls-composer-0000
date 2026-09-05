@@ -5,3 +5,4 @@
 - pkg:composer/adereksisusanto/dapodik-api-php@2.0.0
 - pkg:composer/adereksisusanto/dapodik-api-php@3.0.0
 - pkg:composer/adereksisusanto/dapodik-api-php@4.0.0
+- pkg:composer/adereksisusanto/dapodik-api-php@v5.0.0
