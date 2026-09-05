@@ -14,3 +14,4 @@
 - pkg:composer/azure-oss/storage-blob-flysystem@2.1.0
 - pkg:composer/azure-oss/storage-blob-flysystem@2.2.0
 - pkg:composer/azure-oss/storage-blob-flysystem@2.2.1
+- pkg:composer/azure-oss/storage-blob-flysystem@2.2.2
