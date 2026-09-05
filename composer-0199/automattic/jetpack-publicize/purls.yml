@@ -253,4 +253,5 @@
 - pkg:composer/automattic/jetpack-publicize@v0.84.4
 - pkg:composer/automattic/jetpack-publicize@v0.85.0
 - pkg:composer/automattic/jetpack-publicize@v0.85.1
+- pkg:composer/automattic/jetpack-publicize@v0.86.0
 - pkg:composer/automattic/jetpack-publicize@v0.9.0

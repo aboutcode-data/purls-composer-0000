@@ -225,3 +225,4 @@
 - pkg:composer/automattic/jetpack-forms@v7.7.0
 - pkg:composer/automattic/jetpack-forms@v7.8.0
 - pkg:composer/automattic/jetpack-forms@v7.9.0
+- pkg:composer/automattic/jetpack-forms@v8.0.0
