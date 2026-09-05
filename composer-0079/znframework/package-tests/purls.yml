@@ -87,4 +87,5 @@
 - pkg:composer/znframework/package-tests@8.2.0
 - pkg:composer/znframework/package-tests@8.2.01
 - pkg:composer/znframework/package-tests@8.20.0
+- pkg:composer/znframework/package-tests@8.20.1
 - pkg:composer/znframework/package-tests@8.21.0
