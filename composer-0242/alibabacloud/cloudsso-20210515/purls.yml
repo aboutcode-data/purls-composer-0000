@@ -12,3 +12,5 @@
 - pkg:composer/alibabacloud/cloudsso-20210515@1.6.1
 - pkg:composer/alibabacloud/cloudsso-20210515@1.6.2
 - pkg:composer/alibabacloud/cloudsso-20210515@1.6.3
+- pkg:composer/alibabacloud/cloudsso-20210515@1.6.4
+- pkg:composer/alibabacloud/cloudsso-20210515@1.7.0
