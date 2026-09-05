@@ -9,3 +9,4 @@
 - pkg:composer/azlobin/mautic-sendgrid-callback@v1.5.4
 - pkg:composer/azlobin/mautic-sendgrid-callback@v1.5.5
 - pkg:composer/azlobin/mautic-sendgrid-callback@v1.5.6
+- pkg:composer/azlobin/mautic-sendgrid-callback@v1.5.8
