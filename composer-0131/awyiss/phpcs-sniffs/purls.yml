@@ -1,2 +1,6 @@
 - pkg:composer/awyiss/phpcs-sniffs@v0.4
 - pkg:composer/awyiss/phpcs-sniffs@v0.5
+- pkg:composer/awyiss/phpcs-sniffs@v0.6
+- pkg:composer/awyiss/phpcs-sniffs@v0.7
+- pkg:composer/awyiss/phpcs-sniffs@v0.8
+- pkg:composer/awyiss/phpcs-sniffs@v0.9
