@@ -46,6 +46,12 @@
 - pkg:composer/chieftools/sdk@v0.114.0
 - pkg:composer/chieftools/sdk@v0.115.0
 - pkg:composer/chieftools/sdk@v0.115.1
+- pkg:composer/chieftools/sdk@v0.116.0
+- pkg:composer/chieftools/sdk@v0.116.1
+- pkg:composer/chieftools/sdk@v0.116.2
+- pkg:composer/chieftools/sdk@v0.117.0
+- pkg:composer/chieftools/sdk@v0.117.1
+- pkg:composer/chieftools/sdk@v0.118.0
 - pkg:composer/chieftools/sdk@v0.12.0
 - pkg:composer/chieftools/sdk@v0.12.1
 - pkg:composer/chieftools/sdk@v0.12.2
