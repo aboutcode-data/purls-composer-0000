@@ -1,3 +1,4 @@
+- pkg:composer/cyberwoven/telemetry@1.0.0
 - pkg:composer/cyberwoven/telemetry@v0.4
 - pkg:composer/cyberwoven/telemetry@v0.5.10
 - pkg:composer/cyberwoven/telemetry@v0.5.11
@@ -17,3 +18,4 @@
 - pkg:composer/cyberwoven/telemetry@v0.8.1
 - pkg:composer/cyberwoven/telemetry@v0.8.2
 - pkg:composer/cyberwoven/telemetry@v0.8.3
+- pkg:composer/cyberwoven/telemetry@v0.8.4
