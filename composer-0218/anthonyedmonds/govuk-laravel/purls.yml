@@ -121,3 +121,4 @@
 - pkg:composer/anthonyedmonds/govuk-laravel@8.3.2
 - pkg:composer/anthonyedmonds/govuk-laravel@8.4.0
 - pkg:composer/anthonyedmonds/govuk-laravel@8.5.0
+- pkg:composer/anthonyedmonds/govuk-laravel@8.6.0
