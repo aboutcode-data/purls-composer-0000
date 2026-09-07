@@ -11,3 +11,4 @@
 - pkg:composer/desmg/php-common@2.2.3
 - pkg:composer/desmg/php-common@2.2.4
 - pkg:composer/desmg/php-common@3.0.0
+- pkg:composer/desmg/php-common@3.0.1
