@@ -48,3 +48,4 @@
 - pkg:composer/drakelid/interface-alert-policy-manager@v1.7.9
 - pkg:composer/drakelid/interface-alert-policy-manager@v1.8.0
 - pkg:composer/drakelid/interface-alert-policy-manager@v1.8.1
+- pkg:composer/drakelid/interface-alert-policy-manager@v1.9.0
