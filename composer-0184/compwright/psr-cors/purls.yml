@@ -1,1 +1,2 @@
 - pkg:composer/compwright/psr-cors@v1.0.0
+- pkg:composer/compwright/psr-cors@v1.0.1
