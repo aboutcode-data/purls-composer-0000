@@ -10,3 +10,9 @@
 - pkg:composer/devlin/laravel-model-analyzer@v2.1.0
 - pkg:composer/devlin/laravel-model-analyzer@v2.2.0
 - pkg:composer/devlin/laravel-model-analyzer@v2.2.1
+- pkg:composer/devlin/laravel-model-analyzer@v3.0.0
+- pkg:composer/devlin/laravel-model-analyzer@v3.0.1
+- pkg:composer/devlin/laravel-model-analyzer@v3.0.2
+- pkg:composer/devlin/laravel-model-analyzer@v3.1.0
+- pkg:composer/devlin/laravel-model-analyzer@v3.2.0
+- pkg:composer/devlin/laravel-model-analyzer@v3.2.1
