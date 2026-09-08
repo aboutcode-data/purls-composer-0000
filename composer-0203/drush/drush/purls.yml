@@ -112,6 +112,8 @@
 - pkg:composer/drush/drush@13.7.4
 - pkg:composer/drush/drush@13.7.5
 - pkg:composer/drush/drush@13.7.6
+- pkg:composer/drush/drush@13.7.7
+- pkg:composer/drush/drush@13.8.0
 - pkg:composer/drush/drush@6.0.0
 - pkg:composer/drush/drush@6.0.0-rc1
 - pkg:composer/drush/drush@6.0.0-rc2
