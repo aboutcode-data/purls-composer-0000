@@ -42,3 +42,4 @@
 - pkg:composer/google/cloud-notebooks@v1.1.4
 - pkg:composer/google/cloud-notebooks@v1.2.0
 - pkg:composer/google/cloud-notebooks@v1.2.1
+- pkg:composer/google/cloud-notebooks@v1.2.2
