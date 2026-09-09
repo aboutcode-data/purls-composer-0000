@@ -60,6 +60,7 @@
 - pkg:composer/hybridly/laravel@v0.10.0-beta.32
 - pkg:composer/hybridly/laravel@v0.10.0-beta.33
 - pkg:composer/hybridly/laravel@v0.10.0-beta.34
+- pkg:composer/hybridly/laravel@v0.10.0-beta.35
 - pkg:composer/hybridly/laravel@v0.10.0-beta.4
 - pkg:composer/hybridly/laravel@v0.10.0-beta.5
 - pkg:composer/hybridly/laravel@v0.10.0-beta.6
