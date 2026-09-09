@@ -72,6 +72,8 @@
 - pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.79.11
 - pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.79.12
 - pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.79.13
+- pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.79.15
+- pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.79.17
 - pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.79.2
 - pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.79.3
 - pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.79.5
@@ -80,4 +82,6 @@
 - pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.79.8
 - pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.79.9
 - pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.8.0
+- pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.80.0
+- pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.81.0
 - pkg:composer/helsingborg-stad/acf-openstreetmap-field@0.9.0
