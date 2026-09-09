@@ -22,6 +22,10 @@
 - pkg:composer/infocyph/intermix@1.08.6
 - pkg:composer/infocyph/intermix@1.08.7
 - pkg:composer/infocyph/intermix@10.0
+- pkg:composer/infocyph/intermix@10.0.1
+- pkg:composer/infocyph/intermix@10.0.2
+- pkg:composer/infocyph/intermix@10.0.3
+- pkg:composer/infocyph/intermix@10.0.4
 - pkg:composer/infocyph/intermix@2.0
 - pkg:composer/infocyph/intermix@2.00.1
 - pkg:composer/infocyph/intermix@2.00.2

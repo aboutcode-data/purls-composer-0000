@@ -17,3 +17,7 @@
 - pkg:composer/infocyph/webrick@4.0
 - pkg:composer/infocyph/webrick@4.0.1
 - pkg:composer/infocyph/webrick@4.0.2
+- pkg:composer/infocyph/webrick@5.0
+- pkg:composer/infocyph/webrick@5.1
+- pkg:composer/infocyph/webrick@5.2
+- pkg:composer/infocyph/webrick@5.3
