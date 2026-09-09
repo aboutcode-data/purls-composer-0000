@@ -16,3 +16,9 @@
 - pkg:composer/goldnead/statamic-email-templates@v2.1.1
 - pkg:composer/goldnead/statamic-email-templates@v2.1.2
 - pkg:composer/goldnead/statamic-email-templates@v2.2.0
+- pkg:composer/goldnead/statamic-email-templates@v2.3.0
+- pkg:composer/goldnead/statamic-email-templates@v2.4.0
+- pkg:composer/goldnead/statamic-email-templates@v2.5.0
+- pkg:composer/goldnead/statamic-email-templates@v2.6.0
+- pkg:composer/goldnead/statamic-email-templates@v2.6.1
+- pkg:composer/goldnead/statamic-email-templates@v2.7.0
