@@ -89,7 +89,11 @@
 - pkg:composer/gijsbos/apiserver@1.9.26
 - pkg:composer/gijsbos/apiserver@1.9.27
 - pkg:composer/gijsbos/apiserver@1.9.28
+- pkg:composer/gijsbos/apiserver@1.9.29
 - pkg:composer/gijsbos/apiserver@1.9.3
+- pkg:composer/gijsbos/apiserver@1.9.30
+- pkg:composer/gijsbos/apiserver@1.9.31
+- pkg:composer/gijsbos/apiserver@1.9.32
 - pkg:composer/gijsbos/apiserver@1.9.4
 - pkg:composer/gijsbos/apiserver@1.9.5
 - pkg:composer/gijsbos/apiserver@1.9.6
