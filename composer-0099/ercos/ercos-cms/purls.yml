@@ -47,3 +47,7 @@
 - pkg:composer/ercos/ercos-cms@5.0.0
 - pkg:composer/ercos/ercos-cms@5.1.0
 - pkg:composer/ercos/ercos-cms@5.2.0
+- pkg:composer/ercos/ercos-cms@5.3.0
+- pkg:composer/ercos/ercos-cms@5.3.1
+- pkg:composer/ercos/ercos-cms@5.3.2
+- pkg:composer/ercos/ercos-cms@5.3.3
