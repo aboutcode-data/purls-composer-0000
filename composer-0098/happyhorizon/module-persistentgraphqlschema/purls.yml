@@ -9,3 +9,4 @@
 - pkg:composer/happyhorizon/module-persistentgraphqlschema@2.1.0
 - pkg:composer/happyhorizon/module-persistentgraphqlschema@2.1.1
 - pkg:composer/happyhorizon/module-persistentgraphqlschema@2.1.2
+- pkg:composer/happyhorizon/module-persistentgraphqlschema@3.0.0
