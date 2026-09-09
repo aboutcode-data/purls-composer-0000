@@ -3,3 +3,6 @@
 - pkg:composer/genericnotification/notification@v2.0.0
 - pkg:composer/genericnotification/notification@v2.1.0
 - pkg:composer/genericnotification/notification@v2.1.1
+- pkg:composer/genericnotification/notification@v2.2.0
+- pkg:composer/genericnotification/notification@v2.3.0
+- pkg:composer/genericnotification/notification@v2.3.1
