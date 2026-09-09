@@ -4,3 +4,4 @@
 - pkg:composer/extport/grpc@1.82.0
 - pkg:composer/extport/grpc@1.82.1
 - pkg:composer/extport/grpc@1.83.0
+- pkg:composer/extport/grpc@1.83.1
