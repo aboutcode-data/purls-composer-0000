@@ -1,5 +1,6 @@
 - pkg:composer/inspyrenees/typesense-bundle@0.10.0
 - pkg:composer/inspyrenees/typesense-bundle@0.10.1
+- pkg:composer/inspyrenees/typesense-bundle@0.11.0
 - pkg:composer/inspyrenees/typesense-bundle@0.9.0
 - pkg:composer/inspyrenees/typesense-bundle@0.9.1
 - pkg:composer/inspyrenees/typesense-bundle@v0.2
