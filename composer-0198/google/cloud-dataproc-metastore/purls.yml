@@ -43,3 +43,4 @@
 - pkg:composer/google/cloud-dataproc-metastore@v1.2.3
 - pkg:composer/google/cloud-dataproc-metastore@v1.2.4
 - pkg:composer/google/cloud-dataproc-metastore@v1.3.0
+- pkg:composer/google/cloud-dataproc-metastore@v1.3.1
