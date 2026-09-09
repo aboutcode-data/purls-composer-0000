@@ -22,3 +22,4 @@
 - pkg:composer/healthengine/laravel-easy-aws@v3.0.6
 - pkg:composer/healthengine/laravel-easy-aws@v4.0.0
 - pkg:composer/healthengine/laravel-easy-aws@v4.0.1
+- pkg:composer/healthengine/laravel-easy-aws@v5.0.0
