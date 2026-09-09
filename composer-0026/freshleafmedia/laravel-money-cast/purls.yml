@@ -1,2 +1,4 @@
 - pkg:composer/freshleafmedia/laravel-money-cast@1.0.0
 - pkg:composer/freshleafmedia/laravel-money-cast@1.0.1
+- pkg:composer/freshleafmedia/laravel-money-cast@1.0.2
+- pkg:composer/freshleafmedia/laravel-money-cast@1.0.3
