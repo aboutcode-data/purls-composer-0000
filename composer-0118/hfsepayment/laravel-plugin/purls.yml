@@ -1,2 +1,3 @@
 - pkg:composer/hfsepayment/laravel-plugin@v1.0.2
 - pkg:composer/hfsepayment/laravel-plugin@v1.0.3
+- pkg:composer/hfsepayment/laravel-plugin@v2.0.0
