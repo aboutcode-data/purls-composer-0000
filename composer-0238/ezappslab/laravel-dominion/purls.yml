@@ -1,2 +1,4 @@
 - pkg:composer/ezappslab/laravel-dominion@0.1.0
 - pkg:composer/ezappslab/laravel-dominion@0.3.0
+- pkg:composer/ezappslab/laravel-dominion@1.0.0
+- pkg:composer/ezappslab/laravel-dominion@2.0.0
