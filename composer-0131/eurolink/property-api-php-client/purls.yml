@@ -25,3 +25,5 @@
 - pkg:composer/eurolink/property-api-php-client@v5.0.0
 - pkg:composer/eurolink/property-api-php-client@v5.0.1
 - pkg:composer/eurolink/property-api-php-client@v5.0.2
+- pkg:composer/eurolink/property-api-php-client@v6.0.0
+- pkg:composer/eurolink/property-api-php-client@v6.0.1
