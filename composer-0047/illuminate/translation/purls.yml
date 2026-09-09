@@ -322,6 +322,9 @@
 - pkg:composer/illuminate/translation@v12.66.0
 - pkg:composer/illuminate/translation@v12.67.0
 - pkg:composer/illuminate/translation@v12.68.0
+- pkg:composer/illuminate/translation@v12.69.0
+- pkg:composer/illuminate/translation@v12.69.1
+- pkg:composer/illuminate/translation@v12.69.2
 - pkg:composer/illuminate/translation@v12.7.0
 - pkg:composer/illuminate/translation@v12.7.1
 - pkg:composer/illuminate/translation@v12.7.2
@@ -359,6 +362,9 @@
 - pkg:composer/illuminate/translation@v13.27.0
 - pkg:composer/illuminate/translation@v13.29.0
 - pkg:composer/illuminate/translation@v13.3.0
+- pkg:composer/illuminate/translation@v13.30.0
+- pkg:composer/illuminate/translation@v13.30.1
+- pkg:composer/illuminate/translation@v13.31.0
 - pkg:composer/illuminate/translation@v13.4.0
 - pkg:composer/illuminate/translation@v13.5.0
 - pkg:composer/illuminate/translation@v13.6.0
