@@ -51,6 +51,8 @@
 - pkg:composer/jawira/skeleton@v2.3.0
 - pkg:composer/jawira/skeleton@v2.30.0
 - pkg:composer/jawira/skeleton@v2.31.0
+- pkg:composer/jawira/skeleton@v2.32.0
+- pkg:composer/jawira/skeleton@v2.33.0
 - pkg:composer/jawira/skeleton@v2.4.0
 - pkg:composer/jawira/skeleton@v2.4.1
 - pkg:composer/jawira/skeleton@v2.5.0
