@@ -22,3 +22,4 @@
 - pkg:composer/jeidison/jsignpdf-php@v1.2.6
 - pkg:composer/jeidison/jsignpdf-php@v1.3.0
 - pkg:composer/jeidison/jsignpdf-php@v1.3.1
+- pkg:composer/jeidison/jsignpdf-php@v3.0.0
