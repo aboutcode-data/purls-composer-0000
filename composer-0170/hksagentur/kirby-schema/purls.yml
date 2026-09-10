@@ -77,4 +77,5 @@
 - pkg:composer/hksagentur/kirby-schema@1.8.0
 - pkg:composer/hksagentur/kirby-schema@1.8.1
 - pkg:composer/hksagentur/kirby-schema@1.9.0
+- pkg:composer/hksagentur/kirby-schema@2.0.0-alpha.1
 - pkg:composer/hksagentur/kirby-schema@v1.43.0
