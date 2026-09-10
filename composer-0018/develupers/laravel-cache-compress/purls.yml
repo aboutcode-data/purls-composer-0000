@@ -1,6 +1,9 @@
+- pkg:composer/develupers/laravel-cache-compress@0.1.2
+- pkg:composer/develupers/laravel-cache-compress@0.1.4
 - pkg:composer/develupers/laravel-cache-compress@v0.1.5
 - pkg:composer/develupers/laravel-cache-compress@v0.2.0
 - pkg:composer/develupers/laravel-cache-compress@v0.3.0
 - pkg:composer/develupers/laravel-cache-compress@v0.5.0
 - pkg:composer/develupers/laravel-cache-compress@v0.5.1
 - pkg:composer/develupers/laravel-cache-compress@v0.6.0
+- pkg:composer/develupers/laravel-cache-compress@v0.6.1
