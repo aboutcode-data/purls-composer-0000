@@ -29,6 +29,8 @@
 - pkg:composer/jenssegers/mongodb@5.0.2
 - pkg:composer/jenssegers/mongodb@5.1.0
 - pkg:composer/jenssegers/mongodb@5.1.1
+- pkg:composer/jenssegers/mongodb@5.10.0
+- pkg:composer/jenssegers/mongodb@5.11.0
 - pkg:composer/jenssegers/mongodb@5.2.0
 - pkg:composer/jenssegers/mongodb@5.2.1
 - pkg:composer/jenssegers/mongodb@5.2.2
