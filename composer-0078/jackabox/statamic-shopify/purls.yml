@@ -95,6 +95,8 @@
 - pkg:composer/jackabox/statamic-shopify@v7.0.3
 - pkg:composer/jackabox/statamic-shopify@v7.0.4
 - pkg:composer/jackabox/statamic-shopify@v7.1.0
+- pkg:composer/jackabox/statamic-shopify@v7.10.0
+- pkg:composer/jackabox/statamic-shopify@v7.11.0
 - pkg:composer/jackabox/statamic-shopify@v7.2.0
 - pkg:composer/jackabox/statamic-shopify@v7.3.0
 - pkg:composer/jackabox/statamic-shopify@v7.3.1
@@ -109,3 +111,6 @@
 - pkg:composer/jackabox/statamic-shopify@v7.8.3
 - pkg:composer/jackabox/statamic-shopify@v7.8.4
 - pkg:composer/jackabox/statamic-shopify@v7.8.5
+- pkg:composer/jackabox/statamic-shopify@v7.8.6
+- pkg:composer/jackabox/statamic-shopify@v7.9.0
+- pkg:composer/jackabox/statamic-shopify@v7.9.1
