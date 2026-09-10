@@ -1,2 +1,3 @@
 - pkg:composer/hydrakit/php-di@v0.2.0
 - pkg:composer/hydrakit/php-di@v0.2.1
+- pkg:composer/hydrakit/php-di@v0.3.0
