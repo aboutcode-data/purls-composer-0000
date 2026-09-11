@@ -34,6 +34,7 @@
 - pkg:composer/kipchak/driver-doctrine@1.39
 - pkg:composer/kipchak/driver-doctrine@1.4
 - pkg:composer/kipchak/driver-doctrine@1.40
+- pkg:composer/kipchak/driver-doctrine@1.41
 - pkg:composer/kipchak/driver-doctrine@1.5
 - pkg:composer/kipchak/driver-doctrine@1.6
 - pkg:composer/kipchak/driver-doctrine@1.7
