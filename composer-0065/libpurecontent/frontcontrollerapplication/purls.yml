@@ -13,6 +13,8 @@
 - pkg:composer/libpurecontent/frontcontrollerapplication@v1.13.9
 - pkg:composer/libpurecontent/frontcontrollerapplication@v1.14.0
 - pkg:composer/libpurecontent/frontcontrollerapplication@v1.14.1
+- pkg:composer/libpurecontent/frontcontrollerapplication@v1.14.10
+- pkg:composer/libpurecontent/frontcontrollerapplication@v1.14.11
 - pkg:composer/libpurecontent/frontcontrollerapplication@v1.14.2
 - pkg:composer/libpurecontent/frontcontrollerapplication@v1.14.3
 - pkg:composer/libpurecontent/frontcontrollerapplication@v1.14.4
@@ -20,3 +22,4 @@
 - pkg:composer/libpurecontent/frontcontrollerapplication@v1.14.6
 - pkg:composer/libpurecontent/frontcontrollerapplication@v1.14.7
 - pkg:composer/libpurecontent/frontcontrollerapplication@v1.14.8
+- pkg:composer/libpurecontent/frontcontrollerapplication@v1.14.9
