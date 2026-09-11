@@ -102,3 +102,4 @@
 - pkg:composer/gocardless/gocardless-pro@8.1.3
 - pkg:composer/gocardless/gocardless-pro@8.1.4
 - pkg:composer/gocardless/gocardless-pro@8.1.5
+- pkg:composer/gocardless/gocardless-pro@8.2.0
