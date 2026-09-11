@@ -29,6 +29,7 @@
 - pkg:composer/level-level/clarkson-core@0.4.9
 - pkg:composer/level-level/clarkson-core@0.5.0
 - pkg:composer/level-level/clarkson-core@0.5.1
+- pkg:composer/level-level/clarkson-core@0.5.2
 - pkg:composer/level-level/clarkson-core@1.0.0
 - pkg:composer/level-level/clarkson-core@1.0.0-rc1
 - pkg:composer/level-level/clarkson-core@1.0.0-rc2
@@ -53,3 +54,4 @@
 - pkg:composer/level-level/clarkson-core@1.7.5
 - pkg:composer/level-level/clarkson-core@1.8.0
 - pkg:composer/level-level/clarkson-core@1.8.1
+- pkg:composer/level-level/clarkson-core@1.9.0
