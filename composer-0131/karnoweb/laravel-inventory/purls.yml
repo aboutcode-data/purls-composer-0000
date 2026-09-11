@@ -1,3 +1,5 @@
 - pkg:composer/karnoweb/laravel-inventory@13.0.0
 - pkg:composer/karnoweb/laravel-inventory@13.1.0
 - pkg:composer/karnoweb/laravel-inventory@13.2.0
+- pkg:composer/karnoweb/laravel-inventory@13.2.1
+- pkg:composer/karnoweb/laravel-inventory@13.2.2
