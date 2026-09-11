@@ -10,3 +10,5 @@
 - pkg:composer/hokoo/wppostable@0.6.1
 - pkg:composer/hokoo/wppostable@0.6.2
 - pkg:composer/hokoo/wppostable@0.7.0
+- pkg:composer/hokoo/wppostable@1.0.0
+- pkg:composer/hokoo/wppostable@1.0.0-rc.1
