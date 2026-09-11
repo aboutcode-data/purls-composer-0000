@@ -169,6 +169,7 @@
 - pkg:composer/kunstmaan/generator-bundle@7.2.1
 - pkg:composer/kunstmaan/generator-bundle@7.3.0
 - pkg:composer/kunstmaan/generator-bundle@7.3.1
+- pkg:composer/kunstmaan/generator-bundle@7.3.2
 - pkg:composer/kunstmaan/generator-bundle@v2.1
 - pkg:composer/kunstmaan/generator-bundle@v2.1.1
 - pkg:composer/kunstmaan/generator-bundle@v2.1.2
