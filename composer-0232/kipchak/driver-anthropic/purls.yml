@@ -17,3 +17,4 @@
 - pkg:composer/kipchak/driver-anthropic@2.3
 - pkg:composer/kipchak/driver-anthropic@2.4
 - pkg:composer/kipchak/driver-anthropic@2.5
+- pkg:composer/kipchak/driver-anthropic@2.6
