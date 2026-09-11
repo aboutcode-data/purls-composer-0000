@@ -6,3 +6,4 @@
 - pkg:composer/korbeil/dhl-express-php-api@v1.0.5
 - pkg:composer/korbeil/dhl-express-php-api@v1.0.6
 - pkg:composer/korbeil/dhl-express-php-api@v2.0.0
+- pkg:composer/korbeil/dhl-express-php-api@v2.1.0
