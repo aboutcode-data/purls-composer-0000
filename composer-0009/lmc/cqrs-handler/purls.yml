@@ -7,3 +7,4 @@
 - pkg:composer/lmc/cqrs-handler@2.0.0
 - pkg:composer/lmc/cqrs-handler@2.1.0
 - pkg:composer/lmc/cqrs-handler@2.2.0
+- pkg:composer/lmc/cqrs-handler@2.3.0
