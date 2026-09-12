@@ -12,3 +12,5 @@
 - pkg:composer/miguelenred/jsonsqldb@v2.2.1
 - pkg:composer/miguelenred/jsonsqldb@v2.3.0
 - pkg:composer/miguelenred/jsonsqldb@v2.4.0
+- pkg:composer/miguelenred/jsonsqldb@v2.5.0
+- pkg:composer/miguelenred/jsonsqldb@v2.6.0
