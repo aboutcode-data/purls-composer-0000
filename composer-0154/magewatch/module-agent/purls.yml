@@ -35,6 +35,8 @@
 - pkg:composer/magewatch/module-agent@1.2.3
 - pkg:composer/magewatch/module-agent@1.2.31
 - pkg:composer/magewatch/module-agent@1.2.32
+- pkg:composer/magewatch/module-agent@1.2.33
+- pkg:composer/magewatch/module-agent@1.2.34
 - pkg:composer/magewatch/module-agent@1.2.5
 - pkg:composer/magewatch/module-agent@1.2.6
 - pkg:composer/magewatch/module-agent@1.2.7
