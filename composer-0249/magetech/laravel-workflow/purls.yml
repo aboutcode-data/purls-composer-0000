@@ -1,1 +1,3 @@
 - pkg:composer/magetech/laravel-workflow@1.0.0
+- pkg:composer/magetech/laravel-workflow@v1.0.1
+- pkg:composer/magetech/laravel-workflow@v1.1.0
