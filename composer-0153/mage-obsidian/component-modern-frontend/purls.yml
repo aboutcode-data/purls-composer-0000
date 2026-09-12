@@ -20,3 +20,6 @@
 - pkg:composer/mage-obsidian/component-modern-frontend@2.4.4
 - pkg:composer/mage-obsidian/component-modern-frontend@2.4.5
 - pkg:composer/mage-obsidian/component-modern-frontend@2.4.6
+- pkg:composer/mage-obsidian/component-modern-frontend@2.5.0
+- pkg:composer/mage-obsidian/component-modern-frontend@2.5.1
+- pkg:composer/mage-obsidian/component-modern-frontend@2.5.2
