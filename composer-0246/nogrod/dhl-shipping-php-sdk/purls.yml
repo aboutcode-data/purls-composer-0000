@@ -5,3 +5,4 @@
 - pkg:composer/nogrod/dhl-shipping-php-sdk@v0.1.4
 - pkg:composer/nogrod/dhl-shipping-php-sdk@v0.1.5
 - pkg:composer/nogrod/dhl-shipping-php-sdk@v0.1.5.1
+- pkg:composer/nogrod/dhl-shipping-php-sdk@v0.2.0
