@@ -19,3 +19,4 @@
 - pkg:composer/monicahq/laravel-sabre@1.7.0
 - pkg:composer/monicahq/laravel-sabre@1.8.0
 - pkg:composer/monicahq/laravel-sabre@1.9.0
+- pkg:composer/monicahq/laravel-sabre@2.0.0
