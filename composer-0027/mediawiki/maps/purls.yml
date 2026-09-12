@@ -24,6 +24,7 @@
 - pkg:composer/mediawiki/maps@14.0.0
 - pkg:composer/mediawiki/maps@14.1.0
 - pkg:composer/mediawiki/maps@14.1.1
+- pkg:composer/mediawiki/maps@14.2.0
 - pkg:composer/mediawiki/maps@3.0
 - pkg:composer/mediawiki/maps@3.0-RC2
 - pkg:composer/mediawiki/maps@3.0.1
