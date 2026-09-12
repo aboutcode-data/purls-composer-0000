@@ -1,2 +1,4 @@
 - pkg:composer/nikba/laravel-bulksms@v1.1
 - pkg:composer/nikba/laravel-bulksms@v1.2
+- pkg:composer/nikba/laravel-bulksms@v2.0.0
+- pkg:composer/nikba/laravel-bulksms@v2.1.0
