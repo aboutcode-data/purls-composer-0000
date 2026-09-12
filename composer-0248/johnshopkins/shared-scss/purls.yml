@@ -1,5 +1,6 @@
 - pkg:composer/johnshopkins/shared-scss@2.12.0
 - pkg:composer/johnshopkins/shared-scss@2.13.0
+- pkg:composer/johnshopkins/shared-scss@2.13.1
 - pkg:composer/johnshopkins/shared-scss@v1.0
 - pkg:composer/johnshopkins/shared-scss@v1.0.1
 - pkg:composer/johnshopkins/shared-scss@v1.1
