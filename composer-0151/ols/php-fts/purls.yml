@@ -1,1 +1,3 @@
 - pkg:composer/ols/php-fts@v1.0.0
+- pkg:composer/ols/php-fts@v1.1.4
+- pkg:composer/ols/php-fts@v2.0.0
