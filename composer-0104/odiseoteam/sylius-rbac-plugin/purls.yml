@@ -23,3 +23,11 @@
 - pkg:composer/odiseoteam/sylius-rbac-plugin@v1.6.2
 - pkg:composer/odiseoteam/sylius-rbac-plugin@v2.0.0
 - pkg:composer/odiseoteam/sylius-rbac-plugin@v2.0.1
+- pkg:composer/odiseoteam/sylius-rbac-plugin@v3.0.0
+- pkg:composer/odiseoteam/sylius-rbac-plugin@v3.0.0-alpha1
+- pkg:composer/odiseoteam/sylius-rbac-plugin@v3.0.0-alpha2
+- pkg:composer/odiseoteam/sylius-rbac-plugin@v3.0.0-alpha3
+- pkg:composer/odiseoteam/sylius-rbac-plugin@v3.0.0-alpha4
+- pkg:composer/odiseoteam/sylius-rbac-plugin@v3.0.0-beta1
+- pkg:composer/odiseoteam/sylius-rbac-plugin@v3.0.1
+- pkg:composer/odiseoteam/sylius-rbac-plugin@v3.0.2
