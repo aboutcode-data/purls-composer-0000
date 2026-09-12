@@ -22,3 +22,5 @@
 - pkg:composer/matondojk/filament-avatar-picker@v2.0.8
 - pkg:composer/matondojk/filament-avatar-picker@v2.0.9
 - pkg:composer/matondojk/filament-avatar-picker@v3.0.0
+- pkg:composer/matondojk/filament-avatar-picker@v4.0.0
+- pkg:composer/matondojk/filament-avatar-picker@v4.0.1
