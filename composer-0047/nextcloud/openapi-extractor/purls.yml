@@ -21,3 +21,4 @@
 - pkg:composer/nextcloud/openapi-extractor@v1.8.6
 - pkg:composer/nextcloud/openapi-extractor@v1.8.7
 - pkg:composer/nextcloud/openapi-extractor@v1.9.0
+- pkg:composer/nextcloud/openapi-extractor@v1.9.1
