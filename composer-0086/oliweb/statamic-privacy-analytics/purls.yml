@@ -60,3 +60,11 @@
 - pkg:composer/oliweb/statamic-privacy-analytics@v4.5.0
 - pkg:composer/oliweb/statamic-privacy-analytics@v4.5.2
 - pkg:composer/oliweb/statamic-privacy-analytics@v4.5.3
+- pkg:composer/oliweb/statamic-privacy-analytics@v4.6.0
+- pkg:composer/oliweb/statamic-privacy-analytics@v4.6.1
+- pkg:composer/oliweb/statamic-privacy-analytics@v4.6.2
+- pkg:composer/oliweb/statamic-privacy-analytics@v4.7.0
+- pkg:composer/oliweb/statamic-privacy-analytics@v4.7.1
+- pkg:composer/oliweb/statamic-privacy-analytics@v4.7.2
+- pkg:composer/oliweb/statamic-privacy-analytics@v4.7.3
+- pkg:composer/oliweb/statamic-privacy-analytics@v4.7.4
