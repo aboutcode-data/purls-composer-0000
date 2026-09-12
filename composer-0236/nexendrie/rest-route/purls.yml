@@ -1,3 +1,4 @@
 - pkg:composer/nexendrie/rest-route@5.0.0
 - pkg:composer/nexendrie/rest-route@5.1.0
 - pkg:composer/nexendrie/rest-route@5.2.0
+- pkg:composer/nexendrie/rest-route@5.2.1
