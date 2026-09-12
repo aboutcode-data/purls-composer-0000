@@ -33,6 +33,9 @@
 - pkg:composer/noerd/modal@v0.3.25
 - pkg:composer/noerd/modal@v0.3.26
 - pkg:composer/noerd/modal@v0.3.27
+- pkg:composer/noerd/modal@v0.3.28
+- pkg:composer/noerd/modal@v0.3.29
+- pkg:composer/noerd/modal@v0.3.30
 - pkg:composer/noerd/modal@v0.3.6
 - pkg:composer/noerd/modal@v0.3.7
 - pkg:composer/noerd/modal@v0.3.8
