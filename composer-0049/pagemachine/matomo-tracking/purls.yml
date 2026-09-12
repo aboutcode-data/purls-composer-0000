@@ -3,3 +3,4 @@
 - pkg:composer/pagemachine/matomo-tracking@1.1.1
 - pkg:composer/pagemachine/matomo-tracking@1.2.0
 - pkg:composer/pagemachine/matomo-tracking@1.2.1
+- pkg:composer/pagemachine/matomo-tracking@1.3.0
