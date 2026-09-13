@@ -245,3 +245,4 @@
 - pkg:composer/kreait/firebase-php@8.4.0
 - pkg:composer/kreait/firebase-php@8.4.1
 - pkg:composer/kreait/firebase-php@8.4.2
+- pkg:composer/kreait/firebase-php@8.5.0
