@@ -12,3 +12,4 @@
 - pkg:composer/qubus/log@v3.1.1
 - pkg:composer/qubus/log@v4.0.0
 - pkg:composer/qubus/log@v4.0.1
+- pkg:composer/qubus/log@v5.0.0
