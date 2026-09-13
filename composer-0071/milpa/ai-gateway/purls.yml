@@ -28,6 +28,7 @@
 - pkg:composer/milpa/ai-gateway@v0.24.0
 - pkg:composer/milpa/ai-gateway@v0.24.1
 - pkg:composer/milpa/ai-gateway@v0.24.2
+- pkg:composer/milpa/ai-gateway@v0.24.3
 - pkg:composer/milpa/ai-gateway@v0.3.0
 - pkg:composer/milpa/ai-gateway@v0.3.1
 - pkg:composer/milpa/ai-gateway@v0.4.0
