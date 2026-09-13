@@ -31,6 +31,7 @@
 - pkg:composer/nitro/nitro@v0.20.0
 - pkg:composer/nitro/nitro@v0.21.0
 - pkg:composer/nitro/nitro@v0.22.0
+- pkg:composer/nitro/nitro@v0.23.0
 - pkg:composer/nitro/nitro@v0.3.0
 - pkg:composer/nitro/nitro@v0.4.0
 - pkg:composer/nitro/nitro@v0.5.1
