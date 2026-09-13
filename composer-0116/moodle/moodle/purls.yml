@@ -409,6 +409,7 @@
 - pkg:composer/moodle/moodle@v4.5.11
 - pkg:composer/moodle/moodle@v4.5.12
 - pkg:composer/moodle/moodle@v4.5.13
+- pkg:composer/moodle/moodle@v4.5.14
 - pkg:composer/moodle/moodle@v4.5.2
 - pkg:composer/moodle/moodle@v4.5.3
 - pkg:composer/moodle/moodle@v4.5.4
@@ -423,6 +424,7 @@
 - pkg:composer/moodle/moodle@v5.0.0-rc2
 - pkg:composer/moodle/moodle@v5.0.0-rc3
 - pkg:composer/moodle/moodle@v5.0.1
+- pkg:composer/moodle/moodle@v5.0.10
 - pkg:composer/moodle/moodle@v5.0.2
 - pkg:composer/moodle/moodle@v5.0.3
 - pkg:composer/moodle/moodle@v5.0.4
@@ -441,9 +443,11 @@
 - pkg:composer/moodle/moodle@v5.1.4
 - pkg:composer/moodle/moodle@v5.1.5
 - pkg:composer/moodle/moodle@v5.1.6
+- pkg:composer/moodle/moodle@v5.1.7
 - pkg:composer/moodle/moodle@v5.2.0
 - pkg:composer/moodle/moodle@v5.2.0-beta
 - pkg:composer/moodle/moodle@v5.2.0-rc1
 - pkg:composer/moodle/moodle@v5.2.0-rc2
 - pkg:composer/moodle/moodle@v5.2.1
 - pkg:composer/moodle/moodle@v5.2.2
+- pkg:composer/moodle/moodle@v5.2.3
