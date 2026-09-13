@@ -26,3 +26,4 @@
 - pkg:composer/precision-soft/doctrine-type@v3.4.5
 - pkg:composer/precision-soft/doctrine-type@v3.5.0
 - pkg:composer/precision-soft/doctrine-type@v3.6.0
+- pkg:composer/precision-soft/doctrine-type@v3.7.0
