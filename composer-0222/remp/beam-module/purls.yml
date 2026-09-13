@@ -34,3 +34,5 @@
 - pkg:composer/remp/beam-module@5.0.0
 - pkg:composer/remp/beam-module@5.0.1
 - pkg:composer/remp/beam-module@5.1.0
+- pkg:composer/remp/beam-module@5.2.0
+- pkg:composer/remp/beam-module@5.2.1
