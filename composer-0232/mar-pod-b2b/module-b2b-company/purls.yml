@@ -9,6 +9,8 @@
 - pkg:composer/mar-pod-b2b/module-b2b-company@1.10.6
 - pkg:composer/mar-pod-b2b/module-b2b-company@1.11.0
 - pkg:composer/mar-pod-b2b/module-b2b-company@1.11.1
+- pkg:composer/mar-pod-b2b/module-b2b-company@1.11.10
+- pkg:composer/mar-pod-b2b/module-b2b-company@1.11.12
 - pkg:composer/mar-pod-b2b/module-b2b-company@1.11.2
 - pkg:composer/mar-pod-b2b/module-b2b-company@1.11.3
 - pkg:composer/mar-pod-b2b/module-b2b-company@1.11.4
