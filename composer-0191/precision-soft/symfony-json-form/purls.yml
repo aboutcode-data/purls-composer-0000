@@ -8,3 +8,4 @@
 - pkg:composer/precision-soft/symfony-json-form@v1.0.7
 - pkg:composer/precision-soft/symfony-json-form@v1.1.0
 - pkg:composer/precision-soft/symfony-json-form@v1.2.0
+- pkg:composer/precision-soft/symfony-json-form@v1.3.0
