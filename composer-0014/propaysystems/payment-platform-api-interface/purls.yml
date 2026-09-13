@@ -20,6 +20,7 @@
 - pkg:composer/propaysystems/payment-platform-api-interface@1.0.7
 - pkg:composer/propaysystems/payment-platform-api-interface@1.0.8
 - pkg:composer/propaysystems/payment-platform-api-interface@1.0.9
+- pkg:composer/propaysystems/payment-platform-api-interface@1.1.0
 - pkg:composer/propaysystems/payment-platform-api-interface@v0.0.4
 - pkg:composer/propaysystems/payment-platform-api-interface@v0.0.5
 - pkg:composer/propaysystems/payment-platform-api-interface@v0.0.6
