@@ -8,3 +8,4 @@
 - pkg:composer/rackbeat/laravel-validate-mysql-integers@1.7
 - pkg:composer/rackbeat/laravel-validate-mysql-integers@1.8
 - pkg:composer/rackbeat/laravel-validate-mysql-integers@2.0
+- pkg:composer/rackbeat/laravel-validate-mysql-integers@2.1
