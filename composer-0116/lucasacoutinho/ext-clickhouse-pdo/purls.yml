@@ -10,3 +10,4 @@
 - pkg:composer/lucasacoutinho/ext-clickhouse-pdo@v1.2.0
 - pkg:composer/lucasacoutinho/ext-clickhouse-pdo@v1.3.0
 - pkg:composer/lucasacoutinho/ext-clickhouse-pdo@v1.4.1
+- pkg:composer/lucasacoutinho/ext-clickhouse-pdo@v1.5.0
