@@ -73,6 +73,8 @@
 - pkg:composer/roadiz/solr-bundle@v2.7.40
 - pkg:composer/roadiz/solr-bundle@v2.7.41
 - pkg:composer/roadiz/solr-bundle@v2.7.42
+- pkg:composer/roadiz/solr-bundle@v2.7.43
+- pkg:composer/roadiz/solr-bundle@v2.7.44
 - pkg:composer/roadiz/solr-bundle@v2.7.5
 - pkg:composer/roadiz/solr-bundle@v2.7.6
 - pkg:composer/roadiz/solr-bundle@v2.7.7
