@@ -8,3 +8,4 @@
 - pkg:composer/rmphp/data-mapper@2.0
 - pkg:composer/rmphp/data-mapper@2.0.1
 - pkg:composer/rmphp/data-mapper@2.1
+- pkg:composer/rmphp/data-mapper@2.2
