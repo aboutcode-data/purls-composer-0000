@@ -33,3 +33,4 @@
 - pkg:composer/salesrender/plugin-component-batch@0.3.7
 - pkg:composer/salesrender/plugin-component-batch@0.3.8
 - pkg:composer/salesrender/plugin-component-batch@0.3.9
+- pkg:composer/salesrender/plugin-component-batch@1.0.0

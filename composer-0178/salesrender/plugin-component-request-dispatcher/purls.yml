@@ -15,3 +15,4 @@
 - pkg:composer/salesrender/plugin-component-request-dispatcher@0.3.5
 - pkg:composer/salesrender/plugin-component-request-dispatcher@0.3.6
 - pkg:composer/salesrender/plugin-component-request-dispatcher@0.3.7
+- pkg:composer/salesrender/plugin-component-request-dispatcher@1.0.0

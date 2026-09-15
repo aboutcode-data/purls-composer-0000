@@ -54,3 +54,4 @@
 - pkg:composer/salesrender/plugin-core@0.4.6
 - pkg:composer/salesrender/plugin-core@0.4.7
 - pkg:composer/salesrender/plugin-core@0.4.8
+- pkg:composer/salesrender/plugin-core@1.0.0

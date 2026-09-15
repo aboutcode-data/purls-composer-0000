@@ -24,3 +24,4 @@
 - pkg:composer/salesrender/plugin-component-api-client@0.6.7
 - pkg:composer/salesrender/plugin-component-api-client@0.6.8
 - pkg:composer/salesrender/plugin-component-api-client@0.6.9
+- pkg:composer/salesrender/plugin-component-api-client@1.0.0
