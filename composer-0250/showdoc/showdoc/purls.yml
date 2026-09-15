@@ -175,3 +175,5 @@
 - pkg:composer/showdoc/showdoc@v3.9.0
 - pkg:composer/showdoc/showdoc@v3.9.1
 - pkg:composer/showdoc/showdoc@v3.9.2
+- pkg:composer/showdoc/showdoc@v3.9.3
+- pkg:composer/showdoc/showdoc@v3.9.4
