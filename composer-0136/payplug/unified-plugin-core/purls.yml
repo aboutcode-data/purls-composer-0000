@@ -22,3 +22,5 @@
 - pkg:composer/payplug/unified-plugin-core@1.1.0
 - pkg:composer/payplug/unified-plugin-core@1.1.0-rc0
 - pkg:composer/payplug/unified-plugin-core@1.1.1
+- pkg:composer/payplug/unified-plugin-core@1.1.2
+- pkg:composer/payplug/unified-plugin-core@1.1.2-rc0
