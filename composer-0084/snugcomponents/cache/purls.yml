@@ -3,3 +3,4 @@
 - pkg:composer/snugcomponents/cache@v1.1.0
 - pkg:composer/snugcomponents/cache@v1.1.1
 - pkg:composer/snugcomponents/cache@v1.2.0
+- pkg:composer/snugcomponents/cache@v2.0.0
