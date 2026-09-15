@@ -40,3 +40,4 @@
 - pkg:composer/satag/doctrine-firebird-driver@v4.6.2
 - pkg:composer/satag/doctrine-firebird-driver@v4.7.0
 - pkg:composer/satag/doctrine-firebird-driver@v4.7.1
+- pkg:composer/satag/doctrine-firebird-driver@v4.7.2
