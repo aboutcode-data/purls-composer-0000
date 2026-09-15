@@ -2,3 +2,4 @@
 - pkg:composer/sanchescom/laravel-cache-memory@1.0.0
 - pkg:composer/sanchescom/laravel-cache-memory@1.1.0
 - pkg:composer/sanchescom/laravel-cache-memory@1.1.1
+- pkg:composer/sanchescom/laravel-cache-memory@2.0.0
