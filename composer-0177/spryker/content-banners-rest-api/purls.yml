@@ -8,3 +8,4 @@
 - pkg:composer/spryker/content-banners-rest-api@2.2.0
 - pkg:composer/spryker/content-banners-rest-api@2.3.0
 - pkg:composer/spryker/content-banners-rest-api@2.4.0
+- pkg:composer/spryker/content-banners-rest-api@2.4.1
