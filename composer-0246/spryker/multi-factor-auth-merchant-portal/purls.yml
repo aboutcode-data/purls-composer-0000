@@ -4,3 +4,5 @@
 - pkg:composer/spryker/multi-factor-auth-merchant-portal@2.0.0
 - pkg:composer/spryker/multi-factor-auth-merchant-portal@2.1.0
 - pkg:composer/spryker/multi-factor-auth-merchant-portal@2.2.0
+- pkg:composer/spryker/multi-factor-auth-merchant-portal@2.3.0
+- pkg:composer/spryker/multi-factor-auth-merchant-portal@2.4.0
