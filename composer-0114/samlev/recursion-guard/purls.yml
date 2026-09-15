@@ -2,3 +2,6 @@
 - pkg:composer/samlev/recursion-guard@v0.1.1
 - pkg:composer/samlev/recursion-guard@v0.2.0
 - pkg:composer/samlev/recursion-guard@v1.0.0
+- pkg:composer/samlev/recursion-guard@v1.1.0
+- pkg:composer/samlev/recursion-guard@v1.2.0
+- pkg:composer/samlev/recursion-guard@v1.3.0
