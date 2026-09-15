@@ -1,4 +1,6 @@
+- pkg:composer/sabitahmad/laravel-steadfast@2.3.0
 - pkg:composer/sabitahmad/laravel-steadfast@v1.0.0
 - pkg:composer/sabitahmad/laravel-steadfast@v2.0.0
 - pkg:composer/sabitahmad/laravel-steadfast@v2.1.0
 - pkg:composer/sabitahmad/laravel-steadfast@v2.2.1
+- pkg:composer/sabitahmad/laravel-steadfast@v2.4.0
