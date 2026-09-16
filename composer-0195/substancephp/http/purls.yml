@@ -27,3 +27,5 @@
 - pkg:composer/substancephp/http@v0.6.0
 - pkg:composer/substancephp/http@v0.7.0
 - pkg:composer/substancephp/http@v0.7.1
+- pkg:composer/substancephp/http@v0.8.0
+- pkg:composer/substancephp/http@v0.9.0
