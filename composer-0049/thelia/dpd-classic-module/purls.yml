@@ -30,3 +30,4 @@
 - pkg:composer/thelia/dpd-classic-module@2.0.7
 - pkg:composer/thelia/dpd-classic-module@2.0.8
 - pkg:composer/thelia/dpd-classic-module@3.0.0
+- pkg:composer/thelia/dpd-classic-module@3.0.1
