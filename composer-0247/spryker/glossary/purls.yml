@@ -45,6 +45,7 @@
 - pkg:composer/spryker/glossary@3.2.2
 - pkg:composer/spryker/glossary@3.20.0
 - pkg:composer/spryker/glossary@3.21.0
+- pkg:composer/spryker/glossary@3.22.0
 - pkg:composer/spryker/glossary@3.3.0
 - pkg:composer/spryker/glossary@3.3.1
 - pkg:composer/spryker/glossary@3.3.2
