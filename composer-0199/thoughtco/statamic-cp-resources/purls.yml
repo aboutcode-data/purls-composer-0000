@@ -1,2 +1,3 @@
 - pkg:composer/thoughtco/statamic-cp-resources@v1.0.0
 - pkg:composer/thoughtco/statamic-cp-resources@v1.0.1
+- pkg:composer/thoughtco/statamic-cp-resources@v2.0
