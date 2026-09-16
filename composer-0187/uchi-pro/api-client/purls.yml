@@ -105,6 +105,8 @@
 - pkg:composer/uchi-pro/api-client@3.22.0
 - pkg:composer/uchi-pro/api-client@3.23.0
 - pkg:composer/uchi-pro/api-client@3.23.1
+- pkg:composer/uchi-pro/api-client@3.24.0
+- pkg:composer/uchi-pro/api-client@3.24.1
 - pkg:composer/uchi-pro/api-client@3.3.0
 - pkg:composer/uchi-pro/api-client@3.4.0
 - pkg:composer/uchi-pro/api-client@3.5.0
@@ -124,3 +126,4 @@
 - pkg:composer/uchi-pro/api-client@4.7.0
 - pkg:composer/uchi-pro/api-client@4.8.0
 - pkg:composer/uchi-pro/api-client@4.8.1
+- pkg:composer/uchi-pro/api-client@4.9.0
