@@ -63,3 +63,4 @@
 - pkg:composer/trycourier/courier@v7.3.3
 - pkg:composer/trycourier/courier@v7.3.4
 - pkg:composer/trycourier/courier@v7.4.0
+- pkg:composer/trycourier/courier@v7.5.0
