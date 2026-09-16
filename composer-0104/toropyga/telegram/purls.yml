@@ -9,3 +9,6 @@
 - pkg:composer/toropyga/telegram@v2.2.2
 - pkg:composer/toropyga/telegram@v3.0.0
 - pkg:composer/toropyga/telegram@v3.0.1
+- pkg:composer/toropyga/telegram@v3.1.0
+- pkg:composer/toropyga/telegram@v3.1.1
+- pkg:composer/toropyga/telegram@v3.2.0
