@@ -2,3 +2,4 @@
 - pkg:composer/spiral/idempotency@0.2.1
 - pkg:composer/spiral/idempotency@0.3.0
 - pkg:composer/spiral/idempotency@0.4.0
+- pkg:composer/spiral/idempotency@0.4.1
