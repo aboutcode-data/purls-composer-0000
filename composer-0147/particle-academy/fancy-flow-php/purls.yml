@@ -61,6 +61,9 @@
 - pkg:composer/particle-academy/fancy-flow-php@v0.53.1
 - pkg:composer/particle-academy/fancy-flow-php@v0.53.2
 - pkg:composer/particle-academy/fancy-flow-php@v0.54.0
+- pkg:composer/particle-academy/fancy-flow-php@v0.55.0
+- pkg:composer/particle-academy/fancy-flow-php@v0.56.0
+- pkg:composer/particle-academy/fancy-flow-php@v0.57.0
 - pkg:composer/particle-academy/fancy-flow-php@v0.6.0
 - pkg:composer/particle-academy/fancy-flow-php@v0.7.0
 - pkg:composer/particle-academy/fancy-flow-php@v0.8.0
