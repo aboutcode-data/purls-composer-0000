@@ -103,6 +103,10 @@
 - pkg:composer/tina4stack/tina4php@3.13.130
 - pkg:composer/tina4stack/tina4php@3.13.131
 - pkg:composer/tina4stack/tina4php@3.13.132
+- pkg:composer/tina4stack/tina4php@3.13.133
+- pkg:composer/tina4stack/tina4php@3.13.134
+- pkg:composer/tina4stack/tina4php@3.13.135
+- pkg:composer/tina4stack/tina4php@3.13.136
 - pkg:composer/tina4stack/tina4php@3.13.14
 - pkg:composer/tina4stack/tina4php@3.13.16
 - pkg:composer/tina4stack/tina4php@3.13.17
