@@ -1,3 +1,4 @@
+- pkg:composer/tomatophp/filament-plugins@5.0.0
 - pkg:composer/tomatophp/filament-plugins@v1.0.0
 - pkg:composer/tomatophp/filament-plugins@v1.0.1
 - pkg:composer/tomatophp/filament-plugins@v1.0.10
