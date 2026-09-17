@@ -4,3 +4,5 @@
 - pkg:composer/solution-forest/workflow-engine-laravel@v0.0.4-alpha
 - pkg:composer/solution-forest/workflow-engine-laravel@v0.0.5-alpha
 - pkg:composer/solution-forest/workflow-engine-laravel@v0.0.6-alpha
+- pkg:composer/solution-forest/workflow-engine-laravel@v1.0.0
+- pkg:composer/solution-forest/workflow-engine-laravel@v1.1.0
