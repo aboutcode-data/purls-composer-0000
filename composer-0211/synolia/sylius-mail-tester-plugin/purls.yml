@@ -11,4 +11,6 @@
 - pkg:composer/synolia/sylius-mail-tester-plugin@v2.4.0
 - pkg:composer/synolia/sylius-mail-tester-plugin@v2.5.0
 - pkg:composer/synolia/sylius-mail-tester-plugin@v2.6.0
+- pkg:composer/synolia/sylius-mail-tester-plugin@v2.7.0
 - pkg:composer/synolia/sylius-mail-tester-plugin@v3.0.0
+- pkg:composer/synolia/sylius-mail-tester-plugin@v3.1.0
