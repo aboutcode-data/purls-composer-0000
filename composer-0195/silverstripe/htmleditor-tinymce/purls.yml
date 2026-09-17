@@ -9,4 +9,5 @@
 - pkg:composer/silverstripe/htmleditor-tinymce@1.1.0-rc1
 - pkg:composer/silverstripe/htmleditor-tinymce@1.1.1
 - pkg:composer/silverstripe/htmleditor-tinymce@1.1.2
+- pkg:composer/silverstripe/htmleditor-tinymce@1.1.3
 - pkg:composer/silverstripe/htmleditor-tinymce@1.2.0-beta1
