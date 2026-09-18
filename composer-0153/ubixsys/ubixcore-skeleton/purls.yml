@@ -1,5 +1,9 @@
 - pkg:composer/ubixsys/ubixcore-skeleton@v0.2.1
 - pkg:composer/ubixsys/ubixcore-skeleton@v0.3.0
 - pkg:composer/ubixsys/ubixcore-skeleton@v0.4.0
+- pkg:composer/ubixsys/ubixcore-skeleton@v0.5.0
 - pkg:composer/ubixsys/ubixcore-skeleton@v0.6.0
 - pkg:composer/ubixsys/ubixcore-skeleton@v0.6.1
+- pkg:composer/ubixsys/ubixcore-skeleton@v0.7.0
+- pkg:composer/ubixsys/ubixcore-skeleton@v0.7.1
+- pkg:composer/ubixsys/ubixcore-skeleton@v0.8.0
