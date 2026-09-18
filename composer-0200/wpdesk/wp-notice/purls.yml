@@ -29,3 +29,5 @@
 - pkg:composer/wpdesk/wp-notice@3.2.4
 - pkg:composer/wpdesk/wp-notice@3.2.5
 - pkg:composer/wpdesk/wp-notice@3.3.0
+- pkg:composer/wpdesk/wp-notice@3.3.1
+- pkg:composer/wpdesk/wp-notice@3.3.2
