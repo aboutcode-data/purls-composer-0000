@@ -58,6 +58,7 @@
 - pkg:composer/web-token/jwt-framework@4.2.0
 - pkg:composer/web-token/jwt-framework@4.2.1
 - pkg:composer/web-token/jwt-framework@4.2.2
+- pkg:composer/web-token/jwt-framework@4.2.3
 - pkg:composer/web-token/jwt-framework@v0.0.0
 - pkg:composer/web-token/jwt-framework@v0.0.1
 - pkg:composer/web-token/jwt-framework@v0.0.2
