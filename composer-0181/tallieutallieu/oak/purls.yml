@@ -34,6 +34,7 @@
 - pkg:composer/tallieutallieu/oak@3.0.11
 - pkg:composer/tallieutallieu/oak@3.0.12
 - pkg:composer/tallieutallieu/oak@3.0.13
+- pkg:composer/tallieutallieu/oak@3.0.14
 - pkg:composer/tallieutallieu/oak@3.0.2
 - pkg:composer/tallieutallieu/oak@3.0.3
 - pkg:composer/tallieutallieu/oak@3.0.4
@@ -42,3 +43,4 @@
 - pkg:composer/tallieutallieu/oak@3.0.7
 - pkg:composer/tallieutallieu/oak@3.0.8
 - pkg:composer/tallieutallieu/oak@3.0.9
+- pkg:composer/tallieutallieu/oak@4.0.0
