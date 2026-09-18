@@ -3,3 +3,4 @@
 - pkg:composer/webscale-networks/magento-varnish-split-header@2.3.5.0
 - pkg:composer/webscale-networks/magento-varnish-split-header@2.4.6.1
 - pkg:composer/webscale-networks/magento-varnish-split-header@2.4.6.2
+- pkg:composer/webscale-networks/magento-varnish-split-header@2.4.6.3
