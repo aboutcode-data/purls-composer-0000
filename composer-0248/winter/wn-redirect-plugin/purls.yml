@@ -57,3 +57,4 @@
 - pkg:composer/winter/wn-redirect-plugin@v4.0.5
 - pkg:composer/winter/wn-redirect-plugin@v4.1.0
 - pkg:composer/winter/wn-redirect-plugin@v4.1.1
+- pkg:composer/winter/wn-redirect-plugin@v5.0.0
