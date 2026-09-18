@@ -37,3 +37,4 @@
 - pkg:composer/thoughtco/statamic-cache-tracker@2.4.0
 - pkg:composer/thoughtco/statamic-cache-tracker@2.5.0
 - pkg:composer/thoughtco/statamic-cache-tracker@2.5.1
+- pkg:composer/thoughtco/statamic-cache-tracker@2.6.0
