@@ -7,3 +7,6 @@
 - pkg:composer/wexample/symfony-design-system-demo@1.0.7
 - pkg:composer/wexample/symfony-design-system-demo@1.0.8
 - pkg:composer/wexample/symfony-design-system-demo@1.0.9
+- pkg:composer/wexample/symfony-design-system-demo@2.0.0
+- pkg:composer/wexample/symfony-design-system-demo@3.0.0
+- pkg:composer/wexample/symfony-design-system-demo@4.0.0

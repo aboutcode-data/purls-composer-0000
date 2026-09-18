@@ -128,3 +128,4 @@
 - pkg:composer/wexample/symfony-translations@3.0.0
 - pkg:composer/wexample/symfony-translations@4.0.0
 - pkg:composer/wexample/symfony-translations@4.0.1
+- pkg:composer/wexample/symfony-translations@4.0.2
