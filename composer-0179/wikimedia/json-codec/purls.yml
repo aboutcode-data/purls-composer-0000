@@ -10,3 +10,4 @@
 - pkg:composer/wikimedia/json-codec@v3.0.3
 - pkg:composer/wikimedia/json-codec@v4.0.0
 - pkg:composer/wikimedia/json-codec@v5.0.0
+- pkg:composer/wikimedia/json-codec@v5.1.0
