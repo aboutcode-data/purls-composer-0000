@@ -156,6 +156,7 @@
 - pkg:composer/webeweb/core-library@v8.9.0
 - pkg:composer/webeweb/core-library@v9.0.0
 - pkg:composer/webeweb/core-library@v9.1.0
+- pkg:composer/webeweb/core-library@v9.10.0
 - pkg:composer/webeweb/core-library@v9.2.0
 - pkg:composer/webeweb/core-library@v9.3.0
 - pkg:composer/webeweb/core-library@v9.4.0
