@@ -1,6 +1,7 @@
 - pkg:composer/2media/policies-builder@v1.0.0
 - pkg:composer/2media/policies-builder@v1.1.0
 - pkg:composer/2media/policies-builder@v1.1.1
+- pkg:composer/2media/policies-builder@v1.10.0
 - pkg:composer/2media/policies-builder@v1.2.0
 - pkg:composer/2media/policies-builder@v1.2.1
 - pkg:composer/2media/policies-builder@v1.2.2
@@ -12,3 +13,4 @@
 - pkg:composer/2media/policies-builder@v1.7.0
 - pkg:composer/2media/policies-builder@v1.8.0
 - pkg:composer/2media/policies-builder@v1.9.0
+- pkg:composer/2media/policies-builder@v2.0.0
