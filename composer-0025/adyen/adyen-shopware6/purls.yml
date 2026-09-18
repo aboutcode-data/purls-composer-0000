@@ -59,6 +59,7 @@
 - pkg:composer/adyen/adyen-shopware6@3.21.2
 - pkg:composer/adyen/adyen-shopware6@3.21.3
 - pkg:composer/adyen/adyen-shopware6@3.21.5
+- pkg:composer/adyen/adyen-shopware6@3.21.6
 - pkg:composer/adyen/adyen-shopware6@3.3.0
 - pkg:composer/adyen/adyen-shopware6@3.3.1
 - pkg:composer/adyen/adyen-shopware6@3.4.0
@@ -114,6 +115,7 @@
 - pkg:composer/adyen/adyen-shopware6@4.6.4
 - pkg:composer/adyen/adyen-shopware6@4.6.5
 - pkg:composer/adyen/adyen-shopware6@4.6.6
+- pkg:composer/adyen/adyen-shopware6@4.6.7
 - pkg:composer/adyen/adyen-shopware6@5.0.0
 - pkg:composer/adyen/adyen-shopware6@5.0.1
 - pkg:composer/adyen/adyen-shopware6@5.0.10
@@ -140,3 +142,4 @@
 - pkg:composer/adyen/adyen-shopware6@5.3.4
 - pkg:composer/adyen/adyen-shopware6@5.3.5
 - pkg:composer/adyen/adyen-shopware6@5.3.6
+- pkg:composer/adyen/adyen-shopware6@5.3.7

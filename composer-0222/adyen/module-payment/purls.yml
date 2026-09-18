@@ -38,6 +38,7 @@
 - pkg:composer/adyen/module-payment@10.9.0
 - pkg:composer/adyen/module-payment@11.0.0
 - pkg:composer/adyen/module-payment@11.1.0
+- pkg:composer/adyen/module-payment@11.2.0
 - pkg:composer/adyen/module-payment@2.0.0
 - pkg:composer/adyen/module-payment@2.0.1
 - pkg:composer/adyen/module-payment@2.0.2
