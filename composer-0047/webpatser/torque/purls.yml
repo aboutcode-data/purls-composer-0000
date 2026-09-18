@@ -23,6 +23,8 @@
 - pkg:composer/webpatser/torque@v0.16.7
 - pkg:composer/webpatser/torque@v0.17.0
 - pkg:composer/webpatser/torque@v0.17.1
+- pkg:composer/webpatser/torque@v0.17.2
+- pkg:composer/webpatser/torque@v0.17.3
 - pkg:composer/webpatser/torque@v0.2.0
 - pkg:composer/webpatser/torque@v0.2.1
 - pkg:composer/webpatser/torque@v0.2.2
