@@ -3,3 +3,4 @@
 - pkg:composer/webware/webware-log@0.1.2
 - pkg:composer/webware/webware-log@1.0.0
 - pkg:composer/webware/webware-log@1.1.0
+- pkg:composer/webware/webware-log@2.0.0-alpha.1
