@@ -135,3 +135,5 @@
 - pkg:composer/appwrite/server-ce@2.0.0-rc.1
 - pkg:composer/appwrite/server-ce@2.0.0-rc.2
 - pkg:composer/appwrite/server-ce@2.0.0-rc.3
+- pkg:composer/appwrite/server-ce@2.1.0
+- pkg:composer/appwrite/server-ce@2.2.0
