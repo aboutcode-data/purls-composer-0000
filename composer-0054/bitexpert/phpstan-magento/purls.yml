@@ -1,3 +1,4 @@
+- pkg:composer/bitexpert/phpstan-magento@0.44.0
 - pkg:composer/bitexpert/phpstan-magento@v0.1.0
 - pkg:composer/bitexpert/phpstan-magento@v0.1.1
 - pkg:composer/bitexpert/phpstan-magento@v0.10.0
