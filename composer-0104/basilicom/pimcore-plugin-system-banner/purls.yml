@@ -4,3 +4,4 @@
 - pkg:composer/basilicom/pimcore-plugin-system-banner@v2.0.2
 - pkg:composer/basilicom/pimcore-plugin-system-banner@v3.0.0
 - pkg:composer/basilicom/pimcore-plugin-system-banner@v4.0.0
+- pkg:composer/basilicom/pimcore-plugin-system-banner@v5.0.1
