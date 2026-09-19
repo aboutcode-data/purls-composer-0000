@@ -39,3 +39,4 @@
 - pkg:composer/async-aws/s3@3.3.0
 - pkg:composer/async-aws/s3@3.4.0
 - pkg:composer/async-aws/s3@3.4.1
+- pkg:composer/async-aws/s3@3.5.0
