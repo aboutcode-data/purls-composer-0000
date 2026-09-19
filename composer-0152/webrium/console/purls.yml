@@ -25,3 +25,4 @@
 - pkg:composer/webrium/console@2.2.5
 - pkg:composer/webrium/console@2.2.6
 - pkg:composer/webrium/console@2.2.7
+- pkg:composer/webrium/console@2.3.0
