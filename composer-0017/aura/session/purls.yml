@@ -11,3 +11,4 @@
 - pkg:composer/aura/session@6.0.0
 - pkg:composer/aura/session@6.0.0-beta.1
 - pkg:composer/aura/session@6.0.0-beta.2
+- pkg:composer/aura/session@7.0.0-beta1
