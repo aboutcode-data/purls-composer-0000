@@ -29,3 +29,6 @@
 - pkg:composer/andydefer/php-console@v1.7.3
 - pkg:composer/andydefer/php-console@v1.7.4
 - pkg:composer/andydefer/php-console@v1.7.6
+- pkg:composer/andydefer/php-console@v1.7.7
+- pkg:composer/andydefer/php-console@v1.7.8
+- pkg:composer/andydefer/php-console@v1.7.9
