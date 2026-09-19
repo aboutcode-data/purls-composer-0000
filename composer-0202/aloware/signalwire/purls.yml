@@ -27,3 +27,5 @@
 - pkg:composer/aloware/signalwire@v2.3.9
 - pkg:composer/aloware/signalwire@v3.0.0
 - pkg:composer/aloware/signalwire@v3.1.0
+- pkg:composer/aloware/signalwire@v3.1.1
+- pkg:composer/aloware/signalwire@v4.0.0
