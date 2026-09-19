@@ -53,3 +53,4 @@
 - pkg:composer/bennett-treptow/laravel-migration-generator@4.4.2
 - pkg:composer/bennett-treptow/laravel-migration-generator@4.5.0
 - pkg:composer/bennett-treptow/laravel-migration-generator@4.5.1
+- pkg:composer/bennett-treptow/laravel-migration-generator@4.6.0
