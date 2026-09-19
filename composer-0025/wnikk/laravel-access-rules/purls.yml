@@ -14,3 +14,4 @@
 - pkg:composer/wnikk/laravel-access-rules@2.2.30
 - pkg:composer/wnikk/laravel-access-rules@2.3.0
 - pkg:composer/wnikk/laravel-access-rules@2.4.2
+- pkg:composer/wnikk/laravel-access-rules@3.0.0
