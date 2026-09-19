@@ -242,6 +242,7 @@
 - pkg:composer/aimeos/ai-admin-jqadm@2022.10.16
 - pkg:composer/aimeos/ai-admin-jqadm@2022.10.17
 - pkg:composer/aimeos/ai-admin-jqadm@2022.10.18
+- pkg:composer/aimeos/ai-admin-jqadm@2022.10.19
 - pkg:composer/aimeos/ai-admin-jqadm@2022.10.2
 - pkg:composer/aimeos/ai-admin-jqadm@2022.10.3
 - pkg:composer/aimeos/ai-admin-jqadm@2022.10.4
@@ -280,6 +281,7 @@
 - pkg:composer/aimeos/ai-admin-jqadm@2023.10.19
 - pkg:composer/aimeos/ai-admin-jqadm@2023.10.2
 - pkg:composer/aimeos/ai-admin-jqadm@2023.10.20
+- pkg:composer/aimeos/ai-admin-jqadm@2023.10.21
 - pkg:composer/aimeos/ai-admin-jqadm@2023.10.3
 - pkg:composer/aimeos/ai-admin-jqadm@2023.10.4
 - pkg:composer/aimeos/ai-admin-jqadm@2023.10.5
@@ -308,6 +310,7 @@
 - pkg:composer/aimeos/ai-admin-jqadm@2024.10.13
 - pkg:composer/aimeos/ai-admin-jqadm@2024.10.14
 - pkg:composer/aimeos/ai-admin-jqadm@2024.10.15
+- pkg:composer/aimeos/ai-admin-jqadm@2024.10.16
 - pkg:composer/aimeos/ai-admin-jqadm@2024.10.2
 - pkg:composer/aimeos/ai-admin-jqadm@2024.10.3
 - pkg:composer/aimeos/ai-admin-jqadm@2024.10.4
@@ -326,5 +329,9 @@
 - pkg:composer/aimeos/ai-admin-jqadm@2025.10.4
 - pkg:composer/aimeos/ai-admin-jqadm@2025.10.5
 - pkg:composer/aimeos/ai-admin-jqadm@2025.10.6
+- pkg:composer/aimeos/ai-admin-jqadm@2025.10.7
 - pkg:composer/aimeos/ai-admin-jqadm@2026.04.1
 - pkg:composer/aimeos/ai-admin-jqadm@2026.04.2
+- pkg:composer/aimeos/ai-admin-jqadm@2026.04.3
+- pkg:composer/aimeos/ai-admin-jqadm@2026.04.4
+- pkg:composer/aimeos/ai-admin-jqadm@2026.04.5

@@ -262,6 +262,7 @@
 - pkg:composer/aimeos/ai-client-html@2022.10.13
 - pkg:composer/aimeos/ai-client-html@2022.10.14
 - pkg:composer/aimeos/ai-client-html@2022.10.15
+- pkg:composer/aimeos/ai-client-html@2022.10.16
 - pkg:composer/aimeos/ai-client-html@2022.10.2
 - pkg:composer/aimeos/ai-client-html@2022.10.3
 - pkg:composer/aimeos/ai-client-html@2022.10.4
@@ -294,6 +295,7 @@
 - pkg:composer/aimeos/ai-client-html@2023.10.2
 - pkg:composer/aimeos/ai-client-html@2023.10.20
 - pkg:composer/aimeos/ai-client-html@2023.10.21
+- pkg:composer/aimeos/ai-client-html@2023.10.22
 - pkg:composer/aimeos/ai-client-html@2023.10.3
 - pkg:composer/aimeos/ai-client-html@2023.10.4
 - pkg:composer/aimeos/ai-client-html@2023.10.5
@@ -312,6 +314,7 @@
 - pkg:composer/aimeos/ai-client-html@2024.07.2
 - pkg:composer/aimeos/ai-client-html@2024.07.3
 - pkg:composer/aimeos/ai-client-html@2024.10.1
+- pkg:composer/aimeos/ai-client-html@2024.10.10
 - pkg:composer/aimeos/ai-client-html@2024.10.2
 - pkg:composer/aimeos/ai-client-html@2024.10.3
 - pkg:composer/aimeos/ai-client-html@2024.10.4
@@ -328,6 +331,8 @@
 - pkg:composer/aimeos/ai-client-html@2025.10.4
 - pkg:composer/aimeos/ai-client-html@2025.10.5
 - pkg:composer/aimeos/ai-client-html@2025.10.6
+- pkg:composer/aimeos/ai-client-html@2025.10.7
 - pkg:composer/aimeos/ai-client-html@2026.04.1
 - pkg:composer/aimeos/ai-client-html@2026.04.2
 - pkg:composer/aimeos/ai-client-html@2026.04.3
+- pkg:composer/aimeos/ai-client-html@2026.04.4
