@@ -50,3 +50,4 @@
 - pkg:composer/axolotl-pm/bedrock-data@6.6.0%2Bbedrock-1.26.20
 - pkg:composer/axolotl-pm/bedrock-data@6.7.0%2Bbedrock-1.26.30
 - pkg:composer/axolotl-pm/bedrock-data@6.8.0%2Bbedrock-1.26.40
+- pkg:composer/axolotl-pm/bedrock-data@6.9.0%2Bbedrock-1.26.50
