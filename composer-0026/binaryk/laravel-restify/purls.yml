@@ -64,6 +64,9 @@
 - pkg:composer/binaryk/laravel-restify@10.4.19
 - pkg:composer/binaryk/laravel-restify@10.4.2
 - pkg:composer/binaryk/laravel-restify@10.4.20
+- pkg:composer/binaryk/laravel-restify@10.4.21
+- pkg:composer/binaryk/laravel-restify@10.4.22
+- pkg:composer/binaryk/laravel-restify@10.4.23
 - pkg:composer/binaryk/laravel-restify@10.4.3
 - pkg:composer/binaryk/laravel-restify@10.4.4
 - pkg:composer/binaryk/laravel-restify@10.4.5
