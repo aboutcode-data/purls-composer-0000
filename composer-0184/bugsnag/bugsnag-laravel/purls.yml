@@ -64,6 +64,7 @@
 - pkg:composer/bugsnag/bugsnag-laravel@v2.29.0
 - pkg:composer/bugsnag/bugsnag-laravel@v2.3.0
 - pkg:composer/bugsnag/bugsnag-laravel@v2.30.0
+- pkg:composer/bugsnag/bugsnag-laravel@v2.31.0
 - pkg:composer/bugsnag/bugsnag-laravel@v2.4.0
 - pkg:composer/bugsnag/bugsnag-laravel@v2.5.0
 - pkg:composer/bugsnag/bugsnag-laravel@v2.6.0
