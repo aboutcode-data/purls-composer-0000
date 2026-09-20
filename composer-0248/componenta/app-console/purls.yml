@@ -7,3 +7,5 @@
 - pkg:composer/componenta/app-console@v3.0.1
 - pkg:composer/componenta/app-console@v3.0.2
 - pkg:composer/componenta/app-console@v3.0.3
+- pkg:composer/componenta/app-console@v4.0.0
+- pkg:composer/componenta/app-console@v5.0.0
