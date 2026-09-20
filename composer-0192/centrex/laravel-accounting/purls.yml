@@ -97,3 +97,4 @@
 - pkg:composer/centrex/laravel-accounting@v4.0.0
 - pkg:composer/centrex/laravel-accounting@v4.0.1
 - pkg:composer/centrex/laravel-accounting@v4.0.2
+- pkg:composer/centrex/laravel-accounting@v4.0.3
