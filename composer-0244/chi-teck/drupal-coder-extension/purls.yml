@@ -13,3 +13,5 @@
 - pkg:composer/chi-teck/drupal-coder-extension@2.0.0-beta3
 - pkg:composer/chi-teck/drupal-coder-extension@2.0.0-rc1
 - pkg:composer/chi-teck/drupal-coder-extension@2.0.0-rc2
+- pkg:composer/chi-teck/drupal-coder-extension@2.1.0
+- pkg:composer/chi-teck/drupal-coder-extension@2.1.1
