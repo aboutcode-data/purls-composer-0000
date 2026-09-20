@@ -2,3 +2,4 @@
 - pkg:composer/certigniter/laravel-certificate-renderer@v2.0.0
 - pkg:composer/certigniter/laravel-certificate-renderer@v2.0.1
 - pkg:composer/certigniter/laravel-certificate-renderer@v2.1.0
+- pkg:composer/certigniter/laravel-certificate-renderer@v3.0.0
