@@ -20,3 +20,4 @@
 - pkg:composer/craue/config-bundle@2.5.0
 - pkg:composer/craue/config-bundle@2.6.0
 - pkg:composer/craue/config-bundle@2.7.0
+- pkg:composer/craue/config-bundle@3.0.0
