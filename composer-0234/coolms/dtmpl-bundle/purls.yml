@@ -1,2 +1,3 @@
 - pkg:composer/coolms/dtmpl-bundle@v1.0.0
-- pkg:composer/coolms/dtmpl-bundle@v2.0.0
+- pkg:composer/coolms/dtmpl-bundle@v2.0.0-alpha1
+- pkg:composer/coolms/dtmpl-bundle@v2.0.0-alpha2
