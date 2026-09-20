@@ -17,3 +17,5 @@
 - pkg:composer/contao-community-alliance/dc-general-contao-frontend@2.4.4
 - pkg:composer/contao-community-alliance/dc-general-contao-frontend@2.4.5
 - pkg:composer/contao-community-alliance/dc-general-contao-frontend@2.4.6
+- pkg:composer/contao-community-alliance/dc-general-contao-frontend@2.4.7
+- pkg:composer/contao-community-alliance/dc-general-contao-frontend@2.5.0
