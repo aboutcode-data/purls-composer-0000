@@ -1,3 +1,4 @@
 - pkg:composer/apirelio/php-core@v0.1.0
 - pkg:composer/apirelio/php-core@v0.2.0
 - pkg:composer/apirelio/php-core@v1.0.0
+- pkg:composer/apirelio/php-core@v1.0.1
