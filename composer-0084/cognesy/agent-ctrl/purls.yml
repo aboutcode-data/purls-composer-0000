@@ -12,6 +12,9 @@
 - pkg:composer/cognesy/agent-ctrl@v1.22.0
 - pkg:composer/cognesy/agent-ctrl@v2.0.0
 - pkg:composer/cognesy/agent-ctrl@v2.1.0
+- pkg:composer/cognesy/agent-ctrl@v2.10.0
+- pkg:composer/cognesy/agent-ctrl@v2.10.1
+- pkg:composer/cognesy/agent-ctrl@v2.11.0
 - pkg:composer/cognesy/agent-ctrl@v2.2.0
 - pkg:composer/cognesy/agent-ctrl@v2.3.0
 - pkg:composer/cognesy/agent-ctrl@v2.3.1
