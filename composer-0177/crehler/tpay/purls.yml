@@ -11,3 +11,5 @@
 - pkg:composer/crehler/tpay@6.2.6
 - pkg:composer/crehler/tpay@6.2.8
 - pkg:composer/crehler/tpay@6.2.9
+- pkg:composer/crehler/tpay@6.5.0
+- pkg:composer/crehler/tpay@6.6.0

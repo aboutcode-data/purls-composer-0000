@@ -7,6 +7,8 @@
 - pkg:composer/crehler/inpost-pay@1.1.7
 - pkg:composer/crehler/inpost-pay@1.1.8
 - pkg:composer/crehler/inpost-pay@1.1.9
+- pkg:composer/crehler/inpost-pay@1.2.0
+- pkg:composer/crehler/inpost-pay@1.2.1
 - pkg:composer/crehler/inpost-pay@2.1.0
 - pkg:composer/crehler/inpost-pay@2.1.1
 - pkg:composer/crehler/inpost-pay@2.1.10
@@ -16,6 +18,8 @@
 - pkg:composer/crehler/inpost-pay@2.1.7
 - pkg:composer/crehler/inpost-pay@2.1.8
 - pkg:composer/crehler/inpost-pay@2.1.9
+- pkg:composer/crehler/inpost-pay@2.2.0
+- pkg:composer/crehler/inpost-pay@2.2.1
 - pkg:composer/crehler/inpost-pay@3.1.0
 - pkg:composer/crehler/inpost-pay@3.1.1
 - pkg:composer/crehler/inpost-pay@3.1.10
@@ -25,6 +29,8 @@
 - pkg:composer/crehler/inpost-pay@3.1.7
 - pkg:composer/crehler/inpost-pay@3.1.8
 - pkg:composer/crehler/inpost-pay@3.1.9
+- pkg:composer/crehler/inpost-pay@3.2.0
+- pkg:composer/crehler/inpost-pay@3.2.1
 - pkg:composer/crehler/inpost-pay@4.1.1
 - pkg:composer/crehler/inpost-pay@4.1.10
 - pkg:composer/crehler/inpost-pay@4.1.11
@@ -35,3 +41,5 @@
 - pkg:composer/crehler/inpost-pay@4.1.6
 - pkg:composer/crehler/inpost-pay@4.1.8
 - pkg:composer/crehler/inpost-pay@4.1.9
+- pkg:composer/crehler/inpost-pay@4.2.0
+- pkg:composer/crehler/inpost-pay@4.2.1
