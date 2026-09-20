@@ -1,1 +1,4 @@
 - pkg:composer/carthage-software/ext-typst-stubs@0.2.0
+- pkg:composer/carthage-software/ext-typst-stubs@0.3.0
+- pkg:composer/carthage-software/ext-typst-stubs@0.3.2
+- pkg:composer/carthage-software/ext-typst-stubs@0.4.0
