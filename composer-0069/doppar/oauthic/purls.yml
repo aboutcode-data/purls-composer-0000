@@ -1,3 +1,4 @@
+- pkg:composer/doppar/oauthic@4.0.0
 - pkg:composer/doppar/oauthic@v1.0.0
 - pkg:composer/doppar/oauthic@v1.0.1
 - pkg:composer/doppar/oauthic@v1.0.2
