@@ -13,3 +13,6 @@
 - pkg:composer/drakelid/librenms-dashboard-widgets@v1.7.0
 - pkg:composer/drakelid/librenms-dashboard-widgets@v1.7.5
 - pkg:composer/drakelid/librenms-dashboard-widgets@v1.8.0
+- pkg:composer/drakelid/librenms-dashboard-widgets@v1.9.5
+- pkg:composer/drakelid/librenms-dashboard-widgets@v2.0.0
+- pkg:composer/drakelid/librenms-dashboard-widgets@v2.0.1
