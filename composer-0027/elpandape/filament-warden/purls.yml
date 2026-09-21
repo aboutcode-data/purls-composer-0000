@@ -53,3 +53,5 @@
 - pkg:composer/elpandape/filament-warden@v3.1.0
 - pkg:composer/elpandape/filament-warden@v3.2.0
 - pkg:composer/elpandape/filament-warden@v3.3.0
+- pkg:composer/elpandape/filament-warden@v3.4.0
+- pkg:composer/elpandape/filament-warden@v3.5.0
