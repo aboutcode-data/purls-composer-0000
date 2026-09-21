@@ -5,5 +5,6 @@
 - pkg:composer/enlivenapp/migrations@0.2.6
 - pkg:composer/enlivenapp/migrations@0.2.7
 - pkg:composer/enlivenapp/migrations@0.3.0
+- pkg:composer/enlivenapp/migrations@0.4.0
 - pkg:composer/enlivenapp/migrations@v0.1.0
 - pkg:composer/enlivenapp/migrations@v0.1.1
