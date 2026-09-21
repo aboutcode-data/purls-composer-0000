@@ -22,3 +22,7 @@
 - pkg:composer/domain/laravel-domain-generator@v1.2.3
 - pkg:composer/domain/laravel-domain-generator@v1.3.0
 - pkg:composer/domain/laravel-domain-generator@v1.3.1
+- pkg:composer/domain/laravel-domain-generator@v1.3.4
+- pkg:composer/domain/laravel-domain-generator@v1.3.5
+- pkg:composer/domain/laravel-domain-generator@v1.3.6
+- pkg:composer/domain/laravel-domain-generator@v1.3.7
