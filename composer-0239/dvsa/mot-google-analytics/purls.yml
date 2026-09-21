@@ -1,3 +1,4 @@
 - pkg:composer/dvsa/mot-google-analytics@v1.0.0
 - pkg:composer/dvsa/mot-google-analytics@v2.0.0
 - pkg:composer/dvsa/mot-google-analytics@v3.0.0
+- pkg:composer/dvsa/mot-google-analytics@v3.1.0
