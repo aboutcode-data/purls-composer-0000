@@ -9,5 +9,6 @@
 - pkg:composer/doctrine/lexer@2.1.1
 - pkg:composer/doctrine/lexer@3.0.0
 - pkg:composer/doctrine/lexer@3.0.1
+- pkg:composer/doctrine/lexer@3.0.2
 - pkg:composer/doctrine/lexer@v1.0
 - pkg:composer/doctrine/lexer@v1.0.1
