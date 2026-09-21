@@ -2,3 +2,4 @@
 - pkg:composer/evas-php/evas-http@1.1
 - pkg:composer/evas-php/evas-http@2.0
 - pkg:composer/evas-php/evas-http@2.0.1
+- pkg:composer/evas-php/evas-http@2.0.2
