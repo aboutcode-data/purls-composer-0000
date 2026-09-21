@@ -1,0 +1,5 @@
+- pkg:composer/ez-php/webauthn-metadata@2.4.10
+- pkg:composer/ez-php/webauthn-metadata@2.4.11
+- pkg:composer/ez-php/webauthn-metadata@2.4.8
+- pkg:composer/ez-php/webauthn-metadata@2.4.9
+- pkg:composer/ez-php/webauthn-metadata@2.5.0
