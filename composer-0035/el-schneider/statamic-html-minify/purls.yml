@@ -5,3 +5,4 @@
 - pkg:composer/el-schneider/statamic-html-minify@0.0.5
 - pkg:composer/el-schneider/statamic-html-minify@1.0.0
 - pkg:composer/el-schneider/statamic-html-minify@v2.0.0
+- pkg:composer/el-schneider/statamic-html-minify@v2.1.0
