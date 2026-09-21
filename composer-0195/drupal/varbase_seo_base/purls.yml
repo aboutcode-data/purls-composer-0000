@@ -5,3 +5,4 @@
 - pkg:composer/drupal/varbase_seo_base@1.0.0-rc1
 - pkg:composer/drupal/varbase_seo_base@1.0.0-rc2
 - pkg:composer/drupal/varbase_seo_base@1.0.1
+- pkg:composer/drupal/varbase_seo_base@1.0.2

@@ -5,6 +5,8 @@
 - pkg:composer/drupal/wisski_default_data_model@1.10.0
 - pkg:composer/drupal/wisski_default_data_model@1.10.1
 - pkg:composer/drupal/wisski_default_data_model@1.11.0
+- pkg:composer/drupal/wisski_default_data_model@1.12.0
+- pkg:composer/drupal/wisski_default_data_model@1.12.1
 - pkg:composer/drupal/wisski_default_data_model@1.2.0
 - pkg:composer/drupal/wisski_default_data_model@1.2.1
 - pkg:composer/drupal/wisski_default_data_model@1.2.2
@@ -28,3 +30,5 @@
 - pkg:composer/drupal/wisski_default_data_model@1.8.3
 - pkg:composer/drupal/wisski_default_data_model@1.9.0
 - pkg:composer/drupal/wisski_default_data_model@1.9.1
+- pkg:composer/drupal/wisski_default_data_model@2.0.0
+- pkg:composer/drupal/wisski_default_data_model@2.0.1
