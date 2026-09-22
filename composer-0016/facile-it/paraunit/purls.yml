@@ -47,6 +47,7 @@
 - pkg:composer/facile-it/paraunit@2.1.0
 - pkg:composer/facile-it/paraunit@2.10.0
 - pkg:composer/facile-it/paraunit@2.11.0
+- pkg:composer/facile-it/paraunit@2.12.0
 - pkg:composer/facile-it/paraunit@2.2.0
 - pkg:composer/facile-it/paraunit@2.2.1
 - pkg:composer/facile-it/paraunit@2.2.2
