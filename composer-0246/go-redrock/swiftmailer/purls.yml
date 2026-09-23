@@ -53,3 +53,6 @@
 - pkg:composer/go-redrock/swiftmailer@v6.3.3
 - pkg:composer/go-redrock/swiftmailer@v6.4.0
 - pkg:composer/go-redrock/swiftmailer@v6.5.0
+- pkg:composer/go-redrock/swiftmailer@v6.5.1
+- pkg:composer/go-redrock/swiftmailer@v6.5.2
+- pkg:composer/go-redrock/swiftmailer@v6.5.3
