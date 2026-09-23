@@ -237,6 +237,7 @@
 - pkg:composer/eolymp/php-sdk@0.23.0
 - pkg:composer/eolymp/php-sdk@0.23.1
 - pkg:composer/eolymp/php-sdk@0.24.0
+- pkg:composer/eolymp/php-sdk@0.24.1
 - pkg:composer/eolymp/php-sdk@0.3.0
 - pkg:composer/eolymp/php-sdk@0.4.0
 - pkg:composer/eolymp/php-sdk@0.4.1
