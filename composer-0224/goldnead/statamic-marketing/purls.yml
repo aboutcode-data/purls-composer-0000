@@ -45,6 +45,12 @@
 - pkg:composer/goldnead/statamic-marketing@v2.21.0
 - pkg:composer/goldnead/statamic-marketing@v2.22.0
 - pkg:composer/goldnead/statamic-marketing@v2.23.0
+- pkg:composer/goldnead/statamic-marketing@v2.23.1
+- pkg:composer/goldnead/statamic-marketing@v2.23.2
+- pkg:composer/goldnead/statamic-marketing@v2.23.3
+- pkg:composer/goldnead/statamic-marketing@v2.24.0
+- pkg:composer/goldnead/statamic-marketing@v2.24.2
+- pkg:composer/goldnead/statamic-marketing@v2.25.0
 - pkg:composer/goldnead/statamic-marketing@v2.3.0
 - pkg:composer/goldnead/statamic-marketing@v2.3.1
 - pkg:composer/goldnead/statamic-marketing@v2.4.0
