@@ -4,3 +4,4 @@
 - pkg:composer/drupal/website@1.0.0-alpha3
 - pkg:composer/drupal/website@1.0.0-beta1
 - pkg:composer/drupal/website@1.0.0-rc1
+- pkg:composer/drupal/website@1.0.1

@@ -32,3 +32,5 @@
 - pkg:composer/drupal/wisski_default_data_model@1.9.1
 - pkg:composer/drupal/wisski_default_data_model@2.0.0
 - pkg:composer/drupal/wisski_default_data_model@2.0.1
+- pkg:composer/drupal/wisski_default_data_model@2.0.2
+- pkg:composer/drupal/wisski_default_data_model@2.0.3
