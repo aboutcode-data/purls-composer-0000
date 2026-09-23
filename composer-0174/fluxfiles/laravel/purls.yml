@@ -38,6 +38,7 @@
 - pkg:composer/fluxfiles/laravel@v0.2.39
 - pkg:composer/fluxfiles/laravel@v0.2.4
 - pkg:composer/fluxfiles/laravel@v0.2.40
+- pkg:composer/fluxfiles/laravel@v0.2.41
 - pkg:composer/fluxfiles/laravel@v0.2.5
 - pkg:composer/fluxfiles/laravel@v0.2.6
 - pkg:composer/fluxfiles/laravel@v0.2.7
