@@ -33,6 +33,8 @@
 - pkg:composer/digitalelvis/neuronai-studio@v3.0.0
 - pkg:composer/digitalelvis/neuronai-studio@v3.1.0
 - pkg:composer/digitalelvis/neuronai-studio@v3.10.0
+- pkg:composer/digitalelvis/neuronai-studio@v3.11.0
+- pkg:composer/digitalelvis/neuronai-studio@v3.12.0
 - pkg:composer/digitalelvis/neuronai-studio@v3.2.0
 - pkg:composer/digitalelvis/neuronai-studio@v3.3.0
 - pkg:composer/digitalelvis/neuronai-studio@v3.3.1
