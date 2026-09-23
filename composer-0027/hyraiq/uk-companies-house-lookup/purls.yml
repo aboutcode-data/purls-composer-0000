@@ -1,4 +1,5 @@
 - pkg:composer/hyraiq/uk-companies-house-lookup@2.0.0
+- pkg:composer/hyraiq/uk-companies-house-lookup@3.0.0
 - pkg:composer/hyraiq/uk-companies-house-lookup@v1.0.0
 - pkg:composer/hyraiq/uk-companies-house-lookup@v1.0.0-beta.1
 - pkg:composer/hyraiq/uk-companies-house-lookup@v1.1.0
