@@ -73,3 +73,4 @@
 - pkg:composer/globalcitizen/php-iban@v4.2.1
 - pkg:composer/globalcitizen/php-iban@v4.2.2
 - pkg:composer/globalcitizen/php-iban@v4.2.3
+- pkg:composer/globalcitizen/php-iban@v5.0.0
