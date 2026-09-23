@@ -21,3 +21,4 @@
 - pkg:composer/infocyph/webrick@5.1
 - pkg:composer/infocyph/webrick@5.2
 - pkg:composer/infocyph/webrick@5.3
+- pkg:composer/infocyph/webrick@5.4
