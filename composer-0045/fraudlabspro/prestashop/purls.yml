@@ -1,3 +1,4 @@
+- pkg:composer/fraudlabspro/prestashop@2.5.1
 - pkg:composer/fraudlabspro/prestashop@v1.13.1
 - pkg:composer/fraudlabspro/prestashop@v1.14.0
 - pkg:composer/fraudlabspro/prestashop@v1.14.1
