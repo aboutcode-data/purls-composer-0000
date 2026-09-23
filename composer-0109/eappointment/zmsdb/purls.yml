@@ -121,3 +121,5 @@
 - pkg:composer/eappointment/zmsdb@2.31.0-patch2
 - pkg:composer/eappointment/zmsdb@2.31.0-patch3
 - pkg:composer/eappointment/zmsdb@2.31.0-patch4
+- pkg:composer/eappointment/zmsdb@3.0.0
+- pkg:composer/eappointment/zmsdb@3.0.1
