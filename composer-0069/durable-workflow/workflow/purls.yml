@@ -485,3 +485,6 @@
 - pkg:composer/durable-workflow/workflow@2.0.7
 - pkg:composer/durable-workflow/workflow@2.0.8
 - pkg:composer/durable-workflow/workflow@2.0.9
+- pkg:composer/durable-workflow/workflow@2.1.0
+- pkg:composer/durable-workflow/workflow@2.1.1
+- pkg:composer/durable-workflow/workflow@2.2.0
