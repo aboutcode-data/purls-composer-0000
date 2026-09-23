@@ -1,4 +1,5 @@
 - pkg:composer/ibexa/templated-uri-bundle@4.0.0
+- pkg:composer/ibexa/templated-uri-bundle@6.0.0
 - pkg:composer/ibexa/templated-uri-bundle@v2.1.0
 - pkg:composer/ibexa/templated-uri-bundle@v2.1.0.1
 - pkg:composer/ibexa/templated-uri-bundle@v2.1.0.2
