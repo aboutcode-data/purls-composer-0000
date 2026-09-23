@@ -1,5 +1,14 @@
 - pkg:composer/gijsbos/apiserver@1.0.0
 - pkg:composer/gijsbos/apiserver@1.1.0
+- pkg:composer/gijsbos/apiserver@1.10
+- pkg:composer/gijsbos/apiserver@1.10.1
+- pkg:composer/gijsbos/apiserver@1.11
+- pkg:composer/gijsbos/apiserver@1.12
+- pkg:composer/gijsbos/apiserver@1.13
+- pkg:composer/gijsbos/apiserver@1.13.1
+- pkg:composer/gijsbos/apiserver@1.13.2
+- pkg:composer/gijsbos/apiserver@1.13.3
+- pkg:composer/gijsbos/apiserver@1.14
 - pkg:composer/gijsbos/apiserver@1.2.0
 - pkg:composer/gijsbos/apiserver@1.3.0
 - pkg:composer/gijsbos/apiserver@1.3.1
@@ -94,6 +103,7 @@
 - pkg:composer/gijsbos/apiserver@1.9.30
 - pkg:composer/gijsbos/apiserver@1.9.31
 - pkg:composer/gijsbos/apiserver@1.9.32
+- pkg:composer/gijsbos/apiserver@1.9.33
 - pkg:composer/gijsbos/apiserver@1.9.4
 - pkg:composer/gijsbos/apiserver@1.9.5
 - pkg:composer/gijsbos/apiserver@1.9.6
