@@ -414,3 +414,7 @@
 - pkg:composer/grumpydictator/firefly-iii@v6.6.4
 - pkg:composer/grumpydictator/firefly-iii@v6.6.5
 - pkg:composer/grumpydictator/firefly-iii@v6.6.6
+- pkg:composer/grumpydictator/firefly-iii@v6.7.0
+- pkg:composer/grumpydictator/firefly-iii@v6.7.1
+- pkg:composer/grumpydictator/firefly-iii@v6.7.2
+- pkg:composer/grumpydictator/firefly-iii@v6.7.3
