@@ -1,3 +1,5 @@
+- pkg:composer/flarum-lang/dutch@1.4.3
+- pkg:composer/flarum-lang/dutch@2.0.1
 - pkg:composer/flarum-lang/dutch@v1.0
 - pkg:composer/flarum-lang/dutch@v1.1.0
 - pkg:composer/flarum-lang/dutch@v1.1.1
