@@ -14,6 +14,7 @@
 - pkg:composer/guanguans/dcat-login-captcha@3.0.2
 - pkg:composer/guanguans/dcat-login-captcha@4.0.0
 - pkg:composer/guanguans/dcat-login-captcha@4.0.1
+- pkg:composer/guanguans/dcat-login-captcha@4.1.0
 - pkg:composer/guanguans/dcat-login-captcha@v1.0.0
 - pkg:composer/guanguans/dcat-login-captcha@v1.0.1
 - pkg:composer/guanguans/dcat-login-captcha@v1.0.10
