@@ -50,3 +50,4 @@
 - pkg:composer/google/cloud-document-ai@v2.7.0
 - pkg:composer/google/cloud-document-ai@v2.8.0
 - pkg:composer/google/cloud-document-ai@v2.8.1
+- pkg:composer/google/cloud-document-ai@v2.8.2

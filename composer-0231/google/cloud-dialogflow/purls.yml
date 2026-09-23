@@ -107,3 +107,4 @@
 - pkg:composer/google/cloud-dialogflow@v2.5.0
 - pkg:composer/google/cloud-dialogflow@v2.6.0
 - pkg:composer/google/cloud-dialogflow@v2.6.1
+- pkg:composer/google/cloud-dialogflow@v2.6.2
