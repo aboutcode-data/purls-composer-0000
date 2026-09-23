@@ -87,6 +87,8 @@
 - pkg:composer/immonex/wp-free-plugin-core@2.13.6
 - pkg:composer/immonex/wp-free-plugin-core@2.13.7
 - pkg:composer/immonex/wp-free-plugin-core@2.13.8
+- pkg:composer/immonex/wp-free-plugin-core@2.14.0
+- pkg:composer/immonex/wp-free-plugin-core@2.14.1
 - pkg:composer/immonex/wp-free-plugin-core@2.2.0
 - pkg:composer/immonex/wp-free-plugin-core@2.2.1
 - pkg:composer/immonex/wp-free-plugin-core@2.2.2
