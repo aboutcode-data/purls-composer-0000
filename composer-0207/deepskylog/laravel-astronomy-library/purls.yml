@@ -72,3 +72,4 @@
 - pkg:composer/deepskylog/laravel-astronomy-library@v6.7.5
 - pkg:composer/deepskylog/laravel-astronomy-library@v6.7.6
 - pkg:composer/deepskylog/laravel-astronomy-library@v6.7.7
+- pkg:composer/deepskylog/laravel-astronomy-library@v6.8.0
