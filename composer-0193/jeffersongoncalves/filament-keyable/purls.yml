@@ -4,8 +4,11 @@
 - pkg:composer/jeffersongoncalves/filament-keyable@1.0.3
 - pkg:composer/jeffersongoncalves/filament-keyable@1.1.0
 - pkg:composer/jeffersongoncalves/filament-keyable@1.1.1
+- pkg:composer/jeffersongoncalves/filament-keyable@1.2.0
 - pkg:composer/jeffersongoncalves/filament-keyable@2.0.0
 - pkg:composer/jeffersongoncalves/filament-keyable@2.0.1
+- pkg:composer/jeffersongoncalves/filament-keyable@2.1.0
 - pkg:composer/jeffersongoncalves/filament-keyable@3.0.0
 - pkg:composer/jeffersongoncalves/filament-keyable@3.0.1
 - pkg:composer/jeffersongoncalves/filament-keyable@3.0.2
+- pkg:composer/jeffersongoncalves/filament-keyable@3.1.0
