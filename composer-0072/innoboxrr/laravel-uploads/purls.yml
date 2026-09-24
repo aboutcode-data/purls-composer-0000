@@ -16,3 +16,6 @@
 - pkg:composer/innoboxrr/laravel-uploads@1.1.4
 - pkg:composer/innoboxrr/laravel-uploads@1.2.0
 - pkg:composer/innoboxrr/laravel-uploads@1.2.1
+- pkg:composer/innoboxrr/laravel-uploads@2.0.0
+- pkg:composer/innoboxrr/laravel-uploads@2.1.0
+- pkg:composer/innoboxrr/laravel-uploads@2.1.1
