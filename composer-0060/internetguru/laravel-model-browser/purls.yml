@@ -113,3 +113,11 @@
 - pkg:composer/internetguru/laravel-model-browser@v6.6.0
 - pkg:composer/internetguru/laravel-model-browser@v6.6.1
 - pkg:composer/internetguru/laravel-model-browser@v7.0.0
+- pkg:composer/internetguru/laravel-model-browser@v7.1.0
+- pkg:composer/internetguru/laravel-model-browser@v7.2.0
+- pkg:composer/internetguru/laravel-model-browser@v7.3.0
+- pkg:composer/internetguru/laravel-model-browser@v7.3.1
+- pkg:composer/internetguru/laravel-model-browser@v7.4.0
+- pkg:composer/internetguru/laravel-model-browser@v7.4.1
+- pkg:composer/internetguru/laravel-model-browser@v7.4.2
+- pkg:composer/internetguru/laravel-model-browser@v7.4.3

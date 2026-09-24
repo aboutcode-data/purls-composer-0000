@@ -21,6 +21,8 @@
 - pkg:composer/internal/dload@1.15.0
 - pkg:composer/internal/dload@1.15.1
 - pkg:composer/internal/dload@1.15.2
+- pkg:composer/internal/dload@1.16.0
+- pkg:composer/internal/dload@1.16.5
 - pkg:composer/internal/dload@1.2.0
 - pkg:composer/internal/dload@1.2.1
 - pkg:composer/internal/dload@1.2.2
