@@ -11,6 +11,8 @@
 - pkg:composer/goldnead/statamic-funnels@v1.16.0
 - pkg:composer/goldnead/statamic-funnels@v1.17.0
 - pkg:composer/goldnead/statamic-funnels@v1.17.0-rc.1
+- pkg:composer/goldnead/statamic-funnels@v1.18.0
+- pkg:composer/goldnead/statamic-funnels@v1.18.0-rc.1
 - pkg:composer/goldnead/statamic-funnels@v1.2.0
 - pkg:composer/goldnead/statamic-funnels@v1.3.0
 - pkg:composer/goldnead/statamic-funnels@v1.3.1
