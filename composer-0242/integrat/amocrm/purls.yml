@@ -1,3 +1,5 @@
 - pkg:composer/integrat/amocrm@1.4.1.1
 - pkg:composer/integrat/amocrm@1.5.0
+- pkg:composer/integrat/amocrm@1.6.0
 - pkg:composer/integrat/amocrm@2.0.0
+- pkg:composer/integrat/amocrm@2.1.0
