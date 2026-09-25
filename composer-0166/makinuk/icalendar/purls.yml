@@ -1,3 +1,5 @@
 - pkg:composer/makinuk/icalendar@v1.0
 - pkg:composer/makinuk/icalendar@v1.0.1
 - pkg:composer/makinuk/icalendar@v2.1.0
+- pkg:composer/makinuk/icalendar@v3.0.0
+- pkg:composer/makinuk/icalendar@v3.1.0
