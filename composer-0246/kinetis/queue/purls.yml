@@ -11,3 +11,4 @@
 - pkg:composer/kinetis/queue@v1.5.0
 - pkg:composer/kinetis/queue@v1.6.0
 - pkg:composer/kinetis/queue@v1.6.1
+- pkg:composer/kinetis/queue@v1.7.0

@@ -13,3 +13,4 @@
 - pkg:composer/kinetis/mcp@v1.5.2
 - pkg:composer/kinetis/mcp@v1.6.0
 - pkg:composer/kinetis/mcp@v1.7.0
+- pkg:composer/kinetis/mcp@v1.7.1

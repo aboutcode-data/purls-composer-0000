@@ -10,3 +10,4 @@
 - pkg:composer/kinetis/queue-sql@v1.6.0
 - pkg:composer/kinetis/queue-sql@v1.6.1
 - pkg:composer/kinetis/queue-sql@v1.6.2
+- pkg:composer/kinetis/queue-sql@v1.6.3
