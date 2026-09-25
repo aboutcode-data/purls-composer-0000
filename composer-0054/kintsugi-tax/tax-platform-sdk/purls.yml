@@ -19,3 +19,4 @@
 - pkg:composer/kintsugi-tax/tax-platform-sdk@v0.6.0
 - pkg:composer/kintsugi-tax/tax-platform-sdk@v0.6.1
 - pkg:composer/kintsugi-tax/tax-platform-sdk@v0.6.2
+- pkg:composer/kintsugi-tax/tax-platform-sdk@v0.7.0
