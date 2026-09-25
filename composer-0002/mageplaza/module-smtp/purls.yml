@@ -87,6 +87,7 @@
 - pkg:composer/mageplaza/module-smtp@4.7.23
 - pkg:composer/mageplaza/module-smtp@4.7.24
 - pkg:composer/mageplaza/module-smtp@4.7.25
+- pkg:composer/mageplaza/module-smtp@4.7.26
 - pkg:composer/mageplaza/module-smtp@4.7.3
 - pkg:composer/mageplaza/module-smtp@4.7.4
 - pkg:composer/mageplaza/module-smtp@4.7.5
