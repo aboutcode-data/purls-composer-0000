@@ -241,6 +241,7 @@
 - pkg:composer/lara-igniter/framework@v1.69.1
 - pkg:composer/lara-igniter/framework@v1.69.2
 - pkg:composer/lara-igniter/framework@v1.7.0
+- pkg:composer/lara-igniter/framework@v1.70.0
 - pkg:composer/lara-igniter/framework@v1.8.0
 - pkg:composer/lara-igniter/framework@v1.9.0
 - pkg:composer/lara-igniter/framework@v1.9.1
