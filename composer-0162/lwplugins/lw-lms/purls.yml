@@ -23,3 +23,12 @@
 - pkg:composer/lwplugins/lw-lms@v1.6.0
 - pkg:composer/lwplugins/lw-lms@v1.6.1
 - pkg:composer/lwplugins/lw-lms@v1.6.2
+- pkg:composer/lwplugins/lw-lms@v1.6.3
+- pkg:composer/lwplugins/lw-lms@v1.7.0
+- pkg:composer/lwplugins/lw-lms@v1.8.0
+- pkg:composer/lwplugins/lw-lms@v1.8.1
+- pkg:composer/lwplugins/lw-lms@v1.8.2
+- pkg:composer/lwplugins/lw-lms@v1.8.3
+- pkg:composer/lwplugins/lw-lms@v1.9.0
+- pkg:composer/lwplugins/lw-lms@v1.9.1
+- pkg:composer/lwplugins/lw-lms@v1.9.2
