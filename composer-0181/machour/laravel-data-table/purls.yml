@@ -7,3 +7,5 @@
 - pkg:composer/machour/laravel-data-table@1.0.0
 - pkg:composer/machour/laravel-data-table@2.0.0
 - pkg:composer/machour/laravel-data-table@2.0.1
+- pkg:composer/machour/laravel-data-table@3.0.0
+- pkg:composer/machour/laravel-data-table@3.1.0
