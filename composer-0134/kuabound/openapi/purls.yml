@@ -1,1 +1,5 @@
 - pkg:composer/kuabound/openapi@1.0.0
+- pkg:composer/kuabound/openapi@1.1.0
+- pkg:composer/kuabound/openapi@1.1.1
+- pkg:composer/kuabound/openapi@1.1.2
+- pkg:composer/kuabound/openapi@1.1.3
