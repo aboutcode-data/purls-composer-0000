@@ -14,6 +14,8 @@
 - pkg:composer/jobmetric/domi@1.13.0
 - pkg:composer/jobmetric/domi@1.13.1
 - pkg:composer/jobmetric/domi@1.14.0
+- pkg:composer/jobmetric/domi@1.14.1
+- pkg:composer/jobmetric/domi@1.14.2
 - pkg:composer/jobmetric/domi@1.2.0
 - pkg:composer/jobmetric/domi@1.3.0
 - pkg:composer/jobmetric/domi@1.4.0
