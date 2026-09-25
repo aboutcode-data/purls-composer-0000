@@ -7,3 +7,5 @@
 - pkg:composer/jackardios/laravel-eloquent-spatial@v3.1.0
 - pkg:composer/jackardios/laravel-eloquent-spatial@v3.2.0
 - pkg:composer/jackardios/laravel-eloquent-spatial@v4.0.0
+- pkg:composer/jackardios/laravel-eloquent-spatial@v4.1.0
+- pkg:composer/jackardios/laravel-eloquent-spatial@v5.0.0
