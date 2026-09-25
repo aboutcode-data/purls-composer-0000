@@ -65,3 +65,4 @@
 - pkg:composer/kitodo/publication@v5.3.0
 - pkg:composer/kitodo/publication@v5.4.0
 - pkg:composer/kitodo/publication@v5.4.1
+- pkg:composer/kitodo/publication@v5.4.2
