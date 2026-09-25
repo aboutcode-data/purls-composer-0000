@@ -2,3 +2,5 @@
 - pkg:composer/kinetis/auth@v1.1.1
 - pkg:composer/kinetis/auth@v1.2.0
 - pkg:composer/kinetis/auth@v1.2.1
+- pkg:composer/kinetis/auth@v1.2.2
+- pkg:composer/kinetis/auth@v1.3.0

@@ -6,3 +6,5 @@
 - pkg:composer/kinetis/auth-jwt@v1.3.0
 - pkg:composer/kinetis/auth-jwt@v1.3.1
 - pkg:composer/kinetis/auth-jwt@v1.4.0
+- pkg:composer/kinetis/auth-jwt@v1.4.1
+- pkg:composer/kinetis/auth-jwt@v1.5.0
