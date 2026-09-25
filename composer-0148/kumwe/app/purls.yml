@@ -10,6 +10,10 @@
 - pkg:composer/kumwe/app@v2.0.0-alpha.18
 - pkg:composer/kumwe/app@v2.0.0-alpha.19
 - pkg:composer/kumwe/app@v2.0.0-alpha.2
+- pkg:composer/kumwe/app@v2.0.0-alpha.20
+- pkg:composer/kumwe/app@v2.0.0-alpha.21
+- pkg:composer/kumwe/app@v2.0.0-alpha.22
+- pkg:composer/kumwe/app@v2.0.0-alpha.23
 - pkg:composer/kumwe/app@v2.0.0-alpha.3
 - pkg:composer/kumwe/app@v2.0.0-alpha.4
 - pkg:composer/kumwe/app@v2.0.0-alpha.5
