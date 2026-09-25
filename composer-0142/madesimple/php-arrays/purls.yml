@@ -11,3 +11,4 @@
 - pkg:composer/madesimple/php-arrays@v2.0.1
 - pkg:composer/madesimple/php-arrays@v2.1.0
 - pkg:composer/madesimple/php-arrays@v3.0.0
+- pkg:composer/madesimple/php-arrays@v4.0.0
