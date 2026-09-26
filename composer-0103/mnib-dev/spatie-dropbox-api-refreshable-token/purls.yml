@@ -1,1 +1,2 @@
 - pkg:composer/mnib-dev/spatie-dropbox-api-refreshable-token@v0.1
+- pkg:composer/mnib-dev/spatie-dropbox-api-refreshable-token@v0.2.0
