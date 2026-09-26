@@ -24,3 +24,4 @@
 - pkg:composer/mollie/magento2-hyva-checkout@v3.0.0-RC3
 - pkg:composer/mollie/magento2-hyva-checkout@v3.0.1
 - pkg:composer/mollie/magento2-hyva-checkout@v3.0.2
+- pkg:composer/mollie/magento2-hyva-checkout@v3.0.3
