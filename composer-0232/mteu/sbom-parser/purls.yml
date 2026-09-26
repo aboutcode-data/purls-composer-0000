@@ -3,3 +3,4 @@
 - pkg:composer/mteu/sbom-parser@0.2.1
 - pkg:composer/mteu/sbom-parser@0.3.0
 - pkg:composer/mteu/sbom-parser@0.4.0
+- pkg:composer/mteu/sbom-parser@0.5.0
