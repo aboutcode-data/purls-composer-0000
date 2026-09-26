@@ -22,4 +22,7 @@
 - pkg:composer/luigel/laravel-paymongo@v2.4.0
 - pkg:composer/luigel/laravel-paymongo@v2.5.0
 - pkg:composer/luigel/laravel-paymongo@v2.6.0
+- pkg:composer/luigel/laravel-paymongo@v3.0.0
 - pkg:composer/luigel/laravel-paymongo@v3.0.0-beta.1
+- pkg:composer/luigel/laravel-paymongo@v3.0.0-beta.2
+- pkg:composer/luigel/laravel-paymongo@v3.0.1
