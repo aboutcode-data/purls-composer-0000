@@ -7,3 +7,4 @@
 - pkg:composer/membrane/openapi-router@0.5.1
 - pkg:composer/membrane/openapi-router@0.5.2
 - pkg:composer/membrane/openapi-router@0.5.3
+- pkg:composer/membrane/openapi-router@0.6.0
