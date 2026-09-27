@@ -1,4 +1,5 @@
 - pkg:composer/rkw/rkw-quickcheck@v10.4.0-stable
+- pkg:composer/rkw/rkw-quickcheck@v10.4.1-stable
 - pkg:composer/rkw/rkw-quickcheck@v7.6.1-stable
 - pkg:composer/rkw/rkw-quickcheck@v7.6.2-stable
 - pkg:composer/rkw/rkw-quickcheck@v7.6.3-stable
