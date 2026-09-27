@@ -12,3 +12,4 @@
 - pkg:composer/restruct/silverstripe-newsgrid@2.0.9
 - pkg:composer/restruct/silverstripe-newsgrid@3.0.0
 - pkg:composer/restruct/silverstripe-newsgrid@3.0.1
+- pkg:composer/restruct/silverstripe-newsgrid@3.1.0
