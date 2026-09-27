@@ -1,1 +1,2 @@
 - pkg:composer/rasuvaeff/rector-datetime-immutable@v1.0.0
+- pkg:composer/rasuvaeff/rector-datetime-immutable@v1.0.1
