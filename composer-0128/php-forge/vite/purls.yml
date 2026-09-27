@@ -2,3 +2,7 @@
 - pkg:composer/php-forge/vite@0.2.0
 - pkg:composer/php-forge/vite@0.2.1
 - pkg:composer/php-forge/vite@0.3.0
+- pkg:composer/php-forge/vite@0.4.0
+- pkg:composer/php-forge/vite@0.5.0
+- pkg:composer/php-forge/vite@0.5.1
+- pkg:composer/php-forge/vite@0.5.2
