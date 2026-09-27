@@ -14,3 +14,5 @@
 - pkg:composer/phpbb/pages@2.0.5
 - pkg:composer/phpbb/pages@3.0.0
 - pkg:composer/phpbb/pages@3.0.1
+- pkg:composer/phpbb/pages@3.1.0
+- pkg:composer/phpbb/pages@3.1.1
