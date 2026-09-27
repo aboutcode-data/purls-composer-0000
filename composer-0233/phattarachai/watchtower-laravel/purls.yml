@@ -11,3 +11,5 @@
 - pkg:composer/phattarachai/watchtower-laravel@v0.4.7
 - pkg:composer/phattarachai/watchtower-laravel@v1.0.0
 - pkg:composer/phattarachai/watchtower-laravel@v1.0.1
+- pkg:composer/phattarachai/watchtower-laravel@v1.0.2
+- pkg:composer/phattarachai/watchtower-laravel@v1.1.0
