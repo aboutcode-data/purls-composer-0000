@@ -2,6 +2,10 @@
 - pkg:composer/phasync/server@1.0.0
 - pkg:composer/phasync/server@1.0.1
 - pkg:composer/phasync/server@1.0.2
+- pkg:composer/phasync/server@2.0.0-alpha0
+- pkg:composer/phasync/server@2.0.0-alpha1
+- pkg:composer/phasync/server@2.0.0-alpha2
+- pkg:composer/phasync/server@2.0.0-alpha3
 - pkg:composer/phasync/server@v1.1.0
 - pkg:composer/phasync/server@v1.1.0-rc1
 - pkg:composer/phasync/server@v1.1.0-rc2
