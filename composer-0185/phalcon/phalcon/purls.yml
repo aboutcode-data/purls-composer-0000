@@ -1,3 +1,5 @@
+- pkg:composer/phalcon/phalcon@v6.0.0RC1
+- pkg:composer/phalcon/phalcon@v6.0.0RC2
 - pkg:composer/phalcon/phalcon@v6.0.0alpha1
 - pkg:composer/phalcon/phalcon@v6.0.0alpha2
 - pkg:composer/phalcon/phalcon@v6.0.0alpha3
