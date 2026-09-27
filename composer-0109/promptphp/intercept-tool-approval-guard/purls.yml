@@ -1,2 +1,4 @@
 - pkg:composer/promptphp/intercept-tool-approval-guard@v0.3.0
 - pkg:composer/promptphp/intercept-tool-approval-guard@v0.3.1
+- pkg:composer/promptphp/intercept-tool-approval-guard@v0.3.2
+- pkg:composer/promptphp/intercept-tool-approval-guard@v1.0.0
