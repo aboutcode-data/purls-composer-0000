@@ -22,3 +22,5 @@
 - pkg:composer/popphp/pop-cache@5.0.0
 - pkg:composer/popphp/pop-cache@5.0.1
 - pkg:composer/popphp/pop-cache@5.0.2
+- pkg:composer/popphp/pop-cache@5.1.0
+- pkg:composer/popphp/pop-cache@5.1.1
