@@ -51,3 +51,4 @@
 - pkg:composer/sabberworm/php-css-parser@v9.2.0
 - pkg:composer/sabberworm/php-css-parser@v9.3.0
 - pkg:composer/sabberworm/php-css-parser@v9.4.0
+- pkg:composer/sabberworm/php-css-parser@v9.5.0
