@@ -55,4 +55,5 @@
 - pkg:composer/prospress/action-scheduler@3.9.3
 - pkg:composer/prospress/action-scheduler@4.0.0
 - pkg:composer/prospress/action-scheduler@4.1.0
+- pkg:composer/prospress/action-scheduler@4.2.0
 - pkg:composer/prospress/action-scheduler@v2.1.1
