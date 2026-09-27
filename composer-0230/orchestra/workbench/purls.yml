@@ -43,10 +43,12 @@
 - pkg:composer/orchestra/workbench@v10.0.8
 - pkg:composer/orchestra/workbench@v10.1.0
 - pkg:composer/orchestra/workbench@v10.2.0
+- pkg:composer/orchestra/workbench@v10.3.0
 - pkg:composer/orchestra/workbench@v11.0.0
 - pkg:composer/orchestra/workbench@v11.0.1
 - pkg:composer/orchestra/workbench@v11.1.0
 - pkg:composer/orchestra/workbench@v11.2.0
+- pkg:composer/orchestra/workbench@v11.3.0
 - pkg:composer/orchestra/workbench@v7.0.0
 - pkg:composer/orchestra/workbench@v7.1.0
 - pkg:composer/orchestra/workbench@v7.10.0
@@ -67,6 +69,7 @@
 - pkg:composer/orchestra/workbench@v7.18.0
 - pkg:composer/orchestra/workbench@v7.19.0
 - pkg:composer/orchestra/workbench@v7.2.0
+- pkg:composer/orchestra/workbench@v7.20.0
 - pkg:composer/orchestra/workbench@v7.3.0
 - pkg:composer/orchestra/workbench@v7.4.0
 - pkg:composer/orchestra/workbench@v7.5.0
@@ -96,6 +99,7 @@
 - pkg:composer/orchestra/workbench@v8.19.0
 - pkg:composer/orchestra/workbench@v8.2.0
 - pkg:composer/orchestra/workbench@v8.2.1
+- pkg:composer/orchestra/workbench@v8.20.0
 - pkg:composer/orchestra/workbench@v8.3.0
 - pkg:composer/orchestra/workbench@v8.4.0
 - pkg:composer/orchestra/workbench@v8.5.0
@@ -119,6 +123,7 @@
 - pkg:composer/orchestra/workbench@v9.13.5
 - pkg:composer/orchestra/workbench@v9.14.0
 - pkg:composer/orchestra/workbench@v9.15.0
+- pkg:composer/orchestra/workbench@v9.16.0
 - pkg:composer/orchestra/workbench@v9.2.0
 - pkg:composer/orchestra/workbench@v9.3.0
 - pkg:composer/orchestra/workbench@v9.4.0
