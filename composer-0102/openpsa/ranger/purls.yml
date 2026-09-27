@@ -15,3 +15,5 @@
 - pkg:composer/openpsa/ranger@v0.5.8.1
 - pkg:composer/openpsa/ranger@v0.5.9
 - pkg:composer/openpsa/ranger@v0.6.0
+- pkg:composer/openpsa/ranger@v0.6.1
+- pkg:composer/openpsa/ranger@v0.6.2
