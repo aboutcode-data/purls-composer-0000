@@ -1,2 +1,3 @@
 - pkg:composer/phattarachai/laravel-db-tunnel@v1.0.0
 - pkg:composer/phattarachai/laravel-db-tunnel@v1.0.1
+- pkg:composer/phattarachai/laravel-db-tunnel@v1.1.0
