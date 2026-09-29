@@ -47,6 +47,9 @@
 - pkg:composer/phasync/phasync@2.0.0-alpha12
 - pkg:composer/phasync/phasync@2.0.0-alpha13
 - pkg:composer/phasync/phasync@2.0.0-alpha14
+- pkg:composer/phasync/phasync@2.0.0-alpha15
+- pkg:composer/phasync/phasync@2.0.0-alpha16
+- pkg:composer/phasync/phasync@2.0.0-alpha17
 - pkg:composer/phasync/phasync@2.0.0-alpha2
 - pkg:composer/phasync/phasync@2.0.0-alpha3
 - pkg:composer/phasync/phasync@2.0.0-alpha4
