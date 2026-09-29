@@ -8,3 +8,4 @@
 - pkg:composer/phalcon-kit/app@2.0.6
 - pkg:composer/phalcon-kit/app@2.0.7
 - pkg:composer/phalcon-kit/app@4.0.0
+- pkg:composer/phalcon-kit/app@4.0.1
