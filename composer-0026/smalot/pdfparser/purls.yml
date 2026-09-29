@@ -61,6 +61,7 @@
 - pkg:composer/smalot/pdfparser@v2.12.3
 - pkg:composer/smalot/pdfparser@v2.12.4
 - pkg:composer/smalot/pdfparser@v2.12.5
+- pkg:composer/smalot/pdfparser@v2.13.0-beta1
 - pkg:composer/smalot/pdfparser@v2.2.0
 - pkg:composer/smalot/pdfparser@v2.2.1
 - pkg:composer/smalot/pdfparser@v2.2.2
