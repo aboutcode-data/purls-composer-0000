@@ -33,3 +33,4 @@
 - pkg:composer/sturents/swagger-php-model-generator@0.2.3
 - pkg:composer/sturents/swagger-php-model-generator@0.2.4
 - pkg:composer/sturents/swagger-php-model-generator@0.3.0
+- pkg:composer/sturents/swagger-php-model-generator@0.3.1
