@@ -50,3 +50,4 @@
 - pkg:composer/sirbrillig/phpcs-changed@v3.0.0
 - pkg:composer/sirbrillig/phpcs-changed@v3.0.1
 - pkg:composer/sirbrillig/phpcs-changed@v3.0.2
+- pkg:composer/sirbrillig/phpcs-changed@v3.1.0
