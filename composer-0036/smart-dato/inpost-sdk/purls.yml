@@ -1,5 +1,6 @@
 - pkg:composer/smart-dato/inpost-sdk@0.0.8
 - pkg:composer/smart-dato/inpost-sdk@v0.0.1
+- pkg:composer/smart-dato/inpost-sdk@v0.0.10
 - pkg:composer/smart-dato/inpost-sdk@v0.0.2
 - pkg:composer/smart-dato/inpost-sdk@v0.0.3
 - pkg:composer/smart-dato/inpost-sdk@v0.0.4
