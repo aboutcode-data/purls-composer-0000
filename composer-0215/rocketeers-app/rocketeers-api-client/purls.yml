@@ -26,3 +26,5 @@
 - pkg:composer/rocketeers-app/rocketeers-api-client@v2.17.0
 - pkg:composer/rocketeers-app/rocketeers-api-client@v2.18.0
 - pkg:composer/rocketeers-app/rocketeers-api-client@v2.18.1
+- pkg:composer/rocketeers-app/rocketeers-api-client@v2.19.0
+- pkg:composer/rocketeers-app/rocketeers-api-client@v2.19.2
