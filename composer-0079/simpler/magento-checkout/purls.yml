@@ -64,3 +64,5 @@
 - pkg:composer/simpler/magento-checkout@1.6.0
 - pkg:composer/simpler/magento-checkout@1.6.1
 - pkg:composer/simpler/magento-checkout@1.6.2
+- pkg:composer/simpler/magento-checkout@1.6.3
+- pkg:composer/simpler/magento-checkout@1.6.4
