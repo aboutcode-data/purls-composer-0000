@@ -78,3 +78,4 @@
 - pkg:composer/silverstripe/realme@6.0.3
 - pkg:composer/silverstripe/realme@6.0.4
 - pkg:composer/silverstripe/realme@6.1.0-beta1
+- pkg:composer/silverstripe/realme@6.1.0-rc1
