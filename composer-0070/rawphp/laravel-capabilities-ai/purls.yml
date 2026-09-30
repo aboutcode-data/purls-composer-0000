@@ -11,3 +11,5 @@
 - pkg:composer/rawphp/laravel-capabilities-ai@v0.5.1
 - pkg:composer/rawphp/laravel-capabilities-ai@v0.5.2
 - pkg:composer/rawphp/laravel-capabilities-ai@v0.5.3
+- pkg:composer/rawphp/laravel-capabilities-ai@v0.6.0
+- pkg:composer/rawphp/laravel-capabilities-ai@v0.6.1
