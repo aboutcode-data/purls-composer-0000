@@ -10,3 +10,4 @@
 - pkg:composer/thelia/order-comment-module@1.2.3
 - pkg:composer/thelia/order-comment-module@2.0.0
 - pkg:composer/thelia/order-comment-module@3.0.0
+- pkg:composer/thelia/order-comment-module@3.0.1
