@@ -3,3 +3,4 @@
 - pkg:composer/survos/supervisor-bundle@2.24.24
 - pkg:composer/survos/supervisor-bundle@2.24.27
 - pkg:composer/survos/supervisor-bundle@2.26.9
+- pkg:composer/survos/supervisor-bundle@2.33.0

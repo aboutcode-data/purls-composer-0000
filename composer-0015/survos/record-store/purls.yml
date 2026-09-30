@@ -2,3 +2,4 @@
 - pkg:composer/survos/record-store@2.26.1
 - pkg:composer/survos/record-store@2.26.5
 - pkg:composer/survos/record-store@2.26.7
+- pkg:composer/survos/record-store@2.33.0
