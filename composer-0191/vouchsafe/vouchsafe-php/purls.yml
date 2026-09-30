@@ -74,5 +74,8 @@
 - pkg:composer/vouchsafe/vouchsafe-php@v0.1.75
 - pkg:composer/vouchsafe/vouchsafe-php@v0.1.76
 - pkg:composer/vouchsafe/vouchsafe-php@v0.1.77
+- pkg:composer/vouchsafe/vouchsafe-php@v0.1.78
+- pkg:composer/vouchsafe/vouchsafe-php@v0.1.79
 - pkg:composer/vouchsafe/vouchsafe-php@v0.1.8
+- pkg:composer/vouchsafe/vouchsafe-php@v0.1.80
 - pkg:composer/vouchsafe/vouchsafe-php@v0.1.9
