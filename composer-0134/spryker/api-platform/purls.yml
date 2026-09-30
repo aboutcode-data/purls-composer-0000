@@ -65,6 +65,8 @@
 - pkg:composer/spryker/api-platform@1.42.0
 - pkg:composer/spryker/api-platform@1.43.0
 - pkg:composer/spryker/api-platform@1.44.0
+- pkg:composer/spryker/api-platform@1.44.1
+- pkg:composer/spryker/api-platform@1.45.0
 - pkg:composer/spryker/api-platform@1.5.0
 - pkg:composer/spryker/api-platform@1.6.0
 - pkg:composer/spryker/api-platform@1.7.0
