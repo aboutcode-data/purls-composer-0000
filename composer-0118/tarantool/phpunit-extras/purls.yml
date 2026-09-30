@@ -11,3 +11,4 @@
 - pkg:composer/tarantool/phpunit-extras@v0.1.9
 - pkg:composer/tarantool/phpunit-extras@v0.2.0
 - pkg:composer/tarantool/phpunit-extras@v0.2.1
+- pkg:composer/tarantool/phpunit-extras@v0.3.0
