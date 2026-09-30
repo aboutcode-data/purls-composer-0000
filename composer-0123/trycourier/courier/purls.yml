@@ -56,6 +56,9 @@
 - pkg:composer/trycourier/courier@v6.0.0
 - pkg:composer/trycourier/courier@v7.0.0
 - pkg:composer/trycourier/courier@v7.1.0
+- pkg:composer/trycourier/courier@v7.10.0
+- pkg:composer/trycourier/courier@v7.10.1
+- pkg:composer/trycourier/courier@v7.10.2
 - pkg:composer/trycourier/courier@v7.2.0
 - pkg:composer/trycourier/courier@v7.3.0
 - pkg:composer/trycourier/courier@v7.3.1
@@ -64,3 +67,7 @@
 - pkg:composer/trycourier/courier@v7.3.4
 - pkg:composer/trycourier/courier@v7.4.0
 - pkg:composer/trycourier/courier@v7.5.0
+- pkg:composer/trycourier/courier@v7.6.0
+- pkg:composer/trycourier/courier@v7.7.0
+- pkg:composer/trycourier/courier@v7.8.0
+- pkg:composer/trycourier/courier@v7.9.0
