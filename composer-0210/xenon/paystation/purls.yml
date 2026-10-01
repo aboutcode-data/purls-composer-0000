@@ -3,3 +3,6 @@
 - pkg:composer/xenon/paystation@1.0.1-beta
 - pkg:composer/xenon/paystation@1.0.2
 - pkg:composer/xenon/paystation@1.0.2-alpha
+- pkg:composer/xenon/paystation@2.0.0
+- pkg:composer/xenon/paystation@2.0.0-beta
+- pkg:composer/xenon/paystation@2.0.1
