@@ -15,3 +15,4 @@
 - pkg:composer/wucdbm/doctrine-extensions@v0.1.7
 - pkg:composer/wucdbm/doctrine-extensions@v0.1.8
 - pkg:composer/wucdbm/doctrine-extensions@v0.1.9
+- pkg:composer/wucdbm/doctrine-extensions@v0.2.0
