@@ -22,3 +22,4 @@
 - pkg:composer/wisetaillab/laravel-sns-events@8.0.0
 - pkg:composer/wisetaillab/laravel-sns-events@8.1.0
 - pkg:composer/wisetaillab/laravel-sns-events@8.1.1
+- pkg:composer/wisetaillab/laravel-sns-events@8.2.0
