@@ -82,6 +82,8 @@
 - pkg:composer/webservco/framework@v13.28.0
 - pkg:composer/webservco/framework@v13.29.0
 - pkg:composer/webservco/framework@v13.3.0
+- pkg:composer/webservco/framework@v13.30.0
+- pkg:composer/webservco/framework@v13.31.0
 - pkg:composer/webservco/framework@v13.4.0
 - pkg:composer/webservco/framework@v13.5.0
 - pkg:composer/webservco/framework@v13.6.0
