@@ -207,3 +207,7 @@
 - pkg:composer/weblabormx/laravel-front@v3.3.7
 - pkg:composer/weblabormx/laravel-front@v3.3.8
 - pkg:composer/weblabormx/laravel-front@v3.3.9
+- pkg:composer/weblabormx/laravel-front@v3.4.0
+- pkg:composer/weblabormx/laravel-front@v3.4.1
+- pkg:composer/weblabormx/laravel-front@v3.4.2
+- pkg:composer/weblabormx/laravel-front@v3.4.3
