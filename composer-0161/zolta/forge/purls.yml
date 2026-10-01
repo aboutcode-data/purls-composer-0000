@@ -1,3 +1,6 @@
 - pkg:composer/zolta/forge@1.0.2
 - pkg:composer/zolta/forge@v1.0.0
 - pkg:composer/zolta/forge@v1.0.1
+- pkg:composer/zolta/forge@v1.0.2-beta.1
+- pkg:composer/zolta/forge@v1.0.3
+- pkg:composer/zolta/forge@v1.0.4
