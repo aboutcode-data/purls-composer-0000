@@ -26,6 +26,8 @@
 - pkg:composer/wsr/booking@2.8.10
 - pkg:composer/wsr/booking@2.8.12
 - pkg:composer/wsr/booking@2.8.13
+- pkg:composer/wsr/booking@2.8.14
+- pkg:composer/wsr/booking@2.8.15
 - pkg:composer/wsr/booking@2.8.6
 - pkg:composer/wsr/booking@2.8.7
 - pkg:composer/wsr/booking@2.8.9
