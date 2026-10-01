@@ -53,3 +53,4 @@
 - pkg:composer/shipmonk/phpstan-rules@4.3.6
 - pkg:composer/shipmonk/phpstan-rules@4.3.7
 - pkg:composer/shipmonk/phpstan-rules@4.4.0
+- pkg:composer/shipmonk/phpstan-rules@4.4.1
