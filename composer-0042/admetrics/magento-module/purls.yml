@@ -10,4 +10,5 @@
 - pkg:composer/admetrics/magento-module@1.1.0-beta
 - pkg:composer/admetrics/magento-module@1.1.0-beta2
 - pkg:composer/admetrics/magento-module@1.1.1
+- pkg:composer/admetrics/magento-module@1.2.0
 - pkg:composer/admetrics/magento-module@1.2.0-beta
