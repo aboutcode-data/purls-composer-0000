@@ -261,6 +261,7 @@
 - pkg:composer/wikimedia/parsoid@v0.20.6
 - pkg:composer/wikimedia/parsoid@v0.20.7
 - pkg:composer/wikimedia/parsoid@v0.20.8
+- pkg:composer/wikimedia/parsoid@v0.20.9
 - pkg:composer/wikimedia/parsoid@v0.21.0
 - pkg:composer/wikimedia/parsoid@v0.21.0-a1
 - pkg:composer/wikimedia/parsoid@v0.21.0-a10
@@ -380,6 +381,8 @@
 - pkg:composer/wikimedia/parsoid@v0.24.0-a21
 - pkg:composer/wikimedia/parsoid@v0.24.0-a22
 - pkg:composer/wikimedia/parsoid@v0.24.0-a23
+- pkg:composer/wikimedia/parsoid@v0.24.0-a24
+- pkg:composer/wikimedia/parsoid@v0.24.0-a25
 - pkg:composer/wikimedia/parsoid@v0.24.0-a3
 - pkg:composer/wikimedia/parsoid@v0.24.0-a4
 - pkg:composer/wikimedia/parsoid@v0.24.0-a5
