@@ -20,6 +20,7 @@
 - pkg:composer/wpify/snippets@3.2.3
 - pkg:composer/wpify/snippets@3.2.4
 - pkg:composer/wpify/snippets@3.2.5
+- pkg:composer/wpify/snippets@3.3.0
 - pkg:composer/wpify/snippets@v1.0.0
 - pkg:composer/wpify/snippets@v1.1.0
 - pkg:composer/wpify/snippets@v1.1.1
