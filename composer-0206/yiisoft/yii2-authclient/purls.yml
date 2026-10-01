@@ -26,6 +26,7 @@
 - pkg:composer/yiisoft/yii2-authclient@2.2.15
 - pkg:composer/yiisoft/yii2-authclient@2.2.16
 - pkg:composer/yiisoft/yii2-authclient@2.2.17
+- pkg:composer/yiisoft/yii2-authclient@2.2.18
 - pkg:composer/yiisoft/yii2-authclient@2.2.2
 - pkg:composer/yiisoft/yii2-authclient@2.2.3
 - pkg:composer/yiisoft/yii2-authclient@2.2.4
