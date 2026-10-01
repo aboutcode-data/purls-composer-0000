@@ -1,4 +1,5 @@
 - pkg:composer/storyfeed/storyfeed@v0.10.0
+- pkg:composer/storyfeed/storyfeed@v0.11.0
 - pkg:composer/storyfeed/storyfeed@v0.6.0-alpha.1
 - pkg:composer/storyfeed/storyfeed@v0.8.0
 - pkg:composer/storyfeed/storyfeed@v0.8.0-alpha.1
