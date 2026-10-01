@@ -149,6 +149,7 @@
 - pkg:composer/survos/folio-bundle@2.34.13
 - pkg:composer/survos/folio-bundle@2.34.16
 - pkg:composer/survos/folio-bundle@2.34.2
+- pkg:composer/survos/folio-bundle@2.34.27
 - pkg:composer/survos/folio-bundle@2.34.3
 - pkg:composer/survos/folio-bundle@2.34.4
 - pkg:composer/survos/folio-bundle@2.34.5
