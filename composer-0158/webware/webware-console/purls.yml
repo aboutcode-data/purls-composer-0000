@@ -1,2 +1,5 @@
 - pkg:composer/webware/webware-console@0.1.0
 - pkg:composer/webware/webware-console@0.1.1
+- pkg:composer/webware/webware-console@1.0.0-alpha.1
+- pkg:composer/webware/webware-console@1.0.0-alpha.2
+- pkg:composer/webware/webware-console@1.0.0-alpha.3
