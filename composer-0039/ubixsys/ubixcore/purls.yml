@@ -32,7 +32,14 @@
 - pkg:composer/ubixsys/ubixcore@v0.34.0
 - pkg:composer/ubixsys/ubixcore@v0.35.0
 - pkg:composer/ubixsys/ubixcore@v0.36.0
+- pkg:composer/ubixsys/ubixcore@v0.37.0
+- pkg:composer/ubixsys/ubixcore@v0.38.0
+- pkg:composer/ubixsys/ubixcore@v0.39.0
 - pkg:composer/ubixsys/ubixcore@v0.4.0
+- pkg:composer/ubixsys/ubixcore@v0.40.0
+- pkg:composer/ubixsys/ubixcore@v0.41.0
+- pkg:composer/ubixsys/ubixcore@v0.42.0
+- pkg:composer/ubixsys/ubixcore@v0.43.0
 - pkg:composer/ubixsys/ubixcore@v0.5.0
 - pkg:composer/ubixsys/ubixcore@v0.6.0
 - pkg:composer/ubixsys/ubixcore@v0.6.1
