@@ -96,6 +96,8 @@
 - pkg:composer/wikibase-solutions/flex-form@v2.10.0
 - pkg:composer/wikibase-solutions/flex-form@v2.10.2
 - pkg:composer/wikibase-solutions/flex-form@v2.10.3
+- pkg:composer/wikibase-solutions/flex-form@v2.10.4
+- pkg:composer/wikibase-solutions/flex-form@v2.10.6
 - pkg:composer/wikibase-solutions/flex-form@v2.2.0
 - pkg:composer/wikibase-solutions/flex-form@v2.2.1
 - pkg:composer/wikibase-solutions/flex-form@v2.2.10
