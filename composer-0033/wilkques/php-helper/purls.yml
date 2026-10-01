@@ -16,3 +16,6 @@
 - pkg:composer/wilkques/php-helper@v5.14.0
 - pkg:composer/wilkques/php-helper@v5.14.1
 - pkg:composer/wilkques/php-helper@v5.15.0
+- pkg:composer/wilkques/php-helper@v6.0.0
+- pkg:composer/wilkques/php-helper@v6.0.1
+- pkg:composer/wilkques/php-helper@v6.1.0
