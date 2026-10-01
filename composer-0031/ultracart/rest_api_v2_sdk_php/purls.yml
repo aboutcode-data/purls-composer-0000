@@ -725,6 +725,7 @@
 - pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.176
 - pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.177
 - pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.178
+- pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.179
 - pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.18
 - pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.19
 - pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.2
