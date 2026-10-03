@@ -25,3 +25,7 @@
 - pkg:composer/basoro/mlite@6.0.0
 - pkg:composer/basoro/mlite@6.2.0
 - pkg:composer/basoro/mlite@6.3.0
+- pkg:composer/basoro/mlite@6.3.10
+- pkg:composer/basoro/mlite@6.3.11
+- pkg:composer/basoro/mlite@6.3.9
+- pkg:composer/basoro/mlite@6.4.0
