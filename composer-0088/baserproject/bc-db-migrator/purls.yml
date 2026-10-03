@@ -6,3 +6,4 @@
 - pkg:composer/baserproject/bc-db-migrator@5.1.0
 - pkg:composer/baserproject/bc-db-migrator@5.1.1
 - pkg:composer/baserproject/bc-db-migrator@5.2.0
+- pkg:composer/baserproject/bc-db-migrator@5.2.1

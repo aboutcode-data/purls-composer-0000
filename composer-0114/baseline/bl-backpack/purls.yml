@@ -133,7 +133,11 @@
 - pkg:composer/baseline/bl-backpack@2.25
 - pkg:composer/baseline/bl-backpack@2.26
 - pkg:composer/baseline/bl-backpack@2.27
+- pkg:composer/baseline/bl-backpack@2.28
+- pkg:composer/baseline/bl-backpack@2.29
 - pkg:composer/baseline/bl-backpack@2.3
+- pkg:composer/baseline/bl-backpack@2.30
+- pkg:composer/baseline/bl-backpack@2.31
 - pkg:composer/baseline/bl-backpack@2.4
 - pkg:composer/baseline/bl-backpack@2.5
 - pkg:composer/baseline/bl-backpack@2.6
