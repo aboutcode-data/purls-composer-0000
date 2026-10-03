@@ -28,3 +28,4 @@
 - pkg:composer/arman/laravel-builder@v5.7.2
 - pkg:composer/arman/laravel-builder@v5.8.0
 - pkg:composer/arman/laravel-builder@v5.9.0
+- pkg:composer/arman/laravel-builder@v6.0.0
