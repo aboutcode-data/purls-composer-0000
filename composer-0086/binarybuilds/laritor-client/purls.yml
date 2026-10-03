@@ -52,3 +52,7 @@
 - pkg:composer/binarybuilds/laritor-client@v3.0.9
 - pkg:composer/binarybuilds/laritor-client@v4.0.0
 - pkg:composer/binarybuilds/laritor-client@v4.0.1
+- pkg:composer/binarybuilds/laritor-client@v4.0.2
+- pkg:composer/binarybuilds/laritor-client@v4.0.3
+- pkg:composer/binarybuilds/laritor-client@v4.1.0
+- pkg:composer/binarybuilds/laritor-client@v4.1.1
