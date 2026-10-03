@@ -83,3 +83,4 @@
 - pkg:composer/boltpay/bolt-magento2@2.8.0
 - pkg:composer/boltpay/bolt-magento2@2.8.1
 - pkg:composer/boltpay/bolt-magento2@2.9.0
+- pkg:composer/boltpay/bolt-magento2@3.0.0
