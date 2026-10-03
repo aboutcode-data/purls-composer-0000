@@ -18,3 +18,4 @@
 - pkg:composer/xver/micartera-frontend-symfony@1.0.8
 - pkg:composer/xver/micartera-frontend-symfony@1.0.9
 - pkg:composer/xver/micartera-frontend-symfony@2.0.0
+- pkg:composer/xver/micartera-frontend-symfony@2.0.1
