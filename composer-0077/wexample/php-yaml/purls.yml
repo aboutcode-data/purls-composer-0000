@@ -67,3 +67,4 @@
 - pkg:composer/wexample/php-yaml@1.0.8
 - pkg:composer/wexample/php-yaml@1.0.9
 - pkg:composer/wexample/php-yaml@2.0.0
+- pkg:composer/wexample/php-yaml@2.0.1
