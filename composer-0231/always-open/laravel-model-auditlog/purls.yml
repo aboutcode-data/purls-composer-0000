@@ -27,3 +27,5 @@
 - pkg:composer/always-open/laravel-model-auditlog@v9.2.0
 - pkg:composer/always-open/laravel-model-auditlog@v9.3.0
 - pkg:composer/always-open/laravel-model-auditlog@v9.3.1
+- pkg:composer/always-open/laravel-model-auditlog@v9.4.0
+- pkg:composer/always-open/laravel-model-auditlog@v9.5.0
