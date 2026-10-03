@@ -2,3 +2,8 @@
 - pkg:composer/bbs-lab/nova-password-rotation@v1.0.1
 - pkg:composer/bbs-lab/nova-password-rotation@v1.0.2
 - pkg:composer/bbs-lab/nova-password-rotation@v2.0.0
+- pkg:composer/bbs-lab/nova-password-rotation@v2.1.0
+- pkg:composer/bbs-lab/nova-password-rotation@v2.1.1
+- pkg:composer/bbs-lab/nova-password-rotation@v2.2.0
+- pkg:composer/bbs-lab/nova-password-rotation@v2.3.0
+- pkg:composer/bbs-lab/nova-password-rotation@v2.3.1
