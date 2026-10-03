@@ -136,3 +136,5 @@
 - pkg:composer/automattic/jetpack-status@v6.5.0
 - pkg:composer/automattic/jetpack-status@v7.0.0
 - pkg:composer/automattic/jetpack-status@v7.0.1
+- pkg:composer/automattic/jetpack-status@v7.0.2
+- pkg:composer/automattic/jetpack-status@v7.1.0
