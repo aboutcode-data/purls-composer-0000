@@ -1,2 +1,3 @@
 - pkg:composer/sympress/maker-bundle@1.0.0
 - pkg:composer/sympress/maker-bundle@1.0.1
+- pkg:composer/sympress/maker-bundle@v1.0.2
