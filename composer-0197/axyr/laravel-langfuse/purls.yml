@@ -1,3 +1,4 @@
 - pkg:composer/axyr/laravel-langfuse@v0.1.0
 - pkg:composer/axyr/laravel-langfuse@v0.2.0
 - pkg:composer/axyr/laravel-langfuse@v0.3.0
+- pkg:composer/axyr/laravel-langfuse@v0.4.0
