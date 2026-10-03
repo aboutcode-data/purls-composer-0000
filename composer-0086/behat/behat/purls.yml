@@ -98,6 +98,7 @@
 - pkg:composer/behat/behat@v3.31.0
 - pkg:composer/behat/behat@v3.32.0
 - pkg:composer/behat/behat@v3.33.0
+- pkg:composer/behat/behat@v3.34.0
 - pkg:composer/behat/behat@v3.4.0
 - pkg:composer/behat/behat@v3.4.1
 - pkg:composer/behat/behat@v3.4.2
@@ -109,4 +110,5 @@
 - pkg:composer/behat/behat@v3.8.1
 - pkg:composer/behat/behat@v3.9.0
 - pkg:composer/behat/behat@v3.9.1
+- pkg:composer/behat/behat@v4.0.0
 - pkg:composer/behat/behat@v4.0.0-alpha1
