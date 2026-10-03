@@ -21,3 +21,5 @@
 - pkg:composer/wexample/symfony-design-system-demo@6.0.8
 - pkg:composer/wexample/symfony-design-system-demo@7.0.0
 - pkg:composer/wexample/symfony-design-system-demo@7.0.1
+- pkg:composer/wexample/symfony-design-system-demo@7.0.2
+- pkg:composer/wexample/symfony-design-system-demo@7.0.3

@@ -35,3 +35,4 @@
 - pkg:composer/wexample/symfony-routing@1.0.7
 - pkg:composer/wexample/symfony-routing@1.0.8
 - pkg:composer/wexample/symfony-routing@1.0.9
+- pkg:composer/wexample/symfony-routing@2.0.0
