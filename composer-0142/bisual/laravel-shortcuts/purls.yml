@@ -63,3 +63,6 @@
 - pkg:composer/bisual/laravel-shortcuts@v1.3.2
 - pkg:composer/bisual/laravel-shortcuts@v1.4.0
 - pkg:composer/bisual/laravel-shortcuts@v1.5.0
+- pkg:composer/bisual/laravel-shortcuts@v1.5.1
+- pkg:composer/bisual/laravel-shortcuts@v1.5.2
+- pkg:composer/bisual/laravel-shortcuts@v1.5.3
