@@ -5,3 +5,4 @@
 - pkg:composer/balpom/universal-downloader@v1.2.1
 - pkg:composer/balpom/universal-downloader@v1.3.0
 - pkg:composer/balpom/universal-downloader@v1.4.1
+- pkg:composer/balpom/universal-downloader@v2.0.0
