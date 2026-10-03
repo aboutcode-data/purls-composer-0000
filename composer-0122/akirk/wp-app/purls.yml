@@ -30,3 +30,5 @@
 - pkg:composer/akirk/wp-app@v1.9.0
 - pkg:composer/akirk/wp-app@v1.9.1
 - pkg:composer/akirk/wp-app@v1.9.2
+- pkg:composer/akirk/wp-app@v2.0.0-alpha.1
+- pkg:composer/akirk/wp-app@v2.0.0-alpha.2
