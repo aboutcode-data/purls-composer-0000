@@ -25,3 +25,4 @@
 - pkg:composer/avto-dev/extended-laravel-validator@v5.1.0
 - pkg:composer/avto-dev/extended-laravel-validator@v6.0.0
 - pkg:composer/avto-dev/extended-laravel-validator@v6.0.1
+- pkg:composer/avto-dev/extended-laravel-validator@v6.1.0
