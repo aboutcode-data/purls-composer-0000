@@ -1,3 +1,4 @@
 - pkg:composer/alexmacarthur/laravel-loki-logging@0.0.1
 - pkg:composer/alexmacarthur/laravel-loki-logging@0.0.2
 - pkg:composer/alexmacarthur/laravel-loki-logging@v0.0.3
+- pkg:composer/alexmacarthur/laravel-loki-logging@v0.0.4
