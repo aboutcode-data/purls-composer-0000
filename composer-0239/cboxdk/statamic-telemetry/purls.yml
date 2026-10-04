@@ -12,3 +12,5 @@
 - pkg:composer/cboxdk/statamic-telemetry@v1.0.0
 - pkg:composer/cboxdk/statamic-telemetry@v1.1.0
 - pkg:composer/cboxdk/statamic-telemetry@v2.0.0
+- pkg:composer/cboxdk/statamic-telemetry@v2.0.1
+- pkg:composer/cboxdk/statamic-telemetry@v3.0.0
