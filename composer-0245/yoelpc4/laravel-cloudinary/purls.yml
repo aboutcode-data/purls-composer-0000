@@ -7,3 +7,4 @@
 - pkg:composer/yoelpc4/laravel-cloudinary@v4.0.0
 - pkg:composer/yoelpc4/laravel-cloudinary@v5.0.0
 - pkg:composer/yoelpc4/laravel-cloudinary@v6.0.0
+- pkg:composer/yoelpc4/laravel-cloudinary@v7.0.0
