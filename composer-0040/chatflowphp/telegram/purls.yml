@@ -6,3 +6,4 @@
 - pkg:composer/chatflowphp/telegram@2.0.0-rc1
 - pkg:composer/chatflowphp/telegram@2.0.1
 - pkg:composer/chatflowphp/telegram@2.1.0
+- pkg:composer/chatflowphp/telegram@2.2.0
