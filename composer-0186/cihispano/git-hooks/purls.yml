@@ -1,1 +1,4 @@
 - pkg:composer/cihispano/git-hooks@v0.1.0
+- pkg:composer/cihispano/git-hooks@v0.2.0
+- pkg:composer/cihispano/git-hooks@v0.3.0
+- pkg:composer/cihispano/git-hooks@v0.4.0
