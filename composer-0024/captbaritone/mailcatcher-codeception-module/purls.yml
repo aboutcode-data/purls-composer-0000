@@ -16,3 +16,5 @@
 - pkg:composer/captbaritone/mailcatcher-codeception-module@2.5.0
 - pkg:composer/captbaritone/mailcatcher-codeception-module@3.0.0
 - pkg:composer/captbaritone/mailcatcher-codeception-module@3.0.1
+- pkg:composer/captbaritone/mailcatcher-codeception-module@4.0.0
+- pkg:composer/captbaritone/mailcatcher-codeception-module@4.1.0
