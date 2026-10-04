@@ -1,1 +1,2 @@
 - pkg:composer/bootpress/sqlite@v1.0
+- pkg:composer/bootpress/sqlite@v1.1
