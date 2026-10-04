@@ -11,3 +11,4 @@
 - pkg:composer/clearvox/asterisk-dialplan@1.1.9
 - pkg:composer/clearvox/asterisk-dialplan@2.0.0
 - pkg:composer/clearvox/asterisk-dialplan@3.0.0
+- pkg:composer/clearvox/asterisk-dialplan@3.0.1
