@@ -1,2 +1,4 @@
 - pkg:composer/byerikas/eloquent-query-cache@1.0.0
 - pkg:composer/byerikas/eloquent-query-cache@1.0.1
+- pkg:composer/byerikas/eloquent-query-cache@v1.1.0
+- pkg:composer/byerikas/eloquent-query-cache@v1.2.0
