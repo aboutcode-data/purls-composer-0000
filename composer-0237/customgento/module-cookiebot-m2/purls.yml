@@ -23,3 +23,6 @@
 - pkg:composer/customgento/module-cookiebot-m2@v2.6.6
 - pkg:composer/customgento/module-cookiebot-m2@v2.6.7
 - pkg:composer/customgento/module-cookiebot-m2@v2.7.0
+- pkg:composer/customgento/module-cookiebot-m2@v2.7.1
+- pkg:composer/customgento/module-cookiebot-m2@v2.7.2
+- pkg:composer/customgento/module-cookiebot-m2@v2.7.3
