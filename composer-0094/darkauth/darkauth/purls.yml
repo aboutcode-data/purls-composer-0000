@@ -1,1 +1,3 @@
 - pkg:composer/darkauth/darkauth@1.0.0
+- pkg:composer/darkauth/darkauth@v2.0.0
+- pkg:composer/darkauth/darkauth@v3.0.0
