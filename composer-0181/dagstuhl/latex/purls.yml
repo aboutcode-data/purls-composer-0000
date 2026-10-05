@@ -24,6 +24,7 @@
 - pkg:composer/dagstuhl/latex@2.11.9
 - pkg:composer/dagstuhl/latex@2.12
 - pkg:composer/dagstuhl/latex@2.12.1
+- pkg:composer/dagstuhl/latex@2.12.2
 - pkg:composer/dagstuhl/latex@2.2
 - pkg:composer/dagstuhl/latex@2.3
 - pkg:composer/dagstuhl/latex@2.3.1
