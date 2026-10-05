@@ -5,3 +5,5 @@
 - pkg:composer/daikazu/eloquent-salesforce-objects@v1.0.2
 - pkg:composer/daikazu/eloquent-salesforce-objects@v1.0.3
 - pkg:composer/daikazu/eloquent-salesforce-objects@v1.1.0
+- pkg:composer/daikazu/eloquent-salesforce-objects@v2.0.0
+- pkg:composer/daikazu/eloquent-salesforce-objects@v2.0.1
