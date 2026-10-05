@@ -1173,3 +1173,5 @@
 - pkg:composer/cecil/cecil@9.6.1
 - pkg:composer/cecil/cecil@9.6.2
 - pkg:composer/cecil/cecil@9.6.3
+- pkg:composer/cecil/cecil@9.7.0
+- pkg:composer/cecil/cecil@9.7.1
