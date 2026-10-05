@@ -18,7 +18,14 @@
 - pkg:composer/deployteam/intercall-laravel@0.23.0
 - pkg:composer/deployteam/intercall-laravel@0.24.0
 - pkg:composer/deployteam/intercall-laravel@0.25.0
+- pkg:composer/deployteam/intercall-laravel@0.26.0
+- pkg:composer/deployteam/intercall-laravel@0.27.0
+- pkg:composer/deployteam/intercall-laravel@0.28.0
+- pkg:composer/deployteam/intercall-laravel@0.29.0
 - pkg:composer/deployteam/intercall-laravel@0.3.0
+- pkg:composer/deployteam/intercall-laravel@0.30.0
+- pkg:composer/deployteam/intercall-laravel@0.31.0
+- pkg:composer/deployteam/intercall-laravel@0.32.0
 - pkg:composer/deployteam/intercall-laravel@0.4.0
 - pkg:composer/deployteam/intercall-laravel@0.5.0
 - pkg:composer/deployteam/intercall-laravel@0.6.0
