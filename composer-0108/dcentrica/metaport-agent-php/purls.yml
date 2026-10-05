@@ -17,3 +17,4 @@
 - pkg:composer/dcentrica/metaport-agent-php@1.2.3
 - pkg:composer/dcentrica/metaport-agent-php@1.2.4
 - pkg:composer/dcentrica/metaport-agent-php@1.2.5
+- pkg:composer/dcentrica/metaport-agent-php@1.2.6
