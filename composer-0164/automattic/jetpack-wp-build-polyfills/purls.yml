@@ -36,3 +36,4 @@
 - pkg:composer/automattic/jetpack-wp-build-polyfills@v0.5.7
 - pkg:composer/automattic/jetpack-wp-build-polyfills@v0.5.8
 - pkg:composer/automattic/jetpack-wp-build-polyfills@v0.6.0
+- pkg:composer/automattic/jetpack-wp-build-polyfills@v0.6.1
