@@ -50,3 +50,4 @@
 - pkg:composer/aimeos/ai-filesystem@2025.10.2
 - pkg:composer/aimeos/ai-filesystem@2026.04.1
 - pkg:composer/aimeos/ai-filesystem@2026.04.2
+- pkg:composer/aimeos/ai-filesystem@2026.10.1
