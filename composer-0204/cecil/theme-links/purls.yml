@@ -37,3 +37,5 @@
 - pkg:composer/cecil/theme-links@2.7.0
 - pkg:composer/cecil/theme-links@2.8.0
 - pkg:composer/cecil/theme-links@3.0.0
+- pkg:composer/cecil/theme-links@3.1.0
+- pkg:composer/cecil/theme-links@3.1.1

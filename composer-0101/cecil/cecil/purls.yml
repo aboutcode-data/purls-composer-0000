@@ -1180,3 +1180,4 @@
 - pkg:composer/cecil/cecil@9.7.4
 - pkg:composer/cecil/cecil@9.8.0
 - pkg:composer/cecil/cecil@9.9.0
+- pkg:composer/cecil/cecil@9.9.1
