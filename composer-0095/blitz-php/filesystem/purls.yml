@@ -10,3 +10,4 @@
 - pkg:composer/blitz-php/filesystem@1.2.4
 - pkg:composer/blitz-php/filesystem@1.2.5
 - pkg:composer/blitz-php/filesystem@1.2.6
+- pkg:composer/blitz-php/filesystem@1.2.7
