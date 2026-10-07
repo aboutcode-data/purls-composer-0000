@@ -31,3 +31,5 @@
 - pkg:composer/escalated-dev/escalated-laravel@v1.8.2
 - pkg:composer/escalated-dev/escalated-laravel@v1.8.3
 - pkg:composer/escalated-dev/escalated-laravel@v1.8.4
+- pkg:composer/escalated-dev/escalated-laravel@v1.8.5
+- pkg:composer/escalated-dev/escalated-laravel@v1.8.6
