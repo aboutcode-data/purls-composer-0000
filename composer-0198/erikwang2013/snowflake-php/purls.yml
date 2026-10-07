@@ -8,3 +8,11 @@
 - pkg:composer/erikwang2013/snowflake-php@v2.0.3
 - pkg:composer/erikwang2013/snowflake-php@v2.0.4
 - pkg:composer/erikwang2013/snowflake-php@v2.0.5
+- pkg:composer/erikwang2013/snowflake-php@v2.1.0
+- pkg:composer/erikwang2013/snowflake-php@v2.1.1
+- pkg:composer/erikwang2013/snowflake-php@v2.1.2
+- pkg:composer/erikwang2013/snowflake-php@v2.1.3
+- pkg:composer/erikwang2013/snowflake-php@v2.2.0
+- pkg:composer/erikwang2013/snowflake-php@v2.3.0
+- pkg:composer/erikwang2013/snowflake-php@v2.4.0
+- pkg:composer/erikwang2013/snowflake-php@v2.5.0
