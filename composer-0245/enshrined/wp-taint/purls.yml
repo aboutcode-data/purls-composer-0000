@@ -1,4 +1,7 @@
 - pkg:composer/enshrined/wp-taint@0.2.0
 - pkg:composer/enshrined/wp-taint@0.3.0
 - pkg:composer/enshrined/wp-taint@0.3.1
+- pkg:composer/enshrined/wp-taint@0.4.0
+- pkg:composer/enshrined/wp-taint@0.5.0
+- pkg:composer/enshrined/wp-taint@0.5.1
 - pkg:composer/enshrined/wp-taint@v0.1.0
