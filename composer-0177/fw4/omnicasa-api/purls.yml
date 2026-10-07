@@ -16,3 +16,5 @@
 - pkg:composer/fw4/omnicasa-api@v1.2.2
 - pkg:composer/fw4/omnicasa-api@v1.2.3
 - pkg:composer/fw4/omnicasa-api@v1.2.4
+- pkg:composer/fw4/omnicasa-api@v1.3.0
+- pkg:composer/fw4/omnicasa-api@v1.3.1
