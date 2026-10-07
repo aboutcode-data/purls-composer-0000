@@ -5,4 +5,6 @@
 - pkg:composer/easysite/library@1.1.1
 - pkg:composer/easysite/library@1.2
 - pkg:composer/easysite/library@1.4
+- pkg:composer/easysite/library@1.6
+- pkg:composer/easysite/library@1.6.1
 - pkg:composer/easysite/library@v1.3
