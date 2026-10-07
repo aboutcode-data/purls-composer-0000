@@ -1,2 +1,3 @@
 - pkg:composer/external-packages/contao-splide-bundle@0.0.1
 - pkg:composer/external-packages/contao-splide-bundle@0.0.2
+- pkg:composer/external-packages/contao-splide-bundle@1.0.0
