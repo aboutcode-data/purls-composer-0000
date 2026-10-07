@@ -154,6 +154,7 @@
 - pkg:composer/dof-dss/nicsdru_origins_modules@10.7.6
 - pkg:composer/dof-dss/nicsdru_origins_modules@10.7.7
 - pkg:composer/dof-dss/nicsdru_origins_modules@11.0.0
+- pkg:composer/dof-dss/nicsdru_origins_modules@11.1.0
 - pkg:composer/dof-dss/nicsdru_origins_modules@2.0.0
 - pkg:composer/dof-dss/nicsdru_origins_modules@2.0.1
 - pkg:composer/dof-dss/nicsdru_origins_modules@2.0.2
