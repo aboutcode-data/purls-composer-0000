@@ -2,3 +2,4 @@
 - pkg:composer/dominionenterprises/util-http@v2.0.0
 - pkg:composer/dominionenterprises/util-http@v3.0.0
 - pkg:composer/dominionenterprises/util-http@v4.0.0
+- pkg:composer/dominionenterprises/util-http@v4.0.1
