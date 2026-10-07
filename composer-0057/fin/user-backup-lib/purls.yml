@@ -4,3 +4,5 @@
 - pkg:composer/fin/user-backup-lib@v2.2.0
 - pkg:composer/fin/user-backup-lib@v2.3.0
 - pkg:composer/fin/user-backup-lib@v2.4.0
+- pkg:composer/fin/user-backup-lib@v3.0.0
+- pkg:composer/fin/user-backup-lib@v3.1.0
