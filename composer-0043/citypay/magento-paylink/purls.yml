@@ -9,6 +9,7 @@
 - pkg:composer/citypay/magento-paylink@1.0.9
 - pkg:composer/citypay/magento-paylink@1.1.0
 - pkg:composer/citypay/magento-paylink@1.1.1
+- pkg:composer/citypay/magento-paylink@1.1.10
 - pkg:composer/citypay/magento-paylink@1.1.2
 - pkg:composer/citypay/magento-paylink@1.1.4
 - pkg:composer/citypay/magento-paylink@1.1.5
