@@ -86,6 +86,9 @@
 - pkg:composer/digital-marketing-framework/core@3.15.0
 - pkg:composer/digital-marketing-framework/core@3.16.0
 - pkg:composer/digital-marketing-framework/core@3.17.0
+- pkg:composer/digital-marketing-framework/core@3.17.1
+- pkg:composer/digital-marketing-framework/core@3.18.0
+- pkg:composer/digital-marketing-framework/core@3.18.1
 - pkg:composer/digital-marketing-framework/core@3.2.0
 - pkg:composer/digital-marketing-framework/core@3.3.0
 - pkg:composer/digital-marketing-framework/core@3.3.1
