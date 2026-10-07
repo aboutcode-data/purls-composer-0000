@@ -24,3 +24,4 @@
 - pkg:composer/dereuromark/cakephp-audit-stash@2.0.0
 - pkg:composer/dereuromark/cakephp-audit-stash@2.0.1
 - pkg:composer/dereuromark/cakephp-audit-stash@2.1.0
+- pkg:composer/dereuromark/cakephp-audit-stash@2.1.1
