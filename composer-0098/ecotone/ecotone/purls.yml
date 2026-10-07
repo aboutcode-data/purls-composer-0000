@@ -557,6 +557,9 @@
 - pkg:composer/ecotone/ecotone@1.325.0
 - pkg:composer/ecotone/ecotone@1.326.0
 - pkg:composer/ecotone/ecotone@1.326.1
+- pkg:composer/ecotone/ecotone@1.326.2
+- pkg:composer/ecotone/ecotone@1.327.0
+- pkg:composer/ecotone/ecotone@1.328.0
 - pkg:composer/ecotone/ecotone@1.34.2
 - pkg:composer/ecotone/ecotone@1.34.3
 - pkg:composer/ecotone/ecotone@1.35.0
