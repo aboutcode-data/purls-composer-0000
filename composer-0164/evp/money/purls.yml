@@ -2,6 +2,7 @@
 - pkg:composer/evp/money@2.0.0
 - pkg:composer/evp/money@2.1.0
 - pkg:composer/evp/money@2.10.0
+- pkg:composer/evp/money@2.11.0
 - pkg:composer/evp/money@2.2.0
 - pkg:composer/evp/money@2.3.0
 - pkg:composer/evp/money@2.3.1
