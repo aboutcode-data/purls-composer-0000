@@ -3,3 +3,5 @@
 - pkg:composer/freema/ga4-measurement-protocol-bundle@1.0
 - pkg:composer/freema/ga4-measurement-protocol-bundle@1.0.1
 - pkg:composer/freema/ga4-measurement-protocol-bundle@1.1
+- pkg:composer/freema/ga4-measurement-protocol-bundle@1.2.0
+- pkg:composer/freema/ga4-measurement-protocol-bundle@1.2.1
