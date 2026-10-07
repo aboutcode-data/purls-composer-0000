@@ -11,3 +11,4 @@
 - pkg:composer/drevops/behat-format-progress-fail@1.4.0
 - pkg:composer/drevops/behat-format-progress-fail@1.5.0
 - pkg:composer/drevops/behat-format-progress-fail@1.5.1
+- pkg:composer/drevops/behat-format-progress-fail@1.5.2
