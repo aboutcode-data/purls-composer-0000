@@ -27,3 +27,4 @@
 - pkg:composer/etsvthor/laravel-bifrost-bridge@1.4.0
 - pkg:composer/etsvthor/laravel-bifrost-bridge@1.5.0
 - pkg:composer/etsvthor/laravel-bifrost-bridge@2.0.0
+- pkg:composer/etsvthor/laravel-bifrost-bridge@2.0.1
