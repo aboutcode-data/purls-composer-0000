@@ -1,3 +1,8 @@
 - pkg:composer/forge-ops/tracker@v0.2.0
 - pkg:composer/forge-ops/tracker@v0.3.0
 - pkg:composer/forge-ops/tracker@v0.4.0
+- pkg:composer/forge-ops/tracker@v0.5.0
+- pkg:composer/forge-ops/tracker@v0.6.0
+- pkg:composer/forge-ops/tracker@v0.7.0
+- pkg:composer/forge-ops/tracker@v0.8.0
+- pkg:composer/forge-ops/tracker@v0.8.1
