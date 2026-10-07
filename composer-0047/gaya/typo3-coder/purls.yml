@@ -6,3 +6,5 @@
 - pkg:composer/gaya/typo3-coder@14.0.0
 - pkg:composer/gaya/typo3-coder@14.0.1
 - pkg:composer/gaya/typo3-coder@14.1.0
+- pkg:composer/gaya/typo3-coder@14.1.1
+- pkg:composer/gaya/typo3-coder@14.2.0
