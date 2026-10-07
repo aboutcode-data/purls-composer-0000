@@ -46,3 +46,6 @@
 - pkg:composer/dereuromark/cakephp-file-storage@4.5.0
 - pkg:composer/dereuromark/cakephp-file-storage@5.0.0
 - pkg:composer/dereuromark/cakephp-file-storage@5.0.1
+- pkg:composer/dereuromark/cakephp-file-storage@5.0.2
+- pkg:composer/dereuromark/cakephp-file-storage@5.1.0
+- pkg:composer/dereuromark/cakephp-file-storage@5.1.1
