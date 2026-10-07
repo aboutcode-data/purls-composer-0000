@@ -2,3 +2,9 @@
 - pkg:composer/flintpay/flint@v0.2.0-beta.2
 - pkg:composer/flintpay/flint@v0.3.0-beta.1
 - pkg:composer/flintpay/flint@v0.4.0-beta.1
+- pkg:composer/flintpay/flint@v2.0.0
+- pkg:composer/flintpay/flint@v3.0.0-beta.20261003024310
+- pkg:composer/flintpay/flint@v3.0.0-beta.20261006020957
+- pkg:composer/flintpay/flint@v3.0.0-beta.20261006210100
+- pkg:composer/flintpay/flint@v3.0.0-beta.20261006230000
+- pkg:composer/flintpay/flint@v3.0.0-beta.20261007031000
