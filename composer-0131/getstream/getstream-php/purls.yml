@@ -1,3 +1,4 @@
+- pkg:composer/getstream/getstream-php@12.1.1
 - pkg:composer/getstream/getstream-php@v0.0.1
 - pkg:composer/getstream/getstream-php@v0.0.2
 - pkg:composer/getstream/getstream-php@v0.0.3
