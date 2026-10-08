@@ -534,3 +534,4 @@
 - pkg:composer/durable-workflow/workflow@2.5.1
 - pkg:composer/durable-workflow/workflow@2.5.2
 - pkg:composer/durable-workflow/workflow@2.5.3
+- pkg:composer/durable-workflow/workflow@2.5.4
