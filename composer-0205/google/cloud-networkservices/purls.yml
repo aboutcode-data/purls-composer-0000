@@ -6,6 +6,7 @@
 - pkg:composer/google/cloud-networkservices@v0.12.1
 - pkg:composer/google/cloud-networkservices@v0.12.2
 - pkg:composer/google/cloud-networkservices@v0.13.0
+- pkg:composer/google/cloud-networkservices@v0.13.1
 - pkg:composer/google/cloud-networkservices@v0.2.0
 - pkg:composer/google/cloud-networkservices@v0.2.1
 - pkg:composer/google/cloud-networkservices@v0.2.2
