@@ -4,3 +4,5 @@
 - pkg:composer/fluffydiscord/honkers-sdk@v1.1.0
 - pkg:composer/fluffydiscord/honkers-sdk@v1.1.1
 - pkg:composer/fluffydiscord/honkers-sdk@v1.2.0
+- pkg:composer/fluffydiscord/honkers-sdk@v2.0.0
+- pkg:composer/fluffydiscord/honkers-sdk@v2.0.1
