@@ -8,3 +8,4 @@
 - pkg:composer/gfn/telegram-php-sdk@1.6.1
 - pkg:composer/gfn/telegram-php-sdk@1.6.2
 - pkg:composer/gfn/telegram-php-sdk@1.6.3
+- pkg:composer/gfn/telegram-php-sdk@1.6.4
