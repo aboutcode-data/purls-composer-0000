@@ -8,3 +8,6 @@
 - pkg:composer/goldnead/statamic-lead-magnets@v3.4.0
 - pkg:composer/goldnead/statamic-lead-magnets@v3.5.0
 - pkg:composer/goldnead/statamic-lead-magnets@v3.6.0
+- pkg:composer/goldnead/statamic-lead-magnets@v3.6.1
+- pkg:composer/goldnead/statamic-lead-magnets@v3.7.0
+- pkg:composer/goldnead/statamic-lead-magnets@v3.8.0
