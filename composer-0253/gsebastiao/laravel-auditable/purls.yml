@@ -6,3 +6,5 @@
 - pkg:composer/gsebastiao/laravel-auditable@v2.1.0
 - pkg:composer/gsebastiao/laravel-auditable@v2.1.1
 - pkg:composer/gsebastiao/laravel-auditable@v2.1.2
+- pkg:composer/gsebastiao/laravel-auditable@v2.2.0
+- pkg:composer/gsebastiao/laravel-auditable@v2.2.1
