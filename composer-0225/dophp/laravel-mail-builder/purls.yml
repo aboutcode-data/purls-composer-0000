@@ -1,3 +1,6 @@
 - pkg:composer/dophp/laravel-mail-builder@v1.0.0
 - pkg:composer/dophp/laravel-mail-builder@v1.0.1
 - pkg:composer/dophp/laravel-mail-builder@v2.0.0
+- pkg:composer/dophp/laravel-mail-builder@v2.1.0
+- pkg:composer/dophp/laravel-mail-builder@v2.2.0
+- pkg:composer/dophp/laravel-mail-builder@v2.2.1
