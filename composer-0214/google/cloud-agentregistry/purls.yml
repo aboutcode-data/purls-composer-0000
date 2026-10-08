@@ -1,1 +1,2 @@
 - pkg:composer/google/cloud-agentregistry@v0.1.0
+- pkg:composer/google/cloud-agentregistry@v0.2.0

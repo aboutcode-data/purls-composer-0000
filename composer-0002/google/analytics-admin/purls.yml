@@ -44,6 +44,7 @@
 - pkg:composer/google/analytics-admin@v0.34.0
 - pkg:composer/google/analytics-admin@v0.34.1
 - pkg:composer/google/analytics-admin@v0.34.2
+- pkg:composer/google/analytics-admin@v0.34.3
 - pkg:composer/google/analytics-admin@v0.4.0
 - pkg:composer/google/analytics-admin@v0.4.1
 - pkg:composer/google/analytics-admin@v0.4.2
