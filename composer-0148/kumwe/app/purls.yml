@@ -21,3 +21,8 @@
 - pkg:composer/kumwe/app@v2.0.0-alpha.7
 - pkg:composer/kumwe/app@v2.0.0-alpha.8
 - pkg:composer/kumwe/app@v2.0.0-alpha.9
+- pkg:composer/kumwe/app@v2.0.0-beta.1
+- pkg:composer/kumwe/app@v2.0.0-beta.2
+- pkg:composer/kumwe/app@v2.0.0-beta.3
+- pkg:composer/kumwe/app@v2.0.0-beta.4
+- pkg:composer/kumwe/app@v2.0.0-beta.5
