@@ -42,6 +42,8 @@
 - pkg:composer/jweiland/maps2@13.0.1
 - pkg:composer/jweiland/maps2@13.0.2
 - pkg:composer/jweiland/maps2@13.1.0
+- pkg:composer/jweiland/maps2@13.1.1
+- pkg:composer/jweiland/maps2@13.2.0
 - pkg:composer/jweiland/maps2@2.0.0
 - pkg:composer/jweiland/maps2@2.1.0
 - pkg:composer/jweiland/maps2@2.1.1
