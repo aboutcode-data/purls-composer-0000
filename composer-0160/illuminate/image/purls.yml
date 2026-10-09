@@ -13,3 +13,5 @@
 - pkg:composer/illuminate/image@v13.31.0
 - pkg:composer/illuminate/image@v13.32.0
 - pkg:composer/illuminate/image@v13.33.0
+- pkg:composer/illuminate/image@v13.34.0
+- pkg:composer/illuminate/image@v13.35.0

@@ -59,6 +59,7 @@
 - pkg:composer/illuminated/helper-functions@10.0.0
 - pkg:composer/illuminated/helper-functions@11.0.0
 - pkg:composer/illuminated/helper-functions@12.0.0
+- pkg:composer/illuminated/helper-functions@13.0.0
 - pkg:composer/illuminated/helper-functions@5.1.0
 - pkg:composer/illuminated/helper-functions@5.1.1
 - pkg:composer/illuminated/helper-functions@5.1.2
