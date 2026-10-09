@@ -3,6 +3,8 @@
 - pkg:composer/livijn/laravel-backup-downloader@0.11
 - pkg:composer/livijn/laravel-backup-downloader@0.12
 - pkg:composer/livijn/laravel-backup-downloader@0.13
+- pkg:composer/livijn/laravel-backup-downloader@0.14
+- pkg:composer/livijn/laravel-backup-downloader@0.14.1
 - pkg:composer/livijn/laravel-backup-downloader@0.2
 - pkg:composer/livijn/laravel-backup-downloader@0.3
 - pkg:composer/livijn/laravel-backup-downloader@0.4
