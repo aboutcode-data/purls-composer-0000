@@ -30,6 +30,7 @@
 - pkg:composer/hydrakit/php-di@v0.30.0
 - pkg:composer/hydrakit/php-di@v0.31.0
 - pkg:composer/hydrakit/php-di@v0.31.1
+- pkg:composer/hydrakit/php-di@v0.31.2
 - pkg:composer/hydrakit/php-di@v0.4.0
 - pkg:composer/hydrakit/php-di@v0.4.1
 - pkg:composer/hydrakit/php-di@v0.5.0
