@@ -24,6 +24,9 @@
 - pkg:composer/juniwalk/datatable@v0.15.1
 - pkg:composer/juniwalk/datatable@v0.15.2
 - pkg:composer/juniwalk/datatable@v0.15.3
+- pkg:composer/juniwalk/datatable@v0.15.4
+- pkg:composer/juniwalk/datatable@v0.16.0
+- pkg:composer/juniwalk/datatable@v0.16.1
 - pkg:composer/juniwalk/datatable@v0.2.0
 - pkg:composer/juniwalk/datatable@v0.3.0
 - pkg:composer/juniwalk/datatable@v0.3.1
