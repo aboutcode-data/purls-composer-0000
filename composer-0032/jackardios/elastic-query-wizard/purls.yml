@@ -10,3 +10,4 @@
 - pkg:composer/jackardios/elastic-query-wizard@v2.1.0
 - pkg:composer/jackardios/elastic-query-wizard@v2.1.1
 - pkg:composer/jackardios/elastic-query-wizard@v2.2.0
+- pkg:composer/jackardios/elastic-query-wizard@v3.0.0-rc.1
