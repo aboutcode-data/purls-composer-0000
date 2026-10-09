@@ -25,6 +25,7 @@
 - pkg:composer/liquiddesign/storm@2.0.6
 - pkg:composer/liquiddesign/storm@2.0.8
 - pkg:composer/liquiddesign/storm@2.0.9
+- pkg:composer/liquiddesign/storm@2.1.0
 - pkg:composer/liquiddesign/storm@v1.0.0
 - pkg:composer/liquiddesign/storm@v1.0.1
 - pkg:composer/liquiddesign/storm@v1.0.10
