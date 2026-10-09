@@ -118,3 +118,6 @@
 - pkg:composer/innobrain/laravel-onoffice-adapter@v2.3.0
 - pkg:composer/innobrain/laravel-onoffice-adapter@v2.4.0
 - pkg:composer/innobrain/laravel-onoffice-adapter@v2.5.0
+- pkg:composer/innobrain/laravel-onoffice-adapter@v2.6.0
+- pkg:composer/innobrain/laravel-onoffice-adapter@v2.7.0
+- pkg:composer/innobrain/laravel-onoffice-adapter@v2.7.1
