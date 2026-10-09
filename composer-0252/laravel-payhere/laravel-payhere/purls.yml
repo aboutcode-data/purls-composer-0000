@@ -32,6 +32,7 @@
 - pkg:composer/laravel-payhere/laravel-payhere@v3.0.11
 - pkg:composer/laravel-payhere/laravel-payhere@v3.0.12
 - pkg:composer/laravel-payhere/laravel-payhere@v3.0.13
+- pkg:composer/laravel-payhere/laravel-payhere@v3.0.14
 - pkg:composer/laravel-payhere/laravel-payhere@v3.0.2
 - pkg:composer/laravel-payhere/laravel-payhere@v3.0.3
 - pkg:composer/laravel-payhere/laravel-payhere@v3.0.4
