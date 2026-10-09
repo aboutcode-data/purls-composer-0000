@@ -16,9 +16,13 @@
 - pkg:composer/ernestdefoe/millwright@v1.16.1
 - pkg:composer/ernestdefoe/millwright@v1.16.2
 - pkg:composer/ernestdefoe/millwright@v1.17.0
+- pkg:composer/ernestdefoe/millwright@v1.18.0
+- pkg:composer/ernestdefoe/millwright@v1.19.0
 - pkg:composer/ernestdefoe/millwright@v1.2.0
 - pkg:composer/ernestdefoe/millwright@v1.2.1
 - pkg:composer/ernestdefoe/millwright@v1.2.2
+- pkg:composer/ernestdefoe/millwright@v1.20.0
+- pkg:composer/ernestdefoe/millwright@v1.20.1
 - pkg:composer/ernestdefoe/millwright@v1.3.0
 - pkg:composer/ernestdefoe/millwright@v1.3.1
 - pkg:composer/ernestdefoe/millwright@v1.4.0
