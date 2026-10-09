@@ -240,3 +240,4 @@
 - pkg:composer/elgg/elgg@7.0.4
 - pkg:composer/elgg/elgg@7.0.5
 - pkg:composer/elgg/elgg@7.1.0
+- pkg:composer/elgg/elgg@7.1.1
