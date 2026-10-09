@@ -13,3 +13,4 @@
 - pkg:composer/horde/yaml@v3.0.0alpha5
 - pkg:composer/horde/yaml@v3.0.0beta1
 - pkg:composer/horde/yaml@v3.0.1
+- pkg:composer/horde/yaml@v3.0.2
