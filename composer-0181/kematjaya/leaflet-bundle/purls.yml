@@ -12,3 +12,5 @@
 - pkg:composer/kematjaya/leaflet-bundle@1.0.2
 - pkg:composer/kematjaya/leaflet-bundle@1.0.3
 - pkg:composer/kematjaya/leaflet-bundle@1.0.4
+- pkg:composer/kematjaya/leaflet-bundle@6.4
+- pkg:composer/kematjaya/leaflet-bundle@6.5

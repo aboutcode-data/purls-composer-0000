@@ -1,3 +1,6 @@
 - pkg:composer/kematjaya/security-annotation-bundle@1.0
 - pkg:composer/kematjaya/security-annotation-bundle@1.1
+- pkg:composer/kematjaya/security-annotation-bundle@6.4
+- pkg:composer/kematjaya/security-annotation-bundle@6.4.1
+- pkg:composer/kematjaya/security-annotation-bundle@6.5
 - pkg:composer/kematjaya/security-annotation-bundle@7.0
