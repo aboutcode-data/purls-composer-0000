@@ -196,3 +196,8 @@
 - pkg:composer/internetguru/laravel-user@v8.8.1
 - pkg:composer/internetguru/laravel-user@v8.8.2
 - pkg:composer/internetguru/laravel-user@v9.0.0
+- pkg:composer/internetguru/laravel-user@v9.1.0
+- pkg:composer/internetguru/laravel-user@v9.2.0
+- pkg:composer/internetguru/laravel-user@v9.3.0
+- pkg:composer/internetguru/laravel-user@v9.4.0
+- pkg:composer/internetguru/laravel-user@v9.4.1
