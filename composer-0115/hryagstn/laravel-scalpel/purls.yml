@@ -1,5 +1,7 @@
 - pkg:composer/hryagstn/laravel-scalpel@1.0.0
 - pkg:composer/hryagstn/laravel-scalpel@v1.1.0
+- pkg:composer/hryagstn/laravel-scalpel@v1.10.0
+- pkg:composer/hryagstn/laravel-scalpel@v1.11.0
 - pkg:composer/hryagstn/laravel-scalpel@v1.2.0
 - pkg:composer/hryagstn/laravel-scalpel@v1.3.0
 - pkg:composer/hryagstn/laravel-scalpel@v1.3.1
@@ -17,3 +19,4 @@
 - pkg:composer/hryagstn/laravel-scalpel@v1.8.1
 - pkg:composer/hryagstn/laravel-scalpel@v1.8.2
 - pkg:composer/hryagstn/laravel-scalpel@v1.9.0
+- pkg:composer/hryagstn/laravel-scalpel@v1.9.1
