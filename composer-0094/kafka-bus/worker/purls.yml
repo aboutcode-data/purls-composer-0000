@@ -1,0 +1,2 @@
+- pkg:composer/kafka-bus/worker@v2.0.1
+- pkg:composer/kafka-bus/worker@v2.1.0
