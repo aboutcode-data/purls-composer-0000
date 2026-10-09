@@ -24,6 +24,7 @@
 - pkg:composer/hydrakit/mail@v0.30.0
 - pkg:composer/hydrakit/mail@v0.31.0
 - pkg:composer/hydrakit/mail@v0.31.1
+- pkg:composer/hydrakit/mail@v0.31.2
 - pkg:composer/hydrakit/mail@v0.5.7
 - pkg:composer/hydrakit/mail@v0.5.8
 - pkg:composer/hydrakit/mail@v0.6.0
