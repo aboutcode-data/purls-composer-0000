@@ -23,3 +23,4 @@
 - pkg:composer/infocyph/otp@5.04
 - pkg:composer/infocyph/otp@6.0
 - pkg:composer/infocyph/otp@6.1
+- pkg:composer/infocyph/otp@7.0
