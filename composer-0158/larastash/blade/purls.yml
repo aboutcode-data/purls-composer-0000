@@ -27,3 +27,7 @@
 - pkg:composer/larastash/blade@13.2.1
 - pkg:composer/larastash/blade@13.2.2
 - pkg:composer/larastash/blade@13.2.6
+- pkg:composer/larastash/blade@13.2.8
+- pkg:composer/larastash/blade@13.3.0
+- pkg:composer/larastash/blade@13.3.2
+- pkg:composer/larastash/blade@13.3.3
