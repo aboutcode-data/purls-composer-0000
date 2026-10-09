@@ -101,4 +101,5 @@
 - pkg:composer/linecorp/line-bot-sdk@v12.5.0
 - pkg:composer/linecorp/line-bot-sdk@v12.6.0
 - pkg:composer/linecorp/line-bot-sdk@v12.7.0
+- pkg:composer/linecorp/line-bot-sdk@v12.8.0
 - pkg:composer/linecorp/line-bot-sdk@v9.4.2
