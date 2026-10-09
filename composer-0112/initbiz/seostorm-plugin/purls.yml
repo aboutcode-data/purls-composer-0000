@@ -48,3 +48,5 @@
 - pkg:composer/initbiz/seostorm-plugin@5.4.2
 - pkg:composer/initbiz/seostorm-plugin@5.4.3
 - pkg:composer/initbiz/seostorm-plugin@5.4.4
+- pkg:composer/initbiz/seostorm-plugin@5.5.0
+- pkg:composer/initbiz/seostorm-plugin@5.5.1
