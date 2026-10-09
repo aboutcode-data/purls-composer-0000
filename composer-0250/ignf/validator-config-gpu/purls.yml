@@ -1,3 +1,4 @@
+- pkg:composer/ignf/validator-config-gpu@v0.7.21
 - pkg:composer/ignf/validator-config-gpu@v2.1.28
 - pkg:composer/ignf/validator-config-gpu@v2.1.29
 - pkg:composer/ignf/validator-config-gpu@v2.1.30
@@ -214,6 +215,7 @@
 - pkg:composer/ignf/validator-config-gpu@v7.0.19
 - pkg:composer/ignf/validator-config-gpu@v7.0.2
 - pkg:composer/ignf/validator-config-gpu@v7.0.20
+- pkg:composer/ignf/validator-config-gpu@v7.0.21
 - pkg:composer/ignf/validator-config-gpu@v7.0.3
 - pkg:composer/ignf/validator-config-gpu@v7.0.4
 - pkg:composer/ignf/validator-config-gpu@v7.0.5
@@ -222,3 +224,4 @@
 - pkg:composer/ignf/validator-config-gpu@v7.0.8
 - pkg:composer/ignf/validator-config-gpu@v7.0.9
 - pkg:composer/ignf/validator-config-gpu@v8.0.0
+- pkg:composer/ignf/validator-config-gpu@v8.0.1
