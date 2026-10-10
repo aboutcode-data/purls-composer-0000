@@ -7,6 +7,7 @@
 - pkg:composer/kode/messaging@3.0.0
 - pkg:composer/kode/messaging@3.0.1
 - pkg:composer/kode/messaging@3.0.2
+- pkg:composer/kode/messaging@4.0.0
 - pkg:composer/kode/messaging@v3.0.3
 - pkg:composer/kode/messaging@v3.1.0
 - pkg:composer/kode/messaging@v3.2.0

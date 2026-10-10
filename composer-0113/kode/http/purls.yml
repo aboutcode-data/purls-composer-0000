@@ -34,3 +34,4 @@
 - pkg:composer/kode/http@3.5.1
 - pkg:composer/kode/http@3.5.2
 - pkg:composer/kode/http@3.5.3
+- pkg:composer/kode/http@4.0.0
