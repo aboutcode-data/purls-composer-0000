@@ -276,3 +276,5 @@
 - pkg:composer/internetguru/laravel-common@v8.4.2
 - pkg:composer/internetguru/laravel-common@v8.4.3
 - pkg:composer/internetguru/laravel-common@v8.4.4
+- pkg:composer/internetguru/laravel-common@v8.5.0
+- pkg:composer/internetguru/laravel-common@v8.6.0
