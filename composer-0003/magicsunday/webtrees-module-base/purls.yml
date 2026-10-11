@@ -21,3 +21,5 @@
 - pkg:composer/magicsunday/webtrees-module-base@2.6.1
 - pkg:composer/magicsunday/webtrees-module-base@3.0.0
 - pkg:composer/magicsunday/webtrees-module-base@3.0.1
+- pkg:composer/magicsunday/webtrees-module-base@3.1.0
+- pkg:composer/magicsunday/webtrees-module-base@3.2.0
