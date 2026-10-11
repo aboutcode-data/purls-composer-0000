@@ -5,6 +5,9 @@
 - pkg:composer/klaasie/scout-solr-engine@0.5.0
 - pkg:composer/klaasie/scout-solr-engine@0.5.1
 - pkg:composer/klaasie/scout-solr-engine@0.6.0
+- pkg:composer/klaasie/scout-solr-engine@3.0.1
+- pkg:composer/klaasie/scout-solr-engine@4.0.0
+- pkg:composer/klaasie/scout-solr-engine@4.1.0
 - pkg:composer/klaasie/scout-solr-engine@V1.1.0
 - pkg:composer/klaasie/scout-solr-engine@V2.0.0
 - pkg:composer/klaasie/scout-solr-engine@V3.0.0
