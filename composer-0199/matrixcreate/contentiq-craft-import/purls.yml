@@ -41,6 +41,10 @@
 - pkg:composer/matrixcreate/contentiq-craft-import@1.33.1
 - pkg:composer/matrixcreate/contentiq-craft-import@1.34.0
 - pkg:composer/matrixcreate/contentiq-craft-import@1.35.0
+- pkg:composer/matrixcreate/contentiq-craft-import@1.35.1
+- pkg:composer/matrixcreate/contentiq-craft-import@1.36.0
+- pkg:composer/matrixcreate/contentiq-craft-import@1.36.1
+- pkg:composer/matrixcreate/contentiq-craft-import@1.37.0
 - pkg:composer/matrixcreate/contentiq-craft-import@1.4.0
 - pkg:composer/matrixcreate/contentiq-craft-import@1.5.0
 - pkg:composer/matrixcreate/contentiq-craft-import@1.6.0
