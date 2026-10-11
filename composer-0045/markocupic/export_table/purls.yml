@@ -57,3 +57,4 @@
 - pkg:composer/markocupic/export_table@5.7.5
 - pkg:composer/markocupic/export_table@5.7.6
 - pkg:composer/markocupic/export_table@5.7.7
+- pkg:composer/markocupic/export_table@5.8.0
