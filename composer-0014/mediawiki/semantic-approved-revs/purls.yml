@@ -1,3 +1,5 @@
 - pkg:composer/mediawiki/semantic-approved-revs@0.9.0
 - pkg:composer/mediawiki/semantic-approved-revs@0.9.1
 - pkg:composer/mediawiki/semantic-approved-revs@0.9.2
+- pkg:composer/mediawiki/semantic-approved-revs@1.0.0
+- pkg:composer/mediawiki/semantic-approved-revs@1.0.1
