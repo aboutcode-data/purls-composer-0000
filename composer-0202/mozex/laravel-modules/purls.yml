@@ -10,6 +10,8 @@
 - pkg:composer/mozex/laravel-modules@2.11.0
 - pkg:composer/mozex/laravel-modules@2.12.0
 - pkg:composer/mozex/laravel-modules@2.13.0
+- pkg:composer/mozex/laravel-modules@2.13.1
+- pkg:composer/mozex/laravel-modules@2.14.0
 - pkg:composer/mozex/laravel-modules@2.2.0
 - pkg:composer/mozex/laravel-modules@2.2.1
 - pkg:composer/mozex/laravel-modules@2.2.2
@@ -44,3 +46,5 @@
 - pkg:composer/mozex/laravel-modules@3.2.0
 - pkg:composer/mozex/laravel-modules@3.3.0
 - pkg:composer/mozex/laravel-modules@3.4.0
+- pkg:composer/mozex/laravel-modules@3.4.1
+- pkg:composer/mozex/laravel-modules@3.5.0
