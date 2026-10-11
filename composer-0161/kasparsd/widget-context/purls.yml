@@ -11,3 +11,5 @@
 - pkg:composer/kasparsd/widget-context@1.4.1
 - pkg:composer/kasparsd/widget-context@1.4.2
 - pkg:composer/kasparsd/widget-context@1.5.0
+- pkg:composer/kasparsd/widget-context@1.5.1-rc.1
+- pkg:composer/kasparsd/widget-context@1.5.1-rc.2
