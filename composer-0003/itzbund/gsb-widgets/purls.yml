@@ -753,7 +753,9 @@
 - pkg:composer/itzbund/gsb-widgets@v2.4.10-rc.9
 - pkg:composer/itzbund/gsb-widgets@v2.4.11-beta.1
 - pkg:composer/itzbund/gsb-widgets@v2.4.11-beta.2
+- pkg:composer/itzbund/gsb-widgets@v2.4.11-beta.3
 - pkg:composer/itzbund/gsb-widgets@v2.4.11-rc.1
+- pkg:composer/itzbund/gsb-widgets@v2.4.11-rc.2
 - pkg:composer/itzbund/gsb-widgets@v2.4.2
 - pkg:composer/itzbund/gsb-widgets@v2.4.2-rc.1
 - pkg:composer/itzbund/gsb-widgets@v2.4.2-rc.10
