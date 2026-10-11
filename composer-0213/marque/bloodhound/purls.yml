@@ -6,3 +6,6 @@
 - pkg:composer/marque/bloodhound@v5.0.0
 - pkg:composer/marque/bloodhound@v5.1.0
 - pkg:composer/marque/bloodhound@v6.0.0
+- pkg:composer/marque/bloodhound@v6.1.0
+- pkg:composer/marque/bloodhound@v6.1.1
+- pkg:composer/marque/bloodhound@v7.0.0
