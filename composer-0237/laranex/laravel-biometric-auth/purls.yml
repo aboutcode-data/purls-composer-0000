@@ -3,3 +3,4 @@
 - pkg:composer/laranex/laravel-biometric-auth@v3.0.0
 - pkg:composer/laranex/laravel-biometric-auth@v4.0.0-alpha.1
 - pkg:composer/laranex/laravel-biometric-auth@v4.0.0-alpha.2
+- pkg:composer/laranex/laravel-biometric-auth@v4.0.0-alpha.6
