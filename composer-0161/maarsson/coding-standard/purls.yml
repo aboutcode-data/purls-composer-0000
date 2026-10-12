@@ -15,3 +15,5 @@
 - pkg:composer/maarsson/coding-standard@2.3.1
 - pkg:composer/maarsson/coding-standard@2.3.2
 - pkg:composer/maarsson/coding-standard@3.0.0
+- pkg:composer/maarsson/coding-standard@3.1.0
+- pkg:composer/maarsson/coding-standard@3.1.1
