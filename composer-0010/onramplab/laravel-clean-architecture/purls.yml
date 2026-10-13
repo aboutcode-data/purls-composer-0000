@@ -17,6 +17,7 @@
 - pkg:composer/onramplab/laravel-clean-architecture@v11.0.2
 - pkg:composer/onramplab/laravel-clean-architecture@v11.0.3
 - pkg:composer/onramplab/laravel-clean-architecture@v11.1.0
+- pkg:composer/onramplab/laravel-clean-architecture@v13.0.0
 - pkg:composer/onramplab/laravel-clean-architecture@v8.0.0
 - pkg:composer/onramplab/laravel-clean-architecture@v8.0.1
 - pkg:composer/onramplab/laravel-clean-architecture@v8.1.0
