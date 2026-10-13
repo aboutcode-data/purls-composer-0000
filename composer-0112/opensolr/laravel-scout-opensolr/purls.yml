@@ -17,3 +17,5 @@
 - pkg:composer/opensolr/laravel-scout-opensolr@v0.6.0
 - pkg:composer/opensolr/laravel-scout-opensolr@v0.6.2
 - pkg:composer/opensolr/laravel-scout-opensolr@v0.6.3
+- pkg:composer/opensolr/laravel-scout-opensolr@v0.7.0
+- pkg:composer/opensolr/laravel-scout-opensolr@v0.7.1
