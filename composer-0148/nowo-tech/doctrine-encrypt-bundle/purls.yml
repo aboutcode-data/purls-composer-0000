@@ -37,3 +37,7 @@
 - pkg:composer/nowo-tech/doctrine-encrypt-bundle@v2.5.0
 - pkg:composer/nowo-tech/doctrine-encrypt-bundle@v2.5.1
 - pkg:composer/nowo-tech/doctrine-encrypt-bundle@v2.6.0
+- pkg:composer/nowo-tech/doctrine-encrypt-bundle@v2.7.0
+- pkg:composer/nowo-tech/doctrine-encrypt-bundle@v2.7.1
+- pkg:composer/nowo-tech/doctrine-encrypt-bundle@v2.7.2
+- pkg:composer/nowo-tech/doctrine-encrypt-bundle@v2.8.0
