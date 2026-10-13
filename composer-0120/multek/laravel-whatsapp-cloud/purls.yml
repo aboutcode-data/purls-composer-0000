@@ -4,6 +4,11 @@
 - pkg:composer/multek/laravel-whatsapp-cloud@v1.0.3
 - pkg:composer/multek/laravel-whatsapp-cloud@v1.1.0
 - pkg:composer/multek/laravel-whatsapp-cloud@v1.1.1
+- pkg:composer/multek/laravel-whatsapp-cloud@v1.10.0
+- pkg:composer/multek/laravel-whatsapp-cloud@v1.11.0
+- pkg:composer/multek/laravel-whatsapp-cloud@v1.12.0
+- pkg:composer/multek/laravel-whatsapp-cloud@v1.13.0
+- pkg:composer/multek/laravel-whatsapp-cloud@v1.14.0
 - pkg:composer/multek/laravel-whatsapp-cloud@v1.2.0
 - pkg:composer/multek/laravel-whatsapp-cloud@v1.3.0
 - pkg:composer/multek/laravel-whatsapp-cloud@v1.4.0
