@@ -19,3 +19,4 @@
 - pkg:composer/oliverde8/php-etl-bundle@v1.1.0-alpha8
 - pkg:composer/oliverde8/php-etl-bundle@v2.0.0
 - pkg:composer/oliverde8/php-etl-bundle@v2.0.0-alpha1
+- pkg:composer/oliverde8/php-etl-bundle@v2.1.0
