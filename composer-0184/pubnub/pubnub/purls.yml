@@ -1,3 +1,4 @@
+- pkg:composer/pubnub/pubnub@10.0.0
 - pkg:composer/pubnub/pubnub@3.5
 - pkg:composer/pubnub/pubnub@3.8.0
 - pkg:composer/pubnub/pubnub@3.8.1
