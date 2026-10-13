@@ -1,5 +1,6 @@
 - pkg:composer/packstub/agents@v1.0.0
 - pkg:composer/packstub/agents@v1.1.0
+- pkg:composer/packstub/agents@v1.10.0
 - pkg:composer/packstub/agents@v1.2.0
 - pkg:composer/packstub/agents@v1.2.1
 - pkg:composer/packstub/agents@v1.3.0
