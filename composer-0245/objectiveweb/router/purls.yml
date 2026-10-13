@@ -16,3 +16,4 @@
 - pkg:composer/objectiveweb/router@v2.0.7
 - pkg:composer/objectiveweb/router@v2.0.8
 - pkg:composer/objectiveweb/router@v2.0.9
+- pkg:composer/objectiveweb/router@v3.0.0
