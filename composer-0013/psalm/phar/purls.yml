@@ -188,7 +188,9 @@
 - pkg:composer/psalm/phar@6.18.1
 - pkg:composer/psalm/phar@6.19.0
 - pkg:composer/psalm/phar@6.19.1
+- pkg:composer/psalm/phar@6.19.2
 - pkg:composer/psalm/phar@6.2.0
+- pkg:composer/psalm/phar@6.20.0
 - pkg:composer/psalm/phar@6.3.0
 - pkg:composer/psalm/phar@6.4.0
 - pkg:composer/psalm/phar@6.4.1
@@ -229,6 +231,7 @@
 - pkg:composer/psalm/phar@7.0.0-beta20
 - pkg:composer/psalm/phar@7.0.0-beta21
 - pkg:composer/psalm/phar@7.0.0-beta22
+- pkg:composer/psalm/phar@7.0.0-beta24
 - pkg:composer/psalm/phar@7.0.0-beta3
 - pkg:composer/psalm/phar@7.0.0-beta4
 - pkg:composer/psalm/phar@7.0.0-beta5
@@ -236,6 +239,8 @@
 - pkg:composer/psalm/phar@7.0.0-beta7
 - pkg:composer/psalm/phar@7.0.0-beta8
 - pkg:composer/psalm/phar@7.0.0-beta9
+- pkg:composer/psalm/phar@7.0.0-rc1
+- pkg:composer/psalm/phar@7.0.0-rc2
 - pkg:composer/psalm/phar@v4.14.0
 - pkg:composer/psalm/phar@v4.15.0
 - pkg:composer/psalm/phar@v4.25.0
