@@ -1,3 +1,5 @@
 - pkg:composer/pawpayments/sdk@v2.0.0
 - pkg:composer/pawpayments/sdk@v2.0.0-p1
 - pkg:composer/pawpayments/sdk@v2.0.1
+- pkg:composer/pawpayments/sdk@v2.1.0
+- pkg:composer/pawpayments/sdk@v2.1.1
