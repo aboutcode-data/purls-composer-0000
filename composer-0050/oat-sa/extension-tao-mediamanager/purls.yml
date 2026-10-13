@@ -192,6 +192,9 @@
 - pkg:composer/oat-sa/extension-tao-mediamanager@v14.2.0
 - pkg:composer/oat-sa/extension-tao-mediamanager@v14.2.1
 - pkg:composer/oat-sa/extension-tao-mediamanager@v14.2.2
+- pkg:composer/oat-sa/extension-tao-mediamanager@v14.2.3
+- pkg:composer/oat-sa/extension-tao-mediamanager@v14.2.4
+- pkg:composer/oat-sa/extension-tao-mediamanager@v14.2.5
 - pkg:composer/oat-sa/extension-tao-mediamanager@v2.0.0
 - pkg:composer/oat-sa/extension-tao-mediamanager@v2.0.1
 - pkg:composer/oat-sa/extension-tao-mediamanager@v2.1.0
