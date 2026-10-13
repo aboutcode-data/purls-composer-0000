@@ -10,6 +10,7 @@
 - pkg:composer/nyrodev/nyrocms-bundle@v4.2
 - pkg:composer/nyrodev/nyrocms-bundle@v4.3
 - pkg:composer/nyrodev/nyrocms-bundle@v4.4
+- pkg:composer/nyrodev/nyrocms-bundle@v4.5
 - pkg:composer/nyrodev/nyrocms-bundle@v5.0
 - pkg:composer/nyrodev/nyrocms-bundle@v5.1
 - pkg:composer/nyrodev/nyrocms-bundle@v5.2
