@@ -72,6 +72,7 @@
 - pkg:composer/rabbitcms/backend@0.5.51
 - pkg:composer/rabbitcms/backend@0.5.52
 - pkg:composer/rabbitcms/backend@0.5.53
+- pkg:composer/rabbitcms/backend@0.5.54
 - pkg:composer/rabbitcms/backend@0.6.8
 - pkg:composer/rabbitcms/backend@0.8.1
 - pkg:composer/rabbitcms/backend@0.8.10
