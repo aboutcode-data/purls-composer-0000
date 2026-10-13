@@ -44,3 +44,4 @@
 - pkg:composer/pimcore/studio-backend-bundle@v2026.2.8
 - pkg:composer/pimcore/studio-backend-bundle@v2026.2.9
 - pkg:composer/pimcore/studio-backend-bundle@v2026.3.0
+- pkg:composer/pimcore/studio-backend-bundle@v2026.3.1
