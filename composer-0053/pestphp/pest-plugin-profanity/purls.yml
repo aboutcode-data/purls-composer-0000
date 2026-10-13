@@ -38,3 +38,4 @@
 - pkg:composer/pestphp/pest-plugin-profanity@v4.2.0
 - pkg:composer/pestphp/pest-plugin-profanity@v4.2.1
 - pkg:composer/pestphp/pest-plugin-profanity@v5.0.0
+- pkg:composer/pestphp/pest-plugin-profanity@v5.0.1
