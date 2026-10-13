@@ -4,4 +4,5 @@
 - pkg:composer/phore/log@v1.1.1
 - pkg:composer/phore/log@v2.0.0
 - pkg:composer/phore/log@v2.0.2
+- pkg:composer/phore/log@v2.0.3
 - pkg:composer/phore/log@v3.0.0
