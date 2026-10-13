@@ -149,6 +149,9 @@
 - pkg:composer/quellabs/objectquel@2.14.1
 - pkg:composer/quellabs/objectquel@2.15.0
 - pkg:composer/quellabs/objectquel@2.15.1
+- pkg:composer/quellabs/objectquel@2.15.2
+- pkg:composer/quellabs/objectquel@2.15.3
+- pkg:composer/quellabs/objectquel@2.16.0
 - pkg:composer/quellabs/objectquel@2.2.0
 - pkg:composer/quellabs/objectquel@2.3.0
 - pkg:composer/quellabs/objectquel@2.4.0
