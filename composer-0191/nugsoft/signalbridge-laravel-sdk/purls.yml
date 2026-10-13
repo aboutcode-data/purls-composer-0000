@@ -1,2 +1,5 @@
 - pkg:composer/nugsoft/signalbridge-laravel-sdk@v1.0.0
 - pkg:composer/nugsoft/signalbridge-laravel-sdk@v2.0.0
+- pkg:composer/nugsoft/signalbridge-laravel-sdk@v2.1.0
+- pkg:composer/nugsoft/signalbridge-laravel-sdk@v2.1.1
+- pkg:composer/nugsoft/signalbridge-laravel-sdk@v3.0.0
