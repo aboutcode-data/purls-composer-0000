@@ -12,3 +12,5 @@
 - pkg:composer/oceanmoon/core@v1.6.0
 - pkg:composer/oceanmoon/core@v2.0.0
 - pkg:composer/oceanmoon/core@v3.0.0
+- pkg:composer/oceanmoon/core@v4.0.0
+- pkg:composer/oceanmoon/core@v4.0.1
