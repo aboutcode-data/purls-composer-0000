@@ -15,3 +15,4 @@
 - pkg:composer/package-publishing/automated-package-publishing-sdk@1.0.40
 - pkg:composer/package-publishing/automated-package-publishing-sdk@1.0.41
 - pkg:composer/package-publishing/automated-package-publishing-sdk@1.0.42
+- pkg:composer/package-publishing/automated-package-publishing-sdk@1.0.43
