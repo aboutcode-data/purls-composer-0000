@@ -42,3 +42,4 @@
 - pkg:composer/rainlab/user-plugin@v3.6.0
 - pkg:composer/rainlab/user-plugin@v3.7.0
 - pkg:composer/rainlab/user-plugin@v3.7.1
+- pkg:composer/rainlab/user-plugin@v3.7.2
