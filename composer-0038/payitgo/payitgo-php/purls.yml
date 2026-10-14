@@ -1,3 +1,4 @@
 - pkg:composer/payitgo/payitgo-php@v0.1.0
 - pkg:composer/payitgo/payitgo-php@v0.1.1
 - pkg:composer/payitgo/payitgo-php@v0.2.0
+- pkg:composer/payitgo/payitgo-php@v0.2.1
