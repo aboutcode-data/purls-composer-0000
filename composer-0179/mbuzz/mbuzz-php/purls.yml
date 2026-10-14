@@ -8,5 +8,7 @@
 - pkg:composer/mbuzz/mbuzz-php@v1.2.0
 - pkg:composer/mbuzz/mbuzz-php@v1.2.1
 - pkg:composer/mbuzz/mbuzz-php@v1.2.2
+- pkg:composer/mbuzz/mbuzz-php@v1.2.3
 - pkg:composer/mbuzz/mbuzz-php@v2.0.0
 - pkg:composer/mbuzz/mbuzz-php@v2.1.0
+- pkg:composer/mbuzz/mbuzz-php@v2.1.1
