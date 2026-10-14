@@ -1,8 +1,11 @@
 - pkg:composer/purplespider/mypswd-tweaks@4.0.0
+- pkg:composer/purplespider/mypswd-tweaks@4.1.0
 - pkg:composer/purplespider/mypswd-tweaks@5.0.0
 - pkg:composer/purplespider/mypswd-tweaks@5.1.0
 - pkg:composer/purplespider/mypswd-tweaks@5.2.0
+- pkg:composer/purplespider/mypswd-tweaks@5.3.1
 - pkg:composer/purplespider/mypswd-tweaks@5.4.0
+- pkg:composer/purplespider/mypswd-tweaks@5.5.0
 - pkg:composer/purplespider/mypswd-tweaks@6.0.0
 - pkg:composer/purplespider/mypswd-tweaks@6.1.0
 - pkg:composer/purplespider/mypswd-tweaks@6.2.0
@@ -16,4 +19,5 @@
 - pkg:composer/purplespider/mypswd-tweaks@6.7.2
 - pkg:composer/purplespider/mypswd-tweaks@6.7.3
 - pkg:composer/purplespider/mypswd-tweaks@6.7.4
+- pkg:composer/purplespider/mypswd-tweaks@6.8.0
 - pkg:composer/purplespider/mypswd-tweaks@v5.3.0
