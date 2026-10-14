@@ -6,3 +6,4 @@
 - pkg:composer/rappasoft/lockout@v4.0.0
 - pkg:composer/rappasoft/lockout@v5.0.0
 - pkg:composer/rappasoft/lockout@v6.0.0
+- pkg:composer/rappasoft/lockout@v6.1.0
