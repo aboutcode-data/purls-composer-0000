@@ -33,3 +33,5 @@
 - pkg:composer/saygoweb/anorm@v3.1.2
 - pkg:composer/saygoweb/anorm@v3.2.0
 - pkg:composer/saygoweb/anorm@v3.2.1
+- pkg:composer/saygoweb/anorm@v3.3.0
+- pkg:composer/saygoweb/anorm@v3.3.1
