@@ -1,4 +1,5 @@
 - pkg:composer/ogunsakin01/laravel-video-demos@v0.1.0
+- pkg:composer/ogunsakin01/laravel-video-demos@v0.10.0
 - pkg:composer/ogunsakin01/laravel-video-demos@v0.2.0
 - pkg:composer/ogunsakin01/laravel-video-demos@v0.3.0
 - pkg:composer/ogunsakin01/laravel-video-demos@v0.4.0
@@ -9,3 +10,7 @@
 - pkg:composer/ogunsakin01/laravel-video-demos@v0.7.1
 - pkg:composer/ogunsakin01/laravel-video-demos@v0.8.0
 - pkg:composer/ogunsakin01/laravel-video-demos@v0.8.1
+- pkg:composer/ogunsakin01/laravel-video-demos@v0.8.2
+- pkg:composer/ogunsakin01/laravel-video-demos@v0.8.3
+- pkg:composer/ogunsakin01/laravel-video-demos@v0.9.0
+- pkg:composer/ogunsakin01/laravel-video-demos@v0.9.1
