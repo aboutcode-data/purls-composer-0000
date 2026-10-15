@@ -125,6 +125,10 @@
 - pkg:composer/saucebase/saucebase@v2.16.0
 - pkg:composer/saucebase/saucebase@v2.17.0
 - pkg:composer/saucebase/saucebase@v2.17.1
+- pkg:composer/saucebase/saucebase@v2.17.2
+- pkg:composer/saucebase/saucebase@v2.17.3
+- pkg:composer/saucebase/saucebase@v2.17.4
+- pkg:composer/saucebase/saucebase@v2.17.5
 - pkg:composer/saucebase/saucebase@v2.2.0
 - pkg:composer/saucebase/saucebase@v2.3.0
 - pkg:composer/saucebase/saucebase@v2.3.1
@@ -169,3 +173,4 @@
 - pkg:composer/saucebase/saucebase@v2.9.7
 - pkg:composer/saucebase/saucebase@v2.9.8
 - pkg:composer/saucebase/saucebase@v2.9.9
+- pkg:composer/saucebase/saucebase@v3.0.0
