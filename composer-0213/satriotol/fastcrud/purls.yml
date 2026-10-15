@@ -209,3 +209,6 @@
 - pkg:composer/satriotol/fastcrud@13.4.8
 - pkg:composer/satriotol/fastcrud@13.4.9
 - pkg:composer/satriotol/fastcrud@13.5.16
+- pkg:composer/satriotol/fastcrud@13.5.17
+- pkg:composer/satriotol/fastcrud@13.5.18
+- pkg:composer/satriotol/fastcrud@13.5.19
