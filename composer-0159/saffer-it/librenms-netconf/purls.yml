@@ -10,3 +10,4 @@
 - pkg:composer/saffer-it/librenms-netconf@v1.4.2
 - pkg:composer/saffer-it/librenms-netconf@v1.5.0
 - pkg:composer/saffer-it/librenms-netconf@v1.5.1
+- pkg:composer/saffer-it/librenms-netconf@v1.6.0
