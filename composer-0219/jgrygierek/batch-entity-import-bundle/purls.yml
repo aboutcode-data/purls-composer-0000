@@ -23,6 +23,8 @@
 - pkg:composer/jgrygierek/batch-entity-import-bundle@v3.0.1
 - pkg:composer/jgrygierek/batch-entity-import-bundle@v3.1.0
 - pkg:composer/jgrygierek/batch-entity-import-bundle@v3.1.1
+- pkg:composer/jgrygierek/batch-entity-import-bundle@v3.10.0
+- pkg:composer/jgrygierek/batch-entity-import-bundle@v3.11.0
 - pkg:composer/jgrygierek/batch-entity-import-bundle@v3.2.0
 - pkg:composer/jgrygierek/batch-entity-import-bundle@v3.2.1
 - pkg:composer/jgrygierek/batch-entity-import-bundle@v3.2.2
