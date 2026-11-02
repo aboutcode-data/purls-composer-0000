@@ -1,5 +1,8 @@
+- pkg:composer/jundayw/tokenable@2.2.0
+- pkg:composer/jundayw/tokenable@3.0.0
 - pkg:composer/jundayw/tokenable@v0.10.0
 - pkg:composer/jundayw/tokenable@v0.20.0
 - pkg:composer/jundayw/tokenable@v1.0.0
 - pkg:composer/jundayw/tokenable@v1.0.1
 - pkg:composer/jundayw/tokenable@v2.0.0
+- pkg:composer/jundayw/tokenable@v2.1.0
