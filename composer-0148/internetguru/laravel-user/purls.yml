@@ -201,3 +201,5 @@
 - pkg:composer/internetguru/laravel-user@v9.3.0
 - pkg:composer/internetguru/laravel-user@v9.4.0
 - pkg:composer/internetguru/laravel-user@v9.4.1
+- pkg:composer/internetguru/laravel-user@v9.5.0
+- pkg:composer/internetguru/laravel-user@v9.6.0
