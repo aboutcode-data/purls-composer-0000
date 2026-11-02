@@ -5,3 +5,4 @@
 - pkg:composer/isaced/flarum-ext-email-verification-switch@0.1.4
 - pkg:composer/isaced/flarum-ext-email-verification-switch@1.0.0
 - pkg:composer/isaced/flarum-ext-email-verification-switch@1.0.1
+- pkg:composer/isaced/flarum-ext-email-verification-switch@v1.1.0
