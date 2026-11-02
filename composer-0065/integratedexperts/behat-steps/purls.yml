@@ -67,3 +67,8 @@
 - pkg:composer/integratedexperts/behat-steps@3.8.1
 - pkg:composer/integratedexperts/behat-steps@3.8.2
 - pkg:composer/integratedexperts/behat-steps@3.9.0
+- pkg:composer/integratedexperts/behat-steps@4.0.0
+- pkg:composer/integratedexperts/behat-steps@4.0.0-rc1
+- pkg:composer/integratedexperts/behat-steps@4.0.0-rc2
+- pkg:composer/integratedexperts/behat-steps@4.0.0-rc3
+- pkg:composer/integratedexperts/behat-steps@4.0.0-rc4
