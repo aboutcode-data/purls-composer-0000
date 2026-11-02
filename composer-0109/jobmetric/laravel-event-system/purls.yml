@@ -2,6 +2,10 @@
 - pkg:composer/jobmetric/laravel-event-system@1.1.0
 - pkg:composer/jobmetric/laravel-event-system@2.0.0
 - pkg:composer/jobmetric/laravel-event-system@2.1.0
+- pkg:composer/jobmetric/laravel-event-system@2.10.0
+- pkg:composer/jobmetric/laravel-event-system@2.10.1
+- pkg:composer/jobmetric/laravel-event-system@2.10.2
+- pkg:composer/jobmetric/laravel-event-system@2.10.3
 - pkg:composer/jobmetric/laravel-event-system@2.2.0
 - pkg:composer/jobmetric/laravel-event-system@2.2.1
 - pkg:composer/jobmetric/laravel-event-system@2.2.2
@@ -14,3 +18,5 @@
 - pkg:composer/jobmetric/laravel-event-system@2.8.0
 - pkg:composer/jobmetric/laravel-event-system@2.8.1
 - pkg:composer/jobmetric/laravel-event-system@2.8.2
+- pkg:composer/jobmetric/laravel-event-system@2.9.0
+- pkg:composer/jobmetric/laravel-event-system@2.9.1

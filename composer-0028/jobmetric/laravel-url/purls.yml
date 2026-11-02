@@ -13,3 +13,4 @@
 - pkg:composer/jobmetric/laravel-url@2.1.0
 - pkg:composer/jobmetric/laravel-url@3.0.0
 - pkg:composer/jobmetric/laravel-url@3.0.1
+- pkg:composer/jobmetric/laravel-url@3.1.0
