@@ -1,5 +1,10 @@
 - pkg:composer/jcergolj/metator-for-laravel@v1
+- pkg:composer/jcergolj/metator-for-laravel@v10
 - pkg:composer/jcergolj/metator-for-laravel@v2
 - pkg:composer/jcergolj/metator-for-laravel@v3
 - pkg:composer/jcergolj/metator-for-laravel@v4
 - pkg:composer/jcergolj/metator-for-laravel@v5
+- pkg:composer/jcergolj/metator-for-laravel@v6
+- pkg:composer/jcergolj/metator-for-laravel@v7
+- pkg:composer/jcergolj/metator-for-laravel@v8
+- pkg:composer/jcergolj/metator-for-laravel@v9
