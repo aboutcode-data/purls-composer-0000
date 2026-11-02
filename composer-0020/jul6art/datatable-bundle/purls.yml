@@ -13,6 +13,16 @@
 - pkg:composer/jul6art/datatable-bundle@v2.0.0
 - pkg:composer/jul6art/datatable-bundle@v2.0.1
 - pkg:composer/jul6art/datatable-bundle@v2.1.0
+- pkg:composer/jul6art/datatable-bundle@v2.10.0
+- pkg:composer/jul6art/datatable-bundle@v2.11.0
+- pkg:composer/jul6art/datatable-bundle@v2.11.1
+- pkg:composer/jul6art/datatable-bundle@v2.12.0
+- pkg:composer/jul6art/datatable-bundle@v2.12.1
+- pkg:composer/jul6art/datatable-bundle@v2.13.0
+- pkg:composer/jul6art/datatable-bundle@v2.13.1
+- pkg:composer/jul6art/datatable-bundle@v2.13.2
+- pkg:composer/jul6art/datatable-bundle@v2.13.3
+- pkg:composer/jul6art/datatable-bundle@v2.13.4
 - pkg:composer/jul6art/datatable-bundle@v2.2.0
 - pkg:composer/jul6art/datatable-bundle@v2.2.1
 - pkg:composer/jul6art/datatable-bundle@v2.2.2
@@ -39,3 +49,5 @@
 - pkg:composer/jul6art/datatable-bundle@v2.9.0
 - pkg:composer/jul6art/datatable-bundle@v2.9.1
 - pkg:composer/jul6art/datatable-bundle@v2.9.2
+- pkg:composer/jul6art/datatable-bundle@v3.0.0
+- pkg:composer/jul6art/datatable-bundle@v3.1.0
