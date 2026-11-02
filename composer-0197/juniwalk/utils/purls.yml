@@ -368,8 +368,16 @@
 - pkg:composer/juniwalk/utils@v4.11.5
 - pkg:composer/juniwalk/utils@v4.12.0
 - pkg:composer/juniwalk/utils@v4.12.1
+- pkg:composer/juniwalk/utils@v4.12.10
+- pkg:composer/juniwalk/utils@v4.12.11
 - pkg:composer/juniwalk/utils@v4.12.2
 - pkg:composer/juniwalk/utils@v4.12.3
+- pkg:composer/juniwalk/utils@v4.12.4
+- pkg:composer/juniwalk/utils@v4.12.5
+- pkg:composer/juniwalk/utils@v4.12.6
+- pkg:composer/juniwalk/utils@v4.12.7
+- pkg:composer/juniwalk/utils@v4.12.8
+- pkg:composer/juniwalk/utils@v4.12.9
 - pkg:composer/juniwalk/utils@v4.2.0
 - pkg:composer/juniwalk/utils@v4.2.1
 - pkg:composer/juniwalk/utils@v4.2.2
