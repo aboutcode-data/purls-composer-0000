@@ -55,3 +55,6 @@
 - pkg:composer/interaction-design-foundation/laravel-geoip@4.1.1
 - pkg:composer/interaction-design-foundation/laravel-geoip@4.2.0
 - pkg:composer/interaction-design-foundation/laravel-geoip@4.3.0
+- pkg:composer/interaction-design-foundation/laravel-geoip@5.0.0
+- pkg:composer/interaction-design-foundation/laravel-geoip@5.0.1
+- pkg:composer/interaction-design-foundation/laravel-geoip@5.1.0
