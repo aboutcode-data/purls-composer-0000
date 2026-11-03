@@ -30,3 +30,4 @@
 - pkg:composer/nette/code-checker@v3.3.4
 - pkg:composer/nette/code-checker@v3.3.5
 - pkg:composer/nette/code-checker@v3.4.1
+- pkg:composer/nette/code-checker@v3.5.0
