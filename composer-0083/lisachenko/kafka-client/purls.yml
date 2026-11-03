@@ -30,3 +30,4 @@
 - pkg:composer/lisachenko/kafka-client@4.1.2
 - pkg:composer/lisachenko/kafka-client@4.2.1
 - pkg:composer/lisachenko/kafka-client@4.3.1
+- pkg:composer/lisachenko/kafka-client@4.4.0
