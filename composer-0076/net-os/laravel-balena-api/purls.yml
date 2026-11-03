@@ -1,0 +1,4 @@
+- pkg:composer/net-os/laravel-balena-api@v1.0.0
+- pkg:composer/net-os/laravel-balena-api@v2.0.0
+- pkg:composer/net-os/laravel-balena-api@v2.1.0
+- pkg:composer/net-os/laravel-balena-api@v2.1.1
