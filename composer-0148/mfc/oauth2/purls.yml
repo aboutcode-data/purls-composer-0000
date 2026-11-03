@@ -46,3 +46,4 @@
 - pkg:composer/mfc/oauth2@4.1.9
 - pkg:composer/mfc/oauth2@4.2.0
 - pkg:composer/mfc/oauth2@4.3.0
+- pkg:composer/mfc/oauth2@4.4.0
