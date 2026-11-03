@@ -8,3 +8,4 @@
 - pkg:composer/lmo/laravel-dm8@1.0.7
 - pkg:composer/lmo/laravel-dm8@1.0.8
 - pkg:composer/lmo/laravel-dm8@1.0.9
+- pkg:composer/lmo/laravel-dm8@v2.0.0
