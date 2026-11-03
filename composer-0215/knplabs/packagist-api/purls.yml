@@ -26,3 +26,4 @@
 - pkg:composer/knplabs/packagist-api@v2.1.4
 - pkg:composer/knplabs/packagist-api@v2.2.0
 - pkg:composer/knplabs/packagist-api@v3.0.0
+- pkg:composer/knplabs/packagist-api@v3.0.1
