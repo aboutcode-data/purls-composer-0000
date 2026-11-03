@@ -35,3 +35,4 @@
 - pkg:composer/nameless/laravel-api-generator@v3.8.0
 - pkg:composer/nameless/laravel-api-generator@v3.9.0
 - pkg:composer/nameless/laravel-api-generator@v4.0.0
+- pkg:composer/nameless/laravel-api-generator@v4.1.0
