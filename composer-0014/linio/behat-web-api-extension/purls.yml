@@ -10,3 +10,4 @@
 - pkg:composer/linio/behat-web-api-extension@3.0.0
 - pkg:composer/linio/behat-web-api-extension@3.0.1
 - pkg:composer/linio/behat-web-api-extension@3.1.0
+- pkg:composer/linio/behat-web-api-extension@4.0.0
