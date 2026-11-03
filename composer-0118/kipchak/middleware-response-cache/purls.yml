@@ -1,0 +1,4 @@
+- pkg:composer/kipchak/middleware-response-cache@1.0
+- pkg:composer/kipchak/middleware-response-cache@1.1
+- pkg:composer/kipchak/middleware-response-cache@1.2
+- pkg:composer/kipchak/middleware-response-cache@1.3
