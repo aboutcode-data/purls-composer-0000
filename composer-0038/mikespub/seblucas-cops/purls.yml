@@ -143,3 +143,6 @@
 - pkg:composer/mikespub/seblucas-cops@4.5.3
 - pkg:composer/mikespub/seblucas-cops@4.5.4
 - pkg:composer/mikespub/seblucas-cops@4.5.5
+- pkg:composer/mikespub/seblucas-cops@4.5.6
+- pkg:composer/mikespub/seblucas-cops@4.6.0
+- pkg:composer/mikespub/seblucas-cops@4.6.1
