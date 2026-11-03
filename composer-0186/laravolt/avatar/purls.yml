@@ -60,3 +60,5 @@
 - pkg:composer/laravolt/avatar@6.5.0
 - pkg:composer/laravolt/avatar@6.5.1
 - pkg:composer/laravolt/avatar@7.0.0
+- pkg:composer/laravolt/avatar@8.0.0
+- pkg:composer/laravolt/avatar@8.0.1
