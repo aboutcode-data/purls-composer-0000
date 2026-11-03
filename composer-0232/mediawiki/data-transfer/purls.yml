@@ -17,3 +17,5 @@
 - pkg:composer/mediawiki/data-transfer@1.7.1
 - pkg:composer/mediawiki/data-transfer@1.8
 - pkg:composer/mediawiki/data-transfer@1.8.1
+- pkg:composer/mediawiki/data-transfer@1.8.2
+- pkg:composer/mediawiki/data-transfer@1.8.3
