@@ -1,5 +1,6 @@
 - pkg:composer/mowahed/firebase-notification@2.0.0
 - pkg:composer/mowahed/firebase-notification@2.0.2
+- pkg:composer/mowahed/firebase-notification@2.0.3
 - pkg:composer/mowahed/firebase-notification@v1.0.0
 - pkg:composer/mowahed/firebase-notification@v1.0.1
 - pkg:composer/mowahed/firebase-notification@v1.0.2
