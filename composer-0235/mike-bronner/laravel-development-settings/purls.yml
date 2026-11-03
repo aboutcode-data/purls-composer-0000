@@ -36,3 +36,7 @@
 - pkg:composer/mike-bronner/laravel-development-settings@0.6.3
 - pkg:composer/mike-bronner/laravel-development-settings@0.6.4
 - pkg:composer/mike-bronner/laravel-development-settings@0.6.5
+- pkg:composer/mike-bronner/laravel-development-settings@0.6.6
+- pkg:composer/mike-bronner/laravel-development-settings@0.6.7
+- pkg:composer/mike-bronner/laravel-development-settings@0.6.8
+- pkg:composer/mike-bronner/laravel-development-settings@0.6.9
