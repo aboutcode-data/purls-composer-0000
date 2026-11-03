@@ -24,3 +24,5 @@
 - pkg:composer/kore-ui/kore-ui@v2.3.1
 - pkg:composer/kore-ui/kore-ui@v2.3.2
 - pkg:composer/kore-ui/kore-ui@v2.3.3
+- pkg:composer/kore-ui/kore-ui@v2.4.0
+- pkg:composer/kore-ui/kore-ui@v2.4.1
