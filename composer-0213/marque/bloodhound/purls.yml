@@ -1,3 +1,9 @@
+- pkg:composer/marque/bloodhound@v10.0.0
+- pkg:composer/marque/bloodhound@v10.1.0
+- pkg:composer/marque/bloodhound@v10.2.0
+- pkg:composer/marque/bloodhound@v11.0.0
+- pkg:composer/marque/bloodhound@v11.1.0
+- pkg:composer/marque/bloodhound@v11.1.1
 - pkg:composer/marque/bloodhound@v2.0.0
 - pkg:composer/marque/bloodhound@v2.0.1
 - pkg:composer/marque/bloodhound@v3.0.0
@@ -9,3 +15,9 @@
 - pkg:composer/marque/bloodhound@v6.1.0
 - pkg:composer/marque/bloodhound@v6.1.1
 - pkg:composer/marque/bloodhound@v7.0.0
+- pkg:composer/marque/bloodhound@v8.0.0
+- pkg:composer/marque/bloodhound@v8.1.0
+- pkg:composer/marque/bloodhound@v9.0.0
+- pkg:composer/marque/bloodhound@v9.1.0
+- pkg:composer/marque/bloodhound@v9.2.0
+- pkg:composer/marque/bloodhound@v9.3.0
