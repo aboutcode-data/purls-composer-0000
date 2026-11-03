@@ -1,3 +1,8 @@
 - pkg:composer/msilabs/bkash@v1.0.7
+- pkg:composer/msilabs/bkash@v1.0.8
 - pkg:composer/msilabs/bkash@v2.1.0
 - pkg:composer/msilabs/bkash@v2.1.1
+- pkg:composer/msilabs/bkash@v2.2.0
+- pkg:composer/msilabs/bkash@v3.0.0
+- pkg:composer/msilabs/bkash@v3.1.0
+- pkg:composer/msilabs/bkash@v3.1.1
