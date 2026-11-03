@@ -52,3 +52,4 @@
 - pkg:composer/logcomex/php-utils@1.5.8
 - pkg:composer/logcomex/php-utils@2.0.0
 - pkg:composer/logcomex/php-utils@2.0.1
+- pkg:composer/logcomex/php-utils@3.0.0
