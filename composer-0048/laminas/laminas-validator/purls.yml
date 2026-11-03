@@ -170,7 +170,9 @@
 - pkg:composer/laminas/laminas-validator@3.16.0
 - pkg:composer/laminas/laminas-validator@3.17.0
 - pkg:composer/laminas/laminas-validator@3.18.0
+- pkg:composer/laminas/laminas-validator@3.19.0
 - pkg:composer/laminas/laminas-validator@3.2.0
+- pkg:composer/laminas/laminas-validator@3.20.0
 - pkg:composer/laminas/laminas-validator@3.3.0
 - pkg:composer/laminas/laminas-validator@3.4.0
 - pkg:composer/laminas/laminas-validator@3.4.1
