@@ -4,3 +4,4 @@
 - pkg:composer/n7/symfony-validators-bundle@v1.0.3
 - pkg:composer/n7/symfony-validators-bundle@v2.0
 - pkg:composer/n7/symfony-validators-bundle@v2.0.1
+- pkg:composer/n7/symfony-validators-bundle@v2.0.2
