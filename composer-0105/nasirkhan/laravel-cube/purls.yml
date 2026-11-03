@@ -18,3 +18,6 @@
 - pkg:composer/nasirkhan/laravel-cube@v4.1.0
 - pkg:composer/nasirkhan/laravel-cube@v4.2.0
 - pkg:composer/nasirkhan/laravel-cube@v4.3.0
+- pkg:composer/nasirkhan/laravel-cube@v4.3.1
+- pkg:composer/nasirkhan/laravel-cube@v4.4.0
+- pkg:composer/nasirkhan/laravel-cube@v4.5.0
