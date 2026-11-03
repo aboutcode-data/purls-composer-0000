@@ -103,3 +103,5 @@
 - pkg:composer/nnnick/chartjs@v4.4.9
 - pkg:composer/nnnick/chartjs@v4.5.0
 - pkg:composer/nnnick/chartjs@v4.5.1
+- pkg:composer/nnnick/chartjs@v4.6.0
+- pkg:composer/nnnick/chartjs@v4.6.1
