@@ -10,3 +10,4 @@
 - pkg:composer/maatify/logger@5.1.1
 - pkg:composer/maatify/logger@5.1.2
 - pkg:composer/maatify/logger@6.0.1
+- pkg:composer/maatify/logger@v7.0.0
