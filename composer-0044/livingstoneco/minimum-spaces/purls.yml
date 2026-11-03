@@ -1,4 +1,6 @@
 - pkg:composer/livingstoneco/minimum-spaces@1.0
+- pkg:composer/livingstoneco/minimum-spaces@1.1
 - pkg:composer/livingstoneco/minimum-spaces@v0.0.1
 - pkg:composer/livingstoneco/minimum-spaces@v0.0.2
 - pkg:composer/livingstoneco/minimum-spaces@v0.0.3
+- pkg:composer/livingstoneco/minimum-spaces@v0.0.4
