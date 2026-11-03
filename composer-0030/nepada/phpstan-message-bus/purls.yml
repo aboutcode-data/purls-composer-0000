@@ -10,3 +10,4 @@
 - pkg:composer/nepada/phpstan-message-bus@v4.0.0
 - pkg:composer/nepada/phpstan-message-bus@v4.0.1
 - pkg:composer/nepada/phpstan-message-bus@v4.0.2
+- pkg:composer/nepada/phpstan-message-bus@v4.0.3
