@@ -19,6 +19,8 @@
 - pkg:composer/mralaminahamed/surecart-stubs@v2.7.5
 - pkg:composer/mralaminahamed/surecart-stubs@v2.8.4
 - pkg:composer/mralaminahamed/surecart-stubs@v2.9.0
+- pkg:composer/mralaminahamed/surecart-stubs@v4.10.0
+- pkg:composer/mralaminahamed/surecart-stubs@v4.11.0
 - pkg:composer/mralaminahamed/surecart-stubs@v4.3.3
 - pkg:composer/mralaminahamed/surecart-stubs@v4.4.0
 - pkg:composer/mralaminahamed/surecart-stubs@v4.4.2
@@ -39,3 +41,4 @@
 - pkg:composer/mralaminahamed/surecart-stubs@v4.9.3
 - pkg:composer/mralaminahamed/surecart-stubs@v4.9.4
 - pkg:composer/mralaminahamed/surecart-stubs@v4.9.5
+- pkg:composer/mralaminahamed/surecart-stubs@v4.9.6
