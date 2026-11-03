@@ -25,3 +25,9 @@
 - pkg:composer/netresearch/typo3-ci-workflows@v1.8.1
 - pkg:composer/netresearch/typo3-ci-workflows@v1.8.2
 - pkg:composer/netresearch/typo3-ci-workflows@v1.9.0
+- pkg:composer/netresearch/typo3-ci-workflows@v2.0.0
+- pkg:composer/netresearch/typo3-ci-workflows@v2.0.1
+- pkg:composer/netresearch/typo3-ci-workflows@v2.0.2
+- pkg:composer/netresearch/typo3-ci-workflows@v2.0.3
+- pkg:composer/netresearch/typo3-ci-workflows@v2.0.4
+- pkg:composer/netresearch/typo3-ci-workflows@v2.0.5
