@@ -5,3 +5,4 @@
 - pkg:composer/larasup/localization@1.0.5
 - pkg:composer/larasup/localization@2.0.0
 - pkg:composer/larasup/localization@2.0.1
+- pkg:composer/larasup/localization@2.0.2
