@@ -3,6 +3,10 @@
 - pkg:composer/kinetis/orm@v1.10.0
 - pkg:composer/kinetis/orm@v1.11.0
 - pkg:composer/kinetis/orm@v1.12.0
+- pkg:composer/kinetis/orm@v1.12.1
+- pkg:composer/kinetis/orm@v1.13.0
+- pkg:composer/kinetis/orm@v1.13.1
+- pkg:composer/kinetis/orm@v1.13.2
 - pkg:composer/kinetis/orm@v1.2.0
 - pkg:composer/kinetis/orm@v1.3.0
 - pkg:composer/kinetis/orm@v1.4.0

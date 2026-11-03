@@ -5,3 +5,6 @@
 - pkg:composer/kinetis/migrations@v1.3.0
 - pkg:composer/kinetis/migrations@v1.3.1
 - pkg:composer/kinetis/migrations@v1.4.0
+- pkg:composer/kinetis/migrations@v1.4.1
+- pkg:composer/kinetis/migrations@v1.4.2
+- pkg:composer/kinetis/migrations@v1.4.3
