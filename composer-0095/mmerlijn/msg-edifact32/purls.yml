@@ -12,3 +12,4 @@
 - pkg:composer/mmerlijn/msg-edifact32@v3.0
 - pkg:composer/mmerlijn/msg-edifact32@v3.1
 - pkg:composer/mmerlijn/msg-edifact32@v3.9
+- pkg:composer/mmerlijn/msg-edifact32@v4.0
