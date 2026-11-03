@@ -57,6 +57,8 @@
 - pkg:composer/nmaier95/shopify-product-fetcher@7.1.4
 - pkg:composer/nmaier95/shopify-product-fetcher@7.2.0
 - pkg:composer/nmaier95/shopify-product-fetcher@7.3.0
+- pkg:composer/nmaier95/shopify-product-fetcher@7.3.1
 - pkg:composer/nmaier95/shopify-product-fetcher@8.0.0
 - pkg:composer/nmaier95/shopify-product-fetcher@8.1.0
 - pkg:composer/nmaier95/shopify-product-fetcher@8.2.0
+- pkg:composer/nmaier95/shopify-product-fetcher@8.2.1
