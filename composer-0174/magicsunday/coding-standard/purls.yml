@@ -20,3 +20,7 @@
 - pkg:composer/magicsunday/coding-standard@3.4.0
 - pkg:composer/magicsunday/coding-standard@3.5.0
 - pkg:composer/magicsunday/coding-standard@3.6.0
+- pkg:composer/magicsunday/coding-standard@3.7.0
+- pkg:composer/magicsunday/coding-standard@3.8.0
+- pkg:composer/magicsunday/coding-standard@3.8.1
+- pkg:composer/magicsunday/coding-standard@3.9.0
