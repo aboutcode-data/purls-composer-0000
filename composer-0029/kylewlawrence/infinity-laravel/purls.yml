@@ -23,3 +23,6 @@
 - pkg:composer/kylewlawrence/infinity-laravel@v1.0.239
 - pkg:composer/kylewlawrence/infinity-laravel@v1.0.240
 - pkg:composer/kylewlawrence/infinity-laravel@v1.0.241
+- pkg:composer/kylewlawrence/infinity-laravel@v13.0.0
+- pkg:composer/kylewlawrence/infinity-laravel@v13.1.0
+- pkg:composer/kylewlawrence/infinity-laravel@v13.1.1
