@@ -1,0 +1,6 @@
+- pkg:composer/koh/crowdsec-bridge@v0.10.0
+- pkg:composer/koh/crowdsec-bridge@v0.10.1
+- pkg:composer/koh/crowdsec-bridge@v0.10.3
+- pkg:composer/koh/crowdsec-bridge@v0.10.4
+- pkg:composer/koh/crowdsec-bridge@v0.10.5
+- pkg:composer/koh/crowdsec-bridge@v0.10.6
