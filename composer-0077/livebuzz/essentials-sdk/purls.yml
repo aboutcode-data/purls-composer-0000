@@ -5,6 +5,7 @@
 - pkg:composer/livebuzz/essentials-sdk@4.5.0
 - pkg:composer/livebuzz/essentials-sdk@5.0.0
 - pkg:composer/livebuzz/essentials-sdk@5.0.1
+- pkg:composer/livebuzz/essentials-sdk@5.1.0
 - pkg:composer/livebuzz/essentials-sdk@v1.0.0
 - pkg:composer/livebuzz/essentials-sdk@v1.0.1
 - pkg:composer/livebuzz/essentials-sdk@v2.0.0
