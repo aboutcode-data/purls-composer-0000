@@ -31,3 +31,4 @@
 - pkg:composer/keboola/storage-api-php-client-branch-wrapper@6.8.0
 - pkg:composer/keboola/storage-api-php-client-branch-wrapper@7.0.0
 - pkg:composer/keboola/storage-api-php-client-branch-wrapper@7.1.0
+- pkg:composer/keboola/storage-api-php-client-branch-wrapper@7.2.0
