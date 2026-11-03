@@ -91,3 +91,5 @@
 - pkg:composer/maurobonfietti/rest-api-slim-php@v2.21.0
 - pkg:composer/maurobonfietti/rest-api-slim-php@v2.24.0
 - pkg:composer/maurobonfietti/rest-api-slim-php@v2.25.0
+- pkg:composer/maurobonfietti/rest-api-slim-php@v2.26.0
+- pkg:composer/maurobonfietti/rest-api-slim-php@v2.27.0
