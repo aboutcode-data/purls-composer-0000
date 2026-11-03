@@ -161,3 +161,6 @@
 - pkg:composer/markocupic/calendar-event-booking-bundle@6.1.8
 - pkg:composer/markocupic/calendar-event-booking-bundle@6.1.9
 - pkg:composer/markocupic/calendar-event-booking-bundle@6.2.0
+- pkg:composer/markocupic/calendar-event-booking-bundle@6.2.1
+- pkg:composer/markocupic/calendar-event-booking-bundle@6.2.2
+- pkg:composer/markocupic/calendar-event-booking-bundle@6.2.3
