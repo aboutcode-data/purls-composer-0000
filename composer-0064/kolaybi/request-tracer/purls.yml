@@ -10,3 +10,4 @@
 - pkg:composer/kolaybi/request-tracer@v1.5.0
 - pkg:composer/kolaybi/request-tracer@v1.6.0
 - pkg:composer/kolaybi/request-tracer@v1.7.0
+- pkg:composer/kolaybi/request-tracer@v1.7.1
