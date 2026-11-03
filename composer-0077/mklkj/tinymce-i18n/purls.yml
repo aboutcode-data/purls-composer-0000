@@ -64,6 +64,9 @@
 - pkg:composer/mklkj/tinymce-i18n@25.9.1
 - pkg:composer/mklkj/tinymce-i18n@25.9.22
 - pkg:composer/mklkj/tinymce-i18n@26.1.12
+- pkg:composer/mklkj/tinymce-i18n@26.10.19
+- pkg:composer/mklkj/tinymce-i18n@26.10.26
+- pkg:composer/mklkj/tinymce-i18n@26.11.2
 - pkg:composer/mklkj/tinymce-i18n@26.2.16
 - pkg:composer/mklkj/tinymce-i18n@26.2.9
 - pkg:composer/mklkj/tinymce-i18n@26.3.23
