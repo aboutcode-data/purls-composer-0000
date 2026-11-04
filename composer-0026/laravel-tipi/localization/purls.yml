@@ -12,3 +12,4 @@
 - pkg:composer/laravel-tipi/localization@v0.1.191
 - pkg:composer/laravel-tipi/localization@v0.1.192
 - pkg:composer/laravel-tipi/localization@v0.2.0
+- pkg:composer/laravel-tipi/localization@v0.2.1

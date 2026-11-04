@@ -11,3 +11,5 @@
 - pkg:composer/laravel-tipi/translations@v0.1.17
 - pkg:composer/laravel-tipi/translations@v0.1.18
 - pkg:composer/laravel-tipi/translations@v0.1.19
+- pkg:composer/laravel-tipi/translations@v0.2.0
+- pkg:composer/laravel-tipi/translations@v0.3.0
