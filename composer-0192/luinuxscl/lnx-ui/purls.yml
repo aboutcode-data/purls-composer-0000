@@ -13,6 +13,7 @@
 - pkg:composer/luinuxscl/lnx-ui@v1.16.0
 - pkg:composer/luinuxscl/lnx-ui@v1.17.0
 - pkg:composer/luinuxscl/lnx-ui@v1.18.0
+- pkg:composer/luinuxscl/lnx-ui@v1.19.0
 - pkg:composer/luinuxscl/lnx-ui@v1.2.0
 - pkg:composer/luinuxscl/lnx-ui@v1.3.0
 - pkg:composer/luinuxscl/lnx-ui@v1.4.0
