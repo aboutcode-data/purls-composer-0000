@@ -37,6 +37,9 @@
 - pkg:composer/pandopia/calcul-dpe-php@v0.1.41
 - pkg:composer/pandopia/calcul-dpe-php@v0.1.42
 - pkg:composer/pandopia/calcul-dpe-php@v0.1.43
+- pkg:composer/pandopia/calcul-dpe-php@v0.1.44
+- pkg:composer/pandopia/calcul-dpe-php@v0.1.45
+- pkg:composer/pandopia/calcul-dpe-php@v0.1.46
 - pkg:composer/pandopia/calcul-dpe-php@v0.1.5
 - pkg:composer/pandopia/calcul-dpe-php@v0.1.6
 - pkg:composer/pandopia/calcul-dpe-php@v0.1.7
