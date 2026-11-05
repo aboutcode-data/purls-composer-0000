@@ -16,3 +16,7 @@
 - pkg:composer/liberu-cms/cms-laravel@v30.0.0
 - pkg:composer/liberu-cms/cms-laravel@v31.0.0
 - pkg:composer/liberu-cms/cms-laravel@v32.0.0
+- pkg:composer/liberu-cms/cms-laravel@v33.0.0
+- pkg:composer/liberu-cms/cms-laravel@v34.0.0
+- pkg:composer/liberu-cms/cms-laravel@v34.0.1
+- pkg:composer/liberu-cms/cms-laravel@v34.0.2
