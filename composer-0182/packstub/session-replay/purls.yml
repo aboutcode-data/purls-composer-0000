@@ -1,5 +1,7 @@
+- pkg:composer/packstub/session-replay@v1.0.0
 - pkg:composer/packstub/session-replay@v1.0.0-beta.1
 - pkg:composer/packstub/session-replay@v1.0.0-beta.2
 - pkg:composer/packstub/session-replay@v1.0.0-beta.3
 - pkg:composer/packstub/session-replay@v1.0.0-beta.4
 - pkg:composer/packstub/session-replay@v1.0.0-beta.5
+- pkg:composer/packstub/session-replay@v1.1.0
