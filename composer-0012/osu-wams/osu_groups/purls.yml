@@ -33,3 +33,6 @@
 - pkg:composer/osu-wams/osu_groups@2.1.6
 - pkg:composer/osu-wams/osu_groups@2.2.0
 - pkg:composer/osu-wams/osu_groups@2.2.1
+- pkg:composer/osu-wams/osu_groups@2.2.2
+- pkg:composer/osu-wams/osu_groups@3.0.0
+- pkg:composer/osu-wams/osu_groups@3.0.1
