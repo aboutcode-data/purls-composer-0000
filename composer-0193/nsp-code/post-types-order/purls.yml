@@ -53,3 +53,5 @@
 - pkg:composer/nsp-code/post-types-order@2.5.3
 - pkg:composer/nsp-code/post-types-order@2.5.5
 - pkg:composer/nsp-code/post-types-order@2.5.6
+- pkg:composer/nsp-code/post-types-order@2.5.7
+- pkg:composer/nsp-code/post-types-order@2.5.9
