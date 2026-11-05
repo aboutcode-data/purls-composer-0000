@@ -6,3 +6,4 @@
 - pkg:composer/owncloud/tarstreamer@v0.1-beta3
 - pkg:composer/owncloud/tarstreamer@v0.1.0
 - pkg:composer/owncloud/tarstreamer@v2.1.0
+- pkg:composer/owncloud/tarstreamer@v2.1.1
