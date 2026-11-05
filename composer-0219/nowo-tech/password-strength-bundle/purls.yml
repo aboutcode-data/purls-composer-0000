@@ -4,6 +4,7 @@
 - pkg:composer/nowo-tech/password-strength-bundle@v1.3.0
 - pkg:composer/nowo-tech/password-strength-bundle@v2.0.0
 - pkg:composer/nowo-tech/password-strength-bundle@v2.1.0
+- pkg:composer/nowo-tech/password-strength-bundle@v2.10.0
 - pkg:composer/nowo-tech/password-strength-bundle@v2.2.0
 - pkg:composer/nowo-tech/password-strength-bundle@v2.2.1
 - pkg:composer/nowo-tech/password-strength-bundle@v2.2.2
@@ -16,3 +17,11 @@
 - pkg:composer/nowo-tech/password-strength-bundle@v2.4.0
 - pkg:composer/nowo-tech/password-strength-bundle@v2.5.0
 - pkg:composer/nowo-tech/password-strength-bundle@v2.5.1
+- pkg:composer/nowo-tech/password-strength-bundle@v2.5.2
+- pkg:composer/nowo-tech/password-strength-bundle@v2.5.3
+- pkg:composer/nowo-tech/password-strength-bundle@v2.5.4
+- pkg:composer/nowo-tech/password-strength-bundle@v2.6.0
+- pkg:composer/nowo-tech/password-strength-bundle@v2.7.0
+- pkg:composer/nowo-tech/password-strength-bundle@v2.8.0
+- pkg:composer/nowo-tech/password-strength-bundle@v2.8.1
+- pkg:composer/nowo-tech/password-strength-bundle@v2.9.0
