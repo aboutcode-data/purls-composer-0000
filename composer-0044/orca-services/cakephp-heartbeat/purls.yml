@@ -18,3 +18,4 @@
 - pkg:composer/orca-services/cakephp-heartbeat@4.0.1
 - pkg:composer/orca-services/cakephp-heartbeat@4.0.2
 - pkg:composer/orca-services/cakephp-heartbeat@4.0.3
+- pkg:composer/orca-services/cakephp-heartbeat@4.1.0
