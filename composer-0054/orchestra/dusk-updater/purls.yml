@@ -39,8 +39,10 @@
 - pkg:composer/orchestra/dusk-updater@v2.6.0
 - pkg:composer/orchestra/dusk-updater@v2.7.0
 - pkg:composer/orchestra/dusk-updater@v2.7.1
+- pkg:composer/orchestra/dusk-updater@v2.8.0
 - pkg:composer/orchestra/dusk-updater@v3.0.0
 - pkg:composer/orchestra/dusk-updater@v3.0.1
 - pkg:composer/orchestra/dusk-updater@v3.0.2
 - pkg:composer/orchestra/dusk-updater@v3.1.0
 - pkg:composer/orchestra/dusk-updater@v3.2.0
+- pkg:composer/orchestra/dusk-updater@v3.3.0
