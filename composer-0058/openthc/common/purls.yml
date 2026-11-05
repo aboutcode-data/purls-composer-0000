@@ -1,2 +1,5 @@
 - pkg:composer/openthc/common@v2023.0.0
 - pkg:composer/openthc/common@v2023.1.0
+- pkg:composer/openthc/common@v2026.288.0
+- pkg:composer/openthc/common@v2026.288.1
+- pkg:composer/openthc/common@v2026.289.0
