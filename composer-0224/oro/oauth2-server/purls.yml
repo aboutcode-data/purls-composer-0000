@@ -74,6 +74,7 @@
 - pkg:composer/oro/oauth2-server@6.0.0-beta.1
 - pkg:composer/oro/oauth2-server@6.0.0-rc
 - pkg:composer/oro/oauth2-server@6.0.1
+- pkg:composer/oro/oauth2-server@6.0.10
 - pkg:composer/oro/oauth2-server@6.0.2
 - pkg:composer/oro/oauth2-server@6.0.3
 - pkg:composer/oro/oauth2-server@6.0.4
@@ -95,6 +96,8 @@
 - pkg:composer/oro/oauth2-server@6.1.6
 - pkg:composer/oro/oauth2-server@6.1.7
 - pkg:composer/oro/oauth2-server@6.1.8
+- pkg:composer/oro/oauth2-server@6.1.9
 - pkg:composer/oro/oauth2-server@7.0.0
 - pkg:composer/oro/oauth2-server@7.0.0-rc
 - pkg:composer/oro/oauth2-server@7.0.1
+- pkg:composer/oro/oauth2-server@7.0.2
