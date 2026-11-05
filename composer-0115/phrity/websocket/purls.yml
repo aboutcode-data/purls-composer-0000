@@ -64,3 +64,4 @@
 - pkg:composer/phrity/websocket@3.8.0
 - pkg:composer/phrity/websocket@3.8.1
 - pkg:composer/phrity/websocket@4.0.0
+- pkg:composer/phrity/websocket@4.1.0
