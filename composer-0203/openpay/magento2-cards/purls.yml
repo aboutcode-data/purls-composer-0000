@@ -97,3 +97,4 @@
 - pkg:composer/openpay/magento2-cards@3.5.7
 - pkg:composer/openpay/magento2-cards@3.5.8
 - pkg:composer/openpay/magento2-cards@3.5.9
+- pkg:composer/openpay/magento2-cards@v3.5.16
