@@ -1,1 +1,2 @@
 - pkg:composer/php-io-extensions/box2d@v0.10.5
+- pkg:composer/php-io-extensions/box2d@v0.11.0
