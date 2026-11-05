@@ -32,6 +32,8 @@
 - pkg:composer/omatech/editora-dbinterface@v1.1.5
 - pkg:composer/omatech/editora-dbinterface@v1.1.6
 - pkg:composer/omatech/editora-dbinterface@v1.1.7
+- pkg:composer/omatech/editora-dbinterface@v1.10.0
+- pkg:composer/omatech/editora-dbinterface@v1.11.0
 - pkg:composer/omatech/editora-dbinterface@v1.2.0
 - pkg:composer/omatech/editora-dbinterface@v1.3.0
 - pkg:composer/omatech/editora-dbinterface@v1.3.1
@@ -46,3 +48,4 @@
 - pkg:composer/omatech/editora-dbinterface@v1.8
 - pkg:composer/omatech/editora-dbinterface@v1.9.0
 - pkg:composer/omatech/editora-dbinterface@v1.9.1
+- pkg:composer/omatech/editora-dbinterface@v1.9.2

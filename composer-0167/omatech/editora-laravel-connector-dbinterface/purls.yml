@@ -29,8 +29,16 @@
 - pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.0.3
 - pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.1.0
 - pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.1.1
+- pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.10.0
+- pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.11.0
 - pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.2
 - pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.2.1
 - pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.3
 - pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.4.0
 - pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.5.0
+- pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.5.1
+- pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.5.2
+- pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.6.0
+- pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.7.0
+- pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.8.0
+- pkg:composer/omatech/editora-laravel-connector-dbinterface@v3.9.0
