@@ -18,3 +18,5 @@
 - pkg:composer/nvl/laravel-suite@v4.0.0
 - pkg:composer/nvl/laravel-suite@v5.0.0
 - pkg:composer/nvl/laravel-suite@v5.0.1
+- pkg:composer/nvl/laravel-suite@v6.0.0
+- pkg:composer/nvl/laravel-suite@v7.0.0
