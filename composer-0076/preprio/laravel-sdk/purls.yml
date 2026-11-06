@@ -32,5 +32,6 @@
 - pkg:composer/preprio/laravel-sdk@4.2.4
 - pkg:composer/preprio/laravel-sdk@4.2.5
 - pkg:composer/preprio/laravel-sdk@4.3.1
+- pkg:composer/preprio/laravel-sdk@5.0.0
 - pkg:composer/preprio/laravel-sdk@v1.0.0
 - pkg:composer/preprio/laravel-sdk@v1.1.0
