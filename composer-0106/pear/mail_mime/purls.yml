@@ -12,5 +12,6 @@
 - pkg:composer/pear/mail_mime@1.10.7
 - pkg:composer/pear/mail_mime@1.10.8
 - pkg:composer/pear/mail_mime@1.10.9
+- pkg:composer/pear/mail_mime@1.11.0
 - pkg:composer/pear/mail_mime@1.8.9
 - pkg:composer/pear/mail_mime@1.9.0
