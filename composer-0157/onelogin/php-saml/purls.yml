@@ -44,6 +44,7 @@
 - pkg:composer/onelogin/php-saml@3.8.0
 - pkg:composer/onelogin/php-saml@3.8.1
 - pkg:composer/onelogin/php-saml@3.8.2
+- pkg:composer/onelogin/php-saml@3.9.0
 - pkg:composer/onelogin/php-saml@4.0.0
 - pkg:composer/onelogin/php-saml@4.0.1
 - pkg:composer/onelogin/php-saml@4.1.0
