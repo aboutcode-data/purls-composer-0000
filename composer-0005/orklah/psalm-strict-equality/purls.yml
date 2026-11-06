@@ -4,3 +4,4 @@
 - pkg:composer/orklah/psalm-strict-equality@v2.1.0
 - pkg:composer/orklah/psalm-strict-equality@v3.0.0
 - pkg:composer/orklah/psalm-strict-equality@v3.1.0
+- pkg:composer/orklah/psalm-strict-equality@v3.2.0
