@@ -10,6 +10,8 @@
 - pkg:composer/rasuvaeff/openapi-contract@v0.15.0
 - pkg:composer/rasuvaeff/openapi-contract@v0.15.1
 - pkg:composer/rasuvaeff/openapi-contract@v0.16.0
+- pkg:composer/rasuvaeff/openapi-contract@v0.16.1
+- pkg:composer/rasuvaeff/openapi-contract@v0.16.2
 - pkg:composer/rasuvaeff/openapi-contract@v0.2.0
 - pkg:composer/rasuvaeff/openapi-contract@v0.2.1
 - pkg:composer/rasuvaeff/openapi-contract@v0.3.0
