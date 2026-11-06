@@ -72,3 +72,5 @@
 - pkg:composer/ozitag/tager-backend-mail@1.9.7
 - pkg:composer/ozitag/tager-backend-mail@1.9.8
 - pkg:composer/ozitag/tager-backend-mail@1.9.9
+- pkg:composer/ozitag/tager-backend-mail@2.0.0
+- pkg:composer/ozitag/tager-backend-mail@2.0.1

@@ -161,3 +161,7 @@
 - pkg:composer/ozitag/tager-backend-core@1.9.7
 - pkg:composer/ozitag/tager-backend-core@1.9.8
 - pkg:composer/ozitag/tager-backend-core@1.9.9
+- pkg:composer/ozitag/tager-backend-core@2.0.0
+- pkg:composer/ozitag/tager-backend-core@2.0.1
+- pkg:composer/ozitag/tager-backend-core@2.0.2
+- pkg:composer/ozitag/tager-backend-core@2.1.0

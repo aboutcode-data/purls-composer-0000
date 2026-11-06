@@ -45,3 +45,5 @@
 - pkg:composer/ozitag/tager-backend-settings@1.9.3
 - pkg:composer/ozitag/tager-backend-settings@1.9.4
 - pkg:composer/ozitag/tager-backend-settings@1.9.5
+- pkg:composer/ozitag/tager-backend-settings@2.0.0
+- pkg:composer/ozitag/tager-backend-settings@2.0.1

@@ -56,3 +56,5 @@
 - pkg:composer/ozitag/tager-backend-fields@1.6.7
 - pkg:composer/ozitag/tager-backend-fields@1.6.8
 - pkg:composer/ozitag/tager-backend-fields@1.6.9
+- pkg:composer/ozitag/tager-backend-fields@2.0.0
+- pkg:composer/ozitag/tager-backend-fields@2.0.1
