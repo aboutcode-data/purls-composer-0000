@@ -7,3 +7,4 @@
 - pkg:composer/particle-academy/stripe-php@v0.3.4
 - pkg:composer/particle-academy/stripe-php@v0.3.5
 - pkg:composer/particle-academy/stripe-php@v0.3.6
+- pkg:composer/particle-academy/stripe-php@v0.3.7
