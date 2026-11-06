@@ -27,3 +27,6 @@
 - pkg:composer/mathsgod/light-db@v1.9.1
 - pkg:composer/mathsgod/light-db@v1.9.2
 - pkg:composer/mathsgod/light-db@v2.0.0
+- pkg:composer/mathsgod/light-db@v2.0.1
+- pkg:composer/mathsgod/light-db@v2.1.0-RC1
+- pkg:composer/mathsgod/light-db@v2.1.0-RC2
