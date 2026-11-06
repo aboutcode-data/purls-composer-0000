@@ -1,3 +1,4 @@
 - pkg:composer/pollen/wordpress-args@1.0
 - pkg:composer/pollen/wordpress-args@1.1.0
 - pkg:composer/pollen/wordpress-args@1.1.1
+- pkg:composer/pollen/wordpress-args@2.0.0
