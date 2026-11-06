@@ -10,3 +10,5 @@
 - pkg:composer/mtvtd/laravel-stats@v2.1.0
 - pkg:composer/mtvtd/laravel-stats@v2.1.1
 - pkg:composer/mtvtd/laravel-stats@v2.2.0
+- pkg:composer/mtvtd/laravel-stats@v2.3.0
+- pkg:composer/mtvtd/laravel-stats@v2.4.0
