@@ -1,3 +1,6 @@
 - pkg:composer/ramon/mail-reply@0.1.0-beta
 - pkg:composer/ramon/mail-reply@0.2.0-beta
 - pkg:composer/ramon/mail-reply@2.0.0
+- pkg:composer/ramon/mail-reply@2.0.1
+- pkg:composer/ramon/mail-reply@2.0.2
+- pkg:composer/ramon/mail-reply@2.1.0
