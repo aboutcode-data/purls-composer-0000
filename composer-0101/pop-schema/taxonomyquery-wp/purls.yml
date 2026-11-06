@@ -137,6 +137,7 @@
 - pkg:composer/pop-schema/taxonomyquery-wp@2.5.2
 - pkg:composer/pop-schema/taxonomyquery-wp@2.6.0
 - pkg:composer/pop-schema/taxonomyquery-wp@2.6.1
+- pkg:composer/pop-schema/taxonomyquery-wp@20.0.0
 - pkg:composer/pop-schema/taxonomyquery-wp@3.0.0
 - pkg:composer/pop-schema/taxonomyquery-wp@4.0.0
 - pkg:composer/pop-schema/taxonomyquery-wp@4.0.1
