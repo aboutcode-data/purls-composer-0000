@@ -1,0 +1,2 @@
+- pkg:composer/prism-orm/embedding-openai@v0.9.0
+- pkg:composer/prism-orm/embedding-openai@v1.0.0-RC1
