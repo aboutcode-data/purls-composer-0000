@@ -70,3 +70,5 @@
 - pkg:composer/pragma-framework/core@v4.5.1
 - pkg:composer/pragma-framework/core@v4.6.0
 - pkg:composer/pragma-framework/core@v4.7.0
+- pkg:composer/pragma-framework/core@v4.7.1
+- pkg:composer/pragma-framework/core@v4.7.2
