@@ -48,3 +48,5 @@
 - pkg:composer/plugin/owc-gravityforms-zgw@v1.17.3
 - pkg:composer/plugin/owc-gravityforms-zgw@v1.17.4
 - pkg:composer/plugin/owc-gravityforms-zgw@v1.17.5
+- pkg:composer/plugin/owc-gravityforms-zgw@v1.17.6
+- pkg:composer/plugin/owc-gravityforms-zgw@v1.18.0
