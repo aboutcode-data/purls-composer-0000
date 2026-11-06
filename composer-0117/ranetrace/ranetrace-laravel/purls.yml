@@ -19,3 +19,6 @@
 - pkg:composer/ranetrace/ranetrace-laravel@v1.1.7
 - pkg:composer/ranetrace/ranetrace-laravel@v1.1.8
 - pkg:composer/ranetrace/ranetrace-laravel@v1.1.9
+- pkg:composer/ranetrace/ranetrace-laravel@v1.2.0
+- pkg:composer/ranetrace/ranetrace-laravel@v1.2.1
+- pkg:composer/ranetrace/ranetrace-laravel@v1.2.2
