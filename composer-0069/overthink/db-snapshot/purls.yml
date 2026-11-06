@@ -8,3 +8,5 @@
 - pkg:composer/overthink/db-snapshot@v1.4.0
 - pkg:composer/overthink/db-snapshot@v1.5.0
 - pkg:composer/overthink/db-snapshot@v1.6.0
+- pkg:composer/overthink/db-snapshot@v1.7.0
+- pkg:composer/overthink/db-snapshot@v1.8.0
