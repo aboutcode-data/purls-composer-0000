@@ -31,3 +31,4 @@
 - pkg:composer/potelo/laravel-block-bots@2.1.1
 - pkg:composer/potelo/laravel-block-bots@2.1.2
 - pkg:composer/potelo/laravel-block-bots@3.0
+- pkg:composer/potelo/laravel-block-bots@3.1
