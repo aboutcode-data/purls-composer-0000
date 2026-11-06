@@ -19,6 +19,7 @@
 - pkg:composer/qtranslate/qtranslate-xt@3.15.5
 - pkg:composer/qtranslate/qtranslate-xt@3.16.0
 - pkg:composer/qtranslate/qtranslate-xt@3.16.1
+- pkg:composer/qtranslate/qtranslate-xt@3.16.2
 - pkg:composer/qtranslate/qtranslate-xt@3.5.5
 - pkg:composer/qtranslate/qtranslate-xt@3.6.0
 - pkg:composer/qtranslate/qtranslate-xt@3.6.1
