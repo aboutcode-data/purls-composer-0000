@@ -29,3 +29,4 @@
 - pkg:composer/rdx/db@1.9
 - pkg:composer/rdx/db@2.0
 - pkg:composer/rdx/db@2.0.1
+- pkg:composer/rdx/db@2.1
