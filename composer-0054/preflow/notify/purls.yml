@@ -70,3 +70,4 @@
 - pkg:composer/preflow/notify@v0.55.0
 - pkg:composer/preflow/notify@v0.56.0
 - pkg:composer/preflow/notify@v0.56.1
+- pkg:composer/preflow/notify@v0.57.0
