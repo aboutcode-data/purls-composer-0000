@@ -25,3 +25,5 @@
 - pkg:composer/redound/phalcon-graphql@8.0.0
 - pkg:composer/redound/phalcon-graphql@8.0.1
 - pkg:composer/redound/phalcon-graphql@8.0.2
+- pkg:composer/redound/phalcon-graphql@9.0.0
+- pkg:composer/redound/phalcon-graphql@9.0.1
