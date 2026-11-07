@@ -278,6 +278,7 @@
 - pkg:composer/psalm/phar@7.0.2
 - pkg:composer/psalm/phar@7.0.3
 - pkg:composer/psalm/phar@7.0.4
+- pkg:composer/psalm/phar@7.0.5
 - pkg:composer/psalm/phar@v4.14.0
 - pkg:composer/psalm/phar@v4.15.0
 - pkg:composer/psalm/phar@v4.25.0
