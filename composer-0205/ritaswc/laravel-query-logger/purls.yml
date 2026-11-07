@@ -17,3 +17,4 @@
 - pkg:composer/ritaswc/laravel-query-logger@2.1.3
 - pkg:composer/ritaswc/laravel-query-logger@2.1.4
 - pkg:composer/ritaswc/laravel-query-logger@2.1.6
+- pkg:composer/ritaswc/laravel-query-logger@2.2.0
