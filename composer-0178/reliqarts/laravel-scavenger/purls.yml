@@ -22,3 +22,4 @@
 - pkg:composer/reliqarts/laravel-scavenger@v3.5.0
 - pkg:composer/reliqarts/laravel-scavenger@v3.5.1
 - pkg:composer/reliqarts/laravel-scavenger@v3.5.2
+- pkg:composer/reliqarts/laravel-scavenger@v4.0.0
