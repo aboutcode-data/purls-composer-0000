@@ -8,6 +8,9 @@
 - pkg:composer/phasis/phasis@v0.14.1
 - pkg:composer/phasis/phasis@v0.14.2
 - pkg:composer/phasis/phasis@v0.14.3
+- pkg:composer/phasis/phasis@v0.14.4
+- pkg:composer/phasis/phasis@v0.14.5
+- pkg:composer/phasis/phasis@v0.14.6
 - pkg:composer/phasis/phasis@v0.2.0
 - pkg:composer/phasis/phasis@v0.3.0
 - pkg:composer/phasis/phasis@v0.4.0
