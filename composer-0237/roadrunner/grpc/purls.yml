@@ -1,1 +1,2 @@
 - pkg:composer/roadrunner/grpc@3.8.0
+- pkg:composer/roadrunner/grpc@3.8.1
