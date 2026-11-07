@@ -4,3 +4,5 @@
 - pkg:composer/rdx/imap@2.6
 - pkg:composer/rdx/imap@2.7
 - pkg:composer/rdx/imap@2.8
+- pkg:composer/rdx/imap@3.0
+- pkg:composer/rdx/imap@3.1
