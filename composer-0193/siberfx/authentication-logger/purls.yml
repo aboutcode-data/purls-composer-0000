@@ -1,3 +1,4 @@
 - pkg:composer/siberfx/authentication-logger@6.51.0
 - pkg:composer/siberfx/authentication-logger@7.0.0
 - pkg:composer/siberfx/authentication-logger@7.0.1
+- pkg:composer/siberfx/authentication-logger@8.0.0
