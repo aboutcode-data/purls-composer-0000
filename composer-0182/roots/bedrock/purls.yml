@@ -104,6 +104,7 @@
 - pkg:composer/roots/bedrock@1.31.5
 - pkg:composer/roots/bedrock@1.31.6
 - pkg:composer/roots/bedrock@1.31.7
+- pkg:composer/roots/bedrock@1.31.8
 - pkg:composer/roots/bedrock@1.4.0
 - pkg:composer/roots/bedrock@1.4.1
 - pkg:composer/roots/bedrock@1.4.2
