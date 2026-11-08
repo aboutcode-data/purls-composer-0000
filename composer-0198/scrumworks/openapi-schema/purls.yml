@@ -9,6 +9,7 @@
 - pkg:composer/scrumworks/openapi-schema@v0.14
 - pkg:composer/scrumworks/openapi-schema@v0.14.1
 - pkg:composer/scrumworks/openapi-schema@v0.15
+- pkg:composer/scrumworks/openapi-schema@v0.16
 - pkg:composer/scrumworks/openapi-schema@v0.2.0
 - pkg:composer/scrumworks/openapi-schema@v0.2.1
 - pkg:composer/scrumworks/openapi-schema@v0.2.2
