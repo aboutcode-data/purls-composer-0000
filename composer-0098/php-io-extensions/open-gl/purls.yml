@@ -1,1 +1,2 @@
 - pkg:composer/php-io-extensions/open-gl@0.7.0
+- pkg:composer/php-io-extensions/open-gl@v0.11.1
