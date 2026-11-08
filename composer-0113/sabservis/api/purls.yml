@@ -7,6 +7,9 @@
 - pkg:composer/sabservis/api@v1.0.5
 - pkg:composer/sabservis/api@v2.0
 - pkg:composer/sabservis/api@v2.1
+- pkg:composer/sabservis/api@v2.10
+- pkg:composer/sabservis/api@v2.11
+- pkg:composer/sabservis/api@v2.12
 - pkg:composer/sabservis/api@v2.2
 - pkg:composer/sabservis/api@v2.3
 - pkg:composer/sabservis/api@v2.4
