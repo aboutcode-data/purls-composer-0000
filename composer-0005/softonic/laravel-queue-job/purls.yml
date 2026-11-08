@@ -5,3 +5,4 @@
 - pkg:composer/softonic/laravel-queue-job@1.4.0
 - pkg:composer/softonic/laravel-queue-job@2.0.0
 - pkg:composer/softonic/laravel-queue-job@3.0.0
+- pkg:composer/softonic/laravel-queue-job@3.0.1
