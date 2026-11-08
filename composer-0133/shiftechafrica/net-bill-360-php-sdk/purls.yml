@@ -18,3 +18,5 @@
 - pkg:composer/shiftechafrica/net-bill-360-php-sdk@v1.1.6
 - pkg:composer/shiftechafrica/net-bill-360-php-sdk@v1.1.7
 - pkg:composer/shiftechafrica/net-bill-360-php-sdk@v1.1.8
+- pkg:composer/shiftechafrica/net-bill-360-php-sdk@v1.1.9
+- pkg:composer/shiftechafrica/net-bill-360-php-sdk@v2.0.0
