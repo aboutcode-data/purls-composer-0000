@@ -11,3 +11,4 @@
 - pkg:composer/schorts/firestore-dao@v1.0.0
 - pkg:composer/schorts/firestore-dao@v2.0.0
 - pkg:composer/schorts/firestore-dao@v2.0.0-beta.0
+- pkg:composer/schorts/firestore-dao@v3.0.0
