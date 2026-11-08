@@ -149,3 +149,6 @@
 - pkg:composer/shirtplatform/production-tool@2.2.8
 - pkg:composer/shirtplatform/production-tool@2.2.9
 - pkg:composer/shirtplatform/production-tool@2.3.0
+- pkg:composer/shirtplatform/production-tool@2.3.1
+- pkg:composer/shirtplatform/production-tool@2.4.0
+- pkg:composer/shirtplatform/production-tool@2.4.1
