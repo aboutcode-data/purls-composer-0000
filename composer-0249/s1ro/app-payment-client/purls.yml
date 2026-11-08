@@ -77,6 +77,7 @@
 - pkg:composer/s1ro/app-payment-client@v1.27.0
 - pkg:composer/s1ro/app-payment-client@v1.27.1
 - pkg:composer/s1ro/app-payment-client@v1.27.2
+- pkg:composer/s1ro/app-payment-client@v1.27.3
 - pkg:composer/s1ro/app-payment-client@v1.3.0
 - pkg:composer/s1ro/app-payment-client@v1.3.1
 - pkg:composer/s1ro/app-payment-client@v1.4.0
