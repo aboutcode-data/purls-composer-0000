@@ -1,2 +1,16 @@
 - pkg:composer/saola/core@v1.0.0
 - pkg:composer/saola/core@v1.0.2
+- pkg:composer/saola/core@v1.0.3
+- pkg:composer/saola/core@v2.0.0
+- pkg:composer/saola/core@v2.1.0
+- pkg:composer/saola/core@v2.1.1
+- pkg:composer/saola/core@v2.2.0
+- pkg:composer/saola/core@v2.3.0
+- pkg:composer/saola/core@v2.4.0
+- pkg:composer/saola/core@v2.5.0
+- pkg:composer/saola/core@v2.6.0
+- pkg:composer/saola/core@v2.7.0
+- pkg:composer/saola/core@v2.7.1
+- pkg:composer/saola/core@v2.8.0
+- pkg:composer/saola/core@v2.9.0
+- pkg:composer/saola/core@v2.9.1

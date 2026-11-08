@@ -1,2 +1,15 @@
 - pkg:composer/saola/compiler@v1.0.0
 - pkg:composer/saola/compiler@v1.0.2
+- pkg:composer/saola/compiler@v2.0.0
+- pkg:composer/saola/compiler@v2.1.0
+- pkg:composer/saola/compiler@v3.0.0
+- pkg:composer/saola/compiler@v3.1.0
+- pkg:composer/saola/compiler@v3.1.1
+- pkg:composer/saola/compiler@v3.1.2
+- pkg:composer/saola/compiler@v3.2.0
+- pkg:composer/saola/compiler@v3.2.1
+- pkg:composer/saola/compiler@v3.2.2
+- pkg:composer/saola/compiler@v3.3.0
+- pkg:composer/saola/compiler@v3.4.0
+- pkg:composer/saola/compiler@v3.4.1
+- pkg:composer/saola/compiler@v3.5.0
