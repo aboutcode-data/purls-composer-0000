@@ -119,3 +119,6 @@
 - pkg:composer/sgalinski/sgc-core@6.3.1
 - pkg:composer/sgalinski/sgc-core@6.4.0
 - pkg:composer/sgalinski/sgc-core@6.4.1
+- pkg:composer/sgalinski/sgc-core@7.0.0
+- pkg:composer/sgalinski/sgc-core@7.0.1
+- pkg:composer/sgalinski/sgc-core@7.0.2

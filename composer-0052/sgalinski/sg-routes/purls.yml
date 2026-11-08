@@ -119,7 +119,13 @@
 - pkg:composer/sgalinski/sg-routes@8.2.2
 - pkg:composer/sgalinski/sg-routes@8.3.0
 - pkg:composer/sgalinski/sg-routes@8.3.1
+- pkg:composer/sgalinski/sg-routes@8.3.2
+- pkg:composer/sgalinski/sg-routes@8.3.3
 - pkg:composer/sgalinski/sg-routes@9.0.0
 - pkg:composer/sgalinski/sg-routes@9.0.1
 - pkg:composer/sgalinski/sg-routes@9.0.2
 - pkg:composer/sgalinski/sg-routes@9.0.3
+- pkg:composer/sgalinski/sg-routes@9.0.4
+- pkg:composer/sgalinski/sg-routes@9.0.5
+- pkg:composer/sgalinski/sg-routes@9.0.6
+- pkg:composer/sgalinski/sg-routes@9.0.7
