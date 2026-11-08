@@ -1,3 +1,4 @@
 - pkg:composer/simplestats-io/statamic-addon@v1.0.0
 - pkg:composer/simplestats-io/statamic-addon@v1.1.0
 - pkg:composer/simplestats-io/statamic-addon@v1.1.1
+- pkg:composer/simplestats-io/statamic-addon@v1.2.1

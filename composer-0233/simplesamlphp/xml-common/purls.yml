@@ -117,6 +117,7 @@
 - pkg:composer/simplesamlphp/xml-common@v1.25.1
 - pkg:composer/simplesamlphp/xml-common@v1.26.0
 - pkg:composer/simplesamlphp/xml-common@v1.27.0
+- pkg:composer/simplesamlphp/xml-common@v1.27.1
 - pkg:composer/simplesamlphp/xml-common@v1.3.0
 - pkg:composer/simplesamlphp/xml-common@v1.3.1
 - pkg:composer/simplesamlphp/xml-common@v1.4.0
