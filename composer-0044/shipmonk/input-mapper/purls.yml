@@ -20,3 +20,5 @@
 - pkg:composer/shipmonk/input-mapper@2.1.1
 - pkg:composer/shipmonk/input-mapper@2.2.0
 - pkg:composer/shipmonk/input-mapper@2.2.1
+- pkg:composer/shipmonk/input-mapper@2.3.0
+- pkg:composer/shipmonk/input-mapper@2.3.1
