@@ -6,3 +6,5 @@
 - pkg:composer/softan/users-php-sdk@v0.2.4
 - pkg:composer/softan/users-php-sdk@v0.2.5
 - pkg:composer/softan/users-php-sdk@v0.2.6
+- pkg:composer/softan/users-php-sdk@v0.2.7
+- pkg:composer/softan/users-php-sdk@v0.2.8
