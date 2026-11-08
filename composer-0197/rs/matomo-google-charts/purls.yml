@@ -1,1 +1,2 @@
 - pkg:composer/rs/matomo-google-charts@1.0.0
+- pkg:composer/rs/matomo-google-charts@v1.0.1
