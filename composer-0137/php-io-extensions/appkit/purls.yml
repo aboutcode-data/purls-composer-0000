@@ -3,3 +3,4 @@
 - pkg:composer/php-io-extensions/appkit@v0.10.2
 - pkg:composer/php-io-extensions/appkit@v0.10.5
 - pkg:composer/php-io-extensions/appkit@v0.11.0
+- pkg:composer/php-io-extensions/appkit@v0.11.1
