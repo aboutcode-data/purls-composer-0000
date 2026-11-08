@@ -3,3 +3,4 @@
 - pkg:composer/slam/psr7-get-client-ip@v1.2.0
 - pkg:composer/slam/psr7-get-client-ip@v1.3.0
 - pkg:composer/slam/psr7-get-client-ip@v1.4.0
+- pkg:composer/slam/psr7-get-client-ip@v1.5.0
