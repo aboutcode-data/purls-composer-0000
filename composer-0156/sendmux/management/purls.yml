@@ -2,3 +2,4 @@
 - pkg:composer/sendmux/management@v2.0.0
 - pkg:composer/sendmux/management@v2.1.0
 - pkg:composer/sendmux/management@v2.1.1
+- pkg:composer/sendmux/management@v3.0.0
