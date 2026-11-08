@@ -9,6 +9,8 @@
 - pkg:composer/rezilio/collector-bundle@1.0.17
 - pkg:composer/rezilio/collector-bundle@1.0.18
 - pkg:composer/rezilio/collector-bundle@1.0.19
+- pkg:composer/rezilio/collector-bundle@1.0.20
+- pkg:composer/rezilio/collector-bundle@1.0.21
 - pkg:composer/rezilio/collector-bundle@1.0.3
 - pkg:composer/rezilio/collector-bundle@1.0.4
 - pkg:composer/rezilio/collector-bundle@1.0.5
