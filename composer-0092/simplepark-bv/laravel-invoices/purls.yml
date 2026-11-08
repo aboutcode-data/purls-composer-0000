@@ -17,3 +17,6 @@
 - pkg:composer/simplepark-bv/laravel-invoices@v2.2.0
 - pkg:composer/simplepark-bv/laravel-invoices@v2.2.1
 - pkg:composer/simplepark-bv/laravel-invoices@v3.0.0
+- pkg:composer/simplepark-bv/laravel-invoices@v4.0.0
+- pkg:composer/simplepark-bv/laravel-invoices@v4.1.0
+- pkg:composer/simplepark-bv/laravel-invoices@v4.1.1
