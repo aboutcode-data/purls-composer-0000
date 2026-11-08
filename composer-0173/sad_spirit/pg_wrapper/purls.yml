@@ -24,3 +24,4 @@
 - pkg:composer/sad_spirit/pg_wrapper@v3.2.0
 - pkg:composer/sad_spirit/pg_wrapper@v3.3.0
 - pkg:composer/sad_spirit/pg_wrapper@v3.3.1
+- pkg:composer/sad_spirit/pg_wrapper@v3.4.0-beta
