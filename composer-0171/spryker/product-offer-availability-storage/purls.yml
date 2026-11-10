@@ -20,3 +20,4 @@
 - pkg:composer/spryker/product-offer-availability-storage@1.4.0
 - pkg:composer/spryker/product-offer-availability-storage@1.5.0
 - pkg:composer/spryker/product-offer-availability-storage@1.6.0
+- pkg:composer/spryker/product-offer-availability-storage@1.6.1
