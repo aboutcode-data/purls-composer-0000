@@ -21,6 +21,7 @@
 - pkg:composer/survos/tui-extras-bundle@2.24.24
 - pkg:composer/survos/tui-extras-bundle@2.33.0
 - pkg:composer/survos/tui-extras-bundle@2.4.4
+- pkg:composer/survos/tui-extras-bundle@2.41.9
 - pkg:composer/survos/tui-extras-bundle@2.5.0
 - pkg:composer/survos/tui-extras-bundle@2.5.1
 - pkg:composer/survos/tui-extras-bundle@2.5.2
