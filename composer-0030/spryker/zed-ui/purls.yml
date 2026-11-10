@@ -81,3 +81,9 @@
 - pkg:composer/spryker/zed-ui@4.2.0
 - pkg:composer/spryker/zed-ui@4.3.0
 - pkg:composer/spryker/zed-ui@4.4.0
+- pkg:composer/spryker/zed-ui@4.4.1
+- pkg:composer/spryker/zed-ui@4.5.0
+- pkg:composer/spryker/zed-ui@4.5.1
+- pkg:composer/spryker/zed-ui@4.6.0
+- pkg:composer/spryker/zed-ui@4.6.1
+- pkg:composer/spryker/zed-ui@4.6.2
