@@ -30,3 +30,5 @@
 - pkg:composer/thelia/dpd-label-module@2.1.7
 - pkg:composer/thelia/dpd-label-module@2.1.8
 - pkg:composer/thelia/dpd-label-module@3.0.0
+- pkg:composer/thelia/dpd-label-module@3.1.0
+- pkg:composer/thelia/dpd-label-module@3.1.1
