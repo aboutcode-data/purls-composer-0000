@@ -1,3 +1,4 @@
 - pkg:composer/shadowbane/laravel-gelf-logger@v1.0.0
 - pkg:composer/shadowbane/laravel-gelf-logger@v2.0.0
 - pkg:composer/shadowbane/laravel-gelf-logger@v2.1.0
+- pkg:composer/shadowbane/laravel-gelf-logger@v2.1.1
