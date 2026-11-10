@@ -292,3 +292,4 @@
 - pkg:composer/symfony/web-link@v8.1.0
 - pkg:composer/symfony/web-link@v8.1.0-BETA1
 - pkg:composer/symfony/web-link@v8.1.0-BETA3
+- pkg:composer/symfony/web-link@v8.2.0-BETA1
