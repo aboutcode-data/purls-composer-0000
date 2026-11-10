@@ -19,6 +19,7 @@
 - pkg:composer/symfony/mercure-notifier@v5.4.39
 - pkg:composer/symfony/mercure-notifier@v5.4.40
 - pkg:composer/symfony/mercure-notifier@v5.4.45
+- pkg:composer/symfony/mercure-notifier@v5.4.54
 - pkg:composer/symfony/mercure-notifier@v5.4.9
 - pkg:composer/symfony/mercure-notifier@v6.0.0
 - pkg:composer/symfony/mercure-notifier@v6.0.0-BETA1
@@ -95,3 +96,4 @@
 - pkg:composer/symfony/mercure-notifier@v8.1.0-BETA1
 - pkg:composer/symfony/mercure-notifier@v8.1.5
 - pkg:composer/symfony/mercure-notifier@v8.1.6
+- pkg:composer/symfony/mercure-notifier@v8.2.0-BETA1
