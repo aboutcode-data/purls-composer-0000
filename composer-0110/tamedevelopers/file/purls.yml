@@ -24,6 +24,11 @@
 - pkg:composer/tamedevelopers/file@3.0.1
 - pkg:composer/tamedevelopers/file@3.0.10
 - pkg:composer/tamedevelopers/file@3.0.11
+- pkg:composer/tamedevelopers/file@3.0.12
+- pkg:composer/tamedevelopers/file@3.0.13
+- pkg:composer/tamedevelopers/file@3.0.14
+- pkg:composer/tamedevelopers/file@3.0.16
+- pkg:composer/tamedevelopers/file@3.0.17
 - pkg:composer/tamedevelopers/file@3.0.2
 - pkg:composer/tamedevelopers/file@3.0.3
 - pkg:composer/tamedevelopers/file@3.0.4
