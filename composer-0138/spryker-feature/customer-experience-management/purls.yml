@@ -10,3 +10,6 @@
 - pkg:composer/spryker-feature/customer-experience-management@0.6.0
 - pkg:composer/spryker-feature/customer-experience-management@1.0.0
 - pkg:composer/spryker-feature/customer-experience-management@1.1.0
+- pkg:composer/spryker-feature/customer-experience-management@1.2.0
+- pkg:composer/spryker-feature/customer-experience-management@2.0.0
+- pkg:composer/spryker-feature/customer-experience-management@202610.0
