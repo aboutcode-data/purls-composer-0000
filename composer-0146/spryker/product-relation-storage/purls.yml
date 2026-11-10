@@ -25,3 +25,4 @@
 - pkg:composer/spryker/product-relation-storage@2.6.0
 - pkg:composer/spryker/product-relation-storage@2.7.0
 - pkg:composer/spryker/product-relation-storage@2.8.0
+- pkg:composer/spryker/product-relation-storage@2.8.1
