@@ -5,3 +5,5 @@
 - pkg:composer/spiral-packages/yii-error-handler-bridge@1.1.1
 - pkg:composer/spiral-packages/yii-error-handler-bridge@1.1.2
 - pkg:composer/spiral-packages/yii-error-handler-bridge@1.1.3
+- pkg:composer/spiral-packages/yii-error-handler-bridge@1.1.4
+- pkg:composer/spiral-packages/yii-error-handler-bridge@1.2.0
