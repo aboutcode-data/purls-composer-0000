@@ -79,6 +79,8 @@
 - pkg:composer/slothsoft/core@1.14.9
 - pkg:composer/slothsoft/core@1.15.0
 - pkg:composer/slothsoft/core@1.15.1
+- pkg:composer/slothsoft/core@1.15.2
+- pkg:composer/slothsoft/core@1.15.3
 - pkg:composer/slothsoft/core@1.2.0
 - pkg:composer/slothsoft/core@1.2.1
 - pkg:composer/slothsoft/core@1.3.0
