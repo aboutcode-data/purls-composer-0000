@@ -29,3 +29,4 @@
 - pkg:composer/stimmt/craft-mcp@v1.7.1
 - pkg:composer/stimmt/craft-mcp@v1.8.0
 - pkg:composer/stimmt/craft-mcp@v1.8.1
+- pkg:composer/stimmt/craft-mcp@v2.0.0-beta.1
