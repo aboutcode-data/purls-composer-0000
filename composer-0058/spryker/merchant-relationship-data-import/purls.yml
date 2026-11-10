@@ -9,3 +9,4 @@
 - pkg:composer/spryker/merchant-relationship-data-import@0.1.8
 - pkg:composer/spryker/merchant-relationship-data-import@0.2.0
 - pkg:composer/spryker/merchant-relationship-data-import@0.2.1
+- pkg:composer/spryker/merchant-relationship-data-import@0.2.2
