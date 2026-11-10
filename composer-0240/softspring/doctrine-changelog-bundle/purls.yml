@@ -137,3 +137,4 @@
 - pkg:composer/softspring/doctrine-changelog-bundle@v5.5.9
 - pkg:composer/softspring/doctrine-changelog-bundle@v5.6.0
 - pkg:composer/softspring/doctrine-changelog-bundle@v6.0.0-rc1
+- pkg:composer/softspring/doctrine-changelog-bundle@v6.0.0-rc2
