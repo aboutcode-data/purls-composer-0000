@@ -119,6 +119,8 @@
 - pkg:composer/simplesamlphp/saml2-legacy@v4.19.2
 - pkg:composer/simplesamlphp/saml2-legacy@v4.19.3
 - pkg:composer/simplesamlphp/saml2-legacy@v4.19.4
+- pkg:composer/simplesamlphp/saml2-legacy@v4.19.5
+- pkg:composer/simplesamlphp/saml2-legacy@v4.19.6
 - pkg:composer/simplesamlphp/saml2-legacy@v4.2.0
 - pkg:composer/simplesamlphp/saml2-legacy@v4.2.1
 - pkg:composer/simplesamlphp/saml2-legacy@v4.2.2
@@ -134,6 +136,8 @@
 - pkg:composer/simplesamlphp/saml2-legacy@v4.20.3
 - pkg:composer/simplesamlphp/saml2-legacy@v4.20.4
 - pkg:composer/simplesamlphp/saml2-legacy@v4.20.5
+- pkg:composer/simplesamlphp/saml2-legacy@v4.20.6
+- pkg:composer/simplesamlphp/saml2-legacy@v4.20.7
 - pkg:composer/simplesamlphp/saml2-legacy@v4.3.0
 - pkg:composer/simplesamlphp/saml2-legacy@v4.3.1
 - pkg:composer/simplesamlphp/saml2-legacy@v4.4.0
