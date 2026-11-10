@@ -4,3 +4,5 @@
 - pkg:composer/sebastianpopp/laravel-uptime-kuma-push@0.1.0
 - pkg:composer/sebastianpopp/laravel-uptime-kuma-push@0.2.0
 - pkg:composer/sebastianpopp/laravel-uptime-kuma-push@0.3.0
+- pkg:composer/sebastianpopp/laravel-uptime-kuma-push@1.0.0
+- pkg:composer/sebastianpopp/laravel-uptime-kuma-push@1.0.1
