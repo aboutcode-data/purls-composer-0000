@@ -20,3 +20,12 @@
 - pkg:composer/stimmt/craft-mcp@v1.4.0-beta.7
 - pkg:composer/stimmt/craft-mcp@v1.4.0-beta.8
 - pkg:composer/stimmt/craft-mcp@v1.4.0-beta.9
+- pkg:composer/stimmt/craft-mcp@v1.5.0
+- pkg:composer/stimmt/craft-mcp@v1.6.0
+- pkg:composer/stimmt/craft-mcp@v1.6.1
+- pkg:composer/stimmt/craft-mcp@v1.6.2
+- pkg:composer/stimmt/craft-mcp@v1.6.3
+- pkg:composer/stimmt/craft-mcp@v1.7.0
+- pkg:composer/stimmt/craft-mcp@v1.7.1
+- pkg:composer/stimmt/craft-mcp@v1.8.0
+- pkg:composer/stimmt/craft-mcp@v1.8.1
