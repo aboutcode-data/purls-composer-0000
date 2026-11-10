@@ -21,6 +21,7 @@
 - pkg:composer/teamdotblue/psysh-bundle@v3.5.0
 - pkg:composer/teamdotblue/psysh-bundle@v3.5.1
 - pkg:composer/teamdotblue/psysh-bundle@v4.1.0
+- pkg:composer/teamdotblue/psysh-bundle@v4.10.0
 - pkg:composer/teamdotblue/psysh-bundle@v4.2.0
 - pkg:composer/teamdotblue/psysh-bundle@v4.8.0
 - pkg:composer/teamdotblue/psysh-bundle@v4.9.0
