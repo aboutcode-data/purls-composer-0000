@@ -17,3 +17,4 @@
 - pkg:composer/stefangabos/zebra_curl@1.6.3
 - pkg:composer/stefangabos/zebra_curl@1.6.4
 - pkg:composer/stefangabos/zebra_curl@1.7.0
+- pkg:composer/stefangabos/zebra_curl@2.0.0
