@@ -114,3 +114,4 @@
 - pkg:composer/symfony/security-acl@v3.3.3
 - pkg:composer/symfony/security-acl@v3.3.4
 - pkg:composer/symfony/security-acl@v3.4.0
+- pkg:composer/symfony/security-acl@v3.5.0

@@ -45,3 +45,5 @@
 - pkg:composer/symfony/translation-contracts@v3.6.1
 - pkg:composer/symfony/translation-contracts@v3.7.0
 - pkg:composer/symfony/translation-contracts@v3.7.1
+- pkg:composer/symfony/translation-contracts@v3.8.0
+- pkg:composer/symfony/translation-contracts@v3.8.1
