@@ -3,3 +3,6 @@
 - pkg:composer/survos/place-map-bundle@2.18.11
 - pkg:composer/survos/place-map-bundle@2.19.1
 - pkg:composer/survos/place-map-bundle@2.33.0
+- pkg:composer/survos/place-map-bundle@2.39.0
+- pkg:composer/survos/place-map-bundle@2.41.9
+- pkg:composer/survos/place-map-bundle@2.42.5

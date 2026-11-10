@@ -1,3 +1,4 @@
 - pkg:composer/survos/mercadolibre-php@2.27.6
 - pkg:composer/survos/mercadolibre-php@2.27.9
 - pkg:composer/survos/mercadolibre-php@2.33.0
+- pkg:composer/survos/mercadolibre-php@2.41.9

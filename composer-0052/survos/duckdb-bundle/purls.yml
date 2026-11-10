@@ -1,0 +1,5 @@
+- pkg:composer/survos/duckdb-bundle@2.45.19
+- pkg:composer/survos/duckdb-bundle@2.45.26
+- pkg:composer/survos/duckdb-bundle@2.45.31
+- pkg:composer/survos/duckdb-bundle@2.45.8
+- pkg:composer/survos/duckdb-bundle@2.45.9

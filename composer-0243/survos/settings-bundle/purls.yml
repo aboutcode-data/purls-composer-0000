@@ -2,3 +2,7 @@
 - pkg:composer/survos/settings-bundle@2.18.0
 - pkg:composer/survos/settings-bundle@2.18.18
 - pkg:composer/survos/settings-bundle@2.33.0
+- pkg:composer/survos/settings-bundle@2.34.36
+- pkg:composer/survos/settings-bundle@2.39.0
+- pkg:composer/survos/settings-bundle@2.41.9
+- pkg:composer/survos/settings-bundle@2.42.14
