@@ -13,3 +13,4 @@
 - pkg:composer/strictphp/conventions@v2.0.0
 - pkg:composer/strictphp/conventions@v2.0.1
 - pkg:composer/strictphp/conventions@v2.0.2
+- pkg:composer/strictphp/conventions@v2.1.0
