@@ -16,3 +16,4 @@
 - pkg:composer/staffbase/plugins-sdk-php@2.1.2
 - pkg:composer/staffbase/plugins-sdk-php@3.0.0
 - pkg:composer/staffbase/plugins-sdk-php@3.0.1
+- pkg:composer/staffbase/plugins-sdk-php@3.0.2
