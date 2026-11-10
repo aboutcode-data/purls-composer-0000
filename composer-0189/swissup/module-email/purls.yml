@@ -53,6 +53,8 @@
 - pkg:composer/swissup/module-email@0.7.11
 - pkg:composer/swissup/module-email@0.7.12
 - pkg:composer/swissup/module-email@0.7.13
+- pkg:composer/swissup/module-email@0.7.14
+- pkg:composer/swissup/module-email@0.7.15
 - pkg:composer/swissup/module-email@0.7.2
 - pkg:composer/swissup/module-email@0.7.3
 - pkg:composer/swissup/module-email@0.7.4
