@@ -8,3 +8,5 @@
 - pkg:composer/spryker/silex@2.1.1
 - pkg:composer/spryker/silex@2.2.0
 - pkg:composer/spryker/silex@2.2.1
+- pkg:composer/spryker/silex@3.0.0
+- pkg:composer/spryker/silex@3.0.1
