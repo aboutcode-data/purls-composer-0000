@@ -10,3 +10,4 @@
 - pkg:composer/spryker/flysystem@2.2.0
 - pkg:composer/spryker/flysystem@3.0.0
 - pkg:composer/spryker/flysystem@3.1.0
+- pkg:composer/spryker/flysystem@3.2.0
