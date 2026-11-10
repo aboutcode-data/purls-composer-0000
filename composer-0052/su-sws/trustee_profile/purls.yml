@@ -20,3 +20,6 @@
 - pkg:composer/su-sws/trustee_profile@6.0.0
 - pkg:composer/su-sws/trustee_profile@6.1.0
 - pkg:composer/su-sws/trustee_profile@6.2.0
+- pkg:composer/su-sws/trustee_profile@7.0.0
+- pkg:composer/su-sws/trustee_profile@7.0.1
+- pkg:composer/su-sws/trustee_profile@7.0.2
