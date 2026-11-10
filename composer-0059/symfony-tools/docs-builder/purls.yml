@@ -58,3 +58,4 @@
 - pkg:composer/symfony-tools/docs-builder@v0.9
 - pkg:composer/symfony-tools/docs-builder@v1.0.0
 - pkg:composer/symfony-tools/docs-builder@v1.0.1
+- pkg:composer/symfony-tools/docs-builder@v1.0.2
