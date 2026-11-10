@@ -12,6 +12,8 @@
 - pkg:composer/simplesamlphp/simplesamlphp@2.0.5
 - pkg:composer/simplesamlphp/simplesamlphp@2.1.0
 - pkg:composer/simplesamlphp/simplesamlphp@2.1.0-rc1
+- pkg:composer/simplesamlphp/simplesamlphp@2.4.11
+- pkg:composer/simplesamlphp/simplesamlphp@2.5.4
 - pkg:composer/simplesamlphp/simplesamlphp@v1.12.0
 - pkg:composer/simplesamlphp/simplesamlphp@v1.13.0
 - pkg:composer/simplesamlphp/simplesamlphp@v1.13.0-rc1
