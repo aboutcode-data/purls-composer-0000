@@ -26,3 +26,5 @@
 - pkg:composer/starfederation/datastar-php@1.0.0-beta.8
 - pkg:composer/starfederation/datastar-php@1.0.0-beta.9
 - pkg:composer/starfederation/datastar-php@1.0.1
+- pkg:composer/starfederation/datastar-php@1.0.2
+- pkg:composer/starfederation/datastar-php@1.0.3
