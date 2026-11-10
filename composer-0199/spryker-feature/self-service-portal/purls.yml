@@ -85,6 +85,8 @@
 - pkg:composer/spryker-feature/self-service-portal@20.19.0
 - pkg:composer/spryker-feature/self-service-portal@20.19.1
 - pkg:composer/spryker-feature/self-service-portal@20.19.2
+- pkg:composer/spryker-feature/self-service-portal@20.19.3
+- pkg:composer/spryker-feature/self-service-portal@20.19.4
 - pkg:composer/spryker-feature/self-service-portal@20.2.0
 - pkg:composer/spryker-feature/self-service-portal@20.2.1
 - pkg:composer/spryker-feature/self-service-portal@20.3.0
