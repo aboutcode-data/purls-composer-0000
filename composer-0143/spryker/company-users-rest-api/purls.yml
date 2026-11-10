@@ -12,6 +12,8 @@
 - pkg:composer/spryker/company-users-rest-api@2.12.0
 - pkg:composer/spryker/company-users-rest-api@2.12.1
 - pkg:composer/spryker/company-users-rest-api@2.12.2
+- pkg:composer/spryker/company-users-rest-api@2.13.0
+- pkg:composer/spryker/company-users-rest-api@2.14.0
 - pkg:composer/spryker/company-users-rest-api@2.2.0
 - pkg:composer/spryker/company-users-rest-api@2.2.1
 - pkg:composer/spryker/company-users-rest-api@2.2.2
