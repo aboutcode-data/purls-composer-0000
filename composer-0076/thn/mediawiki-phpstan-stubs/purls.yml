@@ -3,3 +3,7 @@
 - pkg:composer/thn/mediawiki-phpstan-stubs@v1.45.2
 - pkg:composer/thn/mediawiki-phpstan-stubs@v1.45.3
 - pkg:composer/thn/mediawiki-phpstan-stubs@v1.45.4
+- pkg:composer/thn/mediawiki-phpstan-stubs@v1.45.5
+- pkg:composer/thn/mediawiki-phpstan-stubs@v1.45.6
+- pkg:composer/thn/mediawiki-phpstan-stubs@v1.45.7
+- pkg:composer/thn/mediawiki-phpstan-stubs@v1.45.8
