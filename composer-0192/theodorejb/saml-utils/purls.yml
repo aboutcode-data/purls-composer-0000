@@ -3,3 +3,5 @@
 - pkg:composer/theodorejb/saml-utils@v1.2.0
 - pkg:composer/theodorejb/saml-utils@v2.0.0
 - pkg:composer/theodorejb/saml-utils@v2.1.0
+- pkg:composer/theodorejb/saml-utils@v3.0.0
+- pkg:composer/theodorejb/saml-utils@v4.0.0
