@@ -7,3 +7,4 @@
 - pkg:composer/ssmiff/mezzio-doctrine@v0.3.1
 - pkg:composer/ssmiff/mezzio-doctrine@v0.3.2
 - pkg:composer/ssmiff/mezzio-doctrine@v0.3.3
+- pkg:composer/ssmiff/mezzio-doctrine@v0.3.4
