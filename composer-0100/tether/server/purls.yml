@@ -1,2 +1,3 @@
 - pkg:composer/tether/server@v0.0.1
 - pkg:composer/tether/server@v1.0.0
+- pkg:composer/tether/server@v1.0.1
