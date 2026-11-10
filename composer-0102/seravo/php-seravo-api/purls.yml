@@ -3,3 +3,4 @@
 - pkg:composer/seravo/php-seravo-api@v1.1.1
 - pkg:composer/seravo/php-seravo-api@v2.0.0
 - pkg:composer/seravo/php-seravo-api@v2.0.1
+- pkg:composer/seravo/php-seravo-api@v3.0.0
