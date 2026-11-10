@@ -5,3 +5,5 @@
 - pkg:composer/spora-ai/spora-plugin-openai-image@v0.5.0
 - pkg:composer/spora-ai/spora-plugin-openai-image@v0.5.1
 - pkg:composer/spora-ai/spora-plugin-openai-image@v0.5.2
+- pkg:composer/spora-ai/spora-plugin-openai-image@v0.6.0
+- pkg:composer/spora-ai/spora-plugin-openai-image@v0.7.0
