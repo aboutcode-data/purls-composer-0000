@@ -243,6 +243,7 @@
 - pkg:composer/symfony/dotenv@v5.4.45
 - pkg:composer/symfony/dotenv@v5.4.48
 - pkg:composer/symfony/dotenv@v5.4.5
+- pkg:composer/symfony/dotenv@v5.4.54
 - pkg:composer/symfony/dotenv@v6.0.0
 - pkg:composer/symfony/dotenv@v6.0.0-BETA1
 - pkg:composer/symfony/dotenv@v6.0.0-RC1
@@ -344,3 +345,4 @@
 - pkg:composer/symfony/dotenv@v8.1.0-BETA2
 - pkg:composer/symfony/dotenv@v8.1.2
 - pkg:composer/symfony/dotenv@v8.1.6
+- pkg:composer/symfony/dotenv@v8.2.0-BETA1
