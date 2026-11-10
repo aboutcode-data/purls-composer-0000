@@ -1,2 +1,6 @@
 - pkg:composer/syscage/laravel-plugin@1.0.0
 - pkg:composer/syscage/laravel-plugin@1.0.1
+- pkg:composer/syscage/laravel-plugin@1.0.2
+- pkg:composer/syscage/laravel-plugin@2.0.0
+- pkg:composer/syscage/laravel-plugin@v1.0.3
+- pkg:composer/syscage/laravel-plugin@v1.0.4

@@ -5,9 +5,12 @@
 - pkg:composer/syrtis/php-json-schema@0.0.14
 - pkg:composer/syrtis/php-json-schema@0.0.15
 - pkg:composer/syrtis/php-json-schema@0.0.16
+- pkg:composer/syrtis/php-json-schema@0.0.17
 - pkg:composer/syrtis/php-json-schema@0.0.18
 - pkg:composer/syrtis/php-json-schema@0.0.19
 - pkg:composer/syrtis/php-json-schema@0.0.2
+- pkg:composer/syrtis/php-json-schema@0.0.20
+- pkg:composer/syrtis/php-json-schema@0.0.21
 - pkg:composer/syrtis/php-json-schema@0.0.3
 - pkg:composer/syrtis/php-json-schema@0.0.4
 - pkg:composer/syrtis/php-json-schema@0.0.5
