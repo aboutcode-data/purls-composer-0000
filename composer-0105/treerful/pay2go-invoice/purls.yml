@@ -17,3 +17,5 @@
 - pkg:composer/treerful/pay2go-invoice@v5.2.0
 - pkg:composer/treerful/pay2go-invoice@v5.2.1
 - pkg:composer/treerful/pay2go-invoice@v6.0.0
+- pkg:composer/treerful/pay2go-invoice@v6.0.1
+- pkg:composer/treerful/pay2go-invoice@v6.1.0
