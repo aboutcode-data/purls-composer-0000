@@ -11,3 +11,5 @@
 - pkg:composer/typicms/bootforms@5.1.0
 - pkg:composer/typicms/bootforms@5.2.0
 - pkg:composer/typicms/bootforms@5.2.1
+- pkg:composer/typicms/bootforms@5.2.2
+- pkg:composer/typicms/bootforms@5.2.3
