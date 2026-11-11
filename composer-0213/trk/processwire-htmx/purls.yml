@@ -1,4 +1,6 @@
 - pkg:composer/trk/processwire-htmx@1.0.5
+- pkg:composer/trk/processwire-htmx@2.1.3
+- pkg:composer/trk/processwire-htmx@2.1.4
 - pkg:composer/trk/processwire-htmx@v1.0.0
 - pkg:composer/trk/processwire-htmx@v1.0.1
 - pkg:composer/trk/processwire-htmx@v1.0.2
@@ -19,3 +21,7 @@
 - pkg:composer/trk/processwire-htmx@v1.1.9
 - pkg:composer/trk/processwire-htmx@v1.2.0
 - pkg:composer/trk/processwire-htmx@v2.0.0
+- pkg:composer/trk/processwire-htmx@v2.0.1
+- pkg:composer/trk/processwire-htmx@v2.1.0
+- pkg:composer/trk/processwire-htmx@v2.1.1
+- pkg:composer/trk/processwire-htmx@v2.1.2

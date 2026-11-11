@@ -12,3 +12,6 @@
 - pkg:composer/troccoli/blade-health-icons@v4.0.0
 - pkg:composer/troccoli/blade-health-icons@v5.0.0
 - pkg:composer/troccoli/blade-health-icons@v6.0.0
+- pkg:composer/troccoli/blade-health-icons@v7.0.0
+- pkg:composer/troccoli/blade-health-icons@v7.1.0
+- pkg:composer/troccoli/blade-health-icons@v7.1.1
