@@ -49,3 +49,6 @@
 - pkg:composer/tinect/redirects@3.3.0
 - pkg:composer/tinect/redirects@3.3.1
 - pkg:composer/tinect/redirects@3.3.2
+- pkg:composer/tinect/redirects@3.4.0
+- pkg:composer/tinect/redirects@3.4.1
+- pkg:composer/tinect/redirects@3.5.0
