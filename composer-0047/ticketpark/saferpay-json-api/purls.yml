@@ -17,6 +17,7 @@
 - pkg:composer/ticketpark/saferpay-json-api@2.2
 - pkg:composer/ticketpark/saferpay-json-api@2.3
 - pkg:composer/ticketpark/saferpay-json-api@v10.0
+- pkg:composer/ticketpark/saferpay-json-api@v11.0
 - pkg:composer/ticketpark/saferpay-json-api@v3.0
 - pkg:composer/ticketpark/saferpay-json-api@v3.0-RC1
 - pkg:composer/ticketpark/saferpay-json-api@v3.0.1
