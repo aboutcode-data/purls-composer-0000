@@ -76,6 +76,8 @@
 - pkg:composer/tnw/salesforce@2.10.79
 - pkg:composer/tnw/salesforce@2.10.8
 - pkg:composer/tnw/salesforce@2.10.80
+- pkg:composer/tnw/salesforce@2.10.81
+- pkg:composer/tnw/salesforce@2.10.82
 - pkg:composer/tnw/salesforce@2.10.9
 - pkg:composer/tnw/salesforce@2.3.13
 - pkg:composer/tnw/salesforce@2.4.2
@@ -337,6 +339,9 @@
 - pkg:composer/tnw/salesforce@2.9.62
 - pkg:composer/tnw/salesforce@2.9.63
 - pkg:composer/tnw/salesforce@2.9.64
+- pkg:composer/tnw/salesforce@2.9.65
+- pkg:composer/tnw/salesforce@2.9.66
+- pkg:composer/tnw/salesforce@2.9.67
 - pkg:composer/tnw/salesforce@2.9.7
 - pkg:composer/tnw/salesforce@2.9.8
 - pkg:composer/tnw/salesforce@2.9.9
