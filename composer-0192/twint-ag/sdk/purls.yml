@@ -26,5 +26,6 @@
 - pkg:composer/twint-ag/sdk@1.8.0
 - pkg:composer/twint-ag/sdk@1.8.2
 - pkg:composer/twint-ag/sdk@1.8.3
+- pkg:composer/twint-ag/sdk@1.9.0
 - pkg:composer/twint-ag/sdk@2.0.0
 - pkg:composer/twint-ag/sdk@v1.8.4
