@@ -50,3 +50,5 @@
 - pkg:composer/tombroucke/otomaties-deployer@3.1.0
 - pkg:composer/tombroucke/otomaties-deployer@3.2.0
 - pkg:composer/tombroucke/otomaties-deployer@3.3.0
+- pkg:composer/tombroucke/otomaties-deployer@3.4.0
+- pkg:composer/tombroucke/otomaties-deployer@3.4.1
