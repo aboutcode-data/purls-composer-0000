@@ -38,4 +38,6 @@
 - pkg:composer/terminal42/escargot@1.6.2
 - pkg:composer/terminal42/escargot@1.6.3
 - pkg:composer/terminal42/escargot@1.7.0
+- pkg:composer/terminal42/escargot@1.7.1
 - pkg:composer/terminal42/escargot@2.0.0
+- pkg:composer/terminal42/escargot@2.0.1
