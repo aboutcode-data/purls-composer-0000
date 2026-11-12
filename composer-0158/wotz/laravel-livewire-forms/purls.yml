@@ -10,3 +10,4 @@
 - pkg:composer/wotz/laravel-livewire-forms@v4.0.0
 - pkg:composer/wotz/laravel-livewire-forms@v5.0.0
 - pkg:composer/wotz/laravel-livewire-forms@v5.1.0
+- pkg:composer/wotz/laravel-livewire-forms@v5.2.0
