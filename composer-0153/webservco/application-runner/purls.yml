@@ -3,3 +3,7 @@
 - pkg:composer/webservco/application-runner@v0.1.0
 - pkg:composer/webservco/application-runner@v0.8.0
 - pkg:composer/webservco/application-runner@v1.0.0
+- pkg:composer/webservco/application-runner@v2.0.0
+- pkg:composer/webservco/application-runner@v2.0.1
+- pkg:composer/webservco/application-runner@v2.1.0
+- pkg:composer/webservco/application-runner@v2.3.0

@@ -9,3 +9,7 @@
 - pkg:composer/webservco/mail@v0.9.0
 - pkg:composer/webservco/mail@v1.0.0
 - pkg:composer/webservco/mail@v1.1.0
+- pkg:composer/webservco/mail@v2.0.0
+- pkg:composer/webservco/mail@v2.0.1
+- pkg:composer/webservco/mail@v2.1.0
+- pkg:composer/webservco/mail@v2.3.0
