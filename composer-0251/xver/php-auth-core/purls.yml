@@ -16,3 +16,8 @@
 - pkg:composer/xver/php-auth-core@2.0.0
 - pkg:composer/xver/php-auth-core@2.0.1
 - pkg:composer/xver/php-auth-core@2.0.2
+- pkg:composer/xver/php-auth-core@3.0.0
+- pkg:composer/xver/php-auth-core@3.0.1
+- pkg:composer/xver/php-auth-core@3.0.2
+- pkg:composer/xver/php-auth-core@3.0.3
+- pkg:composer/xver/php-auth-core@3.0.4
