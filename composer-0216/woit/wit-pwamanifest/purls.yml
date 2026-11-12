@@ -3,3 +3,5 @@
 - pkg:composer/woit/wit-pwamanifest@v1.0.1
 - pkg:composer/woit/wit-pwamanifest@v1.1.0
 - pkg:composer/woit/wit-pwamanifest@v1.2.1
+- pkg:composer/woit/wit-pwamanifest@v1.2.3
+- pkg:composer/woit/wit-pwamanifest@v1.2.4
