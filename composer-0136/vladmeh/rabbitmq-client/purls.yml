@@ -10,3 +10,4 @@
 - pkg:composer/vladmeh/rabbitmq-client@2.0.1
 - pkg:composer/vladmeh/rabbitmq-client@2.0.2
 - pkg:composer/vladmeh/rabbitmq-client@2.0.3
+- pkg:composer/vladmeh/rabbitmq-client@v3.0.0
