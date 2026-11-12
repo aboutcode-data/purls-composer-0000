@@ -800,7 +800,12 @@
 - pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.244
 - pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.245
 - pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.246
+- pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.247
+- pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.248
+- pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.249
 - pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.25
+- pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.250
+- pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.251
 - pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.26
 - pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.27
 - pkg:composer/ultracart/rest_api_v2_sdk_php@4.1.28
