@@ -5,3 +5,4 @@
 - pkg:composer/wedrix/watchtower-bundle@v2.0.3
 - pkg:composer/wedrix/watchtower-bundle@v3.0.0
 - pkg:composer/wedrix/watchtower-bundle@v3.0.1
+- pkg:composer/wedrix/watchtower-bundle@v4.0.0

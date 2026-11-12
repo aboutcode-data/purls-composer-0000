@@ -31,3 +31,5 @@
 - pkg:composer/weebly/laravel-mutate@v1.1.9
 - pkg:composer/weebly/laravel-mutate@v1.2.0
 - pkg:composer/weebly/laravel-mutate@v2.0.0
+- pkg:composer/weebly/laravel-mutate@v2.1.0
+- pkg:composer/weebly/laravel-mutate@v2.1.1
