@@ -4,3 +4,4 @@
 - pkg:composer/websk/php-filemanager@2.0.0
 - pkg:composer/websk/php-filemanager@2.0.1
 - pkg:composer/websk/php-filemanager@2.0.2
+- pkg:composer/websk/php-filemanager@3.0.0
