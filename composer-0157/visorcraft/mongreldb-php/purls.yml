@@ -8,9 +8,11 @@
 - pkg:composer/visorcraft/mongreldb-php@v0.63.1
 - pkg:composer/visorcraft/mongreldb-php@v0.64.14
 - pkg:composer/visorcraft/mongreldb-php@v0.64.17
+- pkg:composer/visorcraft/mongreldb-php@v0.64.19
 - pkg:composer/visorcraft/mongreldb-php@v0.64.2
 - pkg:composer/visorcraft/mongreldb-php@v0.64.3
 - pkg:composer/visorcraft/mongreldb-php@v0.64.4
 - pkg:composer/visorcraft/mongreldb-php@v0.64.5
 - pkg:composer/visorcraft/mongreldb-php@v0.64.6
 - pkg:composer/visorcraft/mongreldb-php@v0.64.8
+- pkg:composer/visorcraft/mongreldb-php@v0.65.1
