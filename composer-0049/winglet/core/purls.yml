@@ -11,6 +11,9 @@
 - pkg:composer/winglet/core@v0.12
 - pkg:composer/winglet/core@v0.12.1
 - pkg:composer/winglet/core@v0.12.2
+- pkg:composer/winglet/core@v0.13.0-RC1
+- pkg:composer/winglet/core@v0.13.0-RC2
+- pkg:composer/winglet/core@v0.13.0-RC3
 - pkg:composer/winglet/core@v0.2
 - pkg:composer/winglet/core@v0.2.1
 - pkg:composer/winglet/core@v0.2.2
