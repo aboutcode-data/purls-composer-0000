@@ -1,3 +1,5 @@
 - pkg:composer/venusian-voyager/concurrency@v0.10.0
+- pkg:composer/venusian-voyager/concurrency@v0.10.10
+- pkg:composer/venusian-voyager/concurrency@v0.11.0
 - pkg:composer/venusian-voyager/concurrency@v0.8.0
 - pkg:composer/venusian-voyager/concurrency@v0.9.0
