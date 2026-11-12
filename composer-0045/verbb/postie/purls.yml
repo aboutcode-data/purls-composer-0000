@@ -88,6 +88,7 @@
 - pkg:composer/verbb/postie@4.0.19
 - pkg:composer/verbb/postie@4.0.2
 - pkg:composer/verbb/postie@4.0.20
+- pkg:composer/verbb/postie@4.0.21
 - pkg:composer/verbb/postie@4.0.3
 - pkg:composer/verbb/postie@4.0.4
 - pkg:composer/verbb/postie@4.0.5
@@ -114,7 +115,12 @@
 - pkg:composer/verbb/postie@5.0.23
 - pkg:composer/verbb/postie@5.0.24
 - pkg:composer/verbb/postie@5.0.25
+- pkg:composer/verbb/postie@5.0.26
+- pkg:composer/verbb/postie@5.0.27
+- pkg:composer/verbb/postie@5.0.28
+- pkg:composer/verbb/postie@5.0.29
 - pkg:composer/verbb/postie@5.0.3
+- pkg:composer/verbb/postie@5.0.30
 - pkg:composer/verbb/postie@5.0.4
 - pkg:composer/verbb/postie@5.0.5
 - pkg:composer/verbb/postie@5.0.6
