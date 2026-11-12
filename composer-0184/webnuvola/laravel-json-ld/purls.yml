@@ -5,3 +5,4 @@
 - pkg:composer/webnuvola/laravel-json-ld@v1.3.0
 - pkg:composer/webnuvola/laravel-json-ld@v2.0.0
 - pkg:composer/webnuvola/laravel-json-ld@v2.1.0
+- pkg:composer/webnuvola/laravel-json-ld@v2.2.0
