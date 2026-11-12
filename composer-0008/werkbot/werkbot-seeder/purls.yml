@@ -13,3 +13,6 @@
 - pkg:composer/werkbot/werkbot-seeder@4.0.0
 - pkg:composer/werkbot/werkbot-seeder@4.1.0
 - pkg:composer/werkbot/werkbot-seeder@4.1.1
+- pkg:composer/werkbot/werkbot-seeder@4.1.2
+- pkg:composer/werkbot/werkbot-seeder@5.0.0
+- pkg:composer/werkbot/werkbot-seeder@5.0.1
