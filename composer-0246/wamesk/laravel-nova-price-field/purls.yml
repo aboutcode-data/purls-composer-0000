@@ -14,3 +14,5 @@
 - pkg:composer/wamesk/laravel-nova-price-field@1.5.0
 - pkg:composer/wamesk/laravel-nova-price-field@1.5.1
 - pkg:composer/wamesk/laravel-nova-price-field@1.5.2
+- pkg:composer/wamesk/laravel-nova-price-field@4.0.0
+- pkg:composer/wamesk/laravel-nova-price-field@4.0.1
