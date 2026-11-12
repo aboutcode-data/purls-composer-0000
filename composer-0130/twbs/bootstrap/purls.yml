@@ -77,4 +77,5 @@
 - pkg:composer/twbs/bootstrap@v5.3.6
 - pkg:composer/twbs/bootstrap@v5.3.7
 - pkg:composer/twbs/bootstrap@v5.3.8
+- pkg:composer/twbs/bootstrap@v5.3.9
 - pkg:composer/twbs/bootstrap@v6.0.0-alpha.1
