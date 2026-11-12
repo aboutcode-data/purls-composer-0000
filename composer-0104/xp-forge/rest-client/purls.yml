@@ -46,3 +46,4 @@
 - pkg:composer/xp-forge/rest-client@v6.2.0
 - pkg:composer/xp-forge/rest-client@v6.3.0
 - pkg:composer/xp-forge/rest-client@v6.4.0
+- pkg:composer/xp-forge/rest-client@v6.5.0
