@@ -13,6 +13,7 @@
 - pkg:composer/webilia/wp@1.0.23
 - pkg:composer/webilia/wp@v1.0.0
 - pkg:composer/webilia/wp@v1.0.2
+- pkg:composer/webilia/wp@v1.0.25
 - pkg:composer/webilia/wp@v1.0.3
 - pkg:composer/webilia/wp@v1.0.4
 - pkg:composer/webilia/wp@v1.0.5
@@ -20,3 +21,5 @@
 - pkg:composer/webilia/wp@v1.0.7
 - pkg:composer/webilia/wp@v1.0.8
 - pkg:composer/webilia/wp@v1.0.9
+- pkg:composer/webilia/wp@v1.1.0
+- pkg:composer/webilia/wp@v1.2.0
