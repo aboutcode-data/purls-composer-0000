@@ -6,3 +6,5 @@
 - pkg:composer/wpdesk/wp-migrations@1.1.0
 - pkg:composer/wpdesk/wp-migrations@1.2.0
 - pkg:composer/wpdesk/wp-migrations@1.2.1
+- pkg:composer/wpdesk/wp-migrations@1.2.2
+- pkg:composer/wpdesk/wp-migrations@1.2.2.1
