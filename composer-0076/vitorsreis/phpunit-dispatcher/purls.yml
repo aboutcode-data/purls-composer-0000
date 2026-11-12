@@ -1,2 +1,4 @@
 - pkg:composer/vitorsreis/phpunit-dispatcher@1.0.0
 - pkg:composer/vitorsreis/phpunit-dispatcher@1.0.1
+- pkg:composer/vitorsreis/phpunit-dispatcher@v2.0.0
+- pkg:composer/vitorsreis/phpunit-dispatcher@v2.0.1
