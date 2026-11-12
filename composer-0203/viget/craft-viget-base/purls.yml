@@ -27,3 +27,4 @@
 - pkg:composer/viget/craft-viget-base@5.0.7
 - pkg:composer/viget/craft-viget-base@6.0.0
 - pkg:composer/viget/craft-viget-base@6.0.1
+- pkg:composer/viget/craft-viget-base@6.1.0
