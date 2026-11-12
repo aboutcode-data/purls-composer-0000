@@ -96,3 +96,5 @@
 - pkg:composer/worksome/coding-style@v5.0.0
 - pkg:composer/worksome/coding-style@v5.1.0
 - pkg:composer/worksome/coding-style@v5.2.0
+- pkg:composer/worksome/coding-style@v6.0.0
+- pkg:composer/worksome/coding-style@v6.0.1

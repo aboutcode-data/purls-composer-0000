@@ -1,3 +1,4 @@
 - pkg:composer/worksofallen/laravel-mail-scheduler@v1.0.0
 - pkg:composer/worksofallen/laravel-mail-scheduler@v1.0.1
 - pkg:composer/worksofallen/laravel-mail-scheduler@v2.0.0
+- pkg:composer/worksofallen/laravel-mail-scheduler@v3.0.0
