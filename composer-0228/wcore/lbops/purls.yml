@@ -16,6 +16,8 @@
 - pkg:composer/wcore/lbops@v1.0.23
 - pkg:composer/wcore/lbops@v1.0.25
 - pkg:composer/wcore/lbops@v1.0.26
+- pkg:composer/wcore/lbops@v1.0.27
+- pkg:composer/wcore/lbops@v1.0.28
 - pkg:composer/wcore/lbops@v1.0.3
 - pkg:composer/wcore/lbops@v1.0.5
 - pkg:composer/wcore/lbops@v1.0.6
