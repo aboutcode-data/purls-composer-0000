@@ -23,3 +23,4 @@
 - pkg:composer/toflar/psr6-symfony-http-cache-store@4.1.1
 - pkg:composer/toflar/psr6-symfony-http-cache-store@4.2.0
 - pkg:composer/toflar/psr6-symfony-http-cache-store@4.3.0
+- pkg:composer/toflar/psr6-symfony-http-cache-store@4.3.1
