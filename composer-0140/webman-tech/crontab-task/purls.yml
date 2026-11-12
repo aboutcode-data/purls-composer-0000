@@ -56,3 +56,5 @@
 - pkg:composer/webman-tech/crontab-task@v5.1.0
 - pkg:composer/webman-tech/crontab-task@v5.1.1
 - pkg:composer/webman-tech/crontab-task@v5.1.2
+- pkg:composer/webman-tech/crontab-task@v5.1.3
+- pkg:composer/webman-tech/crontab-task@v5.2.0
