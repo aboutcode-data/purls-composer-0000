@@ -2,3 +2,5 @@
 - pkg:composer/whatwedo/sylius-datatrans-payment-plugin@v1.0.1
 - pkg:composer/whatwedo/sylius-datatrans-payment-plugin@v2.0.0
 - pkg:composer/whatwedo/sylius-datatrans-payment-plugin@v2.0.1
+- pkg:composer/whatwedo/sylius-datatrans-payment-plugin@v2.1.0
+- pkg:composer/whatwedo/sylius-datatrans-payment-plugin@v2.1.0-beta.1
