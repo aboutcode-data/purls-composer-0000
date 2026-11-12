@@ -21,3 +21,5 @@
 - pkg:composer/wpml/core-api@0.1.9
 - pkg:composer/wpml/core-api@0.2.0-b.1
 - pkg:composer/wpml/core-api@5.0.0
+- pkg:composer/wpml/core-api@5.2.0
+- pkg:composer/wpml/core-api@5.4.0
