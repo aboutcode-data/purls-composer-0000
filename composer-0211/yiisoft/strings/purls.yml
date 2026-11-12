@@ -13,3 +13,4 @@
 - pkg:composer/yiisoft/strings@2.5.0
 - pkg:composer/yiisoft/strings@2.6.0
 - pkg:composer/yiisoft/strings@2.7.0
+- pkg:composer/yiisoft/strings@2.8.0

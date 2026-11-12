@@ -9,3 +9,4 @@
 - pkg:composer/yiisoft/yii-runner-roadrunner@3.1.0
 - pkg:composer/yiisoft/yii-runner-roadrunner@3.1.1
 - pkg:composer/yiisoft/yii-runner-roadrunner@3.2.0
+- pkg:composer/yiisoft/yii-runner-roadrunner@4.0.0
