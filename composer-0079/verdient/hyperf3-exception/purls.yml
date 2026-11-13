@@ -4,3 +4,4 @@
 - pkg:composer/verdient/hyperf3-exception@1.0.3
 - pkg:composer/verdient/hyperf3-exception@2.0.0
 - pkg:composer/verdient/hyperf3-exception@2.1.0
+- pkg:composer/verdient/hyperf3-exception@3.2.0

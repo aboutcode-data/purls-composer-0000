@@ -5,3 +5,4 @@
 - pkg:composer/verdient/hyperf3-validation@2.0.2
 - pkg:composer/verdient/hyperf3-validation@2.0.3
 - pkg:composer/verdient/hyperf3-validation@2.1.0
+- pkg:composer/verdient/hyperf3-validation@3.2.0
