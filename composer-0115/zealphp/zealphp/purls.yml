@@ -59,7 +59,13 @@
 - pkg:composer/zealphp/zealphp@v0.4.13
 - pkg:composer/zealphp/zealphp@v0.4.14
 - pkg:composer/zealphp/zealphp@v0.4.15
+- pkg:composer/zealphp/zealphp@v0.4.16
+- pkg:composer/zealphp/zealphp@v0.4.17
+- pkg:composer/zealphp/zealphp@v0.4.18
+- pkg:composer/zealphp/zealphp@v0.4.19
 - pkg:composer/zealphp/zealphp@v0.4.2
+- pkg:composer/zealphp/zealphp@v0.4.20
+- pkg:composer/zealphp/zealphp@v0.4.21
 - pkg:composer/zealphp/zealphp@v0.4.3
 - pkg:composer/zealphp/zealphp@v0.4.4
 - pkg:composer/zealphp/zealphp@v0.4.5
