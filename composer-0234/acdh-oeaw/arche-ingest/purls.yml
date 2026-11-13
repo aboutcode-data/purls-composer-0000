@@ -16,6 +16,9 @@
 - pkg:composer/acdh-oeaw/arche-ingest@1.13.2
 - pkg:composer/acdh-oeaw/arche-ingest@1.13.3
 - pkg:composer/acdh-oeaw/arche-ingest@1.13.4
+- pkg:composer/acdh-oeaw/arche-ingest@1.13.5
+- pkg:composer/acdh-oeaw/arche-ingest@1.13.6
+- pkg:composer/acdh-oeaw/arche-ingest@1.13.7
 - pkg:composer/acdh-oeaw/arche-ingest@1.2.0
 - pkg:composer/acdh-oeaw/arche-ingest@1.2.1
 - pkg:composer/acdh-oeaw/arche-ingest@1.2.2
