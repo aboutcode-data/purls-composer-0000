@@ -4,3 +4,4 @@
 - pkg:composer/68publishers/tracy-git-version@v1.1.0
 - pkg:composer/68publishers/tracy-git-version@v1.2.0
 - pkg:composer/68publishers/tracy-git-version@v1.2.1
+- pkg:composer/68publishers/tracy-git-version@v2.0.0
