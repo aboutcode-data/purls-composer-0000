@@ -23,3 +23,5 @@
 - pkg:composer/8fold/php-html-builder@4.2.0
 - pkg:composer/8fold/php-html-builder@4.3.0
 - pkg:composer/8fold/php-html-builder@4.4.0
+- pkg:composer/8fold/php-html-builder@5.0.0
+- pkg:composer/8fold/php-html-builder@5.1.0
