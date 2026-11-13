@@ -26,3 +26,4 @@
 - pkg:composer/werkbot/werkbot-search@3.1.4
 - pkg:composer/werkbot/werkbot-search@4.0.0
 - pkg:composer/werkbot/werkbot-search@4.0.1
+- pkg:composer/werkbot/werkbot-search@5.0.0
