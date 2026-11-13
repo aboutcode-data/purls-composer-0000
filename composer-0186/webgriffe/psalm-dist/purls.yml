@@ -30,3 +30,4 @@
 - pkg:composer/webgriffe/psalm-dist@7.2.1
 - pkg:composer/webgriffe/psalm-dist@7.3.0
 - pkg:composer/webgriffe/psalm-dist@7.3.1
+- pkg:composer/webgriffe/psalm-dist@7.3.2
