@@ -15,3 +15,7 @@
 - pkg:composer/adachsoft/workflow@v3.0.0
 - pkg:composer/adachsoft/workflow@v3.0.1
 - pkg:composer/adachsoft/workflow@v4.0.0
+- pkg:composer/adachsoft/workflow@v5.0.0
+- pkg:composer/adachsoft/workflow@v5.1.0
+- pkg:composer/adachsoft/workflow@v5.2.0
+- pkg:composer/adachsoft/workflow@v6.0.0
