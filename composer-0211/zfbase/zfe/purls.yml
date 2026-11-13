@@ -472,6 +472,7 @@
 - pkg:composer/zfbase/zfe@v1.36.9
 - pkg:composer/zfbase/zfe@v2.0.0
 - pkg:composer/zfbase/zfe@v2.0.1
+- pkg:composer/zfbase/zfe@v2.0.10
 - pkg:composer/zfbase/zfe@v2.0.2
 - pkg:composer/zfbase/zfe@v2.0.3
 - pkg:composer/zfbase/zfe@v2.0.4
