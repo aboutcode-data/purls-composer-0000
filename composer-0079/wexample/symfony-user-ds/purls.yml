@@ -2,6 +2,7 @@
 - pkg:composer/wexample/symfony-user-ds@10.0.0
 - pkg:composer/wexample/symfony-user-ds@10.0.1
 - pkg:composer/wexample/symfony-user-ds@10.0.2
+- pkg:composer/wexample/symfony-user-ds@10.0.3
 - pkg:composer/wexample/symfony-user-ds@2.0.0
 - pkg:composer/wexample/symfony-user-ds@3.0.0
 - pkg:composer/wexample/symfony-user-ds@3.0.1
