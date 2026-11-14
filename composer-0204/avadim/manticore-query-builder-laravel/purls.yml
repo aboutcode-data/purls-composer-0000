@@ -7,3 +7,10 @@
 - pkg:composer/avadim/manticore-query-builder-laravel@v2.1.0
 - pkg:composer/avadim/manticore-query-builder-laravel@v2.1.1
 - pkg:composer/avadim/manticore-query-builder-laravel@v3.0.0
+- pkg:composer/avadim/manticore-query-builder-laravel@v4.0.0
+- pkg:composer/avadim/manticore-query-builder-laravel@v4.0.0-alpha.1
+- pkg:composer/avadim/manticore-query-builder-laravel@v4.0.0-alpha.2
+- pkg:composer/avadim/manticore-query-builder-laravel@v4.0.0-alpha.3
+- pkg:composer/avadim/manticore-query-builder-laravel@v4.0.0-beta.1
+- pkg:composer/avadim/manticore-query-builder-laravel@v4.0.0-rc.1
+- pkg:composer/avadim/manticore-query-builder-laravel@v4.0.1
