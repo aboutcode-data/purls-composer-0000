@@ -1,1 +1,2 @@
 - pkg:composer/betterlite/bedrock-item-upgrade-schema@1.19.0%2Bbedrock-1.26.50%22
+- pkg:composer/betterlite/bedrock-item-upgrade-schema@1.20.0
