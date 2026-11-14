@@ -9,5 +9,11 @@
 - pkg:composer/altayofficial/webrtc@1.6.3
 - pkg:composer/altayofficial/webrtc@1.6.4
 - pkg:composer/altayofficial/webrtc@1.6.5
+- pkg:composer/altayofficial/webrtc@1.7.0
+- pkg:composer/altayofficial/webrtc@1.7.1
+- pkg:composer/altayofficial/webrtc@1.8.0
+- pkg:composer/altayofficial/webrtc@1.9.0
+- pkg:composer/altayofficial/webrtc@1.9.1
+- pkg:composer/altayofficial/webrtc@1.9.2
 - pkg:composer/altayofficial/webrtc@v1.0.0
 - pkg:composer/altayofficial/webrtc@v1.0.1
