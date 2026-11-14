@@ -72,6 +72,7 @@
 - pkg:composer/bazaarvoice/bazaarvoice-magento2-ext@8.3.4
 - pkg:composer/bazaarvoice/bazaarvoice-magento2-ext@8.3.5
 - pkg:composer/bazaarvoice/bazaarvoice-magento2-ext@9.0.0
+- pkg:composer/bazaarvoice/bazaarvoice-magento2-ext@9.1.11
 - pkg:composer/bazaarvoice/bazaarvoice-magento2-ext@9.1.4
 - pkg:composer/bazaarvoice/bazaarvoice-magento2-ext@9.1.5
 - pkg:composer/bazaarvoice/bazaarvoice-magento2-ext@9.1.6
