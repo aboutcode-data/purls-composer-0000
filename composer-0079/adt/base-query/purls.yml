@@ -78,6 +78,7 @@
 - pkg:composer/adt/base-query@v3.11
 - pkg:composer/adt/base-query@v3.12
 - pkg:composer/adt/base-query@v3.13
+- pkg:composer/adt/base-query@v3.14
 - pkg:composer/adt/base-query@v3.2
 - pkg:composer/adt/base-query@v3.2.1
 - pkg:composer/adt/base-query@v3.2.2
