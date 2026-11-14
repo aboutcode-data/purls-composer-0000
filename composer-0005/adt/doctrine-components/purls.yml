@@ -78,6 +78,7 @@
 - pkg:composer/adt/doctrine-components@v3.11
 - pkg:composer/adt/doctrine-components@v3.12
 - pkg:composer/adt/doctrine-components@v3.13
+- pkg:composer/adt/doctrine-components@v3.14
 - pkg:composer/adt/doctrine-components@v3.2
 - pkg:composer/adt/doctrine-components@v3.2.1
 - pkg:composer/adt/doctrine-components@v3.2.2
