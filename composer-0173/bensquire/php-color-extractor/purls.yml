@@ -1,1 +1,4 @@
 - pkg:composer/bensquire/php-color-extractor@0.0.1
+- pkg:composer/bensquire/php-color-extractor@1.0.0
+- pkg:composer/bensquire/php-color-extractor@1.0.1
+- pkg:composer/bensquire/php-color-extractor@1.1.0
