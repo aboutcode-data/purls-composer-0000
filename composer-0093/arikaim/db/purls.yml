@@ -145,6 +145,8 @@
 - pkg:composer/arikaim/db@1.6.49
 - pkg:composer/arikaim/db@1.6.5
 - pkg:composer/arikaim/db@1.6.50
+- pkg:composer/arikaim/db@1.6.51
+- pkg:composer/arikaim/db@1.6.52
 - pkg:composer/arikaim/db@1.6.6
 - pkg:composer/arikaim/db@1.6.7
 - pkg:composer/arikaim/db@1.6.8
