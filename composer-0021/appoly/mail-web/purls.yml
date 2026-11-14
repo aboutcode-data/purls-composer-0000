@@ -47,3 +47,4 @@
 - pkg:composer/appoly/mail-web@v7.0.0
 - pkg:composer/appoly/mail-web@v7.1.0
 - pkg:composer/appoly/mail-web@v7.2.0
+- pkg:composer/appoly/mail-web@v7.2.1
