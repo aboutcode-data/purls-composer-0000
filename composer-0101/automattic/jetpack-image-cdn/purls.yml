@@ -63,3 +63,7 @@
 - pkg:composer/automattic/jetpack-image-cdn@v0.7.9
 - pkg:composer/automattic/jetpack-image-cdn@v0.8.0
 - pkg:composer/automattic/jetpack-image-cdn@v0.8.1
+- pkg:composer/automattic/jetpack-image-cdn@v0.8.2
+- pkg:composer/automattic/jetpack-image-cdn@v0.8.3
+- pkg:composer/automattic/jetpack-image-cdn@v0.8.4
+- pkg:composer/automattic/jetpack-image-cdn@v0.8.5

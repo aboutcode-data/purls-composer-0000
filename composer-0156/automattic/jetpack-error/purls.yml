@@ -43,3 +43,4 @@
 - pkg:composer/automattic/jetpack-error@v3.0.8
 - pkg:composer/automattic/jetpack-error@v3.0.9
 - pkg:composer/automattic/jetpack-error@v4.0.0
+- pkg:composer/automattic/jetpack-error@v4.0.1

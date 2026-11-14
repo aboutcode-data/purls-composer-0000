@@ -97,8 +97,13 @@
 - pkg:composer/automattic/jetpack-stats-admin@v0.38.0
 - pkg:composer/automattic/jetpack-stats-admin@v0.38.1
 - pkg:composer/automattic/jetpack-stats-admin@v0.38.2
+- pkg:composer/automattic/jetpack-stats-admin@v0.39.0
+- pkg:composer/automattic/jetpack-stats-admin@v0.39.1
+- pkg:composer/automattic/jetpack-stats-admin@v0.39.2
+- pkg:composer/automattic/jetpack-stats-admin@v0.39.3
 - pkg:composer/automattic/jetpack-stats-admin@v0.4.0
 - pkg:composer/automattic/jetpack-stats-admin@v0.4.1
+- pkg:composer/automattic/jetpack-stats-admin@v0.40.0
 - pkg:composer/automattic/jetpack-stats-admin@v0.5.0
 - pkg:composer/automattic/jetpack-stats-admin@v0.6.0
 - pkg:composer/automattic/jetpack-stats-admin@v0.6.1
