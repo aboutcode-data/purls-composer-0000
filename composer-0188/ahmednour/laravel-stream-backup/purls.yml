@@ -10,3 +10,9 @@
 - pkg:composer/ahmednour/laravel-stream-backup@1.4.0
 - pkg:composer/ahmednour/laravel-stream-backup@1.4.1
 - pkg:composer/ahmednour/laravel-stream-backup@v1.5.0
+- pkg:composer/ahmednour/laravel-stream-backup@v1.6.0
+- pkg:composer/ahmednour/laravel-stream-backup@v1.7.0
+- pkg:composer/ahmednour/laravel-stream-backup@v1.7.1
+- pkg:composer/ahmednour/laravel-stream-backup@v1.7.2
+- pkg:composer/ahmednour/laravel-stream-backup@v1.8.0
+- pkg:composer/ahmednour/laravel-stream-backup@v1.9.0
