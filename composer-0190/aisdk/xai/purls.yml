@@ -1,4 +1,8 @@
 - pkg:composer/aisdk/xai@v0.1.0
+- pkg:composer/aisdk/xai@v0.10.0
+- pkg:composer/aisdk/xai@v0.10.1
+- pkg:composer/aisdk/xai@v0.11.0
+- pkg:composer/aisdk/xai@v0.11.1
 - pkg:composer/aisdk/xai@v0.2.0
 - pkg:composer/aisdk/xai@v0.2.0-beta
 - pkg:composer/aisdk/xai@v0.2.1
