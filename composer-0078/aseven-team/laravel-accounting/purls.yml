@@ -14,3 +14,5 @@
 - pkg:composer/aseven-team/laravel-accounting@v1.5.0
 - pkg:composer/aseven-team/laravel-accounting@v1.6.0
 - pkg:composer/aseven-team/laravel-accounting@v1.6.1
+- pkg:composer/aseven-team/laravel-accounting@v1.6.2
+- pkg:composer/aseven-team/laravel-accounting@v2.0.0-alpha
