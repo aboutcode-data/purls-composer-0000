@@ -45,6 +45,7 @@
 - pkg:composer/boxybird/waffle@v0.6.0
 - pkg:composer/boxybird/waffle@v0.6.1
 - pkg:composer/boxybird/waffle@v0.6.10
+- pkg:composer/boxybird/waffle@v0.6.11
 - pkg:composer/boxybird/waffle@v0.6.2
 - pkg:composer/boxybird/waffle@v0.6.3
 - pkg:composer/boxybird/waffle@v0.6.4
@@ -55,3 +56,4 @@
 - pkg:composer/boxybird/waffle@v0.6.9
 - pkg:composer/boxybird/waffle@v0.7.0
 - pkg:composer/boxybird/waffle@v0.7.1
+- pkg:composer/boxybird/waffle@v0.7.2
