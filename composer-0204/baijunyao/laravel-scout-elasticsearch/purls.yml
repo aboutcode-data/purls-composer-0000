@@ -12,3 +12,4 @@
 - pkg:composer/baijunyao/laravel-scout-elasticsearch@v5.1.0
 - pkg:composer/baijunyao/laravel-scout-elasticsearch@v5.2.0
 - pkg:composer/baijunyao/laravel-scout-elasticsearch@v5.3.0
+- pkg:composer/baijunyao/laravel-scout-elasticsearch@v6.0.0

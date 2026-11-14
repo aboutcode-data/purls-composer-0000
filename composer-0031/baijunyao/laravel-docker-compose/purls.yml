@@ -3,3 +3,6 @@
 - pkg:composer/baijunyao/laravel-docker-compose@v0.2.0
 - pkg:composer/baijunyao/laravel-docker-compose@v0.2.1
 - pkg:composer/baijunyao/laravel-docker-compose@v0.2.2
+- pkg:composer/baijunyao/laravel-docker-compose@v0.3.0
+- pkg:composer/baijunyao/laravel-docker-compose@v0.4.0
+- pkg:composer/baijunyao/laravel-docker-compose@v0.5.0
