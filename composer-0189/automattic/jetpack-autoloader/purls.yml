@@ -111,3 +111,5 @@
 - pkg:composer/automattic/jetpack-autoloader@v5.0.9
 - pkg:composer/automattic/jetpack-autoloader@v6.0.0
 - pkg:composer/automattic/jetpack-autoloader@v6.0.1
+- pkg:composer/automattic/jetpack-autoloader@v6.0.2
+- pkg:composer/automattic/jetpack-autoloader@v6.0.3
