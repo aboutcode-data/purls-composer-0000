@@ -265,6 +265,8 @@
 - pkg:composer/anomaly/streams-platform@v1.10.2
 - pkg:composer/anomaly/streams-platform@v1.10.3
 - pkg:composer/anomaly/streams-platform@v1.10.4
+- pkg:composer/anomaly/streams-platform@v1.10.5
+- pkg:composer/anomaly/streams-platform@v1.10.6
 - pkg:composer/anomaly/streams-platform@v1.2.0
 - pkg:composer/anomaly/streams-platform@v1.2.1
 - pkg:composer/anomaly/streams-platform@v1.2.10
@@ -1425,6 +1427,7 @@
 - pkg:composer/anomaly/streams-platform@v1.9.14
 - pkg:composer/anomaly/streams-platform@v1.9.15
 - pkg:composer/anomaly/streams-platform@v1.9.16
+- pkg:composer/anomaly/streams-platform@v1.9.17
 - pkg:composer/anomaly/streams-platform@v1.9.2
 - pkg:composer/anomaly/streams-platform@v1.9.3
 - pkg:composer/anomaly/streams-platform@v1.9.4
