@@ -57,3 +57,4 @@
 - pkg:composer/bitbag/elasticsearch-plugin@v5.2.1
 - pkg:composer/bitbag/elasticsearch-plugin@v5.2.2
 - pkg:composer/bitbag/elasticsearch-plugin@v5.3.0
+- pkg:composer/bitbag/elasticsearch-plugin@v6.0.0
