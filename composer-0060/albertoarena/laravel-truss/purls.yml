@@ -11,6 +11,13 @@
 - pkg:composer/albertoarena/laravel-truss@v1.13.1
 - pkg:composer/albertoarena/laravel-truss@v1.14.0
 - pkg:composer/albertoarena/laravel-truss@v1.14.1
+- pkg:composer/albertoarena/laravel-truss@v1.15.0
+- pkg:composer/albertoarena/laravel-truss@v1.15.1
+- pkg:composer/albertoarena/laravel-truss@v1.15.2
+- pkg:composer/albertoarena/laravel-truss@v1.15.3
+- pkg:composer/albertoarena/laravel-truss@v1.15.4
+- pkg:composer/albertoarena/laravel-truss@v1.15.5
+- pkg:composer/albertoarena/laravel-truss@v1.16.0
 - pkg:composer/albertoarena/laravel-truss@v1.2.0
 - pkg:composer/albertoarena/laravel-truss@v1.3.0
 - pkg:composer/albertoarena/laravel-truss@v1.3.1
