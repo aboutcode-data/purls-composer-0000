@@ -1,3 +1,6 @@
 - pkg:composer/basedigital/forms@2.0.0
 - pkg:composer/basedigital/forms@2.1.0
 - pkg:composer/basedigital/forms@3.0.0
+- pkg:composer/basedigital/forms@v4.1.0
+- pkg:composer/basedigital/forms@v4.1.1
+- pkg:composer/basedigital/forms@v4.1.2
