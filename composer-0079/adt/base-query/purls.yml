@@ -74,6 +74,10 @@
 - pkg:composer/adt/base-query@v3.0.6
 - pkg:composer/adt/base-query@v3.0.7
 - pkg:composer/adt/base-query@v3.1
+- pkg:composer/adt/base-query@v3.10
+- pkg:composer/adt/base-query@v3.11
+- pkg:composer/adt/base-query@v3.12
+- pkg:composer/adt/base-query@v3.13
 - pkg:composer/adt/base-query@v3.2
 - pkg:composer/adt/base-query@v3.2.1
 - pkg:composer/adt/base-query@v3.2.2
@@ -92,3 +96,8 @@
 - pkg:composer/adt/base-query@v3.4.2
 - pkg:composer/adt/base-query@v3.5
 - pkg:composer/adt/base-query@v3.6
+- pkg:composer/adt/base-query@v3.7
+- pkg:composer/adt/base-query@v3.7.1
+- pkg:composer/adt/base-query@v3.8
+- pkg:composer/adt/base-query@v3.8.1
+- pkg:composer/adt/base-query@v3.9
