@@ -22,6 +22,7 @@
 - pkg:composer/appitudeio/lcms-sdk@3.8.0
 - pkg:composer/appitudeio/lcms-sdk@3.8.1
 - pkg:composer/appitudeio/lcms-sdk@3.8.2
+- pkg:composer/appitudeio/lcms-sdk@3.9.0
 - pkg:composer/appitudeio/lcms-sdk@v3.0.0
 - pkg:composer/appitudeio/lcms-sdk@v3.0.1
 - pkg:composer/appitudeio/lcms-sdk@v3.0.10
