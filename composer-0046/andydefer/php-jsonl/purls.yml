@@ -39,7 +39,13 @@
 - pkg:composer/andydefer/php-jsonl@v0.11.25
 - pkg:composer/andydefer/php-jsonl@v0.11.26
 - pkg:composer/andydefer/php-jsonl@v0.11.27
+- pkg:composer/andydefer/php-jsonl@v0.11.28
+- pkg:composer/andydefer/php-jsonl@v0.11.29
 - pkg:composer/andydefer/php-jsonl@v0.11.3
+- pkg:composer/andydefer/php-jsonl@v0.11.30
+- pkg:composer/andydefer/php-jsonl@v0.11.31
+- pkg:composer/andydefer/php-jsonl@v0.11.32
+- pkg:composer/andydefer/php-jsonl@v0.11.33
 - pkg:composer/andydefer/php-jsonl@v0.11.4
 - pkg:composer/andydefer/php-jsonl@v0.11.5
 - pkg:composer/andydefer/php-jsonl@v0.11.6
