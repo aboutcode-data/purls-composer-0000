@@ -16,6 +16,13 @@
 - pkg:composer/betocampoy/champs-frontend@v1.1.0
 - pkg:composer/betocampoy/champs-frontend@v1.1.1
 - pkg:composer/betocampoy/champs-frontend@v1.10.0
+- pkg:composer/betocampoy/champs-frontend@v1.11.0
+- pkg:composer/betocampoy/champs-frontend@v1.12.0
+- pkg:composer/betocampoy/champs-frontend@v1.13.0
+- pkg:composer/betocampoy/champs-frontend@v1.13.1
+- pkg:composer/betocampoy/champs-frontend@v1.13.2
+- pkg:composer/betocampoy/champs-frontend@v1.13.3
+- pkg:composer/betocampoy/champs-frontend@v1.13.4
 - pkg:composer/betocampoy/champs-frontend@v1.2.0
 - pkg:composer/betocampoy/champs-frontend@v1.3.0
 - pkg:composer/betocampoy/champs-frontend@v1.3.1
