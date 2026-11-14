@@ -8,6 +8,7 @@
 - pkg:composer/always-open/laravel-model-auditlog@v1.0.7
 - pkg:composer/always-open/laravel-model-auditlog@v1.1.0
 - pkg:composer/always-open/laravel-model-auditlog@v1.2.0
+- pkg:composer/always-open/laravel-model-auditlog@v10.0.0
 - pkg:composer/always-open/laravel-model-auditlog@v2.0.0
 - pkg:composer/always-open/laravel-model-auditlog@v2.0.1
 - pkg:composer/always-open/laravel-model-auditlog@v3.0.0
