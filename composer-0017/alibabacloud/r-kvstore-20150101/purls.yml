@@ -37,3 +37,4 @@
 - pkg:composer/alibabacloud/r-kvstore-20150101@6.3.0
 - pkg:composer/alibabacloud/r-kvstore-20150101@6.4.0
 - pkg:composer/alibabacloud/r-kvstore-20150101@6.5.0
+- pkg:composer/alibabacloud/r-kvstore-20150101@7.0.0
