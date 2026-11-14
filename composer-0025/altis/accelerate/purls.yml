@@ -58,3 +58,5 @@
 - pkg:composer/altis/accelerate@4.4.0
 - pkg:composer/altis/accelerate@4.4.0-beta1
 - pkg:composer/altis/accelerate@4.4.1
+- pkg:composer/altis/accelerate@4.4.2
+- pkg:composer/altis/accelerate@4.5.0
