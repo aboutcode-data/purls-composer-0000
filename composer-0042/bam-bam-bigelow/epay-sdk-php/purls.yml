@@ -16,6 +16,7 @@
 - pkg:composer/bam-bam-bigelow/epay-sdk-php@2.1.4.2
 - pkg:composer/bam-bam-bigelow/epay-sdk-php@2.1.5
 - pkg:composer/bam-bam-bigelow/epay-sdk-php@2.1.6
+- pkg:composer/bam-bam-bigelow/epay-sdk-php@3.0.10
 - pkg:composer/bam-bam-bigelow/epay-sdk-php@3.0.7
 - pkg:composer/bam-bam-bigelow/epay-sdk-php@3.0.8
 - pkg:composer/bam-bam-bigelow/epay-sdk-php@3.0.9
