@@ -10,3 +10,6 @@
 - pkg:composer/andreapollastri/cipi-agent@1.5.1
 - pkg:composer/andreapollastri/cipi-agent@1.5.2
 - pkg:composer/andreapollastri/cipi-agent@1.5.3
+- pkg:composer/andreapollastri/cipi-agent@1.5.4
+- pkg:composer/andreapollastri/cipi-agent@2.0.0
+- pkg:composer/andreapollastri/cipi-agent@2.1.0
