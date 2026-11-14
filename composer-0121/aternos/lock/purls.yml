@@ -13,3 +13,4 @@
 - pkg:composer/aternos/lock@v2.0.0
 - pkg:composer/aternos/lock@v2.1.0
 - pkg:composer/aternos/lock@v3.0.0
+- pkg:composer/aternos/lock@v4.0.0
