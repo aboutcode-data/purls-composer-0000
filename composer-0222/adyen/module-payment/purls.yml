@@ -19,6 +19,9 @@
 - pkg:composer/adyen/module-payment@10.10.2
 - pkg:composer/adyen/module-payment@10.10.3
 - pkg:composer/adyen/module-payment@10.10.4
+- pkg:composer/adyen/module-payment@10.11.0
+- pkg:composer/adyen/module-payment@10.11.1
+- pkg:composer/adyen/module-payment@10.11.2
 - pkg:composer/adyen/module-payment@10.2.0
 - pkg:composer/adyen/module-payment@10.3.0
 - pkg:composer/adyen/module-payment@10.4.0
@@ -39,6 +42,9 @@
 - pkg:composer/adyen/module-payment@11.0.0
 - pkg:composer/adyen/module-payment@11.1.0
 - pkg:composer/adyen/module-payment@11.2.0
+- pkg:composer/adyen/module-payment@11.3.0
+- pkg:composer/adyen/module-payment@11.3.1
+- pkg:composer/adyen/module-payment@11.3.2
 - pkg:composer/adyen/module-payment@2.0.0
 - pkg:composer/adyen/module-payment@2.0.1
 - pkg:composer/adyen/module-payment@2.0.2
@@ -219,6 +225,7 @@
 - pkg:composer/adyen/module-payment@9.20.14
 - pkg:composer/adyen/module-payment@9.20.15
 - pkg:composer/adyen/module-payment@9.20.16
+- pkg:composer/adyen/module-payment@9.20.17
 - pkg:composer/adyen/module-payment@9.20.2
 - pkg:composer/adyen/module-payment@9.20.3
 - pkg:composer/adyen/module-payment@9.20.4
