@@ -16,3 +16,4 @@
 - pkg:composer/visorcraft/mongreldb-php@v0.64.6
 - pkg:composer/visorcraft/mongreldb-php@v0.64.8
 - pkg:composer/visorcraft/mongreldb-php@v0.65.1
+- pkg:composer/visorcraft/mongreldb-php@v0.66.0
