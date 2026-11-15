@@ -60,3 +60,7 @@
 - pkg:composer/chapter-three-company/c3-bundle@v0.6.0
 - pkg:composer/chapter-three-company/c3-bundle@v0.6.1
 - pkg:composer/chapter-three-company/c3-bundle@v0.6.1.1
+- pkg:composer/chapter-three-company/c3-bundle@v0.6.2.0
+- pkg:composer/chapter-three-company/c3-bundle@v0.6.3
+- pkg:composer/chapter-three-company/c3-bundle@v0.6.4
+- pkg:composer/chapter-three-company/c3-bundle@v0.6.5
