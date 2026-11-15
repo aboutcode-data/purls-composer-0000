@@ -23,6 +23,7 @@
 - pkg:composer/zero-bounce/sdk@2.1.9
 - pkg:composer/zero-bounce/sdk@2.2.0
 - pkg:composer/zero-bounce/sdk@3.0.0
+- pkg:composer/zero-bounce/sdk@3.0.1
 - pkg:composer/zero-bounce/sdk@v0.0.2
 - pkg:composer/zero-bounce/sdk@v0.0.3
 - pkg:composer/zero-bounce/sdk@v0.0.4
@@ -37,3 +38,4 @@
 - pkg:composer/zero-bounce/sdk@v1.2.0
 - pkg:composer/zero-bounce/sdk@v2.0.0
 - pkg:composer/zero-bounce/sdk@v2.0.1
+- pkg:composer/zero-bounce/sdk@v4.0.0
