@@ -63,6 +63,7 @@
 - pkg:composer/ccmbenchmark/ting@3.8.1
 - pkg:composer/ccmbenchmark/ting@3.9.0
 - pkg:composer/ccmbenchmark/ting@3.9.1
+- pkg:composer/ccmbenchmark/ting@3.9.2
 - pkg:composer/ccmbenchmark/ting@4.0.0
 - pkg:composer/ccmbenchmark/ting@4.0.0-rc.1
 - pkg:composer/ccmbenchmark/ting@4.0.1
