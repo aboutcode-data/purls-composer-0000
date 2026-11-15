@@ -1,4 +1,5 @@
 - pkg:composer/bugo/smf-bricks@0.1
+- pkg:composer/bugo/smf-bricks@0.10
 - pkg:composer/bugo/smf-bricks@0.2
 - pkg:composer/bugo/smf-bricks@0.3
 - pkg:composer/bugo/smf-bricks@0.4
@@ -7,3 +8,4 @@
 - pkg:composer/bugo/smf-bricks@0.7
 - pkg:composer/bugo/smf-bricks@0.8
 - pkg:composer/bugo/smf-bricks@0.9
+- pkg:composer/bugo/smf-bricks@0.9.1
