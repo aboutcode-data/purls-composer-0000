@@ -1,6 +1,7 @@
 - pkg:composer/budgetlens/bol-retailer-api@10.0.0
 - pkg:composer/budgetlens/bol-retailer-api@10.0.1
 - pkg:composer/budgetlens/bol-retailer-api@10.0.3
+- pkg:composer/budgetlens/bol-retailer-api@10.1.0
 - pkg:composer/budgetlens/bol-retailer-api@5.0.2
 - pkg:composer/budgetlens/bol-retailer-api@6.0.0
 - pkg:composer/budgetlens/bol-retailer-api@6.0.1
@@ -14,6 +15,7 @@
 - pkg:composer/budgetlens/bol-retailer-api@9.0.0
 - pkg:composer/budgetlens/bol-retailer-api@9.0.1
 - pkg:composer/budgetlens/bol-retailer-api@9.0.2
+- pkg:composer/budgetlens/bol-retailer-api@v10.2.0
 - pkg:composer/budgetlens/bol-retailer-api@v5.0.0
 - pkg:composer/budgetlens/bol-retailer-api@v5.0.1
 - pkg:composer/budgetlens/bol-retailer-api@v5.0.4
