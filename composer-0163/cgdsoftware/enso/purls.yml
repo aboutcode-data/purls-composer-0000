@@ -1,6 +1,13 @@
 - pkg:composer/cgdsoftware/enso@1.0.0
 - pkg:composer/cgdsoftware/enso@2.0.0
 - pkg:composer/cgdsoftware/enso@2.0.1
+- pkg:composer/cgdsoftware/enso@v10.0.0
+- pkg:composer/cgdsoftware/enso@v11.0.0
+- pkg:composer/cgdsoftware/enso@v11.0.1
+- pkg:composer/cgdsoftware/enso@v11.0.2
+- pkg:composer/cgdsoftware/enso@v11.1.0
+- pkg:composer/cgdsoftware/enso@v11.1.1
+- pkg:composer/cgdsoftware/enso@v11.1.2
 - pkg:composer/cgdsoftware/enso@v3.0.0
 - pkg:composer/cgdsoftware/enso@v4.0.0
 - pkg:composer/cgdsoftware/enso@v4.0.1

@@ -56,3 +56,7 @@
 - pkg:composer/cgoit/calendar-extended-bundle@2.8.0
 - pkg:composer/cgoit/calendar-extended-bundle@2.9.0
 - pkg:composer/cgoit/calendar-extended-bundle@2.9.1
+- pkg:composer/cgoit/calendar-extended-bundle@3.0.0
+- pkg:composer/cgoit/calendar-extended-bundle@3.0.1
+- pkg:composer/cgoit/calendar-extended-bundle@3.0.2
+- pkg:composer/cgoit/calendar-extended-bundle@3.0.3
