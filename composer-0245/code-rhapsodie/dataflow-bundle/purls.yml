@@ -28,3 +28,4 @@
 - pkg:composer/code-rhapsodie/dataflow-bundle@v6.0.2
 - pkg:composer/code-rhapsodie/dataflow-bundle@v6.0.3
 - pkg:composer/code-rhapsodie/dataflow-bundle@v6.0.4
+- pkg:composer/code-rhapsodie/dataflow-bundle@v7.0.0
