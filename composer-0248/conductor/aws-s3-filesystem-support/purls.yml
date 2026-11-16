@@ -9,3 +9,5 @@
 - pkg:composer/conductor/aws-s3-filesystem-support@4.0.0
 - pkg:composer/conductor/aws-s3-filesystem-support@4.1.0
 - pkg:composer/conductor/aws-s3-filesystem-support@4.2.0
+- pkg:composer/conductor/aws-s3-filesystem-support@5.0.0
+- pkg:composer/conductor/aws-s3-filesystem-support@5.0.1
