@@ -36,6 +36,7 @@
 - pkg:composer/codinglabsau/yolo@v1.0.1
 - pkg:composer/codinglabsau/yolo@v1.0.2
 - pkg:composer/codinglabsau/yolo@v1.1.0
+- pkg:composer/codinglabsau/yolo@v1.10.0
 - pkg:composer/codinglabsau/yolo@v1.2.0
 - pkg:composer/codinglabsau/yolo@v1.2.1
 - pkg:composer/codinglabsau/yolo@v1.2.2
@@ -44,3 +45,13 @@
 - pkg:composer/codinglabsau/yolo@v1.3.0
 - pkg:composer/codinglabsau/yolo@v1.3.1
 - pkg:composer/codinglabsau/yolo@v1.3.2
+- pkg:composer/codinglabsau/yolo@v1.4.0
+- pkg:composer/codinglabsau/yolo@v1.5.0
+- pkg:composer/codinglabsau/yolo@v1.5.1
+- pkg:composer/codinglabsau/yolo@v1.6.0
+- pkg:composer/codinglabsau/yolo@v1.6.1
+- pkg:composer/codinglabsau/yolo@v1.7.0
+- pkg:composer/codinglabsau/yolo@v1.7.1
+- pkg:composer/codinglabsau/yolo@v1.7.2
+- pkg:composer/codinglabsau/yolo@v1.8.0
+- pkg:composer/codinglabsau/yolo@v1.9.0
