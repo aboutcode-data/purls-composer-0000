@@ -36,3 +36,4 @@
 - pkg:composer/czim/laravel-repository@4.2.0
 - pkg:composer/czim/laravel-repository@4.3.0
 - pkg:composer/czim/laravel-repository@4.4.0
+- pkg:composer/czim/laravel-repository@4.5.0
