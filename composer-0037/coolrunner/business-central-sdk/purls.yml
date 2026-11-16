@@ -32,3 +32,4 @@
 - pkg:composer/coolrunner/business-central-sdk@1.0.2
 - pkg:composer/coolrunner/business-central-sdk@1.02
 - pkg:composer/coolrunner/business-central-sdk@2.0.0
+- pkg:composer/coolrunner/business-central-sdk@2.0.1
