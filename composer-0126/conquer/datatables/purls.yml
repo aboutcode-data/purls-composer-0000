@@ -1,1 +1,6 @@
 - pkg:composer/conquer/datatables@1.0
+- pkg:composer/conquer/datatables@1.1.0
+- pkg:composer/conquer/datatables@1.1.1
+- pkg:composer/conquer/datatables@1.2.0
+- pkg:composer/conquer/datatables@2.0.0
+- pkg:composer/conquer/datatables@2.1.0
