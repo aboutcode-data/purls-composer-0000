@@ -12,7 +12,11 @@
 - pkg:composer/cs278/bank-modulus@v1.16.0
 - pkg:composer/cs278/bank-modulus@v1.17.0
 - pkg:composer/cs278/bank-modulus@v1.18.0
+- pkg:composer/cs278/bank-modulus@v1.19.0
+- pkg:composer/cs278/bank-modulus@v1.19.1
+- pkg:composer/cs278/bank-modulus@v1.19.2
 - pkg:composer/cs278/bank-modulus@v1.2.0
+- pkg:composer/cs278/bank-modulus@v1.20.0
 - pkg:composer/cs278/bank-modulus@v1.3.0
 - pkg:composer/cs278/bank-modulus@v1.4.0
 - pkg:composer/cs278/bank-modulus@v1.5.0
