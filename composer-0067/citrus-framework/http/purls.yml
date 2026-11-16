@@ -7,5 +7,6 @@
 - pkg:composer/citrus-framework/http@v1.0.20
 - pkg:composer/citrus-framework/http@v1.0.21
 - pkg:composer/citrus-framework/http@v1.0.22
+- pkg:composer/citrus-framework/http@v1.0.23
 - pkg:composer/citrus-framework/http@v1.0.8
 - pkg:composer/citrus-framework/http@v1.0.9
