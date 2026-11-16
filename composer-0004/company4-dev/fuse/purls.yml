@@ -27,7 +27,13 @@
 - pkg:composer/company4-dev/fuse@0.123
 - pkg:composer/company4-dev/fuse@0.124
 - pkg:composer/company4-dev/fuse@0.125
+- pkg:composer/company4-dev/fuse@0.126
+- pkg:composer/company4-dev/fuse@0.127
+- pkg:composer/company4-dev/fuse@0.128
+- pkg:composer/company4-dev/fuse@0.129
 - pkg:composer/company4-dev/fuse@0.13
+- pkg:composer/company4-dev/fuse@0.130
+- pkg:composer/company4-dev/fuse@0.132
 - pkg:composer/company4-dev/fuse@0.14
 - pkg:composer/company4-dev/fuse@0.15
 - pkg:composer/company4-dev/fuse@0.16
