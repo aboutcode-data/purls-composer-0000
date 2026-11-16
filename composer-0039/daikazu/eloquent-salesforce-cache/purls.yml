@@ -1,1 +1,2 @@
 - pkg:composer/daikazu/eloquent-salesforce-cache@v0.1.0-beta
+- pkg:composer/daikazu/eloquent-salesforce-cache@v0.2.0-beta
