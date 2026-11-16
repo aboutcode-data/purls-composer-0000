@@ -1,4 +1,13 @@
+- pkg:composer/cloud-castle/metrics@1.3.0
+- pkg:composer/cloud-castle/metrics@1.4.0
+- pkg:composer/cloud-castle/metrics@1.5.0
+- pkg:composer/cloud-castle/metrics@1.6.0
+- pkg:composer/cloud-castle/metrics@1.6.1
 - pkg:composer/cloud-castle/metrics@v0.1.0
 - pkg:composer/cloud-castle/metrics@v0.1.1
 - pkg:composer/cloud-castle/metrics@v1.0.0
 - pkg:composer/cloud-castle/metrics@v1.0.1
+- pkg:composer/cloud-castle/metrics@v1.1.0
+- pkg:composer/cloud-castle/metrics@v1.2.0
+- pkg:composer/cloud-castle/metrics@v1.6.2
+- pkg:composer/cloud-castle/metrics@v1.7.0

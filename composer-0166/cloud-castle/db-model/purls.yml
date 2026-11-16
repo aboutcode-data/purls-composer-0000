@@ -1,2 +1,5 @@
 - pkg:composer/cloud-castle/db-model@v0.1.0
 - pkg:composer/cloud-castle/db-model@v0.1.1
+- pkg:composer/cloud-castle/db-model@v1.0.0
+- pkg:composer/cloud-castle/db-model@v1.1.0
+- pkg:composer/cloud-castle/db-model@v1.1.1

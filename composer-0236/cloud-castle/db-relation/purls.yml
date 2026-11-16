@@ -1,2 +1,4 @@
 - pkg:composer/cloud-castle/db-relation@v0.1.0
 - pkg:composer/cloud-castle/db-relation@v0.1.1
+- pkg:composer/cloud-castle/db-relation@v1.0.0
+- pkg:composer/cloud-castle/db-relation@v1.0.1

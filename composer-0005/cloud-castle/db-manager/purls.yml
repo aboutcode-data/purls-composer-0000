@@ -1,2 +1,7 @@
 - pkg:composer/cloud-castle/db-manager@v0.1.0
 - pkg:composer/cloud-castle/db-manager@v0.1.1
+- pkg:composer/cloud-castle/db-manager@v1.0.0
+- pkg:composer/cloud-castle/db-manager@v1.1.0
+- pkg:composer/cloud-castle/db-manager@v1.2.0
+- pkg:composer/cloud-castle/db-manager@v1.2.1
+- pkg:composer/cloud-castle/db-manager@v1.3.0
