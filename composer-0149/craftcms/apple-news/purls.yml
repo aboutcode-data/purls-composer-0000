@@ -10,3 +10,6 @@
 - pkg:composer/craftcms/apple-news@3.1.0
 - pkg:composer/craftcms/apple-news@4.0.0
 - pkg:composer/craftcms/apple-news@4.1.0
+- pkg:composer/craftcms/apple-news@4.2.0
+- pkg:composer/craftcms/apple-news@4.2.1
+- pkg:composer/craftcms/apple-news@5.0.0
