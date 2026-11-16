@@ -8,3 +8,6 @@
 - pkg:composer/cleverage/flysystem-process-bundle@v2.3
 - pkg:composer/cleverage/flysystem-process-bundle@v3.1
 - pkg:composer/cleverage/flysystem-process-bundle@v3.2
+- pkg:composer/cleverage/flysystem-process-bundle@v3.3
+- pkg:composer/cleverage/flysystem-process-bundle@v3.4
+- pkg:composer/cleverage/flysystem-process-bundle@v3.5
