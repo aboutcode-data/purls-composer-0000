@@ -1,6 +1,9 @@
 - pkg:composer/daljo25/filament-dependency-manager@v3.0.0
 - pkg:composer/daljo25/filament-dependency-manager@v3.0.1
+- pkg:composer/daljo25/filament-dependency-manager@v3.1.0
 - pkg:composer/daljo25/filament-dependency-manager@v4.0.0
 - pkg:composer/daljo25/filament-dependency-manager@v4.0.1
+- pkg:composer/daljo25/filament-dependency-manager@v4.1.0
 - pkg:composer/daljo25/filament-dependency-manager@v5.0.0
 - pkg:composer/daljo25/filament-dependency-manager@v5.0.1
+- pkg:composer/daljo25/filament-dependency-manager@v5.1.0
