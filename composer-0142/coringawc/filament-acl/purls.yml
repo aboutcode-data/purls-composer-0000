@@ -13,3 +13,5 @@
 - pkg:composer/coringawc/filament-acl@v1.1.7
 - pkg:composer/coringawc/filament-acl@v1.1.8
 - pkg:composer/coringawc/filament-acl@v1.1.9
+- pkg:composer/coringawc/filament-acl@v2.0.0
+- pkg:composer/coringawc/filament-acl@v2.0.1
