@@ -20,6 +20,7 @@
 - pkg:composer/cbws/php-cbws-grpc@v0.11.0
 - pkg:composer/cbws/php-cbws-grpc@v0.11.1
 - pkg:composer/cbws/php-cbws-grpc@v0.11.2
+- pkg:composer/cbws/php-cbws-grpc@v0.121.0
 - pkg:composer/cbws/php-cbws-grpc@v0.2.0
 - pkg:composer/cbws/php-cbws-grpc@v0.3.0
 - pkg:composer/cbws/php-cbws-grpc@v0.3.1
