@@ -51,3 +51,4 @@
 - pkg:composer/currency-cloud/client@v6.5.0
 - pkg:composer/currency-cloud/client@v6.6.0
 - pkg:composer/currency-cloud/client@v6.7.0
+- pkg:composer/currency-cloud/client@v6.8.0
