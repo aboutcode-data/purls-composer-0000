@@ -32,6 +32,7 @@
 - pkg:composer/automattic/jetpack-newsletter@v0.18.3
 - pkg:composer/automattic/jetpack-newsletter@v0.18.4
 - pkg:composer/automattic/jetpack-newsletter@v0.18.5
+- pkg:composer/automattic/jetpack-newsletter@v0.19.0
 - pkg:composer/automattic/jetpack-newsletter@v0.2.0
 - pkg:composer/automattic/jetpack-newsletter@v0.3.0
 - pkg:composer/automattic/jetpack-newsletter@v0.3.1

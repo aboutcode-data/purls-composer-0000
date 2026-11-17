@@ -11,6 +11,7 @@
 - pkg:composer/automattic/jetpack-paypal-payments@v0.13.2
 - pkg:composer/automattic/jetpack-paypal-payments@v0.13.3
 - pkg:composer/automattic/jetpack-paypal-payments@v0.14.0
+- pkg:composer/automattic/jetpack-paypal-payments@v0.15.0
 - pkg:composer/automattic/jetpack-paypal-payments@v0.2.0
 - pkg:composer/automattic/jetpack-paypal-payments@v0.3.0
 - pkg:composer/automattic/jetpack-paypal-payments@v0.4.0
