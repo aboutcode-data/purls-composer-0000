@@ -21,3 +21,4 @@
 - pkg:composer/cloudpdf/sdk@v3.0.0-alpha.9
 - pkg:composer/cloudpdf/sdk@v3.1.0
 - pkg:composer/cloudpdf/sdk@v3.2.0
+- pkg:composer/cloudpdf/sdk@v3.3.0
