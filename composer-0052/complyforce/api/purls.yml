@@ -35,6 +35,7 @@
 - pkg:composer/complyforce/api@1.14.1-RC26695
 - pkg:composer/complyforce/api@1.14.2
 - pkg:composer/complyforce/api@1.14.2-RC27293
+- pkg:composer/complyforce/api@1.14.3-RC27417
 - pkg:composer/complyforce/api@1.5.0
 - pkg:composer/complyforce/api@1.5.0-RC20677
 - pkg:composer/complyforce/api@1.6.0-RC21065
