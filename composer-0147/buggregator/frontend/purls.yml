@@ -13,3 +13,4 @@
 - pkg:composer/buggregator/frontend@1.35.0
 - pkg:composer/buggregator/frontend@1.36.0
 - pkg:composer/buggregator/frontend@1.37.0
+- pkg:composer/buggregator/frontend@1.37.1
