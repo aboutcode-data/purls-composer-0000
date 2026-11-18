@@ -79,9 +79,11 @@
 - pkg:composer/darvinstudio/darvin-image-bundle@7.2.5
 - pkg:composer/darvinstudio/darvin-image-bundle@7.2.6
 - pkg:composer/darvinstudio/darvin-image-bundle@7.2.7
+- pkg:composer/darvinstudio/darvin-image-bundle@7.2.8
 - pkg:composer/darvinstudio/darvin-image-bundle@8.0.0
 - pkg:composer/darvinstudio/darvin-image-bundle@8.0.1
 - pkg:composer/darvinstudio/darvin-image-bundle@8.0.2
 - pkg:composer/darvinstudio/darvin-image-bundle@8.0.3
 - pkg:composer/darvinstudio/darvin-image-bundle@8.0.4
 - pkg:composer/darvinstudio/darvin-image-bundle@8.0.5
+- pkg:composer/darvinstudio/darvin-image-bundle@8.0.6
