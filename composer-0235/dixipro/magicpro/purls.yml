@@ -1,14 +1,6 @@
 - pkg:composer/dixipro/magicpro@v1.10.2
-- pkg:composer/dixipro/magicpro@v1.11.3
-- pkg:composer/dixipro/magicpro@v1.11.4
-- pkg:composer/dixipro/magicpro@v1.11.5
-- pkg:composer/dixipro/magicpro@v1.11.6
-- pkg:composer/dixipro/magicpro@v1.11.7
-- pkg:composer/dixipro/magicpro@v1.11.8
-- pkg:composer/dixipro/magicpro@v1.11.9
-- pkg:composer/dixipro/magicpro@v1.12.1
-- pkg:composer/dixipro/magicpro@v1.143
-- pkg:composer/dixipro/magicpro@v1.144
-- pkg:composer/dixipro/magicpro@v1.145
 - pkg:composer/dixipro/magicpro@v1.146
 - pkg:composer/dixipro/magicpro@v1.147
+- pkg:composer/dixipro/magicpro@v1.152
+- pkg:composer/dixipro/magicpro@v1.153
+- pkg:composer/dixipro/magicpro@v1.155
