@@ -24,3 +24,6 @@
 - pkg:composer/drago-ex/form@v2.0.8
 - pkg:composer/drago-ex/form@v2.0.9
 - pkg:composer/drago-ex/form@v2.1.0
+- pkg:composer/drago-ex/form@v2.2.0
+- pkg:composer/drago-ex/form@v3.0.0
+- pkg:composer/drago-ex/form@v4.0.0
