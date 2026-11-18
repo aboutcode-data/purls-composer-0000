@@ -224,6 +224,7 @@
 - pkg:composer/datadog/dd-trace@1.8.2
 - pkg:composer/datadog/dd-trace@1.8.3
 - pkg:composer/datadog/dd-trace@1.9.0
+- pkg:composer/datadog/dd-trace@2.0.0
 - pkg:composer/datadog/dd-trace@v0.1.2
 - pkg:composer/datadog/dd-trace@v0.2.0
 - pkg:composer/datadog/dd-trace@v0.2.1
