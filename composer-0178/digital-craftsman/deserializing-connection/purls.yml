@@ -15,3 +15,5 @@
 - pkg:composer/digital-craftsman/deserializing-connection@v0.5.2
 - pkg:composer/digital-craftsman/deserializing-connection@v0.6.0
 - pkg:composer/digital-craftsman/deserializing-connection@v0.6.1
+- pkg:composer/digital-craftsman/deserializing-connection@v0.9.0
+- pkg:composer/digital-craftsman/deserializing-connection@v1.0.0

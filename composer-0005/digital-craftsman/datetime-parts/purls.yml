@@ -3,6 +3,7 @@
 - pkg:composer/digital-craftsman/datetime-parts@0.13.1
 - pkg:composer/digital-craftsman/datetime-parts@0.14.0
 - pkg:composer/digital-craftsman/datetime-parts@0.15.0
+- pkg:composer/digital-craftsman/datetime-parts@0.15.1
 - pkg:composer/digital-craftsman/datetime-parts@v0.1.0
 - pkg:composer/digital-craftsman/datetime-parts@v0.1.0-alpha.1
 - pkg:composer/digital-craftsman/datetime-parts@v0.1.0-alpha.2
@@ -24,3 +25,5 @@
 - pkg:composer/digital-craftsman/datetime-parts@v0.8.0
 - pkg:composer/digital-craftsman/datetime-parts@v0.8.1
 - pkg:composer/digital-craftsman/datetime-parts@v0.9.0
+- pkg:composer/digital-craftsman/datetime-parts@v1.0.0
+- pkg:composer/digital-craftsman/datetime-parts@v1.0.1
