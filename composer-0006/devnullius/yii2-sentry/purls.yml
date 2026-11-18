@@ -9,3 +9,6 @@
 - pkg:composer/devnullius/yii2-sentry@1.9.3
 - pkg:composer/devnullius/yii2-sentry@4.0.0
 - pkg:composer/devnullius/yii2-sentry@4.0.1
+- pkg:composer/devnullius/yii2-sentry@4.1.0
+- pkg:composer/devnullius/yii2-sentry@4.1.1
+- pkg:composer/devnullius/yii2-sentry@5.0.0
