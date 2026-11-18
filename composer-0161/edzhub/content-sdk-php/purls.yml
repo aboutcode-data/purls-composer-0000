@@ -29,3 +29,4 @@
 - pkg:composer/edzhub/content-sdk-php@v0.3.9
 - pkg:composer/edzhub/content-sdk-php@v0.4.1
 - pkg:composer/edzhub/content-sdk-php@v0.4.2
+- pkg:composer/edzhub/content-sdk-php@v0.4.3
