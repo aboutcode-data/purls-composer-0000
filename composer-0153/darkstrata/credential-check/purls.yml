@@ -1,3 +1,6 @@
 - pkg:composer/darkstrata/credential-check@v2.6.0
 - pkg:composer/darkstrata/credential-check@v2.7.0
 - pkg:composer/darkstrata/credential-check@v2.7.1
+- pkg:composer/darkstrata/credential-check@v2.8.0
+- pkg:composer/darkstrata/credential-check@v2.9.0
+- pkg:composer/darkstrata/credential-check@v2.9.1
