@@ -43,6 +43,7 @@
 - pkg:composer/do1emu/module-zeiterfassung@v1.3.0
 - pkg:composer/do1emu/module-zeiterfassung@v1.30.0
 - pkg:composer/do1emu/module-zeiterfassung@v1.31.0
+- pkg:composer/do1emu/module-zeiterfassung@v1.31.1
 - pkg:composer/do1emu/module-zeiterfassung@v1.4.0
 - pkg:composer/do1emu/module-zeiterfassung@v1.5.0
 - pkg:composer/do1emu/module-zeiterfassung@v1.5.1
