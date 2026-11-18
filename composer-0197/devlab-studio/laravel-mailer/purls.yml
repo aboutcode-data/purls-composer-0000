@@ -23,4 +23,5 @@
 - pkg:composer/devlab-studio/laravel-mailer@1.0.7
 - pkg:composer/devlab-studio/laravel-mailer@1.0.8
 - pkg:composer/devlab-studio/laravel-mailer@1.0.9
+- pkg:composer/devlab-studio/laravel-mailer@10.0.26
 - pkg:composer/devlab-studio/laravel-mailer@v1.0.17
