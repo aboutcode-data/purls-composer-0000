@@ -2,3 +2,8 @@
 - pkg:composer/drupal/varbase_ai_default@1.0.1
 - pkg:composer/drupal/varbase_ai_default@1.0.2
 - pkg:composer/drupal/varbase_ai_default@1.0.3
+- pkg:composer/drupal/varbase_ai_default@1.0.4
+- pkg:composer/drupal/varbase_ai_default@2.0.0
+- pkg:composer/drupal/varbase_ai_default@2.0.0-alpha1
+- pkg:composer/drupal/varbase_ai_default@2.0.0-alpha2
+- pkg:composer/drupal/varbase_ai_default@2.0.0-rc1
