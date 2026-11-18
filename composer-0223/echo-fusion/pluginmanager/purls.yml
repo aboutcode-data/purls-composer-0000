@@ -1,1 +1,5 @@
 - pkg:composer/echo-fusion/pluginmanager@v1.0.0
+- pkg:composer/echo-fusion/pluginmanager@v2.0.0
+- pkg:composer/echo-fusion/pluginmanager@v2.0.1
+- pkg:composer/echo-fusion/pluginmanager@v2.1.0
+- pkg:composer/echo-fusion/pluginmanager@v3.0.0
