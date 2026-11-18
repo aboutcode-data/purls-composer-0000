@@ -133,3 +133,4 @@
 - pkg:composer/eappointment/zmsdb@3.0.7
 - pkg:composer/eappointment/zmsdb@3.0.8
 - pkg:composer/eappointment/zmsdb@3.0.9
+- pkg:composer/eappointment/zmsdb@3.1.0
