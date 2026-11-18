@@ -1,4 +1,5 @@
 - pkg:composer/econea/nusoap@v0.10.0
+- pkg:composer/econea/nusoap@v0.10.1
 - pkg:composer/econea/nusoap@v0.9.10
 - pkg:composer/econea/nusoap@v0.9.11
 - pkg:composer/econea/nusoap@v0.9.12
