@@ -16,6 +16,16 @@
 - pkg:composer/dravencms/form@2.0.9
 - pkg:composer/dravencms/form@2.1
 - pkg:composer/dravencms/form@2.1.1
+- pkg:composer/dravencms/form@2.2.0
+- pkg:composer/dravencms/form@2.2.1
+- pkg:composer/dravencms/form@2.2.2
+- pkg:composer/dravencms/form@2.3.0
+- pkg:composer/dravencms/form@2.4.0
+- pkg:composer/dravencms/form@2.5.0
+- pkg:composer/dravencms/form@2.6.0
+- pkg:composer/dravencms/form@2.7.0
+- pkg:composer/dravencms/form@2.7.1
+- pkg:composer/dravencms/form@2.7.2
 - pkg:composer/dravencms/form@v1.0.2
 - pkg:composer/dravencms/form@v1.0.3
 - pkg:composer/dravencms/form@v1.0.4

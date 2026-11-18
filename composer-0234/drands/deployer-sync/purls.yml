@@ -5,6 +5,7 @@
 - pkg:composer/drands/deployer-sync@1.0.12
 - pkg:composer/drands/deployer-sync@1.0.13
 - pkg:composer/drands/deployer-sync@1.0.14
+- pkg:composer/drands/deployer-sync@1.0.15
 - pkg:composer/drands/deployer-sync@1.0.2
 - pkg:composer/drands/deployer-sync@1.0.3
 - pkg:composer/drands/deployer-sync@1.0.4
@@ -13,3 +14,12 @@
 - pkg:composer/drands/deployer-sync@1.0.7
 - pkg:composer/drands/deployer-sync@1.0.8
 - pkg:composer/drands/deployer-sync@1.0.9
+- pkg:composer/drands/deployer-sync@1.1.0
+- pkg:composer/drands/deployer-sync@2.0.0
+- pkg:composer/drands/deployer-sync@2.0.1
+- pkg:composer/drands/deployer-sync@2.1.0
+- pkg:composer/drands/deployer-sync@2.1.1
+- pkg:composer/drands/deployer-sync@2.1.2
+- pkg:composer/drands/deployer-sync@2.2.0
+- pkg:composer/drands/deployer-sync@2.2.1
+- pkg:composer/drands/deployer-sync@2.3.0
