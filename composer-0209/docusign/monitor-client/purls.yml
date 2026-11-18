@@ -8,3 +8,4 @@
 - pkg:composer/docusign/monitor-client@v1.2.2
 - pkg:composer/docusign/monitor-client@v1.2.3
 - pkg:composer/docusign/monitor-client@v2.0.0
+- pkg:composer/docusign/monitor-client@v3.0.0
