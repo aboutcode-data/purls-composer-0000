@@ -29,3 +29,6 @@
 - pkg:composer/docker-php/docker-php@v3.2.0
 - pkg:composer/docker-php/docker-php@v3.3.0
 - pkg:composer/docker-php/docker-php@v4.0.0
+- pkg:composer/docker-php/docker-php@v4.0.1
+- pkg:composer/docker-php/docker-php@v4.0.2
+- pkg:composer/docker-php/docker-php@v4.1.0
