@@ -59,3 +59,5 @@
 - pkg:composer/easyswoole/spl@2.1.5
 - pkg:composer/easyswoole/spl@2.1.6
 - pkg:composer/easyswoole/spl@2.1.7
+- pkg:composer/easyswoole/spl@2.2.1
+- pkg:composer/easyswoole/spl@2.2.2
