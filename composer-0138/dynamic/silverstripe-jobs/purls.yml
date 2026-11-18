@@ -4,3 +4,5 @@
 - pkg:composer/dynamic/silverstripe-jobs@3.0.0
 - pkg:composer/dynamic/silverstripe-jobs@4.0.0
 - pkg:composer/dynamic/silverstripe-jobs@4.0.1
+- pkg:composer/dynamic/silverstripe-jobs@4.0.2
+- pkg:composer/dynamic/silverstripe-jobs@4.0.3
