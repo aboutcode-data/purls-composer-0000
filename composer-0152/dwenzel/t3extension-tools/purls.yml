@@ -24,3 +24,7 @@
 - pkg:composer/dwenzel/t3extension-tools@5.0.0
 - pkg:composer/dwenzel/t3extension-tools@5.0.1
 - pkg:composer/dwenzel/t3extension-tools@5.0.2
+- pkg:composer/dwenzel/t3extension-tools@6.0.0
+- pkg:composer/dwenzel/t3extension-tools@6.1.0
+- pkg:composer/dwenzel/t3extension-tools@6.1.1
+- pkg:composer/dwenzel/t3extension-tools@6.2.0
