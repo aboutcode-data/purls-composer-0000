@@ -23,3 +23,4 @@
 - pkg:composer/drupal/devel@5.3.1
 - pkg:composer/drupal/devel@5.4.0
 - pkg:composer/drupal/devel@5.5.0
+- pkg:composer/drupal/devel@5.6.0-rc1
