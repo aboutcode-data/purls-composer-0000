@@ -37,3 +37,5 @@
 - pkg:composer/eelcol/laravel-meilisearch@2.3.5
 - pkg:composer/eelcol/laravel-meilisearch@2.3.6
 - pkg:composer/eelcol/laravel-meilisearch@2.3.7
+- pkg:composer/eelcol/laravel-meilisearch@2.3.8
+- pkg:composer/eelcol/laravel-meilisearch@2.3.9
