@@ -3,3 +3,5 @@
 - pkg:composer/dmstr/symfony-job-queue-bundle@0.2.0
 - pkg:composer/dmstr/symfony-job-queue-bundle@0.2.1
 - pkg:composer/dmstr/symfony-job-queue-bundle@0.3.0
+- pkg:composer/dmstr/symfony-job-queue-bundle@0.4.0
+- pkg:composer/dmstr/symfony-job-queue-bundle@0.5.0
