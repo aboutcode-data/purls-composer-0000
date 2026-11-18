@@ -2,3 +2,5 @@
 - pkg:composer/database-visualizer/laravel@v1.0.1
 - pkg:composer/database-visualizer/laravel@v1.0.3
 - pkg:composer/database-visualizer/laravel@v1.1.0
+- pkg:composer/database-visualizer/laravel@v1.22.0
+- pkg:composer/database-visualizer/laravel@v2.0.0
