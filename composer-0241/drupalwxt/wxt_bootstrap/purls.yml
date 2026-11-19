@@ -5,3 +5,4 @@
 - pkg:composer/drupalwxt/wxt_bootstrap@11.2.0
 - pkg:composer/drupalwxt/wxt_bootstrap@11.3.0
 - pkg:composer/drupalwxt/wxt_bootstrap@11.3.1
+- pkg:composer/drupalwxt/wxt_bootstrap@11.3.2
