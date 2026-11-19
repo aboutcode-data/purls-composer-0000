@@ -14,3 +14,5 @@
 - pkg:composer/extcode/cart-girosolution@v5.0.0
 - pkg:composer/extcode/cart-girosolution@v5.1.0
 - pkg:composer/extcode/cart-girosolution@v5.1.1
+- pkg:composer/extcode/cart-girosolution@v6.0.0
+- pkg:composer/extcode/cart-girosolution@v7.0.0
