@@ -581,6 +581,8 @@
 - pkg:composer/durable-workflow/workflow@2.3.4
 - pkg:composer/durable-workflow/workflow@2.3.5
 - pkg:composer/durable-workflow/workflow@2.30.0
+- pkg:composer/durable-workflow/workflow@2.31.0
+- pkg:composer/durable-workflow/workflow@2.32.0
 - pkg:composer/durable-workflow/workflow@2.4.0
 - pkg:composer/durable-workflow/workflow@2.4.0-rc.1
 - pkg:composer/durable-workflow/workflow@2.4.0-rc.2
