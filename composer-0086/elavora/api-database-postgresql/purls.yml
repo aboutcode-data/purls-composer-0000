@@ -1,2 +1,8 @@
+- pkg:composer/elavora/api-database-postgresql@1.0.0
+- pkg:composer/elavora/api-database-postgresql@1.0.1
+- pkg:composer/elavora/api-database-postgresql@1.0.1-beta.1
+- pkg:composer/elavora/api-database-postgresql@2.0.0
+- pkg:composer/elavora/api-database-postgresql@3.0.0
+- pkg:composer/elavora/api-database-postgresql@3.0.1
 - pkg:composer/elavora/api-database-postgresql@v0.1.1
 - pkg:composer/elavora/api-database-postgresql@v0.2.0

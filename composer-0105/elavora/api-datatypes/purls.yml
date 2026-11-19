@@ -1,2 +1,8 @@
+- pkg:composer/elavora/api-datatypes@1.0.0
+- pkg:composer/elavora/api-datatypes@1.0.1
+- pkg:composer/elavora/api-datatypes@1.0.1-beta.1
+- pkg:composer/elavora/api-datatypes@2.0.0
+- pkg:composer/elavora/api-datatypes@2.1.0
+- pkg:composer/elavora/api-datatypes@2.1.1
 - pkg:composer/elavora/api-datatypes@v0.1.1
 - pkg:composer/elavora/api-datatypes@v0.2.0

@@ -1,2 +1,9 @@
+- pkg:composer/elavora/api-log-file@1.0.0
+- pkg:composer/elavora/api-log-file@1.0.1
+- pkg:composer/elavora/api-log-file@1.0.1-beta.1
+- pkg:composer/elavora/api-log-file@1.0.1-beta.2
+- pkg:composer/elavora/api-log-file@2.0.0
+- pkg:composer/elavora/api-log-file@3.0.0
+- pkg:composer/elavora/api-log-file@3.0.1
 - pkg:composer/elavora/api-log-file@v0.1.1
 - pkg:composer/elavora/api-log-file@v0.2.0
