@@ -11,3 +11,5 @@
 - pkg:composer/esc-company/view-transformer@v2.1.2
 - pkg:composer/esc-company/view-transformer@v2.2.0
 - pkg:composer/esc-company/view-transformer@v3.0.0
+- pkg:composer/esc-company/view-transformer@v3.1.0
+- pkg:composer/esc-company/view-transformer@v3.2.0
