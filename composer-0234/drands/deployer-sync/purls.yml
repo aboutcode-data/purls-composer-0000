@@ -23,3 +23,5 @@
 - pkg:composer/drands/deployer-sync@2.2.0
 - pkg:composer/drands/deployer-sync@2.2.1
 - pkg:composer/drands/deployer-sync@2.3.0
+- pkg:composer/drands/deployer-sync@2.3.1
+- pkg:composer/drands/deployer-sync@2.3.2
