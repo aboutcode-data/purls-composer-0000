@@ -62,6 +62,8 @@
 - pkg:composer/elegantly/blade-kit@v3.13.8
 - pkg:composer/elegantly/blade-kit@v3.13.9
 - pkg:composer/elegantly/blade-kit@v3.14.0
+- pkg:composer/elegantly/blade-kit@v3.15.0
+- pkg:composer/elegantly/blade-kit@v3.15.1
 - pkg:composer/elegantly/blade-kit@v3.2.0
 - pkg:composer/elegantly/blade-kit@v3.2.1
 - pkg:composer/elegantly/blade-kit@v3.3.0
