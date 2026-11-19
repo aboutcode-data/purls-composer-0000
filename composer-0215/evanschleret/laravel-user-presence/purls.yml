@@ -8,3 +8,6 @@
 - pkg:composer/evanschleret/laravel-user-presence@v0.1.7
 - pkg:composer/evanschleret/laravel-user-presence@v1.0
 - pkg:composer/evanschleret/laravel-user-presence@v1.0.1
+- pkg:composer/evanschleret/laravel-user-presence@v2.0.0
+- pkg:composer/evanschleret/laravel-user-presence@v2.1.0
+- pkg:composer/evanschleret/laravel-user-presence@v2.2.0
