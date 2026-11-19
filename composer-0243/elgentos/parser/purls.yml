@@ -24,3 +24,4 @@
 - pkg:composer/elgentos/parser@2.7.0
 - pkg:composer/elgentos/parser@2.7.1
 - pkg:composer/elgentos/parser@3.0.0
+- pkg:composer/elgentos/parser@4.0.0
