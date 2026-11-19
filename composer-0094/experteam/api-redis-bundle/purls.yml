@@ -99,3 +99,5 @@
 - pkg:composer/experteam/api-redis-bundle@4.2.3
 - pkg:composer/experteam/api-redis-bundle@4.2.4
 - pkg:composer/experteam/api-redis-bundle@4.2.5
+- pkg:composer/experteam/api-redis-bundle@5.0.0
+- pkg:composer/experteam/api-redis-bundle@5.0.1

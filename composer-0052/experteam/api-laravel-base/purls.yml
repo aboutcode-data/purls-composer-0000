@@ -26,5 +26,7 @@
 - pkg:composer/experteam/api-laravel-base@2.2.1
 - pkg:composer/experteam/api-laravel-base@2.3.0
 - pkg:composer/experteam/api-laravel-base@2.3.1
+- pkg:composer/experteam/api-laravel-base@2.4.0
+- pkg:composer/experteam/api-laravel-base@3.0.0
 - pkg:composer/experteam/api-laravel-base@v2.0.0
 - pkg:composer/experteam/api-laravel-base@v2.1.0
