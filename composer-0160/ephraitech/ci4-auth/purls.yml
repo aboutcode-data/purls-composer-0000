@@ -1,3 +1,8 @@
 - pkg:composer/ephraitech/ci4-auth@v0.10.0
+- pkg:composer/ephraitech/ci4-auth@v0.10.1
+- pkg:composer/ephraitech/ci4-auth@v0.10.2
+- pkg:composer/ephraitech/ci4-auth@v0.10.3
+- pkg:composer/ephraitech/ci4-auth@v0.11.0
+- pkg:composer/ephraitech/ci4-auth@v0.12.0
 - pkg:composer/ephraitech/ci4-auth@v0.9.0
 - pkg:composer/ephraitech/ci4-auth@v0.9.1
