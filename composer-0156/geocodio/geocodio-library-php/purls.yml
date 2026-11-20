@@ -28,3 +28,7 @@
 - pkg:composer/geocodio/geocodio-library-php@v3.0.0
 - pkg:composer/geocodio/geocodio-library-php@v3.1.0
 - pkg:composer/geocodio/geocodio-library-php@v3.2.0
+- pkg:composer/geocodio/geocodio-library-php@v3.3.0
+- pkg:composer/geocodio/geocodio-library-php@v3.4.0
+- pkg:composer/geocodio/geocodio-library-php@v3.4.1
+- pkg:composer/geocodio/geocodio-library-php@v3.4.2
