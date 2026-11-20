@@ -8,3 +8,4 @@
 - pkg:composer/gurento/kafka-consumer@v1.2.2
 - pkg:composer/gurento/kafka-consumer@v1.2.3
 - pkg:composer/gurento/kafka-consumer@v2.0.0
+- pkg:composer/gurento/kafka-consumer@v2.1.0
