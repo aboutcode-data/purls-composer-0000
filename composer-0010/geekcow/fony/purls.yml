@@ -24,9 +24,11 @@
 - pkg:composer/geekcow/fony@0.0.35
 - pkg:composer/geekcow/fony@0.0.36
 - pkg:composer/geekcow/fony@0.0.37
+- pkg:composer/geekcow/fony@0.0.38
 - pkg:composer/geekcow/fony@0.0.4
 - pkg:composer/geekcow/fony@0.0.5
 - pkg:composer/geekcow/fony@0.0.6
 - pkg:composer/geekcow/fony@0.0.7
 - pkg:composer/geekcow/fony@0.0.8
 - pkg:composer/geekcow/fony@0.0.9
+- pkg:composer/geekcow/fony@0.1.0
