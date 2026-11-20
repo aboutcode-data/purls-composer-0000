@@ -51,6 +51,14 @@
 - pkg:composer/fomvasss/laravel-lte3@1.123.2
 - pkg:composer/fomvasss/laravel-lte3@1.123.3
 - pkg:composer/fomvasss/laravel-lte3@1.123.4
+- pkg:composer/fomvasss/laravel-lte3@1.123.5
+- pkg:composer/fomvasss/laravel-lte3@1.123.6
+- pkg:composer/fomvasss/laravel-lte3@1.123.7
+- pkg:composer/fomvasss/laravel-lte3@1.124.0
+- pkg:composer/fomvasss/laravel-lte3@1.125.0
+- pkg:composer/fomvasss/laravel-lte3@1.125.1
+- pkg:composer/fomvasss/laravel-lte3@1.126.0
+- pkg:composer/fomvasss/laravel-lte3@1.127.0
 - pkg:composer/fomvasss/laravel-lte3@1.13.0
 - pkg:composer/fomvasss/laravel-lte3@1.14.0
 - pkg:composer/fomvasss/laravel-lte3@1.15.0
