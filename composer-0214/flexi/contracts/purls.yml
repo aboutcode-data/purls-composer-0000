@@ -1,4 +1,8 @@
 - pkg:composer/flexi/contracts@4.1.0
+- pkg:composer/flexi/contracts@5.0.0
+- pkg:composer/flexi/contracts@5.1.0
+- pkg:composer/flexi/contracts@5.2.0
+- pkg:composer/flexi/contracts@5.2.1
 - pkg:composer/flexi/contracts@v1.0.0
 - pkg:composer/flexi/contracts@v2.0.0
 - pkg:composer/flexi/contracts@v2.0.1
