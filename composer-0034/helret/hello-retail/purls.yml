@@ -12,6 +12,7 @@
 - pkg:composer/helret/hello-retail@4.4.4
 - pkg:composer/helret/hello-retail@4.4.5
 - pkg:composer/helret/hello-retail@4.4.6
+- pkg:composer/helret/hello-retail@4.4.7
 - pkg:composer/helret/hello-retail@5.0.0
 - pkg:composer/helret/hello-retail@5.1.0
 - pkg:composer/helret/hello-retail@5.2.0
@@ -21,6 +22,8 @@
 - pkg:composer/helret/hello-retail@5.3.1
 - pkg:composer/helret/hello-retail@5.3.10
 - pkg:composer/helret/hello-retail@5.3.11
+- pkg:composer/helret/hello-retail@5.3.12
+- pkg:composer/helret/hello-retail@5.3.13
 - pkg:composer/helret/hello-retail@5.3.2
 - pkg:composer/helret/hello-retail@5.3.3
 - pkg:composer/helret/hello-retail@5.3.4
@@ -34,3 +37,5 @@
 - pkg:composer/helret/hello-retail@6.0.2
 - pkg:composer/helret/hello-retail@6.0.3
 - pkg:composer/helret/hello-retail@6.0.4
+- pkg:composer/helret/hello-retail@6.0.5
+- pkg:composer/helret/hello-retail@6.0.6
