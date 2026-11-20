@@ -3,8 +3,12 @@
 - pkg:composer/gaya/typo3-coder@13.0.2
 - pkg:composer/gaya/typo3-coder@13.0.3
 - pkg:composer/gaya/typo3-coder@13.0.4
+- pkg:composer/gaya/typo3-coder@13.0.5
+- pkg:composer/gaya/typo3-coder@13.0.6
 - pkg:composer/gaya/typo3-coder@14.0.0
 - pkg:composer/gaya/typo3-coder@14.0.1
 - pkg:composer/gaya/typo3-coder@14.1.0
 - pkg:composer/gaya/typo3-coder@14.1.1
 - pkg:composer/gaya/typo3-coder@14.2.0
+- pkg:composer/gaya/typo3-coder@14.2.1
+- pkg:composer/gaya/typo3-coder@14.2.2
