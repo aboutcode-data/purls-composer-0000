@@ -24,3 +24,4 @@
 - pkg:composer/gre/geoip@v1.0.2
 - pkg:composer/gre/geoip@v1.0.3
 - pkg:composer/gre/geoip@v2.2.3
+- pkg:composer/gre/geoip@v3.0.0
