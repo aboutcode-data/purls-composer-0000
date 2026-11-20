@@ -123,6 +123,9 @@
 - pkg:composer/getpop/root-wp@2.5.2
 - pkg:composer/getpop/root-wp@2.6.0
 - pkg:composer/getpop/root-wp@2.6.1
+- pkg:composer/getpop/root-wp@20.0.0
+- pkg:composer/getpop/root-wp@20.0.1
+- pkg:composer/getpop/root-wp@20.0.2
 - pkg:composer/getpop/root-wp@3.0.0
 - pkg:composer/getpop/root-wp@4.0.0
 - pkg:composer/getpop/root-wp@4.0.1

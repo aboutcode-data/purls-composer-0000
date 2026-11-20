@@ -138,6 +138,9 @@
 - pkg:composer/getpop/pages@2.5.2
 - pkg:composer/getpop/pages@2.6.0
 - pkg:composer/getpop/pages@2.6.1
+- pkg:composer/getpop/pages@20.0.0
+- pkg:composer/getpop/pages@20.0.1
+- pkg:composer/getpop/pages@20.0.2
 - pkg:composer/getpop/pages@3.0.0
 - pkg:composer/getpop/pages@4.0.0
 - pkg:composer/getpop/pages@4.0.1
