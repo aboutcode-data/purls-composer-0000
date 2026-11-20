@@ -6,3 +6,7 @@
 - pkg:composer/flagbit/shopware-maintenance@v2.0.1
 - pkg:composer/flagbit/shopware-maintenance@v2.1.0
 - pkg:composer/flagbit/shopware-maintenance@v3.0.0
+- pkg:composer/flagbit/shopware-maintenance@v3.0.1-rc.1
+- pkg:composer/flagbit/shopware-maintenance@v4.0.0
+- pkg:composer/flagbit/shopware-maintenance@v4.1.0
+- pkg:composer/flagbit/shopware-maintenance@v4.2.0
