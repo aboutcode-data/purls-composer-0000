@@ -14,3 +14,4 @@
 - pkg:composer/faustddd/symfony-1c-import@1.1.9
 - pkg:composer/faustddd/symfony-1c-import@v1.2.0
 - pkg:composer/faustddd/symfony-1c-import@v1.2.1
+- pkg:composer/faustddd/symfony-1c-import@v2.0.0
