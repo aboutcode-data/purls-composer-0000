@@ -5,3 +5,4 @@
 - pkg:composer/icanboogie/bind-activerecord@v3.0.0
 - pkg:composer/icanboogie/bind-activerecord@v4.0.0
 - pkg:composer/icanboogie/bind-activerecord@v5.0.0
+- pkg:composer/icanboogie/bind-activerecord@v6.0.0
