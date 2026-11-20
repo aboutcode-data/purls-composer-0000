@@ -66,6 +66,9 @@
 - pkg:composer/googleads/google-ads-php@v34.0.0
 - pkg:composer/googleads/google-ads-php@v35.0.0
 - pkg:composer/googleads/google-ads-php@v35.1.0
+- pkg:composer/googleads/google-ads-php@v35.2.0
+- pkg:composer/googleads/google-ads-php@v35.3.0
+- pkg:composer/googleads/google-ads-php@v35.4.0
 - pkg:composer/googleads/google-ads-php@v4.0.0
 - pkg:composer/googleads/google-ads-php@v5.0.0
 - pkg:composer/googleads/google-ads-php@v6.0.0

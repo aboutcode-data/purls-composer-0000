@@ -15,3 +15,6 @@
 - pkg:composer/google/maps-routeoptimization@v0.7.1
 - pkg:composer/google/maps-routeoptimization@v0.7.2
 - pkg:composer/google/maps-routeoptimization@v0.7.3
+- pkg:composer/google/maps-routeoptimization@v0.7.4
+- pkg:composer/google/maps-routeoptimization@v0.8.0
+- pkg:composer/google/maps-routeoptimization@v0.9.0

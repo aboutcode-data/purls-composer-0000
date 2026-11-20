@@ -16,3 +16,5 @@
 - pkg:composer/google/shopping-merchant-notifications@v1.2.4
 - pkg:composer/google/shopping-merchant-notifications@v1.2.5
 - pkg:composer/google/shopping-merchant-notifications@v1.2.6
+- pkg:composer/google/shopping-merchant-notifications@v1.3.0
+- pkg:composer/google/shopping-merchant-notifications@v1.4.0
