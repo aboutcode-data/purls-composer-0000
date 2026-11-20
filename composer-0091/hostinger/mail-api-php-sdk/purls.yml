@@ -22,6 +22,12 @@
 - pkg:composer/hostinger/mail-api-php-sdk@1.17.2
 - pkg:composer/hostinger/mail-api-php-sdk@1.18.0
 - pkg:composer/hostinger/mail-api-php-sdk@1.18.1
+- pkg:composer/hostinger/mail-api-php-sdk@1.18.2
+- pkg:composer/hostinger/mail-api-php-sdk@1.18.3
+- pkg:composer/hostinger/mail-api-php-sdk@1.18.4
+- pkg:composer/hostinger/mail-api-php-sdk@1.18.5
+- pkg:composer/hostinger/mail-api-php-sdk@1.18.6
+- pkg:composer/hostinger/mail-api-php-sdk@1.18.7
 - pkg:composer/hostinger/mail-api-php-sdk@1.2.0
 - pkg:composer/hostinger/mail-api-php-sdk@1.2.1
 - pkg:composer/hostinger/mail-api-php-sdk@1.2.2
