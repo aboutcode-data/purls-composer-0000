@@ -7,7 +7,9 @@
 - pkg:composer/ibexa/messenger@v4.6.30
 - pkg:composer/ibexa/messenger@v4.6.31
 - pkg:composer/ibexa/messenger@v4.6.32
+- pkg:composer/ibexa/messenger@v4.6.33
 - pkg:composer/ibexa/messenger@v5.0.10
+- pkg:composer/ibexa/messenger@v5.0.11
 - pkg:composer/ibexa/messenger@v5.0.2
 - pkg:composer/ibexa/messenger@v5.0.3
 - pkg:composer/ibexa/messenger@v5.0.4
