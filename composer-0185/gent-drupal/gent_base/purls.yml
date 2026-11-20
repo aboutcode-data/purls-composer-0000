@@ -54,6 +54,7 @@
 - pkg:composer/gent-drupal/gent_base@5.2.5
 - pkg:composer/gent-drupal/gent_base@5.2.6
 - pkg:composer/gent-drupal/gent_base@5.2.7
+- pkg:composer/gent-drupal/gent_base@5.2.8
 - pkg:composer/gent-drupal/gent_base@6.0.0
 - pkg:composer/gent-drupal/gent_base@6.0.0-beta1
 - pkg:composer/gent-drupal/gent_base@6.0.0-beta2
