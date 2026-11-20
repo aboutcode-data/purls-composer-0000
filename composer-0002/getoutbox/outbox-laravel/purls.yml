@@ -1,2 +1,3 @@
 - pkg:composer/getoutbox/outbox-laravel@v0.1.0
 - pkg:composer/getoutbox/outbox-laravel@v0.2.0
+- pkg:composer/getoutbox/outbox-laravel@v0.3.0
