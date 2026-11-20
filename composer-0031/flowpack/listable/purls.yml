@@ -4,8 +4,10 @@
 - pkg:composer/flowpack/listable@3.5.1
 - pkg:composer/flowpack/listable@3.6.0
 - pkg:composer/flowpack/listable@3.6.1
+- pkg:composer/flowpack/listable@3.6.2
 - pkg:composer/flowpack/listable@4.0.0
 - pkg:composer/flowpack/listable@4.0.2
+- pkg:composer/flowpack/listable@4.0.3
 - pkg:composer/flowpack/listable@v0.1
 - pkg:composer/flowpack/listable@v0.1.1
 - pkg:composer/flowpack/listable@v0.2
