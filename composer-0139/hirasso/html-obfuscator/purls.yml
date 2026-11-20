@@ -8,3 +8,4 @@
 - pkg:composer/hirasso/html-obfuscator@v0.5.1
 - pkg:composer/hirasso/html-obfuscator@v0.6.0
 - pkg:composer/hirasso/html-obfuscator@v0.6.1
+- pkg:composer/hirasso/html-obfuscator@v1.0.0
