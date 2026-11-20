@@ -9,3 +9,4 @@
 - pkg:composer/horde/text_diff@v3.0.0alpha3
 - pkg:composer/horde/text_diff@v3.0.0alpha4
 - pkg:composer/horde/text_diff@v3.0.0beta1
+- pkg:composer/horde/text_diff@v3.0.1

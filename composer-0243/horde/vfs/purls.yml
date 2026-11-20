@@ -19,3 +19,4 @@
 - pkg:composer/horde/vfs@v3.0.0beta1
 - pkg:composer/horde/vfs@v3.0.0beta2
 - pkg:composer/horde/vfs@v3.0.1
+- pkg:composer/horde/vfs@v3.0.2
