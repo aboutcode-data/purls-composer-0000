@@ -55,3 +55,6 @@
 - pkg:composer/goodboyalex/php_components_pack@v1.5.8
 - pkg:composer/goodboyalex/php_components_pack@v1.5.9
 - pkg:composer/goodboyalex/php_components_pack@v1.6
+- pkg:composer/goodboyalex/php_components_pack@v1.7
+- pkg:composer/goodboyalex/php_components_pack@v1.7.1
+- pkg:composer/goodboyalex/php_components_pack@v1.7.2
