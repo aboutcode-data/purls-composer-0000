@@ -14,7 +14,16 @@
 - pkg:composer/goldnead/statamic-offers@v1.14.0
 - pkg:composer/goldnead/statamic-offers@v1.14.1
 - pkg:composer/goldnead/statamic-offers@v1.15.0
+- pkg:composer/goldnead/statamic-offers@v1.16.0
+- pkg:composer/goldnead/statamic-offers@v1.17.0
+- pkg:composer/goldnead/statamic-offers@v1.17.1
+- pkg:composer/goldnead/statamic-offers@v1.18.0
+- pkg:composer/goldnead/statamic-offers@v1.19.0
 - pkg:composer/goldnead/statamic-offers@v1.2.0
+- pkg:composer/goldnead/statamic-offers@v1.20.0
+- pkg:composer/goldnead/statamic-offers@v1.21.0
+- pkg:composer/goldnead/statamic-offers@v1.21.1
+- pkg:composer/goldnead/statamic-offers@v1.22.0
 - pkg:composer/goldnead/statamic-offers@v1.3.0
 - pkg:composer/goldnead/statamic-offers@v1.4.0
 - pkg:composer/goldnead/statamic-offers@v1.5.0
