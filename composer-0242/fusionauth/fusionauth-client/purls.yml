@@ -180,6 +180,8 @@
 - pkg:composer/fusionauth/fusionauth-client@1.7.2
 - pkg:composer/fusionauth/fusionauth-client@1.7.3
 - pkg:composer/fusionauth/fusionauth-client@1.7.4
+- pkg:composer/fusionauth/fusionauth-client@1.70.0
+- pkg:composer/fusionauth/fusionauth-client@1.71.0
 - pkg:composer/fusionauth/fusionauth-client@1.8.0-RC.1
 - pkg:composer/fusionauth/fusionauth-client@1.8.1-RC.1
 - pkg:composer/fusionauth/fusionauth-client@1.9.0

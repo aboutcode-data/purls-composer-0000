@@ -57,3 +57,5 @@
 - pkg:composer/fusionspim/php-demandware-xml@v1.5.6
 - pkg:composer/fusionspim/php-demandware-xml@v2.3.0
 - pkg:composer/fusionspim/php-demandware-xml@v8.0.0
+- pkg:composer/fusionspim/php-demandware-xml@v8.2.0
+- pkg:composer/fusionspim/php-demandware-xml@v9.0.0

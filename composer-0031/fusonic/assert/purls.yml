@@ -2,3 +2,4 @@
 - pkg:composer/fusonic/assert@0.0.2
 - pkg:composer/fusonic/assert@0.0.3
 - pkg:composer/fusonic/assert@0.0.4
+- pkg:composer/fusonic/assert@1.0.0
