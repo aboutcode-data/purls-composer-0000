@@ -3,6 +3,9 @@
 - pkg:composer/horde/components@v1.0.0RC10
 - pkg:composer/horde/components@v1.0.0RC11
 - pkg:composer/horde/components@v1.0.0RC12
+- pkg:composer/horde/components@v1.0.0RC13
+- pkg:composer/horde/components@v1.0.0RC14
+- pkg:composer/horde/components@v1.0.0RC15
 - pkg:composer/horde/components@v1.0.0RC2
 - pkg:composer/horde/components@v1.0.0RC3
 - pkg:composer/horde/components@v1.0.0RC4
