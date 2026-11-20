@@ -1,2 +1,4 @@
 - pkg:composer/granitehldg/filament-iban-input@v4.0.0
 - pkg:composer/granitehldg/filament-iban-input@v4.1.0
+- pkg:composer/granitehldg/filament-iban-input@v5.0.0
+- pkg:composer/granitehldg/filament-iban-input@v5.0.1
