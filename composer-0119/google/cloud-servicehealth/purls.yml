@@ -21,3 +21,4 @@
 - pkg:composer/google/cloud-servicehealth@v0.5.2
 - pkg:composer/google/cloud-servicehealth@v0.5.3
 - pkg:composer/google/cloud-servicehealth@v0.5.4
+- pkg:composer/google/cloud-servicehealth@v0.6.0

@@ -8,3 +8,4 @@
 - pkg:composer/google/cloud-managedkafka-schemaregistry@v0.4.1
 - pkg:composer/google/cloud-managedkafka-schemaregistry@v0.4.2
 - pkg:composer/google/cloud-managedkafka-schemaregistry@v0.4.3
+- pkg:composer/google/cloud-managedkafka-schemaregistry@v0.5.0
