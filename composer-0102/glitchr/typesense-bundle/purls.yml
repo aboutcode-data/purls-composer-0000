@@ -1,1 +1,2 @@
 - pkg:composer/glitchr/typesense-bundle@1.0.1
+- pkg:composer/glitchr/typesense-bundle@v2.0.0
