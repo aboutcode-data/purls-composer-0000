@@ -21,3 +21,6 @@
 - pkg:composer/frosh/shopware-rector@0.5.8
 - pkg:composer/frosh/shopware-rector@0.5.9
 - pkg:composer/frosh/shopware-rector@0.6.0
+- pkg:composer/frosh/shopware-rector@0.7.0
+- pkg:composer/frosh/shopware-rector@0.7.1
+- pkg:composer/frosh/shopware-rector@0.7.2
