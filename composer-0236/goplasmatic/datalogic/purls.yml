@@ -11,3 +11,5 @@
 - pkg:composer/goplasmatic/datalogic@v5.7.1
 - pkg:composer/goplasmatic/datalogic@v5.8.0
 - pkg:composer/goplasmatic/datalogic@v5.8.1
+- pkg:composer/goplasmatic/datalogic@v5.8.2
+- pkg:composer/goplasmatic/datalogic@v5.9.0
