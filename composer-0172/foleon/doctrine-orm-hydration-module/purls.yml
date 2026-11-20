@@ -1,1 +1,2 @@
 - pkg:composer/foleon/doctrine-orm-hydration-module@1.0.0
+- pkg:composer/foleon/doctrine-orm-hydration-module@1.0.1
