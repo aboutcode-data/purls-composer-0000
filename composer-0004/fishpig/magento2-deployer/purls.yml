@@ -2,3 +2,6 @@
 - pkg:composer/fishpig/magento2-deployer@1.1.11
 - pkg:composer/fishpig/magento2-deployer@1.1.12
 - pkg:composer/fishpig/magento2-deployer@1.1.14
+- pkg:composer/fishpig/magento2-deployer@1.2.0
+- pkg:composer/fishpig/magento2-deployer@1.2.1
+- pkg:composer/fishpig/magento2-deployer@1.2.2
