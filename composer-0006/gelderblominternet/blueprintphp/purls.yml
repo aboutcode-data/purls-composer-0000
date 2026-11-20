@@ -7,7 +7,10 @@
 - pkg:composer/gelderblominternet/blueprintphp@v0.15-stable
 - pkg:composer/gelderblominternet/blueprintphp@v0.16-stable
 - pkg:composer/gelderblominternet/blueprintphp@v0.17-stable
+- pkg:composer/gelderblominternet/blueprintphp@v0.18-stable
+- pkg:composer/gelderblominternet/blueprintphp@v0.19-stable
 - pkg:composer/gelderblominternet/blueprintphp@v0.2-stable
+- pkg:composer/gelderblominternet/blueprintphp@v0.20-stable
 - pkg:composer/gelderblominternet/blueprintphp@v0.3-stable
 - pkg:composer/gelderblominternet/blueprintphp@v0.4-stable
 - pkg:composer/gelderblominternet/blueprintphp@v0.5-stable
