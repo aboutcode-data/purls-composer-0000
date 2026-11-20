@@ -38,3 +38,4 @@
 - pkg:composer/google/cloud-datalabeling@v0.8.1
 - pkg:composer/google/cloud-datalabeling@v0.8.2
 - pkg:composer/google/cloud-datalabeling@v0.8.3
+- pkg:composer/google/cloud-datalabeling@v0.9.0

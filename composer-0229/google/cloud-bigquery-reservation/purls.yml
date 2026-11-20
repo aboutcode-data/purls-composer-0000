@@ -44,6 +44,8 @@
 - pkg:composer/google/cloud-bigquery-reservation@v2.10.0
 - pkg:composer/google/cloud-bigquery-reservation@v2.10.1
 - pkg:composer/google/cloud-bigquery-reservation@v2.10.2
+- pkg:composer/google/cloud-bigquery-reservation@v2.10.3
+- pkg:composer/google/cloud-bigquery-reservation@v2.11.0
 - pkg:composer/google/cloud-bigquery-reservation@v2.2.0
 - pkg:composer/google/cloud-bigquery-reservation@v2.2.1
 - pkg:composer/google/cloud-bigquery-reservation@v2.3.0
