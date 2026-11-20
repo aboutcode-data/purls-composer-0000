@@ -6,6 +6,13 @@
 - pkg:composer/gracjankubicki/laravel-architecture-kit@v0.1.7
 - pkg:composer/gracjankubicki/laravel-architecture-kit@v0.1.8
 - pkg:composer/gracjankubicki/laravel-architecture-kit@v0.1.9
+- pkg:composer/gracjankubicki/laravel-architecture-kit@v0.10.0
+- pkg:composer/gracjankubicki/laravel-architecture-kit@v0.11.0
+- pkg:composer/gracjankubicki/laravel-architecture-kit@v0.11.1
+- pkg:composer/gracjankubicki/laravel-architecture-kit@v0.12.0
+- pkg:composer/gracjankubicki/laravel-architecture-kit@v0.13.0
+- pkg:composer/gracjankubicki/laravel-architecture-kit@v0.14.0
+- pkg:composer/gracjankubicki/laravel-architecture-kit@v0.14.1
 - pkg:composer/gracjankubicki/laravel-architecture-kit@v0.2.0
 - pkg:composer/gracjankubicki/laravel-architecture-kit@v0.2.1
 - pkg:composer/gracjankubicki/laravel-architecture-kit@v0.2.2
@@ -21,3 +28,9 @@
 - pkg:composer/gracjankubicki/laravel-architecture-kit@v0.6.1
 - pkg:composer/gracjankubicki/laravel-architecture-kit@v0.6.2
 - pkg:composer/gracjankubicki/laravel-architecture-kit@v0.7.0
+- pkg:composer/gracjankubicki/laravel-architecture-kit@v0.7.1
+- pkg:composer/gracjankubicki/laravel-architecture-kit@v0.8.0
+- pkg:composer/gracjankubicki/laravel-architecture-kit@v0.9.0
+- pkg:composer/gracjankubicki/laravel-architecture-kit@v0.9.1
+- pkg:composer/gracjankubicki/laravel-architecture-kit@v0.9.2
+- pkg:composer/gracjankubicki/laravel-architecture-kit@v0.9.3
