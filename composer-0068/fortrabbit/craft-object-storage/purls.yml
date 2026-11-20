@@ -9,4 +9,6 @@
 - pkg:composer/fortrabbit/craft-object-storage@2.1.0
 - pkg:composer/fortrabbit/craft-object-storage@3.0.0
 - pkg:composer/fortrabbit/craft-object-storage@3.0.0-beta.1
+- pkg:composer/fortrabbit/craft-object-storage@3.0.1
 - pkg:composer/fortrabbit/craft-object-storage@4.0.0
+- pkg:composer/fortrabbit/craft-object-storage@4.0.1
