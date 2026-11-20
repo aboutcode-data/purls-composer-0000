@@ -50,6 +50,14 @@
 - pkg:composer/imagewize/aludra@v2.38.1
 - pkg:composer/imagewize/aludra@v2.38.2
 - pkg:composer/imagewize/aludra@v2.38.3
+- pkg:composer/imagewize/aludra@v2.39.0
+- pkg:composer/imagewize/aludra@v2.39.1
+- pkg:composer/imagewize/aludra@v2.40.0
+- pkg:composer/imagewize/aludra@v2.41.0
+- pkg:composer/imagewize/aludra@v2.42.0
+- pkg:composer/imagewize/aludra@v2.42.1
+- pkg:composer/imagewize/aludra@v2.42.2
+- pkg:composer/imagewize/aludra@v2.43.0
 - pkg:composer/imagewize/aludra@v2.8.0
 - pkg:composer/imagewize/aludra@v2.9.0
 - pkg:composer/imagewize/aludra@v2.9.1
