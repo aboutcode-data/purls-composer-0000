@@ -5,3 +5,5 @@
 - pkg:composer/happones/laravel-evolution-client@v3.0.0
 - pkg:composer/happones/laravel-evolution-client@v3.0.1
 - pkg:composer/happones/laravel-evolution-client@v3.0.2
+- pkg:composer/happones/laravel-evolution-client@v4.0.0
+- pkg:composer/happones/laravel-evolution-client@v4.0.1
