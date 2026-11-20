@@ -1,1 +1,2 @@
 - pkg:composer/foodticket/cloudwatch-logger@v0.0.12
+- pkg:composer/foodticket/cloudwatch-logger@v0.1.0
