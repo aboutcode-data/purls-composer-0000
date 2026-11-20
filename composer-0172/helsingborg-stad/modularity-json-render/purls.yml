@@ -26,3 +26,6 @@
 - pkg:composer/helsingborg-stad/modularity-json-render@4.0.8
 - pkg:composer/helsingborg-stad/modularity-json-render@4.1.0
 - pkg:composer/helsingborg-stad/modularity-json-render@4.1.2
+- pkg:composer/helsingborg-stad/modularity-json-render@4.1.4
+- pkg:composer/helsingborg-stad/modularity-json-render@4.2.0
+- pkg:composer/helsingborg-stad/modularity-json-render@4.2.2
