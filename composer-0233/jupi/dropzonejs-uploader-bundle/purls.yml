@@ -12,3 +12,4 @@
 - pkg:composer/jupi/dropzonejs-uploader-bundle@v3.3.0
 - pkg:composer/jupi/dropzonejs-uploader-bundle@v3.4.0
 - pkg:composer/jupi/dropzonejs-uploader-bundle@v3.5.0
+- pkg:composer/jupi/dropzonejs-uploader-bundle@v4.0.0
