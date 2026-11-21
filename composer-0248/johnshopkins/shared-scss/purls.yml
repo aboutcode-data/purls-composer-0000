@@ -4,6 +4,9 @@
 - pkg:composer/johnshopkins/shared-scss@2.14.0
 - pkg:composer/johnshopkins/shared-scss@2.14.1
 - pkg:composer/johnshopkins/shared-scss@2.14.2
+- pkg:composer/johnshopkins/shared-scss@2.14.3
+- pkg:composer/johnshopkins/shared-scss@2.14.4
+- pkg:composer/johnshopkins/shared-scss@2.15.0
 - pkg:composer/johnshopkins/shared-scss@v1.0
 - pkg:composer/johnshopkins/shared-scss@v1.0.1
 - pkg:composer/johnshopkins/shared-scss@v1.1
