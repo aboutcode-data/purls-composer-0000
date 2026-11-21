@@ -8,6 +8,15 @@
 - pkg:composer/internetdata/internetdata@v1.5.0
 - pkg:composer/internetdata/internetdata@v2.0.0
 - pkg:composer/internetdata/internetdata@v2.1.0
+- pkg:composer/internetdata/internetdata@v2.10.0
+- pkg:composer/internetdata/internetdata@v2.10.1
+- pkg:composer/internetdata/internetdata@v2.11.0
+- pkg:composer/internetdata/internetdata@v2.12.0
+- pkg:composer/internetdata/internetdata@v2.13.0
+- pkg:composer/internetdata/internetdata@v2.13.1
+- pkg:composer/internetdata/internetdata@v2.13.2
+- pkg:composer/internetdata/internetdata@v2.13.3
+- pkg:composer/internetdata/internetdata@v2.14.0
 - pkg:composer/internetdata/internetdata@v2.2.0
 - pkg:composer/internetdata/internetdata@v2.2.1
 - pkg:composer/internetdata/internetdata@v2.2.2
@@ -31,3 +40,9 @@
 - pkg:composer/internetdata/internetdata@v2.7.3
 - pkg:composer/internetdata/internetdata@v2.7.4
 - pkg:composer/internetdata/internetdata@v2.7.5
+- pkg:composer/internetdata/internetdata@v2.7.6
+- pkg:composer/internetdata/internetdata@v2.7.7
+- pkg:composer/internetdata/internetdata@v2.8.0
+- pkg:composer/internetdata/internetdata@v2.8.1
+- pkg:composer/internetdata/internetdata@v2.9.0
+- pkg:composer/internetdata/internetdata@v2.9.1
