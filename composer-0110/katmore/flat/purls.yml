@@ -53,3 +53,7 @@
 - pkg:composer/katmore/flat@v1.5.3
 - pkg:composer/katmore/flat@v1.5.4
 - pkg:composer/katmore/flat@v1.5.5
+- pkg:composer/katmore/flat@v1.72.0
+- pkg:composer/katmore/flat@v1.72.1
+- pkg:composer/katmore/flat@v1.72.2
+- pkg:composer/katmore/flat@v1.73.0
