@@ -1,1 +1,2 @@
-- pkg:composer/jyim/laravel-plugin-market@v1.0.0
+- pkg:composer/jyim/laravel-plugin-market@1.0.0
+- pkg:composer/jyim/laravel-plugin-market@2.0.0
