@@ -47,3 +47,4 @@
 - pkg:composer/ipedis/rabbit-client-bundle@2.0.7
 - pkg:composer/ipedis/rabbit-client-bundle@2.1.0
 - pkg:composer/ipedis/rabbit-client-bundle@2.1.1
+- pkg:composer/ipedis/rabbit-client-bundle@2.2.0
