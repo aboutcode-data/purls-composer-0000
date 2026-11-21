@@ -58,3 +58,4 @@
 - pkg:composer/interaction-design-foundation/laravel-geoip@5.0.0
 - pkg:composer/interaction-design-foundation/laravel-geoip@5.0.1
 - pkg:composer/interaction-design-foundation/laravel-geoip@5.1.0
+- pkg:composer/interaction-design-foundation/laravel-geoip@5.1.1
