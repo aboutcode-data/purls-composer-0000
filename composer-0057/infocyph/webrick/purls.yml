@@ -23,3 +23,7 @@
 - pkg:composer/infocyph/webrick@5.3
 - pkg:composer/infocyph/webrick@5.4
 - pkg:composer/infocyph/webrick@6.0
+- pkg:composer/infocyph/webrick@6.0.1
+- pkg:composer/infocyph/webrick@6.0.2
+- pkg:composer/infocyph/webrick@6.0.3
+- pkg:composer/infocyph/webrick@6.0.4
