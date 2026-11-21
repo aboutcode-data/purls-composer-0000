@@ -6,3 +6,5 @@
 - pkg:composer/jostkleigrewe/symfony-standards@v1.2.1
 - pkg:composer/jostkleigrewe/symfony-standards@v1.3.0
 - pkg:composer/jostkleigrewe/symfony-standards@v1.4.0
+- pkg:composer/jostkleigrewe/symfony-standards@v1.5.0
+- pkg:composer/jostkleigrewe/symfony-standards@v1.5.1
