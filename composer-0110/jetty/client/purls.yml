@@ -1,4 +1,6 @@
 - pkg:composer/jetty/client@v0.1.100
+- pkg:composer/jetty/client@v0.1.101
+- pkg:composer/jetty/client@v0.1.102
 - pkg:composer/jetty/client@v0.1.14
 - pkg:composer/jetty/client@v0.1.93
 - pkg:composer/jetty/client@v0.1.95
