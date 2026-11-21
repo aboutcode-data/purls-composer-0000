@@ -31,3 +31,5 @@
 - pkg:composer/ion-bazan/composer-diff@v2.2.1
 - pkg:composer/ion-bazan/composer-diff@v2.3.0
 - pkg:composer/ion-bazan/composer-diff@v2.4.0
+- pkg:composer/ion-bazan/composer-diff@v2.5.0
+- pkg:composer/ion-bazan/composer-diff@v2.5.1
