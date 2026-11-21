@@ -3,3 +3,5 @@
 - pkg:composer/iqrf/command-executor@v0.1.2
 - pkg:composer/iqrf/command-executor@v0.2.0
 - pkg:composer/iqrf/command-executor@v0.2.1
+- pkg:composer/iqrf/command-executor@v0.3.0
+- pkg:composer/iqrf/command-executor@v0.4.0
