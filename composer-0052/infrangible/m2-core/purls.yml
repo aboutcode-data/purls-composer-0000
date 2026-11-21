@@ -20,6 +20,8 @@
 - pkg:composer/infrangible/m2-core@2.13.1
 - pkg:composer/infrangible/m2-core@2.14.0
 - pkg:composer/infrangible/m2-core@2.15.0
+- pkg:composer/infrangible/m2-core@2.15.1
+- pkg:composer/infrangible/m2-core@2.15.2
 - pkg:composer/infrangible/m2-core@2.2.0
 - pkg:composer/infrangible/m2-core@2.2.1
 - pkg:composer/infrangible/m2-core@2.2.2
@@ -46,6 +48,8 @@
 - pkg:composer/infrangible/m2-core@3.13.0
 - pkg:composer/infrangible/m2-core@3.13.1
 - pkg:composer/infrangible/m2-core@3.14.0
+- pkg:composer/infrangible/m2-core@3.14.1
+- pkg:composer/infrangible/m2-core@3.14.2
 - pkg:composer/infrangible/m2-core@3.2.0
 - pkg:composer/infrangible/m2-core@3.3.0
 - pkg:composer/infrangible/m2-core@3.4.0
@@ -58,3 +62,10 @@
 - pkg:composer/infrangible/m2-core@3.8.0
 - pkg:composer/infrangible/m2-core@3.9.0
 - pkg:composer/infrangible/m2-core@4.0.0
+- pkg:composer/infrangible/m2-core@4.0.1
+- pkg:composer/infrangible/m2-core@4.0.2
+- pkg:composer/infrangible/m2-core@5.0.0
+- pkg:composer/infrangible/m2-core@5.0.1
+- pkg:composer/infrangible/m2-core@5.0.2
+- pkg:composer/infrangible/m2-core@5.0.3
+- pkg:composer/infrangible/m2-core@5.0.4
