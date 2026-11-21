@@ -18,5 +18,6 @@
 - pkg:composer/ingenerator/kohana-view@v4.8.0
 - pkg:composer/ingenerator/kohana-view@v4.8.1
 - pkg:composer/ingenerator/kohana-view@v4.9.0
+- pkg:composer/ingenerator/kohana-view@v5.0.0
 - pkg:composer/ingenerator/kohana-view@v5.0.0-ALPHA
 - pkg:composer/ingenerator/kohana-view@v5.0.0-ALPHA2
