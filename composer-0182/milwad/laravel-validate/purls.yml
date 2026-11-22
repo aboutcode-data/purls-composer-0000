@@ -18,3 +18,6 @@
 - pkg:composer/milwad/laravel-validate@v2.0.0
 - pkg:composer/milwad/laravel-validate@v2.1.0
 - pkg:composer/milwad/laravel-validate@v2.2.0
+- pkg:composer/milwad/laravel-validate@v2.3.0
+- pkg:composer/milwad/laravel-validate@v2.4.0
+- pkg:composer/milwad/laravel-validate@v2.5.0

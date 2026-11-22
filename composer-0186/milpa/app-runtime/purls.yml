@@ -255,6 +255,14 @@
 - pkg:composer/milpa/app-runtime@v0.221.3
 - pkg:composer/milpa/app-runtime@v0.222.0
 - pkg:composer/milpa/app-runtime@v0.222.1
+- pkg:composer/milpa/app-runtime@v0.222.2
+- pkg:composer/milpa/app-runtime@v0.222.3
+- pkg:composer/milpa/app-runtime@v0.222.4
+- pkg:composer/milpa/app-runtime@v0.223.0
+- pkg:composer/milpa/app-runtime@v0.224.0
+- pkg:composer/milpa/app-runtime@v0.225.0
+- pkg:composer/milpa/app-runtime@v0.225.1
+- pkg:composer/milpa/app-runtime@v0.226.0
 - pkg:composer/milpa/app-runtime@v0.23.0
 - pkg:composer/milpa/app-runtime@v0.23.1
 - pkg:composer/milpa/app-runtime@v0.24.0
