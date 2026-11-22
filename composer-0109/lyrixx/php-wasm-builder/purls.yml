@@ -1,4 +1,12 @@
 - pkg:composer/lyrixx/php-wasm-builder@v0.1.0
+- pkg:composer/lyrixx/php-wasm-builder@v0.10.0
+- pkg:composer/lyrixx/php-wasm-builder@v0.11.0
+- pkg:composer/lyrixx/php-wasm-builder@v0.12.0
+- pkg:composer/lyrixx/php-wasm-builder@v0.12.1
+- pkg:composer/lyrixx/php-wasm-builder@v0.12.2
+- pkg:composer/lyrixx/php-wasm-builder@v0.13.0
+- pkg:composer/lyrixx/php-wasm-builder@v0.13.1
+- pkg:composer/lyrixx/php-wasm-builder@v0.14.0
 - pkg:composer/lyrixx/php-wasm-builder@v0.2.0
 - pkg:composer/lyrixx/php-wasm-builder@v0.3.0
 - pkg:composer/lyrixx/php-wasm-builder@v0.4.0
