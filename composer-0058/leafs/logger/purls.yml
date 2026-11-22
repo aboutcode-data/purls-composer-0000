@@ -11,3 +11,4 @@
 - pkg:composer/leafs/logger@v4.0
 - pkg:composer/leafs/logger@v5.0
 - pkg:composer/leafs/logger@v5.0.1
+- pkg:composer/leafs/logger@v5.0.2
