@@ -11,3 +11,4 @@
 - pkg:composer/kinetis/migrations@v1.4.4
 - pkg:composer/kinetis/migrations@v1.4.5
 - pkg:composer/kinetis/migrations@v1.5.0
+- pkg:composer/kinetis/migrations@v1.5.1
