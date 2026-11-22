@@ -7,6 +7,8 @@
 - pkg:composer/libpurecontent/useraccount@v1.12.1
 - pkg:composer/libpurecontent/useraccount@v1.12.2
 - pkg:composer/libpurecontent/useraccount@v1.12.3
+- pkg:composer/libpurecontent/useraccount@v1.13.0
+- pkg:composer/libpurecontent/useraccount@v1.13.1
 - pkg:composer/libpurecontent/useraccount@v1.7.0
 - pkg:composer/libpurecontent/useraccount@v1.7.1
 - pkg:composer/libpurecontent/useraccount@v1.7.2
@@ -16,3 +18,4 @@
 - pkg:composer/libpurecontent/useraccount@v1.9.0
 - pkg:composer/libpurecontent/useraccount@v1.9.1
 - pkg:composer/libpurecontent/useraccount@v1.9.2
+- pkg:composer/libpurecontent/useraccount@v1.9.3
