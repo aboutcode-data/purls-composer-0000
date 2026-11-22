@@ -1,2 +1,6 @@
 - pkg:composer/monei/sylius-monei-plugin@v1.0.0
 - pkg:composer/monei/sylius-monei-plugin@v1.0.1
+- pkg:composer/monei/sylius-monei-plugin@v2.0.0
+- pkg:composer/monei/sylius-monei-plugin@v2.1.0
+- pkg:composer/monei/sylius-monei-plugin@v2.2.0
+- pkg:composer/monei/sylius-monei-plugin@v2.2.1

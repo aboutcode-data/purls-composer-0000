@@ -13,3 +13,4 @@
 - pkg:composer/moneyphp/iso-currencies@3.7.0
 - pkg:composer/moneyphp/iso-currencies@3.8.0
 - pkg:composer/moneyphp/iso-currencies@3.8.1
+- pkg:composer/moneyphp/iso-currencies@3.9.0
