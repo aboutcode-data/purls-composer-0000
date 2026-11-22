@@ -1,0 +1,6 @@
+- pkg:composer/lims-php/client@v1.0.0
+- pkg:composer/lims-php/client@v1.2.0
+- pkg:composer/lims-php/client@v2.0.0
+- pkg:composer/lims-php/client@v2.1.0
+- pkg:composer/lims-php/client@v3.0.0
+- pkg:composer/lims-php/client@v3.0.1
