@@ -11,3 +11,5 @@
 - pkg:composer/kinetis/database-bridge@v1.4.1
 - pkg:composer/kinetis/database-bridge@v1.4.2
 - pkg:composer/kinetis/database-bridge@v1.4.3
+- pkg:composer/kinetis/database-bridge@v1.4.4
+- pkg:composer/kinetis/database-bridge@v1.4.5
