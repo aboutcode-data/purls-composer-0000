@@ -27,3 +27,4 @@
 - pkg:composer/loop54/php-connector@3.0.7
 - pkg:composer/loop54/php-connector@3.1.1
 - pkg:composer/loop54/php-connector@4.0.1
+- pkg:composer/loop54/php-connector@5.0.1
