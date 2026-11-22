@@ -16,3 +16,4 @@
 - pkg:composer/max-messenger-bot/max-bot-api-php@0.3.7
 - pkg:composer/max-messenger-bot/max-bot-api-php@0.3.8
 - pkg:composer/max-messenger-bot/max-bot-api-php@0.3.9
+- pkg:composer/max-messenger-bot/max-bot-api-php@1.0.0
