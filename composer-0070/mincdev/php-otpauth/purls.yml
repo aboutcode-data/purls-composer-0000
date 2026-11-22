@@ -4,3 +4,4 @@
 - pkg:composer/mincdev/php-otpauth@v2.0.1
 - pkg:composer/mincdev/php-otpauth@v2.0.2
 - pkg:composer/mincdev/php-otpauth@v2.1.0
+- pkg:composer/mincdev/php-otpauth@v2.1.1
