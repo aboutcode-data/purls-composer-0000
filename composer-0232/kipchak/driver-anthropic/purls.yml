@@ -20,7 +20,11 @@
 - pkg:composer/kipchak/driver-anthropic@2.14
 - pkg:composer/kipchak/driver-anthropic@2.15
 - pkg:composer/kipchak/driver-anthropic@2.16
+- pkg:composer/kipchak/driver-anthropic@2.17
+- pkg:composer/kipchak/driver-anthropic@2.18
+- pkg:composer/kipchak/driver-anthropic@2.19
 - pkg:composer/kipchak/driver-anthropic@2.2
+- pkg:composer/kipchak/driver-anthropic@2.20
 - pkg:composer/kipchak/driver-anthropic@2.3
 - pkg:composer/kipchak/driver-anthropic@2.4
 - pkg:composer/kipchak/driver-anthropic@2.5

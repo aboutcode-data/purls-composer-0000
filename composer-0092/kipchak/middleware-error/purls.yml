@@ -25,6 +25,12 @@
 - pkg:composer/kipchak/middleware-error@1.30
 - pkg:composer/kipchak/middleware-error@1.31
 - pkg:composer/kipchak/middleware-error@1.32
+- pkg:composer/kipchak/middleware-error@1.33
+- pkg:composer/kipchak/middleware-error@1.34
+- pkg:composer/kipchak/middleware-error@1.35
+- pkg:composer/kipchak/middleware-error@1.36
+- pkg:composer/kipchak/middleware-error@1.37
+- pkg:composer/kipchak/middleware-error@1.38
 - pkg:composer/kipchak/middleware-error@1.4
 - pkg:composer/kipchak/middleware-error@1.5
 - pkg:composer/kipchak/middleware-error@1.6

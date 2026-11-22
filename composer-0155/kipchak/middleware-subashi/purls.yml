@@ -30,7 +30,11 @@
 - pkg:composer/kipchak/middleware-subashi@1.35
 - pkg:composer/kipchak/middleware-subashi@1.36
 - pkg:composer/kipchak/middleware-subashi@1.37
+- pkg:composer/kipchak/middleware-subashi@1.38
+- pkg:composer/kipchak/middleware-subashi@1.39
 - pkg:composer/kipchak/middleware-subashi@1.4
+- pkg:composer/kipchak/middleware-subashi@1.40
+- pkg:composer/kipchak/middleware-subashi@1.41
 - pkg:composer/kipchak/middleware-subashi@1.5
 - pkg:composer/kipchak/middleware-subashi@1.6
 - pkg:composer/kipchak/middleware-subashi@1.7

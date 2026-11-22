@@ -46,7 +46,16 @@
 - pkg:composer/kipchak/driver-doctrine@1.5
 - pkg:composer/kipchak/driver-doctrine@1.50
 - pkg:composer/kipchak/driver-doctrine@1.51
+- pkg:composer/kipchak/driver-doctrine@1.52
+- pkg:composer/kipchak/driver-doctrine@1.53
+- pkg:composer/kipchak/driver-doctrine@1.54
+- pkg:composer/kipchak/driver-doctrine@1.55
+- pkg:composer/kipchak/driver-doctrine@1.56
+- pkg:composer/kipchak/driver-doctrine@1.57
+- pkg:composer/kipchak/driver-doctrine@1.58
+- pkg:composer/kipchak/driver-doctrine@1.59
 - pkg:composer/kipchak/driver-doctrine@1.6
+- pkg:composer/kipchak/driver-doctrine@1.60
 - pkg:composer/kipchak/driver-doctrine@1.7
 - pkg:composer/kipchak/driver-doctrine@1.8
 - pkg:composer/kipchak/driver-doctrine@1.9
