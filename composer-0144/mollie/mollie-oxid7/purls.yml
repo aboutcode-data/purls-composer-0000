@@ -10,6 +10,7 @@
 - pkg:composer/mollie/mollie-oxid7@1.2.1
 - pkg:composer/mollie/mollie-oxid7@1.2.11
 - pkg:composer/mollie/mollie-oxid7@1.2.12
+- pkg:composer/mollie/mollie-oxid7@1.2.13
 - pkg:composer/mollie/mollie-oxid7@1.2.2
 - pkg:composer/mollie/mollie-oxid7@1.2.3
 - pkg:composer/mollie/mollie-oxid7@1.2.4
@@ -23,3 +24,5 @@
 - pkg:composer/mollie/mollie-oxid7@2.0.2
 - pkg:composer/mollie/mollie-oxid7@2.0.4
 - pkg:composer/mollie/mollie-oxid7@2.0.5
+- pkg:composer/mollie/mollie-oxid7@2.0.6
+- pkg:composer/mollie/mollie-oxid7@2.0.7
