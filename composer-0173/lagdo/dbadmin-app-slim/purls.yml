@@ -8,3 +8,5 @@
 - pkg:composer/lagdo/dbadmin-app-slim@v0.12.1
 - pkg:composer/lagdo/dbadmin-app-slim@v0.13.0
 - pkg:composer/lagdo/dbadmin-app-slim@v0.14.0
+- pkg:composer/lagdo/dbadmin-app-slim@v0.15.0
+- pkg:composer/lagdo/dbadmin-app-slim@v0.15.1
