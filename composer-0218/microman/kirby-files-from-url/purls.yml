@@ -9,3 +9,4 @@
 - pkg:composer/microman/kirby-files-from-url@2.1.6
 - pkg:composer/microman/kirby-files-from-url@2.1.8
 - pkg:composer/microman/kirby-files-from-url@2.1.9
+- pkg:composer/microman/kirby-files-from-url@3.0.0-beta.1
