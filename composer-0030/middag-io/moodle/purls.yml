@@ -18,6 +18,13 @@
 - pkg:composer/middag-io/moodle@v1.15.0
 - pkg:composer/middag-io/moodle@v1.15.1
 - pkg:composer/middag-io/moodle@v1.16.0
+- pkg:composer/middag-io/moodle@v1.16.1
+- pkg:composer/middag-io/moodle@v1.17.0
+- pkg:composer/middag-io/moodle@v1.17.1
+- pkg:composer/middag-io/moodle@v1.17.2
+- pkg:composer/middag-io/moodle@v1.18.0
+- pkg:composer/middag-io/moodle@v1.19.0
+- pkg:composer/middag-io/moodle@v1.19.1
 - pkg:composer/middag-io/moodle@v1.2.0
 - pkg:composer/middag-io/moodle@v1.2.1
 - pkg:composer/middag-io/moodle@v1.2.2
