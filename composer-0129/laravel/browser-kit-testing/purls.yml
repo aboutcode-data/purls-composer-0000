@@ -39,3 +39,4 @@
 - pkg:composer/laravel/browser-kit-testing@v7.2.6
 - pkg:composer/laravel/browser-kit-testing@v7.2.7
 - pkg:composer/laravel/browser-kit-testing@v7.2.8
+- pkg:composer/laravel/browser-kit-testing@v7.3.0
