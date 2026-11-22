@@ -36,8 +36,16 @@
 - pkg:composer/koh/sylius-a2a@v1.1.4
 - pkg:composer/koh/sylius-a2a@v1.1.40
 - pkg:composer/koh/sylius-a2a@v1.1.41
+- pkg:composer/koh/sylius-a2a@v1.1.42
 - pkg:composer/koh/sylius-a2a@v1.1.5
 - pkg:composer/koh/sylius-a2a@v1.1.6
 - pkg:composer/koh/sylius-a2a@v1.1.7
 - pkg:composer/koh/sylius-a2a@v1.1.8
 - pkg:composer/koh/sylius-a2a@v1.1.9
+- pkg:composer/koh/sylius-a2a@v1.2.0
+- pkg:composer/koh/sylius-a2a@v1.3.0
+- pkg:composer/koh/sylius-a2a@v1.3.1
+- pkg:composer/koh/sylius-a2a@v1.3.2
+- pkg:composer/koh/sylius-a2a@v1.3.3
+- pkg:composer/koh/sylius-a2a@v1.3.4
+- pkg:composer/koh/sylius-a2a@v1.3.5

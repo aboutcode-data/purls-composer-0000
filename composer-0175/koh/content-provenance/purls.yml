@@ -3,3 +3,6 @@
 - pkg:composer/koh/content-provenance@v0.12.2
 - pkg:composer/koh/content-provenance@v0.12.3
 - pkg:composer/koh/content-provenance@v0.12.4
+- pkg:composer/koh/content-provenance@v0.12.6
+- pkg:composer/koh/content-provenance@v1.0.0
+- pkg:composer/koh/content-provenance@v1.0.1
