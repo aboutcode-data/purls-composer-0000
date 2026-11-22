@@ -7,6 +7,12 @@
 - pkg:composer/michaelalexeevweb/php-json-chunk@1.1.0
 - pkg:composer/michaelalexeevweb/php-json-chunk@1.1.1
 - pkg:composer/michaelalexeevweb/php-json-chunk@1.1.2
+- pkg:composer/michaelalexeevweb/php-json-chunk@1.10.0
+- pkg:composer/michaelalexeevweb/php-json-chunk@1.11.0
+- pkg:composer/michaelalexeevweb/php-json-chunk@1.12.0
+- pkg:composer/michaelalexeevweb/php-json-chunk@1.13.0
+- pkg:composer/michaelalexeevweb/php-json-chunk@1.14.0
+- pkg:composer/michaelalexeevweb/php-json-chunk@1.15.0
 - pkg:composer/michaelalexeevweb/php-json-chunk@1.2.1
 - pkg:composer/michaelalexeevweb/php-json-chunk@1.2.2
 - pkg:composer/michaelalexeevweb/php-json-chunk@1.2.3
