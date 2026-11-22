@@ -6,6 +6,8 @@
 - pkg:composer/liberusoftware/module-manager@1.0.5
 - pkg:composer/liberusoftware/module-manager@1.0.6
 - pkg:composer/liberusoftware/module-manager@1.1.0
+- pkg:composer/liberusoftware/module-manager@1.10.0
+- pkg:composer/liberusoftware/module-manager@1.10.1
 - pkg:composer/liberusoftware/module-manager@1.2.0
 - pkg:composer/liberusoftware/module-manager@1.2.1
 - pkg:composer/liberusoftware/module-manager@1.4.0
@@ -19,3 +21,8 @@
 - pkg:composer/liberusoftware/module-manager@1.6.0
 - pkg:composer/liberusoftware/module-manager@1.6.1
 - pkg:composer/liberusoftware/module-manager@1.6.2
+- pkg:composer/liberusoftware/module-manager@1.7.0
+- pkg:composer/liberusoftware/module-manager@1.8.0
+- pkg:composer/liberusoftware/module-manager@1.9.0
+- pkg:composer/liberusoftware/module-manager@1.9.1
+- pkg:composer/liberusoftware/module-manager@1.9.2
