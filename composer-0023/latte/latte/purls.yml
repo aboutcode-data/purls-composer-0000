@@ -116,3 +116,5 @@
 - pkg:composer/latte/latte@v3.1.5
 - pkg:composer/latte/latte@v3.1.6
 - pkg:composer/latte/latte@v3.1.7
+- pkg:composer/latte/latte@v3.1.8
+- pkg:composer/latte/latte@v3.1.9

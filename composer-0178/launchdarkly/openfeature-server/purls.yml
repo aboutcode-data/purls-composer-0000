@@ -1,3 +1,5 @@
 - pkg:composer/launchdarkly/openfeature-server@0.1.0
 - pkg:composer/launchdarkly/openfeature-server@1.0.0
 - pkg:composer/launchdarkly/openfeature-server@2.0.0
+- pkg:composer/launchdarkly/openfeature-server@2.1.0
+- pkg:composer/launchdarkly/openfeature-server@2.1.1
