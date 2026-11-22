@@ -15,6 +15,10 @@
 - pkg:composer/magicsunday/coding-standard@2.3.0
 - pkg:composer/magicsunday/coding-standard@3.0.0
 - pkg:composer/magicsunday/coding-standard@3.1.0
+- pkg:composer/magicsunday/coding-standard@3.10.0
+- pkg:composer/magicsunday/coding-standard@3.11.0
+- pkg:composer/magicsunday/coding-standard@3.12.0
+- pkg:composer/magicsunday/coding-standard@3.13.0
 - pkg:composer/magicsunday/coding-standard@3.2.0
 - pkg:composer/magicsunday/coding-standard@3.3.0
 - pkg:composer/magicsunday/coding-standard@3.4.0
