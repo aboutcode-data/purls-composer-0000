@@ -15,6 +15,7 @@
 - pkg:composer/kriss/webman-filesystem@v12.0.7
 - pkg:composer/kriss/webman-filesystem@v12.0.8
 - pkg:composer/kriss/webman-filesystem@v12.0.9
+- pkg:composer/kriss/webman-filesystem@v13.0.0
 - pkg:composer/kriss/webman-filesystem@v2.0.0
 - pkg:composer/kriss/webman-filesystem@v2.1.0
 - pkg:composer/kriss/webman-filesystem@v2.1.1
