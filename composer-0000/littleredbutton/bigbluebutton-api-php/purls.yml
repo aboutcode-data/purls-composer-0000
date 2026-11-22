@@ -25,5 +25,8 @@
 - pkg:composer/littleredbutton/bigbluebutton-api-php@6.2.0
 - pkg:composer/littleredbutton/bigbluebutton-api-php@6.2.1
 - pkg:composer/littleredbutton/bigbluebutton-api-php@6.2.2
+- pkg:composer/littleredbutton/bigbluebutton-api-php@6.3.0
+- pkg:composer/littleredbutton/bigbluebutton-api-php@6.3.1
+- pkg:composer/littleredbutton/bigbluebutton-api-php@7.0.0
 - pkg:composer/littleredbutton/bigbluebutton-api-php@v1.0
 - pkg:composer/littleredbutton/bigbluebutton-api-php@v5.3.0
