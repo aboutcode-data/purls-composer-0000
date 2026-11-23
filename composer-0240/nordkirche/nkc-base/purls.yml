@@ -12,3 +12,5 @@
 - pkg:composer/nordkirche/nkc-base@12.4.0
 - pkg:composer/nordkirche/nkc-base@12.4.1
 - pkg:composer/nordkirche/nkc-base@12.4.2
+- pkg:composer/nordkirche/nkc-base@13.0.0
+- pkg:composer/nordkirche/nkc-base@13.0.1
