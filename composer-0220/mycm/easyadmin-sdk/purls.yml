@@ -10,3 +10,8 @@
 - pkg:composer/mycm/easyadmin-sdk@v1.0.7
 - pkg:composer/mycm/easyadmin-sdk@v1.0.8
 - pkg:composer/mycm/easyadmin-sdk@v1.0.9
+- pkg:composer/mycm/easyadmin-sdk@v2.0.0
+- pkg:composer/mycm/easyadmin-sdk@v2.0.1
+- pkg:composer/mycm/easyadmin-sdk@v2.0.2
+- pkg:composer/mycm/easyadmin-sdk@v2.0.3
+- pkg:composer/mycm/easyadmin-sdk@v2.1.0
