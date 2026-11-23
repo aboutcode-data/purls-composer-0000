@@ -10,6 +10,10 @@
 - pkg:composer/nowo-tech/ckeditor5-editor-bundle@v1.10.0
 - pkg:composer/nowo-tech/ckeditor5-editor-bundle@v1.10.1
 - pkg:composer/nowo-tech/ckeditor5-editor-bundle@v1.10.2
+- pkg:composer/nowo-tech/ckeditor5-editor-bundle@v1.11.0
+- pkg:composer/nowo-tech/ckeditor5-editor-bundle@v1.12.0
+- pkg:composer/nowo-tech/ckeditor5-editor-bundle@v1.12.1
+- pkg:composer/nowo-tech/ckeditor5-editor-bundle@v1.13.0
 - pkg:composer/nowo-tech/ckeditor5-editor-bundle@v1.2.0
 - pkg:composer/nowo-tech/ckeditor5-editor-bundle@v1.2.1
 - pkg:composer/nowo-tech/ckeditor5-editor-bundle@v1.2.2

@@ -34,6 +34,10 @@
 - pkg:composer/nowo-tech/pdf-signable-bundle@v3.1.6
 - pkg:composer/nowo-tech/pdf-signable-bundle@v3.1.7
 - pkg:composer/nowo-tech/pdf-signable-bundle@v3.1.8
+- pkg:composer/nowo-tech/pdf-signable-bundle@v3.10.0
+- pkg:composer/nowo-tech/pdf-signable-bundle@v3.11.0
+- pkg:composer/nowo-tech/pdf-signable-bundle@v3.12.0
+- pkg:composer/nowo-tech/pdf-signable-bundle@v3.12.1
 - pkg:composer/nowo-tech/pdf-signable-bundle@v3.2.0
 - pkg:composer/nowo-tech/pdf-signable-bundle@v3.2.1
 - pkg:composer/nowo-tech/pdf-signable-bundle@v3.2.2
@@ -53,3 +57,4 @@
 - pkg:composer/nowo-tech/pdf-signable-bundle@v3.8.1
 - pkg:composer/nowo-tech/pdf-signable-bundle@v3.9.0
 - pkg:composer/nowo-tech/pdf-signable-bundle@v3.9.1
+- pkg:composer/nowo-tech/pdf-signable-bundle@v3.9.2
