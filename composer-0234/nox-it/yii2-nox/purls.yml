@@ -8,3 +8,6 @@
 - pkg:composer/nox-it/yii2-nox@1.0.7
 - pkg:composer/nox-it/yii2-nox@1.0.8
 - pkg:composer/nox-it/yii2-nox@2.0.0
+- pkg:composer/nox-it/yii2-nox@4.0.0
+- pkg:composer/nox-it/yii2-nox@5.0.0
+- pkg:composer/nox-it/yii2-nox@5.0.1
