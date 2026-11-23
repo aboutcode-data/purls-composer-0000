@@ -20,6 +20,9 @@
 - pkg:composer/netresearch/go-development-skill@v1.16.2
 - pkg:composer/netresearch/go-development-skill@v1.16.3
 - pkg:composer/netresearch/go-development-skill@v1.16.4
+- pkg:composer/netresearch/go-development-skill@v1.16.5
+- pkg:composer/netresearch/go-development-skill@v1.16.6
+- pkg:composer/netresearch/go-development-skill@v1.16.7
 - pkg:composer/netresearch/go-development-skill@v1.5.2
 - pkg:composer/netresearch/go-development-skill@v1.5.3
 - pkg:composer/netresearch/go-development-skill@v1.5.4

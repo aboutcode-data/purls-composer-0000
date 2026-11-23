@@ -90,3 +90,10 @@
 - pkg:composer/netresearch/agent-skill-repo@v3.2.0
 - pkg:composer/netresearch/agent-skill-repo@v3.2.1
 - pkg:composer/netresearch/agent-skill-repo@v3.2.2
+- pkg:composer/netresearch/agent-skill-repo@v3.3.0
+- pkg:composer/netresearch/agent-skill-repo@v3.3.1
+- pkg:composer/netresearch/agent-skill-repo@v4.0.0
+- pkg:composer/netresearch/agent-skill-repo@v4.1.0
+- pkg:composer/netresearch/agent-skill-repo@v4.1.1
+- pkg:composer/netresearch/agent-skill-repo@v4.2.0
+- pkg:composer/netresearch/agent-skill-repo@v4.2.1

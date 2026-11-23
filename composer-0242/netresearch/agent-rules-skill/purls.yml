@@ -49,6 +49,10 @@
 - pkg:composer/netresearch/agent-rules-skill@v3.16.3
 - pkg:composer/netresearch/agent-rules-skill@v3.16.4
 - pkg:composer/netresearch/agent-rules-skill@v3.16.5
+- pkg:composer/netresearch/agent-rules-skill@v3.17.0
+- pkg:composer/netresearch/agent-rules-skill@v3.17.1
+- pkg:composer/netresearch/agent-rules-skill@v3.17.2
+- pkg:composer/netresearch/agent-rules-skill@v3.17.3
 - pkg:composer/netresearch/agent-rules-skill@v3.2.0
 - pkg:composer/netresearch/agent-rules-skill@v3.3.0
 - pkg:composer/netresearch/agent-rules-skill@v3.4.0
