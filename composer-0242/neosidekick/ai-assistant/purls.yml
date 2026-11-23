@@ -26,6 +26,7 @@
 - pkg:composer/neosidekick/ai-assistant@v2.6.1
 - pkg:composer/neosidekick/ai-assistant@v3.0.0-beta.1
 - pkg:composer/neosidekick/ai-assistant@v3.0.0-beta.10
+- pkg:composer/neosidekick/ai-assistant@v3.0.0-beta.11
 - pkg:composer/neosidekick/ai-assistant@v3.0.0-beta.2
 - pkg:composer/neosidekick/ai-assistant@v3.0.0-beta.3
 - pkg:composer/neosidekick/ai-assistant@v3.0.0-beta.4
