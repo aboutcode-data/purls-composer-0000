@@ -8,3 +8,5 @@
 - pkg:composer/nativephp/mobile-ota@0.1.7
 - pkg:composer/nativephp/mobile-ota@0.1.8
 - pkg:composer/nativephp/mobile-ota@0.1.9
+- pkg:composer/nativephp/mobile-ota@1.0.0
+- pkg:composer/nativephp/mobile-ota@1.0.1
