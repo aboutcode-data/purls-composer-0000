@@ -21,6 +21,8 @@
 - pkg:composer/nfse-nacional/nfse-php@v1.22.0-beta
 - pkg:composer/nfse-nacional/nfse-php@v1.23.0-beta
 - pkg:composer/nfse-nacional/nfse-php@v1.24.0-beta
+- pkg:composer/nfse-nacional/nfse-php@v1.25.0-beta
+- pkg:composer/nfse-nacional/nfse-php@v1.26.0-beta
 - pkg:composer/nfse-nacional/nfse-php@v1.3.0-beta
 - pkg:composer/nfse-nacional/nfse-php@v1.4.0-beta
 - pkg:composer/nfse-nacional/nfse-php@v1.5.0-beta
