@@ -49,6 +49,9 @@
 - pkg:composer/newsman/wordpress-plugin@3.7.39
 - pkg:composer/newsman/wordpress-plugin@3.7.4
 - pkg:composer/newsman/wordpress-plugin@3.7.40
+- pkg:composer/newsman/wordpress-plugin@3.7.41
+- pkg:composer/newsman/wordpress-plugin@3.7.42
+- pkg:composer/newsman/wordpress-plugin@3.7.43
 - pkg:composer/newsman/wordpress-plugin@3.7.5
 - pkg:composer/newsman/wordpress-plugin@3.7.6
 - pkg:composer/newsman/wordpress-plugin@3.7.7
