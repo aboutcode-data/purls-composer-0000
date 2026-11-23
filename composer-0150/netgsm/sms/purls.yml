@@ -7,3 +7,6 @@
 - pkg:composer/netgsm/sms@v2.0.6
 - pkg:composer/netgsm/sms@v2.0.7
 - pkg:composer/netgsm/sms@v2.0.8
+- pkg:composer/netgsm/sms@v3.0.0
+- pkg:composer/netgsm/sms@v3.0.1
+- pkg:composer/netgsm/sms@v3.1.0
