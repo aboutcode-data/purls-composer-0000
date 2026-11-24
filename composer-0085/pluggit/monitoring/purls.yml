@@ -8,3 +8,4 @@
 - pkg:composer/pluggit/monitoring@2.3.1
 - pkg:composer/pluggit/monitoring@3.0.0
 - pkg:composer/pluggit/monitoring@4.0.0
+- pkg:composer/pluggit/monitoring@5.0.0
