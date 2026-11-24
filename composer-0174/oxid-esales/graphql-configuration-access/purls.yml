@@ -9,3 +9,4 @@
 - pkg:composer/oxid-esales/graphql-configuration-access@v2.1.1
 - pkg:composer/oxid-esales/graphql-configuration-access@v3.0.0
 - pkg:composer/oxid-esales/graphql-configuration-access@v4.0.0
+- pkg:composer/oxid-esales/graphql-configuration-access@v4.1.0
