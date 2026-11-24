@@ -16,3 +16,4 @@
 - pkg:composer/nutgram/laravel@1.7.0
 - pkg:composer/nutgram/laravel@1.7.1
 - pkg:composer/nutgram/laravel@1.8.0
+- pkg:composer/nutgram/laravel@2.0.0-RC1
