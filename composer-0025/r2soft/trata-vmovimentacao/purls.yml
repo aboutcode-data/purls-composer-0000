@@ -41,10 +41,6 @@
 - pkg:composer/r2soft/trata-vmovimentacao@2.1.018
 - pkg:composer/r2soft/trata-vmovimentacao@2.1.019
 - pkg:composer/r2soft/trata-vmovimentacao@2.1.020
-- pkg:composer/r2soft/trata-vmovimentacao@2.1.021
-- pkg:composer/r2soft/trata-vmovimentacao@2.1.022
-- pkg:composer/r2soft/trata-vmovimentacao@2.1.023
-- pkg:composer/r2soft/trata-vmovimentacao@2.1.024
 - pkg:composer/r2soft/trata-vmovimentacao@2.1.025
 - pkg:composer/r2soft/trata-vmovimentacao@2.1.026
 - pkg:composer/r2soft/trata-vmovimentacao@2.1.027
@@ -68,3 +64,5 @@
 - pkg:composer/r2soft/trata-vmovimentacao@2.1.048
 - pkg:composer/r2soft/trata-vmovimentacao@2.1.049
 - pkg:composer/r2soft/trata-vmovimentacao@2.1.050
+- pkg:composer/r2soft/trata-vmovimentacao@2.1.051
+- pkg:composer/r2soft/trata-vmovimentacao@2.1.052
