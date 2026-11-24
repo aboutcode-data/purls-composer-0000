@@ -1,3 +1,4 @@
 - pkg:composer/phpmath/bignumber@1.0.0
 - pkg:composer/phpmath/bignumber@1.1.0
 - pkg:composer/phpmath/bignumber@1.2.0
+- pkg:composer/phpmath/bignumber@2.0.0
