@@ -2,3 +2,5 @@
 - pkg:composer/polaris/agent@v0.10.1
 - pkg:composer/polaris/agent@v0.11.0
 - pkg:composer/polaris/agent@v0.12.0
+- pkg:composer/polaris/agent@v0.12.1
+- pkg:composer/polaris/agent@v0.12.2

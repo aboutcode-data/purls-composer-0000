@@ -2,6 +2,8 @@
 - pkg:composer/polaris/audit@v0.10.1
 - pkg:composer/polaris/audit@v0.11.0
 - pkg:composer/polaris/audit@v0.12.0
+- pkg:composer/polaris/audit@v0.12.1
+- pkg:composer/polaris/audit@v0.12.2
 - pkg:composer/polaris/audit@v0.2.0
 - pkg:composer/polaris/audit@v0.3.0
 - pkg:composer/polaris/audit@v0.4.0
