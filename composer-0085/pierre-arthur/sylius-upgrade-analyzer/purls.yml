@@ -30,3 +30,6 @@
 - pkg:composer/pierre-arthur/sylius-upgrade-analyzer@v2.3.0
 - pkg:composer/pierre-arthur/sylius-upgrade-analyzer@v2.4.0
 - pkg:composer/pierre-arthur/sylius-upgrade-analyzer@v2.5.0
+- pkg:composer/pierre-arthur/sylius-upgrade-analyzer@v2.5.1
+- pkg:composer/pierre-arthur/sylius-upgrade-analyzer@v2.5.2
+- pkg:composer/pierre-arthur/sylius-upgrade-analyzer@v2.5.3
