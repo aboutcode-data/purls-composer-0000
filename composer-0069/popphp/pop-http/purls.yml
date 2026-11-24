@@ -90,3 +90,4 @@
 - pkg:composer/popphp/pop-http@6.0.6
 - pkg:composer/popphp/pop-http@6.0.7
 - pkg:composer/popphp/pop-http@6.1.0
+- pkg:composer/popphp/pop-http@6.2.0
