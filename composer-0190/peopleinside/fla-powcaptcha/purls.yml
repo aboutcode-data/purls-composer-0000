@@ -32,6 +32,10 @@
 - pkg:composer/peopleinside/fla-powcaptcha@2.5.7
 - pkg:composer/peopleinside/fla-powcaptcha@2.5.8
 - pkg:composer/peopleinside/fla-powcaptcha@2.5.9
+- pkg:composer/peopleinside/fla-powcaptcha@3.10.0
+- pkg:composer/peopleinside/fla-powcaptcha@3.10.1
+- pkg:composer/peopleinside/fla-powcaptcha@3.10.2
+- pkg:composer/peopleinside/fla-powcaptcha@3.10.4
 - pkg:composer/peopleinside/fla-powcaptcha@3.6.0
 - pkg:composer/peopleinside/fla-powcaptcha@3.6.1
 - pkg:composer/peopleinside/fla-powcaptcha@3.6.2
@@ -44,3 +48,5 @@
 - pkg:composer/peopleinside/fla-powcaptcha@3.6.9
 - pkg:composer/peopleinside/fla-powcaptcha@3.7.0
 - pkg:composer/peopleinside/fla-powcaptcha@3.8.0
+- pkg:composer/peopleinside/fla-powcaptcha@3.8.1
+- pkg:composer/peopleinside/fla-powcaptcha@3.9.0
