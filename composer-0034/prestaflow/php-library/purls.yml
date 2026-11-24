@@ -17,3 +17,4 @@
 - pkg:composer/prestaflow/php-library@v1.7.1
 - pkg:composer/prestaflow/php-library@v1.8.0
 - pkg:composer/prestaflow/php-library@v1.8.1
+- pkg:composer/prestaflow/php-library@v1.9.0
