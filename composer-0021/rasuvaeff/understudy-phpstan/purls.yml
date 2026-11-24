@@ -14,3 +14,7 @@
 - pkg:composer/rasuvaeff/understudy-phpstan@v0.5.4
 - pkg:composer/rasuvaeff/understudy-phpstan@v1.0.0
 - pkg:composer/rasuvaeff/understudy-phpstan@v1.0.1
+- pkg:composer/rasuvaeff/understudy-phpstan@v1.0.2
+- pkg:composer/rasuvaeff/understudy-phpstan@v1.1.0
+- pkg:composer/rasuvaeff/understudy-phpstan@v1.2.0
+- pkg:composer/rasuvaeff/understudy-phpstan@v1.2.1
