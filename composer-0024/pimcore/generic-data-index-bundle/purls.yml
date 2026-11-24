@@ -49,6 +49,8 @@
 - pkg:composer/pimcore/generic-data-index-bundle@v2.5.15
 - pkg:composer/pimcore/generic-data-index-bundle@v2.5.16
 - pkg:composer/pimcore/generic-data-index-bundle@v2.5.17
+- pkg:composer/pimcore/generic-data-index-bundle@v2.5.18
+- pkg:composer/pimcore/generic-data-index-bundle@v2.5.19
 - pkg:composer/pimcore/generic-data-index-bundle@v2.5.2
 - pkg:composer/pimcore/generic-data-index-bundle@v2.5.3
 - pkg:composer/pimcore/generic-data-index-bundle@v2.5.4
@@ -77,3 +79,5 @@
 - pkg:composer/pimcore/generic-data-index-bundle@v2026.3.2
 - pkg:composer/pimcore/generic-data-index-bundle@v2026.3.3
 - pkg:composer/pimcore/generic-data-index-bundle@v2026.3.4
+- pkg:composer/pimcore/generic-data-index-bundle@v2026.3.5
+- pkg:composer/pimcore/generic-data-index-bundle@v2026.3.6
