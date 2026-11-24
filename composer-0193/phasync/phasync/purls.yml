@@ -79,6 +79,8 @@
 - pkg:composer/phasync/phasync@2.0.0-beta8
 - pkg:composer/phasync/phasync@2.0.0-beta9
 - pkg:composer/phasync/phasync@2.0.0-rc1
+- pkg:composer/phasync/phasync@2.0.10
+- pkg:composer/phasync/phasync@2.0.11
 - pkg:composer/phasync/phasync@2.0.2
 - pkg:composer/phasync/phasync@2.0.3
 - pkg:composer/phasync/phasync@2.0.4

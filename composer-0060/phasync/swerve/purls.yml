@@ -33,6 +33,7 @@
 - pkg:composer/phasync/swerve@0.1.0-beta5
 - pkg:composer/phasync/swerve@0.1.0-beta6
 - pkg:composer/phasync/swerve@0.1.0-beta7
+- pkg:composer/phasync/swerve@0.2.0
 - pkg:composer/phasync/swerve@0.2.0-RC1
 - pkg:composer/phasync/swerve@0.2.0-RC2
 - pkg:composer/phasync/swerve@0.2.0-RC3
