@@ -28,3 +28,4 @@
 - pkg:composer/packaged/queue@2.3.5
 - pkg:composer/packaged/queue@2.4.0
 - pkg:composer/packaged/queue@2.5.0
+- pkg:composer/packaged/queue@2.6.0
