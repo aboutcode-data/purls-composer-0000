@@ -1,3 +1,12 @@
+- pkg:composer/rci/member-engagement@8.18.1
+- pkg:composer/rci/member-engagement@8.19.0
+- pkg:composer/rci/member-engagement@8.20.0
+- pkg:composer/rci/member-engagement@8.21.0
+- pkg:composer/rci/member-engagement@8.22.0
+- pkg:composer/rci/member-engagement@8.23.0
+- pkg:composer/rci/member-engagement@8.23.1
+- pkg:composer/rci/member-engagement@8.24.0
+- pkg:composer/rci/member-engagement@8.25.0
 - pkg:composer/rci/member-engagement@v1.0.0
 - pkg:composer/rci/member-engagement@v1.0.1
 - pkg:composer/rci/member-engagement@v1.0.10
@@ -110,6 +119,7 @@
 - pkg:composer/rci/member-engagement@v8.15.0
 - pkg:composer/rci/member-engagement@v8.16.0
 - pkg:composer/rci/member-engagement@v8.17.0
+- pkg:composer/rci/member-engagement@v8.18.0
 - pkg:composer/rci/member-engagement@v8.2.0
 - pkg:composer/rci/member-engagement@v8.2.1
 - pkg:composer/rci/member-engagement@v8.3.0
