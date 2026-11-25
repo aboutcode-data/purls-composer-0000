@@ -303,6 +303,8 @@
 - pkg:composer/psalm/phar@7.19.0
 - pkg:composer/psalm/phar@7.2.0
 - pkg:composer/psalm/phar@7.2.1
+- pkg:composer/psalm/phar@7.20.0
+- pkg:composer/psalm/phar@7.21.0
 - pkg:composer/psalm/phar@7.3.0
 - pkg:composer/psalm/phar@7.3.1
 - pkg:composer/psalm/phar@7.3.2
