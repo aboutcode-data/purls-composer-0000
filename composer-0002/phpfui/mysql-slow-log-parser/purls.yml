@@ -10,3 +10,4 @@
 - pkg:composer/phpfui/mysql-slow-log-parser@V1.1.1
 - pkg:composer/phpfui/mysql-slow-log-parser@V1.1.2
 - pkg:composer/phpfui/mysql-slow-log-parser@V1.1.3
+- pkg:composer/phpfui/mysql-slow-log-parser@V1.1.4
