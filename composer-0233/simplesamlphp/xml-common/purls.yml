@@ -118,6 +118,7 @@
 - pkg:composer/simplesamlphp/xml-common@v1.26.0
 - pkg:composer/simplesamlphp/xml-common@v1.27.0
 - pkg:composer/simplesamlphp/xml-common@v1.27.1
+- pkg:composer/simplesamlphp/xml-common@v1.27.2
 - pkg:composer/simplesamlphp/xml-common@v1.3.0
 - pkg:composer/simplesamlphp/xml-common@v1.3.1
 - pkg:composer/simplesamlphp/xml-common@v1.4.0
@@ -167,11 +168,14 @@
 - pkg:composer/simplesamlphp/xml-common@v2.7.4
 - pkg:composer/simplesamlphp/xml-common@v2.7.5
 - pkg:composer/simplesamlphp/xml-common@v2.7.6
+- pkg:composer/simplesamlphp/xml-common@v2.7.7
 - pkg:composer/simplesamlphp/xml-common@v2.8.0
 - pkg:composer/simplesamlphp/xml-common@v2.8.1
 - pkg:composer/simplesamlphp/xml-common@v2.8.2
+- pkg:composer/simplesamlphp/xml-common@v2.8.3
 - pkg:composer/simplesamlphp/xml-common@v3.0.0
 - pkg:composer/simplesamlphp/xml-common@v3.0.1
+- pkg:composer/simplesamlphp/xml-common@v3.0.10
 - pkg:composer/simplesamlphp/xml-common@v3.0.2
 - pkg:composer/simplesamlphp/xml-common@v3.0.3
 - pkg:composer/simplesamlphp/xml-common@v3.0.4
@@ -179,3 +183,4 @@
 - pkg:composer/simplesamlphp/xml-common@v3.0.6
 - pkg:composer/simplesamlphp/xml-common@v3.0.7
 - pkg:composer/simplesamlphp/xml-common@v3.0.8
+- pkg:composer/simplesamlphp/xml-common@v3.0.9
