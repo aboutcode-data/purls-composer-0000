@@ -172,6 +172,8 @@
 - pkg:composer/sentry/sentry@4.35.0
 - pkg:composer/sentry/sentry@4.36.0
 - pkg:composer/sentry/sentry@4.37.0
+- pkg:composer/sentry/sentry@4.37.1
+- pkg:composer/sentry/sentry@4.38.0
 - pkg:composer/sentry/sentry@4.4.0
 - pkg:composer/sentry/sentry@4.5.0
 - pkg:composer/sentry/sentry@4.6.0
@@ -180,3 +182,5 @@
 - pkg:composer/sentry/sentry@4.8.0
 - pkg:composer/sentry/sentry@4.8.1
 - pkg:composer/sentry/sentry@4.9.0
+- pkg:composer/sentry/sentry@5.0.0-beta1
+- pkg:composer/sentry/sentry@5.0.0-beta2
