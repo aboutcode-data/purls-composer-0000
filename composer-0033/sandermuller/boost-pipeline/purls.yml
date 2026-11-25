@@ -25,6 +25,9 @@
 - pkg:composer/sandermuller/boost-pipeline@v0.23.0
 - pkg:composer/sandermuller/boost-pipeline@v0.23.1
 - pkg:composer/sandermuller/boost-pipeline@v0.23.2
+- pkg:composer/sandermuller/boost-pipeline@v0.24.0
+- pkg:composer/sandermuller/boost-pipeline@v0.24.1
+- pkg:composer/sandermuller/boost-pipeline@v0.24.2
 - pkg:composer/sandermuller/boost-pipeline@v0.3.0
 - pkg:composer/sandermuller/boost-pipeline@v0.3.1
 - pkg:composer/sandermuller/boost-pipeline@v0.3.2
