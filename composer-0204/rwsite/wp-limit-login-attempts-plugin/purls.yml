@@ -1,1 +1,6 @@
 - pkg:composer/rwsite/wp-limit-login-attempts-plugin@1.0.3
+- pkg:composer/rwsite/wp-limit-login-attempts-plugin@1.0.4
+- pkg:composer/rwsite/wp-limit-login-attempts-plugin@1.0.5
+- pkg:composer/rwsite/wp-limit-login-attempts-plugin@1.1.0
+- pkg:composer/rwsite/wp-limit-login-attempts-plugin@1.2.0
+- pkg:composer/rwsite/wp-limit-login-attempts-plugin@1.2.1
