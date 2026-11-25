@@ -6,3 +6,4 @@
 - pkg:composer/s1lver/yii2-etcd@1.0.5
 - pkg:composer/s1lver/yii2-etcd@1.0.6
 - pkg:composer/s1lver/yii2-etcd@1.1.0
+- pkg:composer/s1lver/yii2-etcd@2.0.0
