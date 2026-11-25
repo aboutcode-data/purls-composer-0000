@@ -1,3 +1,4 @@
+- pkg:composer/pasax/secure-monitor@1.1.0
 - pkg:composer/pasax/secure-monitor@v1.0.0
 - pkg:composer/pasax/secure-monitor@v1.0.1
 - pkg:composer/pasax/secure-monitor@v1.0.2
@@ -7,3 +8,5 @@
 - pkg:composer/pasax/secure-monitor@v1.0.6
 - pkg:composer/pasax/secure-monitor@v1.0.7
 - pkg:composer/pasax/secure-monitor@v1.0.8
+- pkg:composer/pasax/secure-monitor@v1.1.1
+- pkg:composer/pasax/secure-monitor@v1.1.2
