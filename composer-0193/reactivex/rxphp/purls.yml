@@ -29,3 +29,4 @@
 - pkg:composer/reactivex/rxphp@2.0.8
 - pkg:composer/reactivex/rxphp@2.0.9
 - pkg:composer/reactivex/rxphp@2.1.0
+- pkg:composer/reactivex/rxphp@2.2.0
