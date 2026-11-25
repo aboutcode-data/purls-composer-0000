@@ -25,3 +25,6 @@
 - pkg:composer/romanfedorskij/message-bus@v6.2.1
 - pkg:composer/romanfedorskij/message-bus@v6.2.2
 - pkg:composer/romanfedorskij/message-bus@v6.2.3
+- pkg:composer/romanfedorskij/message-bus@v7.0.0-alpha.1
+- pkg:composer/romanfedorskij/message-bus@v7.0.0-alpha.2
+- pkg:composer/romanfedorskij/message-bus@v7.0.0-alpha.3
