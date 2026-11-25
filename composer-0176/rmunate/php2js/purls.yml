@@ -27,3 +27,4 @@
 - pkg:composer/rmunate/php2js@v4.5.0
 - pkg:composer/rmunate/php2js@v4.5.1
 - pkg:composer/rmunate/php2js@v4.6.0
+- pkg:composer/rmunate/php2js@v5.0.0
