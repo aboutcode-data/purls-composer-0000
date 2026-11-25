@@ -124,3 +124,4 @@
 - pkg:composer/rias/statamic-redirect@4.2.2
 - pkg:composer/rias/statamic-redirect@4.2.3
 - pkg:composer/rias/statamic-redirect@4.2.4
+- pkg:composer/rias/statamic-redirect@4.2.5
