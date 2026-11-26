@@ -9,3 +9,10 @@
 - pkg:composer/steinhaug/mysqli@v1.6.6
 - pkg:composer/steinhaug/mysqli@v1.9.0
 - pkg:composer/steinhaug/mysqli@v1.9.1
+- pkg:composer/steinhaug/mysqli@v2.0.0
+- pkg:composer/steinhaug/mysqli@v2.0.1
+- pkg:composer/steinhaug/mysqli@v2.0.2
+- pkg:composer/steinhaug/mysqli@v2.1.0
+- pkg:composer/steinhaug/mysqli@v2.1.1
+- pkg:composer/steinhaug/mysqli@v2.1.2
+- pkg:composer/steinhaug/mysqli@v2.2.0
