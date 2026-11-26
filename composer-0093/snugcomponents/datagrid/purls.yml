@@ -39,3 +39,6 @@
 - pkg:composer/snugcomponents/datagrid@v4.3.2
 - pkg:composer/snugcomponents/datagrid@v5.0.0
 - pkg:composer/snugcomponents/datagrid@v6.0.0
+- pkg:composer/snugcomponents/datagrid@v6.1.0
+- pkg:composer/snugcomponents/datagrid@v7.0.0
+- pkg:composer/snugcomponents/datagrid@v7.0.1
