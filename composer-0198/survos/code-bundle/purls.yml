@@ -244,6 +244,7 @@
 - pkg:composer/survos/code-bundle@2.41.0
 - pkg:composer/survos/code-bundle@2.41.9
 - pkg:composer/survos/code-bundle@2.43.20
+- pkg:composer/survos/code-bundle@2.45.49
 - pkg:composer/survos/code-bundle@2.5.0
 - pkg:composer/survos/code-bundle@2.5.1
 - pkg:composer/survos/code-bundle@2.5.2

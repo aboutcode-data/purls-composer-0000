@@ -64,6 +64,7 @@
 - pkg:composer/survos/field-bundle@2.43.23
 - pkg:composer/survos/field-bundle@2.45.35
 - pkg:composer/survos/field-bundle@2.45.36
+- pkg:composer/survos/field-bundle@2.45.48
 - pkg:composer/survos/field-bundle@2.5.0
 - pkg:composer/survos/field-bundle@2.5.1
 - pkg:composer/survos/field-bundle@2.5.2

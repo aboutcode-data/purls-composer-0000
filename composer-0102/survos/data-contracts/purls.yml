@@ -89,8 +89,14 @@
 - pkg:composer/survos/data-contracts@2.45.37
 - pkg:composer/survos/data-contracts@2.45.38
 - pkg:composer/survos/data-contracts@2.45.4
+- pkg:composer/survos/data-contracts@2.45.48
 - pkg:composer/survos/data-contracts@2.45.5
+- pkg:composer/survos/data-contracts@2.45.56
 - pkg:composer/survos/data-contracts@2.45.6
+- pkg:composer/survos/data-contracts@2.45.60
+- pkg:composer/survos/data-contracts@2.45.61
+- pkg:composer/survos/data-contracts@2.45.63
+- pkg:composer/survos/data-contracts@2.45.64
 - pkg:composer/survos/data-contracts@2.5.0
 - pkg:composer/survos/data-contracts@2.5.1
 - pkg:composer/survos/data-contracts@2.5.2
