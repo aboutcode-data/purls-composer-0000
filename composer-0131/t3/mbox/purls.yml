@@ -4,3 +4,5 @@
 - pkg:composer/t3/mbox@3.0.0
 - pkg:composer/t3/mbox@3.0.1
 - pkg:composer/t3/mbox@3.0.2
+- pkg:composer/t3/mbox@3.1.0
+- pkg:composer/t3/mbox@4.0.0
