@@ -5,3 +5,4 @@
 - pkg:composer/shopimind/module-magento2@v5.0.0
 - pkg:composer/shopimind/module-magento2@v5.0.2
 - pkg:composer/shopimind/module-magento2@v5.0.4
+- pkg:composer/shopimind/module-magento2@v5.0.5
