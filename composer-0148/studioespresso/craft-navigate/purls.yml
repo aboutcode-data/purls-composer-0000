@@ -75,6 +75,9 @@
 - pkg:composer/studioespresso/craft-navigate@5.1.6
 - pkg:composer/studioespresso/craft-navigate@5.1.7
 - pkg:composer/studioespresso/craft-navigate@5.1.8
+- pkg:composer/studioespresso/craft-navigate@5.1.9
 - pkg:composer/studioespresso/craft-navigate@6.0.0-alpha.1
 - pkg:composer/studioespresso/craft-navigate@6.0.0-alpha.2
 - pkg:composer/studioespresso/craft-navigate@6.0.0-alpha.3
+- pkg:composer/studioespresso/craft-navigate@6.0.0-beta.1
+- pkg:composer/studioespresso/craft-navigate@6.0.0-beta.2
