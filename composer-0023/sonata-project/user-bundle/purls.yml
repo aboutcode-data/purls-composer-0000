@@ -61,6 +61,7 @@
 - pkg:composer/sonata-project/user-bundle@5.18.0
 - pkg:composer/sonata-project/user-bundle@5.19.0
 - pkg:composer/sonata-project/user-bundle@5.2.0
+- pkg:composer/sonata-project/user-bundle@5.20.0
 - pkg:composer/sonata-project/user-bundle@5.3.0
 - pkg:composer/sonata-project/user-bundle@5.3.1
 - pkg:composer/sonata-project/user-bundle@5.3.2
