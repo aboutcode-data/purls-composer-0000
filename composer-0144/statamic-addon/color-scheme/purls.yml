@@ -64,6 +64,7 @@
 - pkg:composer/statamic-addon/color-scheme@v1.0.66
 - pkg:composer/statamic-addon/color-scheme@v1.0.67
 - pkg:composer/statamic-addon/color-scheme@v1.0.68
+- pkg:composer/statamic-addon/color-scheme@v1.0.69
 - pkg:composer/statamic-addon/color-scheme@v1.0.7
 - pkg:composer/statamic-addon/color-scheme@v1.0.8
 - pkg:composer/statamic-addon/color-scheme@v1.0.9

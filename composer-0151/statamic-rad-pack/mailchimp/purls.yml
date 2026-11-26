@@ -67,3 +67,6 @@
 - pkg:composer/statamic-rad-pack/mailchimp@v6.2.3
 - pkg:composer/statamic-rad-pack/mailchimp@v6.2.4
 - pkg:composer/statamic-rad-pack/mailchimp@v6.2.5
+- pkg:composer/statamic-rad-pack/mailchimp@v6.3.0
+- pkg:composer/statamic-rad-pack/mailchimp@v6.3.1
+- pkg:composer/statamic-rad-pack/mailchimp@v6.3.2
