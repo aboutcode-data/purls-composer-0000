@@ -1,1 +1,2 @@
 - pkg:composer/spacecatninja/imager-x-gcs-storage-driver@1.0.0
+- pkg:composer/spacecatninja/imager-x-gcs-storage-driver@2.0.0-beta.1
