@@ -89,6 +89,10 @@
 - pkg:composer/survos/harvest-bundle@2.45.18
 - pkg:composer/survos/harvest-bundle@2.45.23
 - pkg:composer/survos/harvest-bundle@2.45.41
+- pkg:composer/survos/harvest-bundle@2.45.49
+- pkg:composer/survos/harvest-bundle@2.45.52
+- pkg:composer/survos/harvest-bundle@2.45.61
+- pkg:composer/survos/harvest-bundle@2.45.68
 - pkg:composer/survos/harvest-bundle@2.45.7
 - pkg:composer/survos/harvest-bundle@2.5.0
 - pkg:composer/survos/harvest-bundle@2.5.1

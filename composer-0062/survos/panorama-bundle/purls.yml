@@ -2,6 +2,7 @@
 - pkg:composer/survos/panorama-bundle@2.45.20
 - pkg:composer/survos/panorama-bundle@2.45.35
 - pkg:composer/survos/panorama-bundle@2.45.40
+- pkg:composer/survos/panorama-bundle@2.45.53
 - pkg:composer/survos/panorama-bundle@v0.1.0
 - pkg:composer/survos/panorama-bundle@v0.1.1
 - pkg:composer/survos/panorama-bundle@v0.1.2

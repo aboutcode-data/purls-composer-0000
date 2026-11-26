@@ -274,6 +274,7 @@
 - pkg:composer/survos/state-bundle@2.41.9
 - pkg:composer/survos/state-bundle@2.42.14
 - pkg:composer/survos/state-bundle@2.42.5
+- pkg:composer/survos/state-bundle@2.45.49
 - pkg:composer/survos/state-bundle@2.5.0
 - pkg:composer/survos/state-bundle@2.5.1
 - pkg:composer/survos/state-bundle@2.5.2
