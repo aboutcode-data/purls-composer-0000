@@ -2,3 +2,5 @@
 - pkg:composer/starbug/routing@v0.9.1
 - pkg:composer/starbug/routing@v0.9.2
 - pkg:composer/starbug/routing@v1.0.0
+- pkg:composer/starbug/routing@v1.1.1
+- pkg:composer/starbug/routing@v1.1.2
