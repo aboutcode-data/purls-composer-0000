@@ -9,3 +9,4 @@
 - pkg:composer/spryker/oauth-permission@1.5.0
 - pkg:composer/spryker/oauth-permission@1.6.0
 - pkg:composer/spryker/oauth-permission@1.7.0
+- pkg:composer/spryker/oauth-permission@1.8.0
