@@ -87,6 +87,11 @@
 - pkg:composer/statikbe/craft@2.5.1
 - pkg:composer/statikbe/craft@2.5.2
 - pkg:composer/statikbe/craft@2.5.3
+- pkg:composer/statikbe/craft@20221223105038
+- pkg:composer/statikbe/craft@20221223130424
+- pkg:composer/statikbe/craft@20241014084429
+- pkg:composer/statikbe/craft@20250220091327
+- pkg:composer/statikbe/craft@20251203134846
 - pkg:composer/statikbe/craft@3.0.0
 - pkg:composer/statikbe/craft@3.0.1
 - pkg:composer/statikbe/craft@3.0.2
