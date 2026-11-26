@@ -11,6 +11,7 @@
 - pkg:composer/spryker-feature/purchasing-control@1.6.0
 - pkg:composer/spryker-feature/purchasing-control@1.6.1
 - pkg:composer/spryker-feature/purchasing-control@1.6.2
+- pkg:composer/spryker-feature/purchasing-control@1.7.0
 - pkg:composer/spryker-feature/purchasing-control@202604.0
 - pkg:composer/spryker-feature/purchasing-control@202604.1.0
 - pkg:composer/spryker-feature/purchasing-control@202605.0.0
