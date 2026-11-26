@@ -46,3 +46,4 @@
 - pkg:composer/stefandoorn/sitemap-plugin@v3.0.0-alpha.3
 - pkg:composer/stefandoorn/sitemap-plugin@v3.0.0-alpha.4
 - pkg:composer/stefandoorn/sitemap-plugin@v3.0.1
+- pkg:composer/stefandoorn/sitemap-plugin@v3.1.0
