@@ -24,6 +24,7 @@
 - pkg:composer/smaily/smailyformagento@2.7.7
 - pkg:composer/smaily/smailyformagento@2.8.0
 - pkg:composer/smaily/smailyformagento@2.8.1
+- pkg:composer/smaily/smailyformagento@3.0.0
 - pkg:composer/smaily/smailyformagento@3.0.0-rc10
 - pkg:composer/smaily/smailyformagento@3.0.0-rc11
 - pkg:composer/smaily/smailyformagento@3.0.0-rc12
@@ -37,3 +38,5 @@
 - pkg:composer/smaily/smailyformagento@3.0.0-rc20
 - pkg:composer/smaily/smailyformagento@3.0.0-rc21
 - pkg:composer/smaily/smailyformagento@3.0.0-rc9
+- pkg:composer/smaily/smailyformagento@3.0.1
+- pkg:composer/smaily/smailyformagento@3.0.2
