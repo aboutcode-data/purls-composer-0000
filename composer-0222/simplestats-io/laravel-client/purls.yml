@@ -54,3 +54,4 @@
 - pkg:composer/simplestats-io/laravel-client@v6.1.1
 - pkg:composer/simplestats-io/laravel-client@v6.2.0
 - pkg:composer/simplestats-io/laravel-client@v6.2.1
+- pkg:composer/simplestats-io/laravel-client@v6.3.0
