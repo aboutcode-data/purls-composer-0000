@@ -10,6 +10,8 @@
 - pkg:composer/spryker/sales-product-connector@1.11.0
 - pkg:composer/spryker/sales-product-connector@1.11.1
 - pkg:composer/spryker/sales-product-connector@1.11.2
+- pkg:composer/spryker/sales-product-connector@1.11.3
+- pkg:composer/spryker/sales-product-connector@1.12.0
 - pkg:composer/spryker/sales-product-connector@1.2.0
 - pkg:composer/spryker/sales-product-connector@1.3.0
 - pkg:composer/spryker/sales-product-connector@1.4.0
