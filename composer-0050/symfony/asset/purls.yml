@@ -442,6 +442,7 @@
 - pkg:composer/symfony/asset@v7.4.0
 - pkg:composer/symfony/asset@v7.4.0-BETA1
 - pkg:composer/symfony/asset@v7.4.0-RC1
+- pkg:composer/symfony/asset@v7.4.24
 - pkg:composer/symfony/asset@v7.4.4
 - pkg:composer/symfony/asset@v7.4.6
 - pkg:composer/symfony/asset@v7.4.8
@@ -453,4 +454,6 @@
 - pkg:composer/symfony/asset@v8.0.8
 - pkg:composer/symfony/asset@v8.1.0
 - pkg:composer/symfony/asset@v8.1.0-BETA1
+- pkg:composer/symfony/asset@v8.1.12
 - pkg:composer/symfony/asset@v8.2.0-BETA1
+- pkg:composer/symfony/asset@v8.2.0-RC1
