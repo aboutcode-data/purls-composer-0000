@@ -2,3 +2,5 @@
 - pkg:composer/tpkarras/kef@1.5.0
 - pkg:composer/tpkarras/kef@1.5.25
 - pkg:composer/tpkarras/kef@1.5.25.1
+- pkg:composer/tpkarras/kef@1.5.25.2
+- pkg:composer/tpkarras/kef@1.5.25.30
