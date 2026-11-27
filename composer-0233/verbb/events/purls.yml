@@ -70,6 +70,7 @@
 - pkg:composer/verbb/events@2.0.13
 - pkg:composer/verbb/events@2.0.14
 - pkg:composer/verbb/events@2.0.15
+- pkg:composer/verbb/events@2.0.16
 - pkg:composer/verbb/events@2.0.2
 - pkg:composer/verbb/events@2.0.3
 - pkg:composer/verbb/events@2.0.4
@@ -129,3 +130,4 @@
 - pkg:composer/verbb/events@3.1.7
 - pkg:composer/verbb/events@3.1.8
 - pkg:composer/verbb/events@3.1.9
+- pkg:composer/verbb/events@3.2.0
