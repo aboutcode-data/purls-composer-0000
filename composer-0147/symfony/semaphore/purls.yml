@@ -111,3 +111,4 @@
 - pkg:composer/symfony/semaphore@v8.1.6
 - pkg:composer/symfony/semaphore@v8.2.0-BETA1
 - pkg:composer/symfony/semaphore@v8.2.0-BETA2
+- pkg:composer/symfony/semaphore@v8.2.0-RC1

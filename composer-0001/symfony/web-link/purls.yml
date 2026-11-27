@@ -282,6 +282,7 @@
 - pkg:composer/symfony/web-link@v7.4.0
 - pkg:composer/symfony/web-link@v7.4.0-BETA1
 - pkg:composer/symfony/web-link@v7.4.0-RC1
+- pkg:composer/symfony/web-link@v7.4.25
 - pkg:composer/symfony/web-link@v7.4.4
 - pkg:composer/symfony/web-link@v7.4.8
 - pkg:composer/symfony/web-link@v8.0.0
@@ -293,3 +294,4 @@
 - pkg:composer/symfony/web-link@v8.1.0-BETA1
 - pkg:composer/symfony/web-link@v8.1.0-BETA3
 - pkg:composer/symfony/web-link@v8.2.0-BETA1
+- pkg:composer/symfony/web-link@v8.2.0-RC1
