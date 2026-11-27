@@ -51,6 +51,7 @@
 - pkg:composer/twig/intl-extra@v3.3.4
 - pkg:composer/twig/intl-extra@v3.3.5
 - pkg:composer/twig/intl-extra@v3.30.0
+- pkg:composer/twig/intl-extra@v3.31.0
 - pkg:composer/twig/intl-extra@v3.4.0
 - pkg:composer/twig/intl-extra@v3.4.2
 - pkg:composer/twig/intl-extra@v3.5.0
@@ -62,3 +63,4 @@
 - pkg:composer/twig/intl-extra@v3.9.0
 - pkg:composer/twig/intl-extra@v3.9.2
 - pkg:composer/twig/intl-extra@v4.0.0-alpha1
+- pkg:composer/twig/intl-extra@v4.0.0-beta1
