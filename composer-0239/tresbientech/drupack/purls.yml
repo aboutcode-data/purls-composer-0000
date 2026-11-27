@@ -37,6 +37,7 @@
 - pkg:composer/tresbientech/drupack@1.0.0-beta20
 - pkg:composer/tresbientech/drupack@1.0.0-beta21
 - pkg:composer/tresbientech/drupack@1.0.0-beta22
+- pkg:composer/tresbientech/drupack@1.0.0-beta23
 - pkg:composer/tresbientech/drupack@1.0.0-beta3
 - pkg:composer/tresbientech/drupack@1.0.0-beta4
 - pkg:composer/tresbientech/drupack@1.0.0-beta5
@@ -44,3 +45,16 @@
 - pkg:composer/tresbientech/drupack@1.0.0-beta7
 - pkg:composer/tresbientech/drupack@1.0.0-beta8
 - pkg:composer/tresbientech/drupack@1.0.0-beta9
+- pkg:composer/tresbientech/drupack@1.0.0-rc1
+- pkg:composer/tresbientech/drupack@1.0.0-rc10
+- pkg:composer/tresbientech/drupack@1.0.0-rc11
+- pkg:composer/tresbientech/drupack@1.0.0-rc12
+- pkg:composer/tresbientech/drupack@1.0.0-rc13
+- pkg:composer/tresbientech/drupack@1.0.0-rc2
+- pkg:composer/tresbientech/drupack@1.0.0-rc3
+- pkg:composer/tresbientech/drupack@1.0.0-rc4
+- pkg:composer/tresbientech/drupack@1.0.0-rc5
+- pkg:composer/tresbientech/drupack@1.0.0-rc6
+- pkg:composer/tresbientech/drupack@1.0.0-rc7
+- pkg:composer/tresbientech/drupack@1.0.0-rc8
+- pkg:composer/tresbientech/drupack@1.0.0-rc9
