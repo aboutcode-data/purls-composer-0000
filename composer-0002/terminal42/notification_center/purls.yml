@@ -132,3 +132,4 @@
 - pkg:composer/terminal42/notification_center@2.7.5
 - pkg:composer/terminal42/notification_center@2.7.6
 - pkg:composer/terminal42/notification_center@2.7.8
+- pkg:composer/terminal42/notification_center@2.7.9
