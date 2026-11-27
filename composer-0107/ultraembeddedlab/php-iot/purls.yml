@@ -2,3 +2,5 @@
 - pkg:composer/ultraembeddedlab/php-iot@v1.1.0
 - pkg:composer/ultraembeddedlab/php-iot@v1.2.0
 - pkg:composer/ultraembeddedlab/php-iot@v1.3.0
+- pkg:composer/ultraembeddedlab/php-iot@v2.1.0
+- pkg:composer/ultraembeddedlab/php-iot@v2.2.0
