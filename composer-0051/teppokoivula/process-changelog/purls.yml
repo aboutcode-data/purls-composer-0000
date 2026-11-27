@@ -26,6 +26,9 @@
 - pkg:composer/teppokoivula/process-changelog@1.16.2
 - pkg:composer/teppokoivula/process-changelog@1.17.0
 - pkg:composer/teppokoivula/process-changelog@1.18.0
+- pkg:composer/teppokoivula/process-changelog@1.19.0
+- pkg:composer/teppokoivula/process-changelog@1.19.1
+- pkg:composer/teppokoivula/process-changelog@1.19.2
 - pkg:composer/teppokoivula/process-changelog@1.6.0
 - pkg:composer/teppokoivula/process-changelog@1.7.0
 - pkg:composer/teppokoivula/process-changelog@1.7.1
