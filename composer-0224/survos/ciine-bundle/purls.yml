@@ -170,6 +170,8 @@
 - pkg:composer/survos/ciine-bundle@2.43.23
 - pkg:composer/survos/ciine-bundle@2.44.0
 - pkg:composer/survos/ciine-bundle@2.45.47
+- pkg:composer/survos/ciine-bundle@2.45.49
+- pkg:composer/survos/ciine-bundle@2.45.94
 - pkg:composer/survos/ciine-bundle@2.5.0
 - pkg:composer/survos/ciine-bundle@2.5.1
 - pkg:composer/survos/ciine-bundle@2.5.2
