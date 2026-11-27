@@ -30,6 +30,7 @@
 - pkg:composer/teufels/tt3-career@3.6.0
 - pkg:composer/teufels/tt3-career@3.6.1
 - pkg:composer/teufels/tt3-career@3.6.2
+- pkg:composer/teufels/tt3-career@3.6.3
 - pkg:composer/teufels/tt3-career@4.2.0
 - pkg:composer/teufels/tt3-career@4.3.2
 - pkg:composer/teufels/tt3-career@4.3.3
@@ -37,3 +38,4 @@
 - pkg:composer/teufels/tt3-career@4.5.0
 - pkg:composer/teufels/tt3-career@4.5.1
 - pkg:composer/teufels/tt3-career@4.5.2
+- pkg:composer/teufels/tt3-career@4.5.3
