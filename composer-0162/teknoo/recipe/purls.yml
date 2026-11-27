@@ -116,3 +116,5 @@
 - pkg:composer/teknoo/recipe@7.3.0
 - pkg:composer/teknoo/recipe@7.3.1
 - pkg:composer/teknoo/recipe@7.3.2
+- pkg:composer/teknoo/recipe@7.3.3
+- pkg:composer/teknoo/recipe@7.3.4
