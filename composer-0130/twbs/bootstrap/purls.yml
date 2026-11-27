@@ -79,3 +79,4 @@
 - pkg:composer/twbs/bootstrap@v5.3.8
 - pkg:composer/twbs/bootstrap@v5.3.9
 - pkg:composer/twbs/bootstrap@v6.0.0-alpha.1
+- pkg:composer/twbs/bootstrap@v6.0.0-alpha.2
