@@ -42,3 +42,4 @@
 - pkg:composer/thefrosty/custom-login@5.1.2.1
 - pkg:composer/thefrosty/custom-login@5.1.2.2
 - pkg:composer/thefrosty/custom-login@5.1.3
+- pkg:composer/thefrosty/custom-login@6.0.0
