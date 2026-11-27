@@ -34,3 +34,4 @@
 - pkg:composer/traceway/opentelemetry-symfony@v3.6.0
 - pkg:composer/traceway/opentelemetry-symfony@v4.0.0
 - pkg:composer/traceway/opentelemetry-symfony@v4.1.0
+- pkg:composer/traceway/opentelemetry-symfony@v4.2.0
