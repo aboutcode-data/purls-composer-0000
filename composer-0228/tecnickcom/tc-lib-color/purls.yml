@@ -166,6 +166,7 @@
 - pkg:composer/tecnickcom/tc-lib-color@3.0.12
 - pkg:composer/tecnickcom/tc-lib-color@3.0.13
 - pkg:composer/tecnickcom/tc-lib-color@3.0.14
+- pkg:composer/tecnickcom/tc-lib-color@3.0.15
 - pkg:composer/tecnickcom/tc-lib-color@3.0.2
 - pkg:composer/tecnickcom/tc-lib-color@3.0.3
 - pkg:composer/tecnickcom/tc-lib-color@3.0.4
@@ -174,3 +175,4 @@
 - pkg:composer/tecnickcom/tc-lib-color@3.0.7
 - pkg:composer/tecnickcom/tc-lib-color@3.0.8
 - pkg:composer/tecnickcom/tc-lib-color@3.0.9
+- pkg:composer/tecnickcom/tc-lib-color@3.1.1
