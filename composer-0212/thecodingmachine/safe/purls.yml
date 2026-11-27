@@ -66,3 +66,5 @@
 - pkg:composer/thecodingmachine/safe@v3.3.0
 - pkg:composer/thecodingmachine/safe@v3.4.0
 - pkg:composer/thecodingmachine/safe@v3.4.0-beta1
+- pkg:composer/thecodingmachine/safe@v3.5.0-beta1
+- pkg:composer/thecodingmachine/safe@v3.5.0-beta2
