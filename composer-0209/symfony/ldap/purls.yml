@@ -432,3 +432,4 @@
 - pkg:composer/symfony/ldap@v8.1.0
 - pkg:composer/symfony/ldap@v8.1.0-BETA1
 - pkg:composer/symfony/ldap@v8.2.0-BETA1
+- pkg:composer/symfony/ldap@v8.2.0-RC1

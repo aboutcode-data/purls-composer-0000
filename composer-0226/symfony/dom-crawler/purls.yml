@@ -654,3 +654,4 @@
 - pkg:composer/symfony/dom-crawler@v8.1.10
 - pkg:composer/symfony/dom-crawler@v8.1.5
 - pkg:composer/symfony/dom-crawler@v8.2.0-BETA1
+- pkg:composer/symfony/dom-crawler@v8.2.0-RC1

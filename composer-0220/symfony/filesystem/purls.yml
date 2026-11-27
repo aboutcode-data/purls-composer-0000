@@ -599,6 +599,7 @@
 - pkg:composer/symfony/filesystem@v7.4.21
 - pkg:composer/symfony/filesystem@v7.4.23
 - pkg:composer/symfony/filesystem@v7.4.24
+- pkg:composer/symfony/filesystem@v7.4.25
 - pkg:composer/symfony/filesystem@v7.4.6
 - pkg:composer/symfony/filesystem@v7.4.8
 - pkg:composer/symfony/filesystem@v7.4.9
@@ -616,6 +617,7 @@
 - pkg:composer/symfony/filesystem@v8.1.0-BETA2
 - pkg:composer/symfony/filesystem@v8.1.11
 - pkg:composer/symfony/filesystem@v8.1.12
+- pkg:composer/symfony/filesystem@v8.1.13
 - pkg:composer/symfony/filesystem@v8.1.2
 - pkg:composer/symfony/filesystem@v8.1.5
 - pkg:composer/symfony/filesystem@v8.1.6
