@@ -2,3 +2,5 @@
 - pkg:composer/th3mouk/materialized-view@v1.1.0
 - pkg:composer/th3mouk/materialized-view@v1.2.0
 - pkg:composer/th3mouk/materialized-view@v1.3.0
+- pkg:composer/th3mouk/materialized-view@v1.4.0
+- pkg:composer/th3mouk/materialized-view@v1.5.0
