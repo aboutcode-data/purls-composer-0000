@@ -41,6 +41,7 @@
 - pkg:composer/spora-ai/spora-frontend@v0.27.0
 - pkg:composer/spora-ai/spora-frontend@v0.28.0
 - pkg:composer/spora-ai/spora-frontend@v0.28.1
+- pkg:composer/spora-ai/spora-frontend@v0.28.2
 - pkg:composer/spora-ai/spora-frontend@v0.3.0
 - pkg:composer/spora-ai/spora-frontend@v0.3.1
 - pkg:composer/spora-ai/spora-frontend@v0.4.0
