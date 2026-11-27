@@ -4,3 +4,4 @@
 - pkg:composer/vusys/laravel-bitemporal@v0.4.0
 - pkg:composer/vusys/laravel-bitemporal@v0.5.0
 - pkg:composer/vusys/laravel-bitemporal@v0.6.0
+- pkg:composer/vusys/laravel-bitemporal@v0.7.0
