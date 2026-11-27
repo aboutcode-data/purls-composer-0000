@@ -18,3 +18,4 @@
 - pkg:composer/synolia/sylius-akeneo-plugin@v4.2.0
 - pkg:composer/synolia/sylius-akeneo-plugin@v5.0.0
 - pkg:composer/synolia/sylius-akeneo-plugin@v5.0.0-rc1
+- pkg:composer/synolia/sylius-akeneo-plugin@v5.0.1
