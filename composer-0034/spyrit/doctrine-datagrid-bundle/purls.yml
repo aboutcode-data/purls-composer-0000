@@ -11,6 +11,8 @@
 - pkg:composer/spyrit/doctrine-datagrid-bundle@4.0.8
 - pkg:composer/spyrit/doctrine-datagrid-bundle@4.0.9
 - pkg:composer/spyrit/doctrine-datagrid-bundle@7.0.0
+- pkg:composer/spyrit/doctrine-datagrid-bundle@8.0.0
+- pkg:composer/spyrit/doctrine-datagrid-bundle@8.0.1
 - pkg:composer/spyrit/doctrine-datagrid-bundle@v1.0.0
 - pkg:composer/spyrit/doctrine-datagrid-bundle@v1.1.0
 - pkg:composer/spyrit/doctrine-datagrid-bundle@v1.1.1
