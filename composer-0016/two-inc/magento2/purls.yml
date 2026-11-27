@@ -66,3 +66,5 @@
 - pkg:composer/two-inc/magento2@2.4.0
 - pkg:composer/two-inc/magento2@3.0.0
 - pkg:composer/two-inc/magento2@4.0.0
+- pkg:composer/two-inc/magento2@4.1.0
+- pkg:composer/two-inc/magento2@4.1.1
