@@ -75,3 +75,8 @@
 - pkg:composer/trycourier/courier@v7.8.0
 - pkg:composer/trycourier/courier@v7.9.0
 - pkg:composer/trycourier/courier@v8.0.0
+- pkg:composer/trycourier/courier@v8.0.1
+- pkg:composer/trycourier/courier@v8.0.2
+- pkg:composer/trycourier/courier@v8.1.0
+- pkg:composer/trycourier/courier@v8.2.0
+- pkg:composer/trycourier/courier@v8.3.0
