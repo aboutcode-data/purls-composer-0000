@@ -69,3 +69,4 @@
 - pkg:composer/yireo/magento2-extensionchecker@2.5.9
 - pkg:composer/yireo/magento2-extensionchecker@2.6.0
 - pkg:composer/yireo/magento2-extensionchecker@2.6.1
+- pkg:composer/yireo/magento2-extensionchecker@2.7.0
