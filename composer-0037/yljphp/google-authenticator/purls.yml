@@ -3,3 +3,5 @@
 - pkg:composer/yljphp/google-authenticator@1.0.2
 - pkg:composer/yljphp/google-authenticator@1.0.3
 - pkg:composer/yljphp/google-authenticator@1.0.4
+- pkg:composer/yljphp/google-authenticator@1.1.0
+- pkg:composer/yljphp/google-authenticator@1.1.1
