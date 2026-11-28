@@ -1,6 +1,8 @@
 - pkg:composer/xgenious/xgpagebuilder@v1.0.0
 - pkg:composer/xgenious/xgpagebuilder@v1.0.1
 - pkg:composer/xgenious/xgpagebuilder@v1.1.0
+- pkg:composer/xgenious/xgpagebuilder@v1.10.0
+- pkg:composer/xgenious/xgpagebuilder@v1.11.0
 - pkg:composer/xgenious/xgpagebuilder@v1.2.0
 - pkg:composer/xgenious/xgpagebuilder@v1.3.0
 - pkg:composer/xgenious/xgpagebuilder@v1.4.0
@@ -17,3 +19,4 @@
 - pkg:composer/xgenious/xgpagebuilder@v1.9.5
 - pkg:composer/xgenious/xgpagebuilder@v1.9.6
 - pkg:composer/xgenious/xgpagebuilder@v1.9.7
+- pkg:composer/xgenious/xgpagebuilder@v1.9.8
