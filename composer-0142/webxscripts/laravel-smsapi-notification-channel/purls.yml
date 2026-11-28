@@ -1,1 +1,2 @@
 - pkg:composer/webxscripts/laravel-smsapi-notification-channel@1.0.0
+- pkg:composer/webxscripts/laravel-smsapi-notification-channel@1.1.0
