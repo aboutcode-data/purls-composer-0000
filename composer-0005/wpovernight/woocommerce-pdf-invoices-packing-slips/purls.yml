@@ -356,6 +356,7 @@
 - pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v5.9.0-rc.3
 - pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v5.9.1
 - pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v5.9.2
+- pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.0
 - pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.0-beta.1
 - pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.0-beta.2
 - pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.0-beta.3
@@ -373,3 +374,11 @@
 - pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.0-rc.6
 - pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.0-rc.7
 - pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.0-rc.8
+- pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.1
+- pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.1-beta.1
+- pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.1-beta.2
+- pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.1-beta.3
+- pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.1-rc.1
+- pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.1-rc.2
+- pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.1-rc.3
+- pkg:composer/wpovernight/woocommerce-pdf-invoices-packing-slips@v6.0.1-rc.4
