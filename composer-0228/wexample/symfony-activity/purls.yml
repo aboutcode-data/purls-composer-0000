@@ -10,3 +10,6 @@
 - pkg:composer/wexample/symfony-activity@3.0.7
 - pkg:composer/wexample/symfony-activity@3.0.8
 - pkg:composer/wexample/symfony-activity@4.0.0
+- pkg:composer/wexample/symfony-activity@5.0.0
+- pkg:composer/wexample/symfony-activity@5.0.1
+- pkg:composer/wexample/symfony-activity@5.0.2

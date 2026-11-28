@@ -25,3 +25,12 @@
 - pkg:composer/wexample/symfony-platform@3.0.2
 - pkg:composer/wexample/symfony-platform@3.0.3
 - pkg:composer/wexample/symfony-platform@3.0.4
+- pkg:composer/wexample/symfony-platform@4.0.0
+- pkg:composer/wexample/symfony-platform@5.0.0
+- pkg:composer/wexample/symfony-platform@5.0.1
+- pkg:composer/wexample/symfony-platform@5.0.2
+- pkg:composer/wexample/symfony-platform@6.0.0
+- pkg:composer/wexample/symfony-platform@6.0.1
+- pkg:composer/wexample/symfony-platform@6.0.2
+- pkg:composer/wexample/symfony-platform@6.0.3
+- pkg:composer/wexample/symfony-platform@6.0.4
