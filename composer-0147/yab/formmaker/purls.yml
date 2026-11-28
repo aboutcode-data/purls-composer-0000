@@ -266,3 +266,7 @@
 - pkg:composer/yab/formmaker@v7.8.1
 - pkg:composer/yab/formmaker@v7.9.0
 - pkg:composer/yab/formmaker@v7.9.1
+- pkg:composer/yab/formmaker@v7.9.2
+- pkg:composer/yab/formmaker@v8.0.0
+- pkg:composer/yab/formmaker@v8.0.1
+- pkg:composer/yab/formmaker@v8.0.2
