@@ -1,3 +1,4 @@
 - pkg:composer/whitecube/laravel-string-typography@v1.0.0
 - pkg:composer/whitecube/laravel-string-typography@v1.0.1
 - pkg:composer/whitecube/laravel-string-typography@v1.1.0
+- pkg:composer/whitecube/laravel-string-typography@v1.2.0
