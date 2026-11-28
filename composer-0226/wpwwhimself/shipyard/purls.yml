@@ -156,6 +156,8 @@
 - pkg:composer/wpwwhimself/shipyard@v4.1.4
 - pkg:composer/wpwwhimself/shipyard@v4.10.0
 - pkg:composer/wpwwhimself/shipyard@v4.10.1
+- pkg:composer/wpwwhimself/shipyard@v4.10.2
+- pkg:composer/wpwwhimself/shipyard@v4.10.3
 - pkg:composer/wpwwhimself/shipyard@v4.2.0
 - pkg:composer/wpwwhimself/shipyard@v4.2.1
 - pkg:composer/wpwwhimself/shipyard@v4.2.2
